@@ -1,5 +1,6 @@
 | Entry                                                    | Modified             |
 | -------------------------------------------------------- | -------------------- |
+| [[Data/Testmichl.md\|Testmichl]]                         | 24. Feb. 2026, 19:15 |
 | [[Data/Mira (Planet).md\|Mira (Planet)]]                 | 24. Feb. 2026, 13:30 |
 | [[Data/Jazkaar Chelebs-Menau.md\|Jazkaar Chelebs-Menau]] | 24. Feb. 2026, 13:13 |
 | [[Data/Iskander.md\|Iskander]]                           | 24. Feb. 2026, 13:10 |
@@ -19,4 +20,3 @@
 | [[Data/Tarazug.md\|Tarazug]]                             | 24. Feb. 2026, 10:45 |
 | [[Data/Mira.md\|Mira]]                                   | 24. Feb. 2026, 10:43 |
 | [[Data/Algol.md\|Algol]]                                 | 24. Feb. 2026, 10:43 |
-| [[Data/Kua.md\|Kua]]                                     | 24. Feb. 2026, 10:43 |
