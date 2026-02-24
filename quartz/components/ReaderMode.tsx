@@ -32,6 +32,8 @@ const ReaderMode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps
   )
 }
 
+// 1E27-A114
+
 ReaderMode.beforeDOMLoaded = readerModeScript
 ReaderMode.css = styles
 
