@@ -1,0 +1,13 @@
+| Location                     |
+| ---------------------------- |
+| [[Data/Algol.md\|Algol]]     |
+| [[Data/Altai.md\|Altai]]     |
+| [[Data/Kua.md\|Kua]]         |
+| [[Data/Mira.md\|Mira]]       |
+| [[Data/Odacon.md\|Odacon]]   |
+| [[Data/Ordana.md\|Ordana]]   |
+| [[Data/Sivas.md\|Sivas]]     |
+| [[Data/Tarazug.md\|Tarazug]] |
+| [[Data/Zalos.md\|Zalos]]     |
+| [[Data/Zhau.md\|Zhau]]       |
+| [[Data/Zib.md\|Zib]]         |
