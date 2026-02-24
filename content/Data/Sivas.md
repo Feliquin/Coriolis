@@ -7,7 +7,7 @@ tags:
   - system
 ---
 # Sivas
-_Note_
+_Home of the Lotus Brotherhood_
 
 > [!NOTE] Campaign notes
 > - ...
