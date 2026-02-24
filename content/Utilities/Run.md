@@ -1,6 +1,6 @@
 ---
-creation date: 2026-02-24 12:23
-modification date: Tuesday 24th February 2026 13:21:33
+creation date: 2026-02-24 13:21
+modification date: Tuesday 24th February 2026 13:25:28
 tags:
   - utilitity
 ---
@@ -8,10 +8,10 @@ tags:
 `npx quartz sync`
 
 Updated:  2026-02-24
-
+Updated:  2026-02-24
+Updated:  2026-02-24
 Updated:  2026-02-24
 
-Updated:  2026-02-24
 
 
 
