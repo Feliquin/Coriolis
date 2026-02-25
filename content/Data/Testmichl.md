@@ -11,4 +11,4 @@ _Note_
 > [!NOTE] Campaign notes
 > - ...
 
-![[Mimdosh.png]]
+![[[[Mimdosh]].png]]
