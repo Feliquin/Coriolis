@@ -9,5 +9,8 @@ session: "1.00"
 # Session Zero
 
 > [!NOTE] Campaign notes
-> - ...
+> - Andi: [[Kaelen al-Sari]] 
+> - Basti: [[Suri Esfahan]]
+> - Bene: Dr. [[Rami Sarif]]
+> - Peti: [[Rashid ben Said]]
 

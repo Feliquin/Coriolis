@@ -1,10 +1,10 @@
 | Entry                                                              | Modified             |
 | ------------------------------------------------------------------ | -------------------- |
+| [[Logs/The Tailor from Mira I.md\|The Tailor from Mira I]]         | 25. Feb. 2026, 16:21 |
+| [[Logs/Session Zero.md\|Session Zero]]                             | 25. Feb. 2026, 16:14 |
 | [[Data/Rashid ben Said.md\|Rashid ben Said]]                       | 25. Feb. 2026, 16:04 |
 | [[Data/Suri Esfahan.md\|Suri Esfahan]]                             | 25. Feb. 2026, 16:03 |
 | [[Data/History of the 3rd Horizon.md\|History of the 3rd Horizon]] | 25. Feb. 2026, 13:03 |
-| [[Logs/The Tailor from Mira I.md\|The Tailor from Mira I]]         | 25. Feb. 2026, 12:44 |
-| [[Logs/Session Zero.md\|Session Zero]]                             | 25. Feb. 2026, 12:39 |
 | [[Data/The Draconites.md\|The Draconites]]                         | 25. Feb. 2026, 12:12 |
 | [[Data/The Syndicate.md\|The Syndicate]]                           | 25. Feb. 2026, 12:12 |
 | [[Data/The Order of the Pariah.md\|The Order of the Pariah]]       | 25. Feb. 2026, 12:12 |

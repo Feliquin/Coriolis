@@ -1,7 +1,7 @@
 | Entry                                                                      | Added                |
 | -------------------------------------------------------------------------- | -------------------- |
-| [[Logs/The Tailor from Mira I.md\|The Tailor from Mira I]]                 | 25. Feb. 2026, 12:44 |
-| [[Logs/Session Zero.md\|Session Zero]]                                     | 25. Feb. 2026, 12:39 |
+| [[Logs/The Tailor from Mira I.md\|The Tailor from Mira I]]                 | 25. Feb. 2026, 16:21 |
+| [[Logs/Session Zero.md\|Session Zero]]                                     | 25. Feb. 2026, 16:14 |
 | [[Data/Equipment.md\|Equipment]]                                           | 25. Feb. 2026, 12:11 |
 | [[Data/Quick Rules.md\|Quick Rules]]                                       | 25. Feb. 2026, 12:11 |
 | [[Data/Character Sheet.md\|Character Sheet]]                               | 25. Feb. 2026, 12:10 |
