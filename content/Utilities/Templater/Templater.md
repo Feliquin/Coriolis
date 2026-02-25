@@ -31,6 +31,10 @@ const fileAndQuery = new Map([
     'TABLE WITHOUT ID file.link AS Contact FROM #contact WHERE !contains(file.name, "Template") SORT file.name asc',
   ],
   [
+    "🗒 Recently Added",
+    'TABLE WITHOUT ID file.link AS Entry, dateformat(file.mtime, "ff") AS Added FROM #fragment WHERE !contains(file.name, "Template") SORT file.ctime desc LIMIT 20',
+  ],
+  [
     "🗒 Recently Edited",
     'TABLE WITHOUT ID file.link AS Entry, dateformat(file.mtime, "ff") AS Modified FROM #fragment WHERE !contains(file.name, "Template") SORT file.mtime desc LIMIT 20',
   ],
