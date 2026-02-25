@@ -1,5 +1,7 @@
 | Entry                                                                      | Added                |
 | -------------------------------------------------------------------------- | -------------------- |
+| [[Logs/The Tailor from Mira I.md\|The Tailor from Mira I]]                 | 25. Feb. 2026, 12:39 |
+| [[Logs/Session Zero.md\|Session Zero]]                                     | 25. Feb. 2026, 12:39 |
 | [[Data/Equipment.md\|Equipment]]                                           | 25. Feb. 2026, 12:11 |
 | [[Data/Quick Rules.md\|Quick Rules]]                                       | 25. Feb. 2026, 12:11 |
 | [[Data/Character Sheet.md\|Character Sheet]]                               | 25. Feb. 2026, 12:10 |
@@ -18,5 +20,3 @@
 | [[Data/The Humanites.md\|The Humanites]]                                   | 25. Feb. 2026, 11:50 |
 | [[Data/Quick Guide to the 3rd Horizon.md\|Quick Guide to the 3rd Horizon]] | 25. Feb. 2026, 11:43 |
 | [[Data/The Nine Icons.md\|The Nine Icons]]                                 | 25. Feb. 2026, 11:40 |
-| [[Data/The Free League.md\|The Free League]]                               | 25. Feb. 2026, 11:40 |
-| [[Data/The Nomad Federation.md\|The Nomad Federation]]                     | 25. Feb. 2026, 11:40 |

@@ -1,5 +1,7 @@
 | Entry                                                                      | Modified             |
 | -------------------------------------------------------------------------- | -------------------- |
+| [[Logs/The Tailor from Mira I.md\|The Tailor from Mira I]]                 | 25. Feb. 2026, 12:39 |
+| [[Logs/Session Zero.md\|Session Zero]]                                     | 25. Feb. 2026, 12:39 |
 | [[Data/The Draconites.md\|The Draconites]]                                 | 25. Feb. 2026, 12:12 |
 | [[Data/The Syndicate.md\|The Syndicate]]                                   | 25. Feb. 2026, 12:12 |
 | [[Data/The Order of the Pariah.md\|The Order of the Pariah]]               | 25. Feb. 2026, 12:12 |
@@ -18,5 +20,3 @@
 | [[Data/The Legion.md\|The Legion]]                                         | 25. Feb. 2026, 11:49 |
 | [[Data/Quick Guide to the 3rd Horizon.md\|Quick Guide to the 3rd Horizon]] | 25. Feb. 2026, 11:43 |
 | [[Data/Mira (Planet).md\|Mira (Planet)]]                                   | 25. Feb. 2026, 11:40 |
-| [[Data/History of the 3rd Horizon.md\|History of the 3rd Horizon]]         | 25. Feb. 2026, 11:40 |
-| [[Data/The Consortium.md\|The Consortium]]                                 | 25. Feb. 2026, 11:40 |

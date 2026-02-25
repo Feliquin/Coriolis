@@ -10,6 +10,7 @@ title: Welcome to the Third Horizon
 [[🌟 Information]]
 
 [[🎲 Meta]]
+[[📕 Log Book]]
 
 [[🗒 Recently Added]] - [[🗒 Recently Edited]]
 
