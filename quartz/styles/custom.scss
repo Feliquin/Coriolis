@@ -3,6 +3,7 @@
 html {
   font-size: 18px;
 }
+
 body {
   background: url(Assets/light.png);
 }
@@ -100,6 +101,14 @@ h3 {
   background-color: #3d80a622;
 }
 
-b, strong {
+.noborder.noborder {
+  border: none;
+  background-color: transparent;
+  padding-top: 0;
+  padding-bottom: 0.7rem;
+}
+
+b,
+strong {
   color: tomato;
 }
