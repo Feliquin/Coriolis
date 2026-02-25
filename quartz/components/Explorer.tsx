@@ -104,20 +104,6 @@ export default ((userOpts?: Partial<Options>) => {
           aria-expanded={true}
         >
           <h3 class="noborder">{opts.title ?? i18n(cfg.locale).components.explorer.title}</h3>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="14"
-            height="14"
-            viewBox="5 8 14 8"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            class="fold"
-          >
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
         </button>
         <div id={id} class="explorer-content" aria-expanded={false} role="group">
           <OverflowList class="explorer-ul" />
