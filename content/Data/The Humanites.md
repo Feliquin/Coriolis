@@ -14,7 +14,8 @@ Alignment: Firstcome
 Allies: [[The Draconites]]
 Opponents: [[The Consortium]]
 Influence: Free Trade, Nomad navy
-Territory: Reserves on [[Kua]] and other planets. VIP: Phyiliias (Council Member),
+Territory: Reserves on [[Kua]] and other planets. 
+VIP: Phyiliias (Council Member),
 Shikra (Leader of the [[Kua]] Nektara)
 
 Humanites have been slaves since the Zenith arrived and were forced to help built Coriolis station. Later, slavery was briefly outlawed, but never completely eradicated. The “Humanite Act” during the 2nd War allowed hunt and capture of Humanites to help the war effords. After the war, most of the slaves were set free. Now, many Humanites live isolated within their clans and families in reserves, but some venture the stars. 

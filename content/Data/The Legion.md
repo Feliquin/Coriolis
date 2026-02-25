@@ -13,7 +13,8 @@ The mercenary navy financed and hired by [[The Consortium]]. The Legion is compr
 Alignment: Zenithian
 Allies: [[The Consortium]]
 Opponents: [[The Draconites]] 
-Influence: The Legionaires, The Legion navy Territory: [[Odacon]], [[Kua]], and Hamura
+Influence: The Legionaires, The Legion navy 
+Territory: [[Odacon]], [[Kua]], and Hamura
 VIP: Sahumia Taslim (Council member), 
 Kastar Palu (Steel Skull Commander), 
 Hulia Illios (General of the fleet)

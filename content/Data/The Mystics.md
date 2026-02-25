@@ -12,7 +12,8 @@ Gifted with mental powers by the arrival of the Emissaries, the Mystics were dem
 by [[The Order of the Pariah]] and the Zenithian factions. Even [[The Church of the Icons]] saw them as a mockery to the Icons. Now the Mystics live secluded in remote monastaries to train their mental abilities.
 
 Alignment: Firstcome
-Allies: Ahlam’s Temple, [[The Draconites]] Opponents: [[The Order of the Pariah]]
+Allies: Ahlam’s Temple, [[The Draconites]] 
+Opponents: [[The Order of the Pariah]]
 Influence: Mystic powers
 Territory: [[Algol]], [[Altai]] 
 VIP: Tarek al-Farhat (Council Member),

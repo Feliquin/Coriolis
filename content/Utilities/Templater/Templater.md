@@ -19,6 +19,10 @@ const fileAndQuery = new Map([
     'TABLE WITHOUT ID file.link AS Location FROM #location WHERE !contains(file.name, "Template") SORT file.name asc',
   ],
   [
+    "🎲 Meta",
+    'TABLE WITHOUT ID file.link AS "Meta Fragment" FROM #meta WHERE !contains(file.name, "Template") SORT file.name asc',
+  ],
+  [
     "🌟 Ships",
     'TABLE WITHOUT ID file.link AS Ship FROM #ship WHERE !contains(file.name, "Template") SORT file.name asc',
   ],

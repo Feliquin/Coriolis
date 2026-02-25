@@ -13,7 +13,8 @@ Organized crime in the Third Horizon is controlled by a handful of families and 
 Alignment: Zenithian 
 Allies: [[The Consortium]]
 Opponents: Ahlam’s Temple 
-Influence: Crime, gambling, drugs, slaves Territory: Border systems
+Influence: Crime, gambling, drugs, slaves 
+Territory: Border systems
 VIP: Aijlim Adibal (Sadaal crime lord), 
 Kjaarn Olporial ([[Sivas]] gambling lord), 
 Kissaria Birbasil ([[Kua]] drug lord),
@@ -21,7 +22,7 @@ Urai Zhjaron (Dabaran slave lord)
 
 The syndicate was founded at the same time as Coriolis, as a means to end ongoing disputes between the major crime families. The faction can be found in nearly all border systems.
 
-The Syndicate wants their operations to [[Run]] smoothly, and this requires a certain level of law and order. They cooperate with station guards and local law enforcements to combat petty crime because it disturbs their more lucrative forms of business: protection rackets, gambling, pimping, drugs and smuggling.
+The Syndicate wants their operations to [[Run]] smoothly, and this requires a certain level of law and order. They cooperate with station guards and local law enforcements to [[Combat]] petty crime because it disturbs their more lucrative forms of business: protection rackets, gambling, pimping, drugs and smuggling.
 
 The Syndicate has no seat in the Alabaster Council.
 
