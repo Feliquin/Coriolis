@@ -14,7 +14,7 @@ Alignment: Zenithian
 Allies: [[The Consortium]]
 Opponents: [[The Draconites]] 
 Influence: The Legionaires, The Legion navy 
-Territory: [[Odacon]], [[Kua]], and Hamura
+Territory: [[Odacon]], [[Kua]], and [[Hamura]]
 VIP: Sahumia Taslim (Council member), 
 Kastar Palu (Steel Skull Commander), 
 Hulia Illios (General of the fleet)

@@ -76,7 +76,7 @@ The Jack-of-All-Trades skill works differently to other skills. It reduces the u
 ### LANGUAGE
 There are numerous different Language specialities, each one covering reading and writing in a different language. All Travellers can speak and read their native language without needing the Language skill and automated computer translator programs mean Language skills are not always needed on other worlds. Having Language 0 implies the Traveller has a smattering of simple phrases in a few common languages. 
 
-Specialities: Core (common trade language of the Third Horizon), Traidtional (language understood by most Firstcome),  Dabari (from Dabaran), Nektra (Nektara language), and many more
+Specialities: Core (common trade language of the Third Horizon), Traidtional (language understood by most Firstcome),  Dabari (from [[Dabaran]]), Nektra (Nektara language), and many more
 ### LEADERSHIP
 The Leadership skill is for directing, inspiring and rallying allies and comrades. A Traveller may make a Leadership action in [[Combat]].
 ### MECHANIC

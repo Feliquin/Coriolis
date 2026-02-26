@@ -21,7 +21,7 @@ Abstammung:  Zenither
 Posten: Kapitän
 Geboren: Meditation im Händler 444 PK (42 Jahre) 
 
-Geburtsort:   Lotus, Dabaran, Dabaran
+Geburtsort:   Lotus, [[Dabaran]], [[Dabaran]]
 
 Familie:  
 - Nane (Mutter, 67)

@@ -18,7 +18,7 @@ Territory: Border systems
 VIP: Aijlim Adibal (Sadaal crime lord), 
 Kjaarn Olporial ([[Sivas]] gambling lord), 
 Kissaria Birbasil ([[Kua]] drug lord),
-Urai Zhjaron (Dabaran slave lord)
+Urai Zhjaron ([[Dabaran]] slave lord)
 
 The syndicate was founded at the same time as Coriolis, as a means to end ongoing disputes between the major crime families. The faction can be found in nearly all border systems.
 

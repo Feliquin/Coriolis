@@ -4,7 +4,7 @@ modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %
 tags:
   - utilitity
 ---
-Updated:  <% tp.date.now("YYYY-MM-DD") %>
+Updated:  <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 
 <%*
 const dv = app.plugins.plugins["dataview"].api;

@@ -34,10 +34,10 @@ _The Leaning Monolith • Horizon's End • Lost Colonies_
 Only the most stubborn of free traders and the most curious of archaeologists and scientists ever come out this far. But Menkar is the home of one the Horizon's monoliths. It looks just like the monolith on [[Kua]], and was likewise inhabited by humans a long time ago. It rises high above the dangerous wilderness below and this made it a logical place to settle. Today, much of its buildings lie in ruins and the rest are scarcely populated. Awhile back, the monolith suddenly moved and tilted over to its current position, and thousands were killed as their houses fell to the ground. Menkar is home to the empty portal (often called "Horizon's End") 
 – a portal no one has returned from, rumored to connect to an unknown Horizon.
 ## DABARAN ROUTE
-The busiest route in the Horizon goes from [[Mira]] via [[Altai]] to Dabaran. The bulk haulers and free traders are using this route frequently, but it has become more dangerous since Almida, the corsair queen, has expanded her operations in Caph and Marfik.
+The busiest route in the Horizon goes from [[Mira]] via [[Altai]] to [[Dabaran]]. The bulk haulers and free traders are using this route frequently, but it has become more dangerous since Almida, the corsair queen, has expanded her operations in Caph and Marfik.
 ### HAMURA
-_Corsairs and pirates • Hamura ship yard • Hamurabi Station_
-The water world Hamura is a paradise cut off from all major trade routes. This makes it the ideal resort for the rich and famous. But the Hamura system is plagued by corsair activity and fierce ion storms.
+_Corsairs and pirates • [[Hamura]] ship yard • Hamurabi Station_
+The water world [[Hamura]] is a paradise cut off from all major trade routes. This makes it the ideal resort for the rich and famous. But the [[Hamura]] system is plagued by corsair activity and fierce ion storms.
 ### CAPH
 _The Caph platforms • Red Gas Rock • Hydra Flotilla_
 No entry yet.
@@ -58,7 +58,7 @@ _Plasma storms • Blindness Disease • Zarraran Corsairs_
 No entry yet.
 ### DABARAN 
 _Home of the Dars • Atuta ship yard • Luxus food_
-The Dabaran system is a wealthy and populous center of trade, religion, and diplomacy, home to some of the oldest settlements in the Horizon. Its stability is carefully maintained by the ruling Dars—and easily threatened.
+The [[Dabaran]] system is a wealthy and populous center of trade, religion, and diplomacy, home to some of the oldest settlements in the Horizon. Its stability is carefully maintained by the ruling Dars—and easily threatened.
 ### UHARU
 Rebel war • Forest moons • Rich ressources
 Zenithians basically rule the system, that is rich in mineral ressources and high quality timber. But after the Second Portal War, rebels try to get a piece of the cake and openly fight the Zenithians.
@@ -66,13 +66,13 @@ Zenithians basically rule the system, that is rich in mineral ressources and hig
 _Rebel war • Forest moons • Rich ressources_
 Since the Second Portal War has ended, the system became a serene, same say spooky, place. All mining activity has been stopped and a gigantic memorial orbits the star to remind everyone of the sacrifices during the war. 
 ## MIRA CHAIN
-The Miran chain may be the most traveled route in the Horizon. The shorter route across Aiwaz and [[Zalos]] used to be the safest choice, as the portals in the [[Odacon]] system are still unreliable from damage they suffered during the Portal Wars. But due to the war in [[Zalos]], ships now take the longer route via [[Zhau]]. 
+The Miran chain may be the most traveled route in the Horizon. The shorter route across [[Aiwaz]] and [[Zalos]] used to be the safest choice, as the portals in the [[Odacon]] system are still unreliable from damage they suffered during the Portal Wars. But due to the war in [[Zalos]], ships now take the longer route via [[Zhau]]. 
 ### KUA
 _Splintered monolith • Coriolis III • Djachroum Station_
 Once the political and financial center of the Horizon. The Zenthians try to regain that position. [[Kua]] is a lush garden world that soon again will be orbited by a station called Coriolis. Many other settlements throughout the system, even in the far rimward regions.
 ### AIWAZ
 _Eye of the Dancer temple • Debris Field • Fire Lakes _
-Poor Aiwaz was been the battle ground for the conflict between [[The Legion]] and the Order for many years. The civil war on [[Zalos]] allowed the Aiwaz to get some rest. Nowadays it is an increasingly important trading hub, despite its rough and lawless reputation. Aiwaz B is a long flight from Aiwaz A - 300 AU - and largely isolated from the rest of the Horizon.
+Poor [[Aiwaz]] was been the battle ground for the conflict between [[The Legion]] and the Order for many years. The civil war on [[Zalos]] allowed the [[Aiwaz]] to get some rest. Nowadays it is an increasingly important trading hub, despite its rough and lawless reputation. [[Aiwaz]] B is a long flight from [[Aiwaz]] A - 300 AU - and largely isolated from the rest of the Horizon.
 ### ZALOS 
 _Order of the Pariah • City of Strangers • Civil war_
 Known as the birth place of the martyr, ruled by [[The Order of the Pariah]]. Travellers need special permits just to enter the system - and are then only allowed to visit the City of Strangers on the moon Karrmerruk.
@@ -105,9 +105,9 @@ The trinary system [[Zhau]] is often called the rogue state of the Quadrant of t
 _Shadows of the Old War • Dying star • Mining Station Echron_
 The [[Odacon]] system stands as a monument of destruction and a testament to the madness of the Portal wars. People do not travel here voluntarily, unless they are passing through while traversing the Miran chain, or are desperate enough to seek fame and fortune in the ruined system.
 ## ALGOL ROUTE
-Many free traders work the route to [[Algol]] as the systems along the way are relatively safe from corsairs, and have yet to be exploited by the factions. The portals are stable and the stations are well manned, up until one reaches [[Algol]] and the surrounding systems. After Nharmada, things are much more quiet, and only the most stubborn or desperate crews push on all the way to Eanu. Access to the route may soon be lost due to the cosmic events in Awadhi.
+Many free traders work the route to [[Algol]] as the systems along the way are relatively safe from corsairs, and have yet to be exploited by the factions. The portals are stable and the stations are well manned, up until one reaches [[Algol]] and the surrounding systems. After Nharmada, things are much more quiet, and only the most stubborn or desperate crews push on all the way to Eanu. Access to the route may soon be lost due to the cosmic events in [[Awadhi]].
 ### AWADHI
-_Unstable system • A black hole • Awadhi Sun Fan_
+_Unstable system • A black hole • [[Awadhi]] Sun Fan_
 This doomed binary star system captured a rogue small black hole, bringing the whole system into an unstable three body state. Calculations about the movement of the celestrial bodies is only possible a few segments in advance. It's only a matter of time until there will be the next collision or one of the bodies will be flung off into the darkness between the stars. 
 ### ALGOL
 _[[Ahlam's Temple]] • Elephant market in Akhandar • Crime groups_

@@ -4,13 +4,17 @@
 | [[Data/Algol.md\|Algol]]                 |
 | [[Data/Altai.md\|Altai]]                 |
 | [[Data/Awadhi.md\|Awadhi]]               |
+| [[Data/Dabaran.md\|Dabaran]]             |
+| [[Data/Hamura.md\|Hamura]]               |
 | [[Data/Kua.md\|Kua]]                     |
 | [[Data/Mira.md\|Mira]]                   |
 | [[Data/Mira (Planet).md\|Mira (Planet)]] |
 | [[Data/Odacon.md\|Odacon]]               |
 | [[Data/Ordana.md\|Ordana]]               |
 | [[Data/Sivas.md\|Sivas]]                 |
+| [[Data/Taoan.md\|Taoan]]                 |
 | [[Data/Tarazug.md\|Tarazug]]             |
+| [[Data/Uharu.md\|Uharu]]                 |
 | [[Data/Zalos.md\|Zalos]]                 |
 | [[Data/Zhau.md\|Zhau]]                   |
 | [[Data/Zib.md\|Zib]]                     |

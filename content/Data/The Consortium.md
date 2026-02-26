@@ -14,7 +14,7 @@ Alignment: Zenithian
 Allies: [[The Legion]]
 Opponents: [[The Nomad Federation]]
 Influence: The Bulletin, Cooperations
-Territory: [[Kua]] and Hamura  
+Territory: [[Kua]] and [[Hamura]]  
 VIP: Ilfondra Yriedes (director), 
 Sandrol Paar (Council member)
 
@@ -22,7 +22,7 @@ The consortium and the Coriolis station used to be one – so closely tied toget
 
 It took several decades, but now the Consortium is once again under the rule of clan Yriedes 
 and back to old glory. Their motto is still “Sell everything to everyone” .  Together with the families Parr, Nestera and Evgeni, the Yriedes control about twenty large companies, all owning installations and factories throughout the Horizon. Most production facilities are located 
-in the [[Kua]] or Hamura systems, but new colonies are established all the time. 
+in the [[Kua]] or [[Hamura]] systems, but new colonies are established all the time. 
 
 The larger corporations have representatives on the board of directors, the faction’s governing body. The Consortium does hold one seat in the Alabaster Council.
 
