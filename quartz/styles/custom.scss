@@ -1,4 +1,7 @@
+@use "sass:map";
+@use "./variables.scss" as *;
 @use "./base.scss";
+
 
 html {
   font-size: 18px;
@@ -119,5 +122,13 @@ strong {
 @media all and ($mobile) {
   .nomobile {
     display: none;
+  }
+
+  .explorer-content {
+    left: -1rem;
+  }
+
+  .page-title.noborder {
+    padding-bottom: 0;
   }
 }
