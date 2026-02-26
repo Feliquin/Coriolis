@@ -115,3 +115,9 @@ b,
 strong {
   color: rgb(44, 192, 194);
 }
+
+@media all and ($mobile) {
+  .nomobile {
+    display: none;
+  }
+}
