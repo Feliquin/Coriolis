@@ -1,7 +1,9 @@
 | Location                                 |
 | ---------------------------------------- |
+| [[Data/Aiwaz.md\|Aiwaz]]                 |
 | [[Data/Algol.md\|Algol]]                 |
 | [[Data/Altai.md\|Altai]]                 |
+| [[Data/Awadhi.md\|Awadhi]]               |
 | [[Data/Kua.md\|Kua]]                     |
 | [[Data/Mira.md\|Mira]]                   |
 | [[Data/Mira (Planet).md\|Mira (Planet)]] |
