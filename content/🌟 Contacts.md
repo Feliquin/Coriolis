@@ -14,3 +14,4 @@
 | [[Data/Rashid ben Said.md\|Rashid ben Said]]                 |
 | [[Data/Rolan Durrok.md\|Rolan Durrok]]                       |
 | [[Data/Suri Esfahan.md\|Suri Esfahan]]                       |
+| [[Data/Toyel.md\|Toyel]]                                     |

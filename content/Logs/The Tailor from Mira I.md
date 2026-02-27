@@ -21,7 +21,9 @@ session: "1.01"
 **9 / 1 / Pilger** Lichtzeremonie und Verabschiedung, "Dank von [[Mira]]"
 
 > [!NOTE] Campaign notes
-> - Auftraggeber [[Iskander]] ist Sohn der Chelebs-Menau Dynastie - warum ist er auf der Suche nach dem Schneider?
+> - [[Iskander]] is one of the sons of the Chelebs-Menau dynasty - why is he searching for the tailor, a famous animaturg and biosculptor?
+> - [[Nilar]] seems to be very streetwise. Does she know more about the things going on in the darker alleys of the Icon City?
+> - Maybe [[Toyel]] can help you. Regarding to [[Nilar]] he is a biosculptor and good friend of the tailor.
 
 ##### New contacts
 * [[Iskander]] / [[Jazkaar Chelebs-Menau]]

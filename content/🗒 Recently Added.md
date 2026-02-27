@@ -1,8 +1,9 @@
 | Entry                                                              | Added                |
 | ------------------------------------------------------------------ | -------------------- |
+| [[Data/Toyel.md\|Toyel]]                                           | 27. Feb. 2026, 13:20 |
+| [[Logs/The Tailor from Mira I.md\|The Tailor from Mira I]]         | 27. Feb. 2026, 13:20 |
 | [[Data/Pfirsichköpfchen.md\|Pfirsichköpfchen]]                     | 27. Feb. 2026, 11:55 |
 | [[Data/Medak Kwau.md\|Medak Kwau]]                                 | 27. Feb. 2026, 11:52 |
-| [[Logs/The Tailor from Mira I.md\|The Tailor from Mira I]]         | 27. Feb. 2026, 13:04 |
 | [[Data/Rashid ben Said.md\|Rashid ben Said]]                       | 27. Feb. 2026, 11:56 |
 | [[Data/Characteristics.md\|Characteristics]]                       | 26. Feb. 2026, 20:50 |
 | [[Data/Uharu.md\|Uharu]]                                           | 26. Feb. 2026, 20:46 |
@@ -19,4 +20,3 @@
 | [[Data/Equipment.md\|Equipment]]                                   | 25. Feb. 2026, 12:11 |
 | [[Data/Quick Rules.md\|Quick Rules]]                               | 25. Feb. 2026, 12:11 |
 | [[Data/Character Sheet.md\|Character Sheet]]                       | 25. Feb. 2026, 12:10 |
-| [[Data/Basic Rules.md\|Basic Rules]]                               | 25. Feb. 2026, 12:09 |
