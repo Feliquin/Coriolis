@@ -7,6 +7,7 @@
 | [[Data/Kindara al-Mandhur.md\|Kindara al-Mandhur]]           |
 | [[Data/Korm & Minai Maadawi.md\|Korm & Minai Maadawi]]       |
 | [[Data/Lady Orphalia sur-Ibana.md\|Lady Orphalia sur-Ibana]] |
+| [[Data/Medak Kwau.md\|Medak Kwau]]                           |
 | [[Data/Mimdosh.md\|Mimdosh]]                                 |
 | [[Data/Nilar.md\|Nilar]]                                     |
 | [[Data/Rami Sarif.md\|Rami Sarif]]                           |

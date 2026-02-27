@@ -10,7 +10,7 @@ tags:
 _Politician_
 
 > [!NOTE] Campaign notes
-> - ...
+> - Bringt zwei [[Pfirsichköpfchen]] mit auf die [[Al-Jamal]].
 
 Wird zur Vorbereitung seiner Laufbahn erst auf eine die Universität geschickt. Lernt auf Handelsriesen den Horizont kennen und landet schließlich in einer politische Karriere auf Caph. Zieht sich nach schwerer Verletzung während einer Revolution aus der Öffentlichkeit zurück. 
 
