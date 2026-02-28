@@ -11,6 +11,10 @@ const dv = app.plugins.plugins["dataview"].api;
 
 const fileAndQuery = new Map([
   [
+    "⚠ DraftTemplate",
+    'TABLE WITHOUT ID file.link AS Fragment FROM #fragment WHERE !contains(file.name, "Template") AND draft SORT file.name asc',
+  ],  
+  [
     "🌟 Information",
     'TABLE WITHOUT ID file.link AS Info FROM #info WHERE !contains(file.name, "Template") AND !draft SORT file.name asc',
   ],
