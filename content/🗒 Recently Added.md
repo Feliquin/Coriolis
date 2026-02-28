@@ -1,7 +1,7 @@
 | Entry                                                              | Added                |
 | ------------------------------------------------------------------ | -------------------- |
+| [[Logs/The Tailor from Mira I.md\|The Tailor from Mira I]]         | 27. Feb. 2026, 13:26 |
 | [[Data/Toyel.md\|Toyel]]                                           | 27. Feb. 2026, 13:20 |
-| [[Logs/The Tailor from Mira I.md\|The Tailor from Mira I]]         | 27. Feb. 2026, 13:20 |
 | [[Data/Pfirsichköpfchen.md\|Pfirsichköpfchen]]                     | 27. Feb. 2026, 11:55 |
 | [[Data/Medak Kwau.md\|Medak Kwau]]                                 | 27. Feb. 2026, 11:52 |
 | [[Data/Rashid ben Said.md\|Rashid ben Said]]                       | 27. Feb. 2026, 11:56 |
