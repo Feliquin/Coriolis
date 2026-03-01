@@ -5,8 +5,11 @@ tags:
   - fragment
   - logentry
 session: "1.01"
+xp: "1"
+location: Mira
 ---
 # The Tailor from Mira I
+_02/01/Pilgrim/486 - 05/01/Pilgrim/486_
 
 > [!SUMMARY] Summary
 > Die Charaktere kommen nach und nach auf [[Mira]] an, um hier ihr neues Schiff, die [[Al-Jamal]], von der Chelebs Schiffswerft zu übernehmen. Eine Woche an Einweisungen und Events steht ihnen bevor, während der sie den Heimatplaneten der [[The Church of the Icons|Kirche der Ikonen]] erkunden können, ihr Medizinschiff erklärt bekommen, ihre ersten Gäste kennen lernen - und nebenbei in eine verdeckte Suche hineingezogen werden.
@@ -27,6 +30,7 @@ Die Charaktere werden durch eine Direktnachricht kontaktiert und zu einem Treffe
 > - [[Iskander]] is one of the sons of the Chelebs-Menau dynasty - why is he searching for the tailor, a famous animaturg and biosculptor?
 > - [[Nilar]] seems to be very streetwise. Does she know more about the things going on in the darker alleys of the Icon City?
 > - Maybe [[Toyel]] can help you. Regarding to [[Nilar]] he is a biosculptor and good friend of the tailor.
+> - XP: 1 each
 
 ##### New contacts
 * [[Iskander]] / [[Jazkaar Chelebs-Menau]]
@@ -37,7 +41,7 @@ Die Charaktere werden durch eine Direktnachricht kontaktiert und zu einem Treffe
 * [[Rolan Durrok]]
 ##### New locations
 * [[Mira]]
-* [[Mira (Planet)]]
+* [[Mira (P)]]
 #### New info fragments
 * [[The Church of the Icons]]
 ##### New ships

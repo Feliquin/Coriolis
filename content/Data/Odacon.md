@@ -5,6 +5,7 @@ tags:
   - fragment
   - location
   - system
+type: System
 ---
 # Odacon
 _Note_

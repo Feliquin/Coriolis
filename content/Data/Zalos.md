@@ -5,6 +5,7 @@ tags:
   - fragment
   - location
   - system
+type: System
 ---
 # Zalos
 _Note_

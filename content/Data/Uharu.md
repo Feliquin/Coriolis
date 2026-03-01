@@ -5,6 +5,7 @@ tags:
   - fragment
   - location
   - system
+type: System
 ---
 # Uharu
 _Rebel system_

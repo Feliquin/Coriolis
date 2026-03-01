@@ -11,7 +11,7 @@ tags:
   - fragment
   - location
   - system
-type: ort
+type: System
 ---
 # Algol
 

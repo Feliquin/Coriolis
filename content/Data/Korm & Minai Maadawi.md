@@ -9,6 +9,6 @@ tags:
 _Pilgrims_
 
 > [!NOTE] Campaign notes
-> - Pilgrim returning home after their visit to [[Mira (Planet)]]
+> - Pilgrim returning home after their visit to [[Mira (P)]]
 
 ![[KormMinai.png]]

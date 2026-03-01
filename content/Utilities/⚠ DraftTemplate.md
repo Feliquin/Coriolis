@@ -1,3 +1,2 @@
-| Fragment                 |
-| ------------------------ |
-| [[Data/Toyel.md\|Toyel]] |
+| Fragment |
+| -------- |

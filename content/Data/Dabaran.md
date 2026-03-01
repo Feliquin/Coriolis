@@ -5,6 +5,7 @@ tags:
   - fragment
   - location
   - system
+type: System
 ---
 # Dabaran
 _Home of the Dars_

@@ -5,7 +5,7 @@ tags:
   - fragment
   - meta
 ---
-# Combat
+# Combat Rules
 
 ![[Pasted image 20260225120823.png]]
 

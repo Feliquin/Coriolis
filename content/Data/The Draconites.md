@@ -19,7 +19,7 @@ VIP: Sahdi bat-Erden (Council member),
 Milan sur-Ibana (First Warrior Poet)
 
 Few factions had such an air of mystery as that which surrounded the Draconite order. They 
-are renowned for their fearlessness in both [[Combat]] and diplomacy, and are said to make no distinction between the two. 
+are renowned for their fearlessness in both [[Combat Rules]] and diplomacy, and are said to make no distinction between the two. 
 
 Without them, the Third Horizon might now be under the rule of one of the other Horizons. Their agents, especially the crew of the Alhari, led the combined forces of the Third Horizon to victory. And the role of the Draconites are not forgotten
 

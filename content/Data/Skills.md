@@ -57,11 +57,11 @@ Specialities: Airship, Grav, Ornithopter, Rotor, Wing
 The Traveller is familiar with a wide variety of gambling games, such as tawla, roulette, blackjack, camel-racing, sports betting (like sijjada) and so on, and has an excellent grasp of statistics and probability. Gambler increases the rewards from Benefit rolls, 
 giving the Traveller DM+1 to their cash rolls if they have Gambler 1 or better.
 ### GUNNER
-The various specialities of this skill deal with the operation of ship-mounted weapons in space [[Combat]]. Most Travellers have smaller ships equipped solely with turret weapons. 
+The various specialities of this skill deal with the operation of ship-mounted weapons in space [[Combat Rules]]. Most Travellers have smaller ships equipped solely with turret weapons. 
 
 Specialities: Turret, Ortillery, Screen, Capital
 ### GUN COMBAT 
-The Gun [[Combat]] skill covers a variety of ranged weapons. See the [[Combat]] chapter for details on using guns in [[Combat]].
+The Gun [[Combat Rules]] skill covers a variety of ranged weapons. See the [[Combat Rules]] chapter for details on using guns in [[Combat Rules]].
 
 Specialities: Archaic (Bows, Slings), Energy (Laser, Meson), Slug (Ballistic, Accelerator, Thermal, Grape), Propelled (Vulcan, Plasma)
 ### HEAVY WEAPONS
@@ -78,13 +78,13 @@ There are numerous different Language specialities, each one covering reading an
 
 Specialities: Core (common trade language of the Third Horizon), Traidtional (language understood by most Firstcome),  Dabari (from [[Dabaran]]), Nektra (Nektara language), and many more
 ### LEADERSHIP
-The Leadership skill is for directing, inspiring and rallying allies and comrades. A Traveller may make a Leadership action in [[Combat]].
+The Leadership skill is for directing, inspiring and rallying allies and comrades. A Traveller may make a Leadership action in [[Combat Rules]].
 ### MECHANIC
 The Mechanic skill allows a Traveller to maintain and repair most [[Equipment]] – some advanced [[Equipment]] and spacecraft components require the Engineer skill. Unlike the narrower and more focused Engineer or Science skills, Mechanic does not allow a Traveller to build new devices or alter existing ones – it is purely for repairs and maintenance but covers all types of [[Equipment]].
 ### MEDICURGY
 The Medicurgy skill covers emergency first aid and battlefield triage as well as diagnosis, treatment, surgery and long-term care. 
 ### MELEE
-The Melee skill covers attacking in hand-to-hand [[Combat]] and the use of suitable weapons.
+The Melee skill covers attacking in hand-to-hand [[Combat Rules]] and the use of suitable weapons.
 
 Specialities: Unarmed, Blade, Bludgeon, Natural
 ### MYSTICISM
@@ -123,7 +123,7 @@ A Traveller with the Streetwise skill understands the urban environment and the 
 ### SURVIVAL
 The Survival skill is the wilderness counterpart of the urban Streetwise skill – the Traveller is trained to survive in the wild, build shelters, hunt or trap animals, avoid exposure and so forth. They can recognise plants and animals of their homeworld and related planets and can pick up on common clues and traits even on unfamiliar worlds.
 ### TACTICS
-This skill covers tactical planning and decision making, from board games to squad level [[Combat]] to fleet engagements. For use in [[Combat]], see [[Combat]] chapter.
+This skill covers tactical planning and decision making, from board games to squad level [[Combat Rules]] to fleet engagements. For use in [[Combat Rules]], see [[Combat Rules]] chapter.
 Specialities: Military, Naval
 ### VACC SUIT
 The Vacc Suit skill allows a Traveller to wear and operate spacesuits and environmental suits. A Traveller will rarely need to make Vacc Suit checks under ordinary circumstances – merely possessing the skill is enough. If the Traveller does not have the requisite Vacc Suit skill for the suit they are wearing, they suffer DM-1 to all skill checks made while wearing a suit for each missing level. This skill also permits a Traveller to operate advanced battle armour.

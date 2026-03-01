@@ -11,7 +11,7 @@ tags:
   - location
   - fragment
   - system
-type: ort
+type: System
 ---
 # Mira
 

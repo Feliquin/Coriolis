@@ -20,11 +20,11 @@ const fileAndQuery = new Map([
   ],
   [
     "🌟 Locations",
-    'TABLE WITHOUT ID file.link AS Location FROM #location WHERE !contains(file.name, "Template") AND !draft SORT file.name asc',
+    'TABLE WITHOUT ID file.link AS Location, type AS Type FROM #location WHERE !contains(file.name, "Template") AND !draft SORT file.name asc',
   ],
   [
     "📕 Log Book",
-    'TABLE WITHOUT ID session AS "Session", file.link AS "Log entry" FROM #logentry WHERE !contains(file.name, "Template") AND !draft SORT session desc, file.name asc',
+    'TABLE WITHOUT ID session AS "Session", file.link AS "Log entry", location as "Location", xp as "XP" FROM #logentry WHERE !contains(file.name, "Template") AND !draft SORT session desc, file.name asc',
   ],
   [
     "🎲 Meta",
@@ -36,7 +36,7 @@ const fileAndQuery = new Map([
   ],
   [
     "🌟 Contacts",
-    'TABLE WITHOUT ID file.link AS Contact FROM #contact WHERE !contains(file.name, "Template") AND !draft SORT file.name asc',
+    'TABLE WITHOUT ID file.link AS Contact, status AS Status FROM #contact WHERE !contains(file.name, "Template") AND !draft SORT file.name asc',
   ],
   [
     "🗒 Recently Added",

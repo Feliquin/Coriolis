@@ -1,4 +1,5 @@
-| Session | Log entry                                                  |
-| ------- | ---------------------------------------------------------- |
-| 1.01    | [[Logs/The Tailor from Mira I.md\|The Tailor from Mira I]] |
-| 1.00    | [[Logs/Session Zero.md\|Session Zero]]                     |
+| Session | Log entry                                                    | Location | XP |
+| ------- | ------------------------------------------------------------ | -------- | -- |
+| 1.02    | [[Logs/The Tailor from Mira II.md\|The Tailor from Mira II]] | [[Mira]]     | 1  |
+| 1.01    | [[Logs/The Tailor from Mira I.md\|The Tailor from Mira I]]   | [[Mira]]     | 1  |
+| 1.00    | [[Logs/Session Zero.md\|Session Zero]]                       | \-       | \- |

@@ -5,6 +5,7 @@ tags:
   - fragment
   - location
   - planet
+type: Celestial Body
 ---
 # Mira (Planet)
 _Home of the Church of the Icons_

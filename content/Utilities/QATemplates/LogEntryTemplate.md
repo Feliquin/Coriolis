@@ -5,6 +5,7 @@ tags:
   - fragment
   - logentry
 session:
+draft: false
 ---
 # <% tp.file.title %>
 
