@@ -12,4 +12,4 @@ _Child living on the streets of Icon City_
 > - Streetwise child living in the outskirts of Icon City on [[Mira (P)]]
 > - Knows the true identity of [[Iskander]] (being [[Jazkaar Chelebs-Menau]])
 
-![[Nilar.png]]
+![[Nilar.png|500]]

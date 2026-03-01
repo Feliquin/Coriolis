@@ -36,4 +36,4 @@ Verbündete:
 - [[Rashid ben Said]]
 - [[Suri Esfahan]]
 
-![[DrRamiSarif.png]]
+![[DrRamiSarif.png|500]]

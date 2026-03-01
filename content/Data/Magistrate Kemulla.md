@@ -12,4 +12,4 @@ _Order of the Pariah investigator_
 > - Roughless and cold with a fanatical drive to please [[The Order of the Pariah]].
 
 
-![[MagistrateKemulla.png]]
+![[MagistrateKemulla.png|500]]

@@ -13,4 +13,4 @@ _Note_
 > [!NOTE] Campaign notes
 > - ...
 
-![[]]
+![[|500]]

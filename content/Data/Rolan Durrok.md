@@ -11,4 +11,4 @@ _Member of the Zenithian Hegemony_
 > [!NOTE] Campaign notes
 > - Seeks passage through the [[Mira]] Chain
 
-![[RolanDurrok.png]]
+![[RolanDurrok.png|500]]

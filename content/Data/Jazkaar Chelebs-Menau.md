@@ -12,4 +12,4 @@ _Son of Dramora Chelebs-Menau_
 > - Sometimes uses a hidden identity: [[Iskander]]
 > - Third son in the Chelebs-Menau dynasty on [[Mira (P)]]
 
-![[JazkaarChelebsMenau.png]]
+![[JazkaarChelebsMenau.png|500]]

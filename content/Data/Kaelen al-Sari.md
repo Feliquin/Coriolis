@@ -36,4 +36,4 @@ Kontakte:
 Rivalen: -
 Verbündete: -
 
-![[Qasimal-Makhfi.png]]
+![[Qasimal-Makhfi.png|500]]

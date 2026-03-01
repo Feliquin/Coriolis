@@ -14,4 +14,4 @@ _Rich traveller from Dabaran_
 > - Always on the lookout for exiting adventures
 > - Hired Dr. [[Rami Sarif]] to perform a liposuction
 
-![[Jussuf.png]]
+![[Jussuf.png|500]]

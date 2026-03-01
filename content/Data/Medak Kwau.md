@@ -12,4 +12,4 @@ _Ship architect_
 > - Architect and ship sculptor who works for Chelebs Shipyard on [[Mira]].
 > - Designer of the [[Al-Jamal]].
 
-![[MedakKwau.png]]
+![[MedakKwau.png|500]]

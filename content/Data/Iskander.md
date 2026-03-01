@@ -14,4 +14,4 @@ _Rich asshole_
 > - Hired the characters to find the Tailor
 > - Iskander a one of the hidden identities of [[Jazkaar Chelebs-Menau]]
 
-![[Iskander.png]]
+![[Iskander.png|500]]

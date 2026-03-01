@@ -42,7 +42,7 @@ Verbündete:
 - Jasmina al-Farhat (Ahlams Temple)
 - Dr. [[Rami Sarif]]
 
-![[SuriEsfahan.png]]
+![[SuriEsfahan.png|500]]
 ## WERDEGANG
 Schon in ihrer Jugend half sie Ihrem Vater und älterem Bruder beim Weltraum-Schrott sammeln in den Überresten des 2.Portalkrieges und war manchmal monatelang im Weltall unterwegs und empfand das Leben auf dem Schrott-Hauler ihres Vaters als zweite Heimat.
 Nach Ihrem Abschluss an der Taelim Jayid Montagnes Schule entschied sie sich für die Ausbildung an der Militär Akademie, sehr zur Freude Ihrer Mutter die sich im 2. Portalkrieg ihre Lorbeeren schon im Dienste der Legion verdient hat.

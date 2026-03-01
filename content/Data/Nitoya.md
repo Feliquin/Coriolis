@@ -13,4 +13,4 @@ _Priestess_
 > - Young priestess that somehow knew about Samankar and his connection to the Tailor.
 > - Has been tortured and killed by [[Jazkaar Chelebs-Menau]] - and then dumped into the ocean.
 
-![[Nitoya.png]]
+![[Nitoya.png|500]]

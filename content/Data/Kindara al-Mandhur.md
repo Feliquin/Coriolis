@@ -11,4 +11,4 @@ _First Wife_
 > [!NOTE] Campaign notes
 > - First Wife of [[Jussuf al-Mandhur]]
 
-![[Kindara.png]]
+![[Kindara.png|500]]

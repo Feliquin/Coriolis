@@ -39,7 +39,7 @@ Verbündete:
 - Sefa Chafik (Politiker aus Caph)
 - Dr. [[Rami Sarif]]
 
-![[RashidBenSaid.png]]
+![[RashidBenSaid.png|500]]
 
 Rashid soll einmal genauso Karriere machen wie sein Vater - falls man den beruflichen Werdegang seines Vaters „Kariere“ nennen kann. Schon mit seinem Namen wollten seine Eltern ihm den Weg für eine politische Laufbahn ebnen. „Rashid“ bedeutet soviel wie „Rechtschaffen“ und „Vernünftig“. Der Name impliziert jemanden, der auf dem Richtigen Weg ist und gute Urteilskraft besitzt. Die Sache mit der guten Urteilskraft scheint im allgemeinen zu funktionieren und die Rechtschaffenheit vordergründig auch. 
 

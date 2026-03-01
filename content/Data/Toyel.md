@@ -14,4 +14,4 @@ _Biosculptor_
 > - Knows the Tailor.
 > - Is in financial trouble and has to pay protection money to the [[Okra Darma]] Cartel.
 
-![[Toyel.png]]
+![[Toyel.png|500]]

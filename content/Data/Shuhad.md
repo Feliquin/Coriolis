@@ -13,4 +13,4 @@ _Assistant to the Chelebs-Menau family_
 > - Officially is the right hand of [[Jazkaar Chelebs-Menau]], but in reality he is there to control him.
 > - Told the characters that it's their decision if they want to pursue the search for the Tailor, but if they don't the [[Al-Jamal]] will not be handed over to them.
 
-![[Shuhad.png]]
+![[Shuhad.png|500]]

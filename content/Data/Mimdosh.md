@@ -12,4 +12,4 @@ _Skavarran Traveller_
 > - Skavarran Humanite
 > - Seeks passage through the [[Mira]] Chain
 
-![[Mimdosh.png]]
+![[Mimdosh.png|500]]

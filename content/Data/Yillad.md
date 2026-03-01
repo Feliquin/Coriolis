@@ -14,4 +14,4 @@ _Okra Darma group leader_
 > - Extorts money from businesses in the brick quarter of Icon City.
 > - [[Toyel]] is one of his "clients".
 
-![[Yillad.png]]
+![[Yillad.png|500]]
