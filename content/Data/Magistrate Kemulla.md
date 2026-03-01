@@ -10,6 +10,7 @@ _Order of the Pariah investigator_
 
 > [!NOTE] Campaign notes
 > - Roughless and cold with a fanatical drive to please [[The Order of the Pariah]].
+> - Is protected by a squad of elite [[Holy Warriors]].
 
 
 ![[MagistrateKemulla.png|500]]

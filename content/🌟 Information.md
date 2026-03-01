@@ -2,6 +2,7 @@
 | -------------------------------------------------------------------------- |
 | [[Data/Ahlam's Temple.md\|Ahlam's Temple]]                                 |
 | [[Data/History of the 3rd Horizon.md\|History of the 3rd Horizon]]         |
+| [[Data/Holy Warriors.md\|Holy Warriors]]                                   |
 | [[Data/Okra Darma.md\|Okra Darma]]                                         |
 | [[Data/Pfirsichköpfchen.md\|Pfirsichköpfchen]]                             |
 | [[Data/Quick Guide to the 3rd Horizon.md\|Quick Guide to the 3rd Horizon]] |
