@@ -11,8 +11,10 @@ location: Mira
 # The Tailor from Mira II
 _06/01/Pilgrim/486_
 
+![[Title 1.jpg]]
+
 > [!SUMMARY] Summary
-> .
+> ...
 
 
 > [!NOTE] Campaign notes
@@ -21,6 +23,8 @@ _06/01/Pilgrim/486_
 > - [[Toyel]] has taken a dhol directly from the Tailor's clinic to Icon City and did not witness the events on Jazkaar's luxury dhol.
 > - There is a Seeker priest named Samankar or Sam who might know more about where to find the Tailor. He usually can be found near the Statue of the Dancer.
 > - Why does Chelebs-Menau need the services of an animaturg?
+
+---
 ##### New contacts
 * [[Magistrate Kemulla]]
 * [[Shuhad]]
@@ -28,5 +32,4 @@ _06/01/Pilgrim/486_
 * [[Yillad]]
 #### New info fragments
 * [[Okra Darma]]
-
-![[Title 1.jpg]]
+* [[Holy Warriors]]
