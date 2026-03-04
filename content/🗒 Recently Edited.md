@@ -1,5 +1,7 @@
 | Entry                                                        | Modified            |
 | ------------------------------------------------------------ | ------------------- |
+| [[Logs/The Tailor from Mira II.md\|The Tailor from Mira II]] | 4. März 2026, 08:59 |
+| [[Logs/The Tailor from Mira I.md\|The Tailor from Mira I]]   | 2. März 2026, 10:11 |
 | [[Data/Magistrate Kemulla.md\|Magistrate Kemulla]]           | 1. März 2026, 09:45 |
 | [[Data/Holy Warriors.md\|Holy Warriors]]                     | 1. März 2026, 09:45 |
 | [[Data/Jazkaar Chelebs-Menau.md\|Jazkaar Chelebs-Menau]]     | 1. März 2026, 09:34 |
@@ -18,5 +20,3 @@
 | [[Data/Suri Esfahan.md\|Suri Esfahan]]                       | 1. März 2026, 09:32 |
 | [[Data/Toyel.md\|Toyel]]                                     | 1. März 2026, 09:32 |
 | [[Data/Yillad.md\|Yillad]]                                   | 1. März 2026, 09:32 |
-| [[Data/Iskander.md\|Iskander]]                               | 1. März 2026, 09:31 |
-| [[Data/Experience and Training.md\|Experience and Training]] | 1. März 2026, 09:27 |
