@@ -1,6 +1,7 @@
 | Entry                                                        | Added                |
 | ------------------------------------------------------------ | -------------------- |
-| [[Logs/The Tailor from Mira II.md\|The Tailor from Mira II]] | 4. März 2026, 08:59  |
+| [[Data/Truth Seeker.md\|Truth Seeker]]                       | 4. März 2026, 09:33  |
+| [[Logs/The Tailor from Mira II.md\|The Tailor from Mira II]] | 4. März 2026, 09:34  |
 | [[Data/Holy Warriors.md\|Holy Warriors]]                     | 1. März 2026, 09:45  |
 | [[Data/Magistrate Kemulla.md\|Magistrate Kemulla]]           | 1. März 2026, 09:45  |
 | [[Data/Toyel.md\|Toyel]]                                     | 1. März 2026, 09:32  |
@@ -19,4 +20,3 @@
 | [[Data/Okra Darma.md\|Okra Darma]]                           | 1. März 2026, 09:27  |
 | [[Data/Rashid ben Said.md\|Rashid ben Said]]                 | 1. März 2026, 09:33  |
 | [[Data/Pfirsichköpfchen.md\|Pfirsichköpfchen]]               | 27. Feb. 2026, 11:55 |
-| [[Data/Medak Kwau.md\|Medak Kwau]]                           | 1. März 2026, 09:33  |

@@ -18,3 +18,4 @@
 | [[Data/The Order of the Pariah.md\|The Order of the Pariah]]               |
 | [[Data/The Syndicate.md\|The Syndicate]]                                   |
 | [[Data/The Zenithian Hegemony.md\|The Zenithian Hegemony]]                 |
+| [[Data/Truth Seeker.md\|Truth Seeker]]                                     |
