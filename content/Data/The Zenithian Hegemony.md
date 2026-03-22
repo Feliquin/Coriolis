@@ -4,6 +4,7 @@ modification date: Wednesday 25th February 2026 09:34:48
 tags:
   - fragment
   - info
+type: Faction
 ---
 # The Zenithian Hegemony
 _Zenithians_

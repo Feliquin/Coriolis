@@ -5,6 +5,7 @@ tags:
   - fragment
   - info
 draft: false
+type: Group
 ---
 # Holy Warriors
 _Order of the Pariah_

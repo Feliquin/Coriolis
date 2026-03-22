@@ -4,6 +4,7 @@ modification date: Wednesday 25th February 2026 09:36:01
 tags:
   - fragment
   - info
+type: Faction
 ---
 # The Church of the Icons
 _Firstcome_

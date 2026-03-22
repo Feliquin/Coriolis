@@ -4,6 +4,7 @@ modification date: Wednesday 25th February 2026 09:33:54
 tags:
   - fragment
   - info
+type: Faction
 ---
 # The Legion
 _Zenithians_

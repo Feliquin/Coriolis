@@ -16,7 +16,7 @@ const fileAndQuery = new Map([
   ],  
   [
     "🌟 Information",
-    'TABLE WITHOUT ID file.link AS Info FROM #info WHERE !contains(file.name, "Template") AND !draft SORT file.name asc',
+    'TABLE WITHOUT ID file.link AS Info, type AS Type FROM #info WHERE !contains(file.name, "Template") AND !draft SORT file.name asc',
   ],
   [
     "🌟 Locations",

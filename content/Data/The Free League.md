@@ -4,6 +4,7 @@ modification date: Wednesday 25th February 2026 09:38:07
 tags:
   - fragment
   - info
+type: Faction
 ---
 # The Free League
 _Independant_

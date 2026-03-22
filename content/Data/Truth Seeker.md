@@ -5,6 +5,7 @@ tags:
   - fragment
   - info
 draft: false
+type: Equipment
 ---
 # Truth Seeker
 _Insect_

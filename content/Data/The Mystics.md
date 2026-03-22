@@ -4,6 +4,7 @@ modification date: Wednesday 25th February 2026 09:40:04
 tags:
   - fragment
   - info
+type: Faction
 ---
 # The Mystics
 _Independant_

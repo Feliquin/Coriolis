@@ -5,6 +5,7 @@ tags:
   - fragment
   - info
 draft: false
+type:
 ---
 # <% tp.file.title %>
 _Note_

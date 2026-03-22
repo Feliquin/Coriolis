@@ -5,6 +5,7 @@ tags:
   - fragment
   - location
   - system
+type: System
 ---
 # Sivas
 _Home of the Lotus Brotherhood_

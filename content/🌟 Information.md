@@ -1,21 +1,23 @@
-| Info                                                                       |
-| -------------------------------------------------------------------------- |
-| [[Data/Ahlam's Temple.md\|Ahlam's Temple]]                                 |
-| [[Data/History of the 3rd Horizon.md\|History of the 3rd Horizon]]         |
-| [[Data/Holy Warriors.md\|Holy Warriors]]                                   |
-| [[Data/Okra Darma.md\|Okra Darma]]                                         |
-| [[Data/Pfirsichköpfchen.md\|Pfirsichköpfchen]]                             |
-| [[Data/Quick Guide to the 3rd Horizon.md\|Quick Guide to the 3rd Horizon]] |
-| [[Data/The Church of the Icons.md\|The Church of the Icons]]               |
-| [[Data/The Consortium.md\|The Consortium]]                                 |
-| [[Data/The Draconites.md\|The Draconites]]                                 |
-| [[Data/The Free League.md\|The Free League]]                               |
-| [[Data/The Humanites.md\|The Humanites]]                                   |
-| [[Data/The Legion.md\|The Legion]]                                         |
-| [[Data/The Mystics.md\|The Mystics]]                                       |
-| [[Data/The Nine Icons.md\|The Nine Icons]]                                 |
-| [[Data/The Nomad Federation.md\|The Nomad Federation]]                     |
-| [[Data/The Order of the Pariah.md\|The Order of the Pariah]]               |
-| [[Data/The Syndicate.md\|The Syndicate]]                                   |
-| [[Data/The Zenithian Hegemony.md\|The Zenithian Hegemony]]                 |
-| [[Data/Truth Seeker.md\|Truth Seeker]]                                     |
+| Info                                                                       | Type      |
+| -------------------------------------------------------------------------- | --------- |
+| [[Data/Ahlam's Temple.md\|Ahlam's Temple]]                                 | Faction   |
+| [[Data/Golden Harvest.md\|Golden Harvest]]                                 | \-        |
+| [[Data/History of the 3rd Horizon.md\|History of the 3rd Horizon]]         | \-        |
+| [[Data/Holy Warriors.md\|Holy Warriors]]                                   | Group     |
+| [[Data/Okra Darma.md\|Okra Darma]]                                         | Group     |
+| [[Data/Pfirsichköpfchen.md\|Pfirsichköpfchen]]                             | \-        |
+| [[Data/Quick Guide to the 3rd Horizon.md\|Quick Guide to the 3rd Horizon]] | \-        |
+| [[Data/The Church of the Icons.md\|The Church of the Icons]]               | Faction   |
+| [[Data/The Consortium.md\|The Consortium]]                                 | Faction   |
+| [[Data/The Draconites.md\|The Draconites]]                                 | Faction   |
+| [[Data/The Free League.md\|The Free League]]                               | Faction   |
+| [[Data/The Humanites.md\|The Humanites]]                                   | Faction   |
+| [[Data/The Ialid'al Jira prophecy.md\|The Ialid'al Jira prophecy]]         | \-        |
+| [[Data/The Legion.md\|The Legion]]                                         | Faction   |
+| [[Data/The Mystics.md\|The Mystics]]                                       | Faction   |
+| [[Data/The Nine Icons.md\|The Nine Icons]]                                 | \-        |
+| [[Data/The Nomad Federation.md\|The Nomad Federation]]                     | Faction   |
+| [[Data/The Order of the Pariah.md\|The Order of the Pariah]]               | Faction   |
+| [[Data/The Syndicate.md\|The Syndicate]]                                   | Faction   |
+| [[Data/The Zenithian Hegemony.md\|The Zenithian Hegemony]]                 | Faction   |
+| [[Data/Truth Seeker.md\|Truth Seeker]]                                     | Equipment |

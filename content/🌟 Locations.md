@@ -11,7 +11,7 @@
 | [[Data/Mira (P).md\|Mira (P)]] | Celestial Body |
 | [[Data/Odacon.md\|Odacon]]     | System         |
 | [[Data/Ordana.md\|Ordana]]     | System         |
-| [[Data/Sivas.md\|Sivas]]       | \-             |
+| [[Data/Sivas.md\|Sivas]]       | System         |
 | [[Data/Taoan.md\|Taoan]]       | System         |
 | [[Data/Tarazug.md\|Tarazug]]   | System         |
 | [[Data/Uharu.md\|Uharu]]       | System         |
