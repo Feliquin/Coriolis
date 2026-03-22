@@ -4,8 +4,10 @@ modification date: Sonntag 22. März 2026 08:56:29
 tags:
   - fragment
   - logentry
-session: "1.00"
+session: "1.03"
 draft: false
+xp: "1"
+location: Mira
 ---
 # The Tailor from Mira III
 _06/01/Pilgrim/486_
