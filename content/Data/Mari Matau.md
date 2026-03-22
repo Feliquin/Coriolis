@@ -10,7 +10,7 @@ draft: false
 # Mari Matau
 _The Tailor from Mira_
 
-Famous animaturg living on Mira.
+Famous animaturg living on [[Mira]].
 
 > [!NOTE] Campaign notes
 > - Currently with the characters.

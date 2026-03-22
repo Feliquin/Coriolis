@@ -1,6 +1,6 @@
 ---
-creation date: 2026-03-22 09:38
-modification date: Sonntag 22. März 2026 09:41:01
+creation date: 2026-03-22 09:42
+modification date: Sonntag 22. März 2026 09:43:30
 tags:
   - utilitity
 ---
@@ -14,6 +14,7 @@ tags:
 ---
 
 Templater command: `Open insert template modal`
+Link Icon: Scan Vault
 
 ---
 
@@ -24,6 +25,8 @@ Updated:  2026-03-06 06:37:42
 Updated:  2026-03-06 06:41:13
 Updated:  2026-03-22 09:41:01
 Updated:  2026-03-22 09:42:14
+Updated:  2026-03-22 09:44:36
+
 
 
 

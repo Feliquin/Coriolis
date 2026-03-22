@@ -11,6 +11,6 @@ draft: false
 _Niece of Dramora_
 
 > [!NOTE] Campaign notes
-> - Niece of Dramora Chelebs-Menau.
-> - To be married to Izaldun Laskarid.
+> - Niece of [[Dramora Chelebs-Menau]].
+> - To be married to [[Izaldun Laskarid]].
 > - Born with three arms.

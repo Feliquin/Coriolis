@@ -17,7 +17,7 @@ It is said the Golden Harvest was a gift to the plebeians from the farming magna
 
 With wealthy pilgrims comes the need for security, and for a couple of decades now the Golden Harvest has been guarded by a company of warrior nuns manning a series of weapon platforms along the train. On top of the massive engine car is a landing pad with one shuttle and two light atmospheric attack ships. 
 
-The Golden Harvest never stops during its journey, traveling at about 60 km/h for just over two weeks from Mira to the Pilgrim’s Serai. 
+The Golden Harvest never stops during its journey, traveling at about 60 km/h for just over two weeks from [[Mira]] to the Pilgrim’s Serai. 
 
 > [!NOTE] Campaign notes
 > - It is a heresy to board or leave the train outside the official stations.
