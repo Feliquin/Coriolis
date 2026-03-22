@@ -7,9 +7,11 @@
 | [[Data/Okra Darma.md\|Okra Darma]]                                         | Group     |
 | [[Data/Pfirsichköpfchen.md\|Pfirsichköpfchen]]                             | \-        |
 | [[Data/Quick Guide to the 3rd Horizon.md\|Quick Guide to the 3rd Horizon]] | \-        |
+| [[Data/Religion of the Icons.md\|Religion of the Icons]]                   | Religion  |
 | [[Data/The Church of the Icons.md\|The Church of the Icons]]               | Faction   |
 | [[Data/The Consortium.md\|The Consortium]]                                 | Faction   |
 | [[Data/The Draconites.md\|The Draconites]]                                 | Faction   |
+| [[Data/The Faith of the People.md\|The Faith of the People]]               | Religion  |
 | [[Data/The Free League.md\|The Free League]]                               | Faction   |
 | [[Data/The Humanites.md\|The Humanites]]                                   | Faction   |
 | [[Data/The Ialid'al Jira prophecy.md\|The Ialid'al Jira prophecy]]         | \-        |

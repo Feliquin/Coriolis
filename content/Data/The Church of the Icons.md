@@ -25,7 +25,7 @@ In 429 PW, the nine sacred rites were put in writing in the Icon City on [[Mira]
 Church originally grew into a faction to begin with. A ruling matriarch and patriarch, assisted by an assembly of clergy, head the new faction.
 
 After the schism that was the arrival of the Emissaries and the events of the Second 
-Portal War, the Church as an institution lost many believers. But the religion of the Icons 
+Portal War, the Church as an institution lost many believers. But the [[Religion of the Icons]] 
 is still practised by most Firstcome and some Zenithians. 
 
 Nowadays, the Church accepts the duality of the Icons’ temperaments and vengefulness. This more open mindset brought some supporters back to the Church of the Icons.

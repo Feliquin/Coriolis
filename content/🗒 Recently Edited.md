@@ -1,5 +1,8 @@
 | Entry                                                              | Modified             |
 | ------------------------------------------------------------------ | -------------------- |
+| [[Data/The Church of the Icons.md\|The Church of the Icons]]       | 22. März 2026, 21:22 |
+| [[Data/Religion of the Icons.md\|Religion of the Icons]]           | 22. März 2026, 21:22 |
+| [[Data/The Faith of the People.md\|The Faith of the People]]       | 22. März 2026, 21:22 |
 | [[Data/Samenkar.md\|Samenkar]]                                     | 22. März 2026, 09:44 |
 | [[Data/Cemisa Chelebs-Menau.md\|Cemisa Chelebs-Menau]]             | 22. März 2026, 09:43 |
 | [[Data/Golden Harvest.md\|Golden Harvest]]                         | 22. März 2026, 09:43 |
@@ -17,6 +20,3 @@
 | [[Data/The Legion.md\|The Legion]]                                 | 6. März 2026, 06:39  |
 | [[Data/The Humanites.md\|The Humanites]]                           | 6. März 2026, 06:39  |
 | [[Data/The Free League.md\|The Free League]]                       | 6. März 2026, 06:38  |
-| [[Data/The Draconites.md\|The Draconites]]                         | 6. März 2026, 06:38  |
-| [[Data/The Consortium.md\|The Consortium]]                         | 6. März 2026, 06:38  |
-| [[Data/The Church of the Icons.md\|The Church of the Icons]]       | 6. März 2026, 06:38  |
