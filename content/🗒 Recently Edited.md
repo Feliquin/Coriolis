@@ -1,5 +1,6 @@
 | Entry                                                              | Modified             |
 | ------------------------------------------------------------------ | -------------------- |
+| [[Data/Quadrant of the Pillar.md\|Quadrant of the Pillar]]         | 23. März 2026, 13:00 |
 | [[Data/The Order of the Pariah.md\|The Order of the Pariah]]       | 23. März 2026, 10:55 |
 | [[Data/The Faith of the People.md\|The Faith of the People]]       | 23. März 2026, 10:55 |
 | [[Data/The Syndicate.md\|The Syndicate]]                           | 23. März 2026, 10:54 |
@@ -19,4 +20,3 @@
 | [[Data/Izaldun Laskarid.md\|Izaldun Laskarid]]                     | 22. März 2026, 09:19 |
 | [[Data/The Ialid'al Jira prophecy.md\|The Ialid'al Jira prophecy]] | 22. März 2026, 09:14 |
 | [[Data/Truth Seeker.md\|Truth Seeker]]                             | 6. März 2026, 06:40  |
-| [[Data/The Zenithian Hegemony.md\|The Zenithian Hegemony]]         | 6. März 2026, 06:40  |

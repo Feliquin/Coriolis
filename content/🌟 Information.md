@@ -7,6 +7,7 @@
 | [[Data/Holy Warriors.md\|Holy Warriors]]                                   | Group     |
 | [[Data/Okra Darma.md\|Okra Darma]]                                         | Group     |
 | [[Data/Pfirsichköpfchen.md\|Pfirsichköpfchen]]                             | \-        |
+| [[Data/Quadrant of the Pillar.md\|Quadrant of the Pillar]]                 | \-        |
 | [[Data/Quick Guide to the 3rd Horizon.md\|Quick Guide to the 3rd Horizon]] | \-        |
 | [[Data/Religion of the Icons.md\|Religion of the Icons]]                   | Religion  |
 | [[Data/The Church of the Icons.md\|The Church of the Icons]]               | Faction   |

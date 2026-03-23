@@ -1,5 +1,6 @@
 | Entry                                                              | Added                |
 | ------------------------------------------------------------------ | -------------------- |
+| [[Data/Quadrant of the Pillar.md\|Quadrant of the Pillar]]         | 23. März 2026, 13:00 |
 | [[Data/Character Overview.md\|Character Overview]]                 | 23. März 2026, 10:50 |
 | [[Data/⭐ General Player Info.md\|⭐ General Player Info]]           | 23. März 2026, 10:47 |
 | [[Data/The Faith of the People.md\|The Faith of the People]]       | 23. März 2026, 10:55 |
@@ -19,4 +20,3 @@
 | [[Data/Truth Seeker.md\|Truth Seeker]]                             | 6. März 2026, 06:40  |
 | [[Logs/The Tailor from Mira II.md\|The Tailor from Mira II]]       | 4. März 2026, 09:34  |
 | [[Data/Holy Warriors.md\|Holy Warriors]]                           | 6. März 2026, 06:38  |
-| [[Data/Magistrate Kemulla.md\|Magistrate Kemulla]]                 | 1. März 2026, 09:45  |
