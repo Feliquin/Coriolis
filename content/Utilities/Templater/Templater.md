@@ -5,7 +5,6 @@ tags:
   - utilitity
 ---
 Updated:  <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
-
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 
@@ -57,4 +56,39 @@ await fileAndQuery.forEach(async (query, filename) => {
   await app.vault.modify(tFile, queryOutput.value);
 
 });
+
+const assetFolder = "Assets"; 
+const outputFolder = "/"; 
+const myfileName = `🗒 PDF List.md`;
+
+// Alle Dateien holen
+const files = app.vault.getFiles();
+
+// PDFs filtern + sortieren
+const pdfs = files
+  .filter(f =>
+    f.extension === "pdf" &&
+    f.path.startsWith(assetFolder + "/")
+  )
+  .sort((a, b) => b.stat.mtime - a.stat.mtime);
+
+// Inhalt erzeugen
+let content = ``;
+
+if (pdfs.length === 0) {
+  content += `No PDFs found.`;
+} else {
+  content += `| PDF | Edited |\n`;
+  content += `| --- | --- |\n`;
+  for (const pdf of pdfs) {
+    const modified = window.moment(pdf.stat.mtime).format("YYYY-MM-DD HH:mm");
+    content += `| [[${pdf.path}]] | ${modified} |\n`;
+  }
+}
+
+// Datei erstellen
+const tFilePDFList = tp.file.find_tfile(myfileName);
+const filePath = `${outputFolder}/${myfileName}`;
+
+await app.vault.modify(tFilePDFList, content);
 %>
