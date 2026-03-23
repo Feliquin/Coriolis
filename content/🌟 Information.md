@@ -1,5 +1,6 @@
 | Info                                                                       | Type      |
 | -------------------------------------------------------------------------- | --------- |
+| [[Data/⭐ General Player Info.md\|⭐ General Player Info]]                   | \-        |
 | [[Data/Ahlam's Temple.md\|Ahlam's Temple]]                                 | Faction   |
 | [[Data/Golden Harvest.md\|Golden Harvest]]                                 | \-        |
 | [[Data/History of the 3rd Horizon.md\|History of the 3rd Horizon]]         | \-        |

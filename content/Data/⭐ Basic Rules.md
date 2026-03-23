@@ -7,4 +7,4 @@ tags:
 ---
 # Basic Rules
 
-![[Pasted image 20260225120943.png]]
+![[Rules_Coriolis.pdf]]

@@ -21,6 +21,6 @@ tags:
 ## OTHER CHARACTERISTICS
 **Reputation** (REP): Reputation is, at its core, a measure of professional competency. But also how recognizable you are. Can give a modifier to certain social interactions. Starts at 0 (Zero).
 
-**Mystic Strength Indication** (MSI): How good you are with Mystic Powers. Only determined if life path says so. Has special rules: gives access to psionic [[Skills]].
+**Mystic Strength Indication** (MSI): How good you are with Mystic Powers. Only determined if life path says so. Has special rules: gives access to psionic Skills.
 
-**[[Luck]]** (LCK): Protection by the Icons, fate, simple [[Luck]]. Has special rules: may be used to support checks or even cheat death. Determined like the other base characteristics.
+**Luck** (LCK): Protection by the Icons, fate, simple Luck. Has special rules: may be used to support checks or even cheat death. Determined like the other base characteristics.
