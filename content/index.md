@@ -9,10 +9,10 @@ title: Welcome to the Third Horizon
 [[🌟 Ships]]
 [[🌟 Information]]
 
-[[🎲 Meta]]
-[[📕 Log Book]]
+Session overview: [[📕 Log Book]]
+Game rules: [[🎲 Meta]]
 
-[[🗒 Recently Added]] - [[🗒 Recently Edited]]
+[[🗒 Recently Added]] - [[🗒 Recently Edited]] - [[🗒 PDF List]]
 
 
 > [!WARNING] Quick Tip
