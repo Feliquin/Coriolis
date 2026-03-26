@@ -5,6 +5,7 @@
 | [[Data/Golden Harvest.md\|Golden Harvest]]                                 | \-        |
 | [[Data/History of the 3rd Horizon.md\|History of the 3rd Horizon]]         | \-        |
 | [[Data/Holy Warriors.md\|Holy Warriors]]                                   | Group     |
+| [[Data/Legend of the Alhari.md\|Legend of the Alhari]]                     | \-        |
 | [[Data/Okra Darma.md\|Okra Darma]]                                         | Group     |
 | [[Data/Pfirsichköpfchen.md\|Pfirsichköpfchen]]                             | \-        |
 | [[Data/Quadrant of the Pillar.md\|Quadrant of the Pillar]]                 | \-        |

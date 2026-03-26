@@ -30,3 +30,8 @@
 | [[Assets/QuickRules_Coriolis.pdf]]                          | 2026-03-22 11:44 |
 | [[Assets/Equipment_Coriolis.pdf]]                           | 2026-03-22 11:41 |
 | [[Assets/Char_All.pdf]]                                     | 2026-02-09 07:57 |
+| [[Assets/WS2025Q1.pdf]]                                     | 2025-05-11 11:44 |
+| [[Assets/WS2024Q4.pdf]]                                     | 2025-01-03 10:55 |
+| [[Assets/WS2024Q3.pdf]]                                     | 2024-09-25 11:03 |
+| [[Assets/WS2024Q2.pdf]]                                     | 2024-06-23 19:01 |
+| [[Assets/WS2024Q1.pdf]]                                     | 2024-04-01 15:08 |
