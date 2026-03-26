@@ -3,6 +3,7 @@
 | [[Data/Quadrant of the Pillar.md\|Quadrant of the Pillar]]         | 23. März 2026, 13:00 |
 | [[Data/Character Overview.md\|Character Overview]]                 | 23. März 2026, 10:50 |
 | [[Data/⭐ General Player Info.md\|⭐ General Player Info]]           | 23. März 2026, 10:47 |
+| [[Data/⭐ Basic Rules.md\|⭐ Basic Rules]]                           | 23. März 2026, 10:44 |
 | [[Data/The Faith of the People.md\|The Faith of the People]]       | 23. März 2026, 10:55 |
 | [[Data/Religion of the Icons.md\|Religion of the Icons]]           | 22. März 2026, 21:22 |
 | [[Logs/The Tailor from Mira III.md\|The Tailor from Mira III]]     | 22. März 2026, 09:41 |
@@ -19,4 +20,3 @@
 | [[Data/The Church of the Icons.md\|The Church of the Icons]]       | 22. März 2026, 21:22 |
 | [[Data/Truth Seeker.md\|Truth Seeker]]                             | 6. März 2026, 06:40  |
 | [[Logs/The Tailor from Mira II.md\|The Tailor from Mira II]]       | 4. März 2026, 09:34  |
-| [[Data/Holy Warriors.md\|Holy Warriors]]                           | 6. März 2026, 06:38  |

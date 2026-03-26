@@ -88,3 +88,5 @@ About Þ∙ 2.000 per segment
 ### BERTHING COST
 Ranges from Þ∙ 250 on remote border planets to Þ∙ 1.500 on busy core stations
 Pays for docking for a week
+
+![[BluePrintMedicalCruiser.pdf]]
