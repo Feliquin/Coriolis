@@ -1,9 +1,5 @@
 | Location                       | Type           |
 | ------------------------------ | -------------- |
-| [[Data/Aiwaz.md\|Aiwaz]]       | System         |
-| [[Data/Algol.md\|Algol]]       | System         |
-| [[Data/Altai.md\|Altai]]       | System         |
-| [[Data/Awadhi.md\|Awadhi]]     | System         |
 | [[Data/Dabaran.md\|Dabaran]]   | System         |
 | [[Data/Hamura.md\|Hamura]]     | System         |
 | [[Data/Kua.md\|Kua]]           | System         |

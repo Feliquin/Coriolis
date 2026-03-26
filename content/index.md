@@ -9,6 +9,7 @@ title: Welcome to the Third Horizon
 [[🌟 Ships]]
 [[🌟 Information]]
 
+PCs: [[Character Overview]]
 Session overview: [[📕 Log Book]]
 Game rules: [[🎲 Meta]]
 
