@@ -1,5 +1,6 @@
 | PDF                                                         | Edited           |
 | ----------------------------------------------------------- | ---------------- |
+| [[Assets/System_Odacon.pdf]]                                | 2026-03-26 15:37 |
 | [[Assets/TravellerSheetCoriolis_Creation.pdf]]              | 2026-03-26 09:44 |
 | [[Assets/TravellerSheetCoriolis_Ship.pdf]]                  | 2026-03-26 09:43 |
 | [[Assets/TravellerSheetCoriolis_Creditflow.pdf]]            | 2026-03-26 09:43 |
@@ -17,7 +18,6 @@
 | [[Assets/System_Hamura.pdf]]                                | 2026-03-23 10:28 |
 | [[Assets/System_Kua.pdf]]                                   | 2026-03-23 10:25 |
 | [[Assets/System_Mira.pdf]]                                  | 2026-03-23 10:22 |
-| [[Assets/System_Odacon.pdf]]                                | 2026-03-23 10:20 |
 | [[Assets/System_Ordana.pdf]]                                | 2026-03-23 10:19 |
 | [[Assets/System_QuadrantPillar.pdf]]                        | 2026-03-23 10:17 |
 | [[Assets/System_Sivas.pdf]]                                 | 2026-03-23 10:12 |
