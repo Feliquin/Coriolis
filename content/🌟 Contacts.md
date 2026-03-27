@@ -1,5 +1,6 @@
 | Contact                                                  | Status |
 | -------------------------------------------------------- | ------ |
+| [[Data/Cemisa Chelebs-Menau.md\|Cemisa Chelebs-Menau]]   | \-     |
 | [[Data/Dramora Chelebs-Menau.md\|Dramora Chelebs-Menau]] | \-     |
 | [[Data/Iskander.md\|Iskander]]                           | \-     |
 | [[Data/Izaldun Laskarid.md\|Izaldun Laskarid]]           | \-     |

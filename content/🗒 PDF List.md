@@ -1,13 +1,13 @@
 | PDF                                                         | Edited           |
 | ----------------------------------------------------------- | ---------------- |
-| [[Assets/Rules_Coriolis.pdf]]                               | 2026-03-26 21:09 |
+| [[Assets/Rules_Coriolis.pdf]]                               | 2026-03-27 10:07 |
+| [[Assets/TravellerSheetCoriolis_Manifest_MaidenVoyage.pdf]] | 2026-03-27 07:22 |
+| [[Assets/TravellerSheetCoriolis_Manifest.pdf]]              | 2026-03-27 07:21 |
 | [[Assets/System_Odacon.pdf]]                                | 2026-03-26 15:49 |
 | [[Assets/TravellerSheetCoriolis_Creation.pdf]]              | 2026-03-26 09:44 |
 | [[Assets/TravellerSheetCoriolis_Ship.pdf]]                  | 2026-03-26 09:43 |
 | [[Assets/TravellerSheetCoriolis_Creditflow.pdf]]            | 2026-03-26 09:43 |
 | [[Assets/TravellerSheetCoriolis_Character.pdf]]             | 2026-03-26 09:43 |
-| [[Assets/TravellerSheetCoriolis_Manifest.pdf]]              | 2026-03-26 09:42 |
-| [[Assets/TravellerSheetCoriolis_Manifest_MaidenVoyage.pdf]] | 2026-03-26 09:42 |
 | [[Assets/BluePrintMedicalCruiser.pdf]]                      | 2026-03-25 11:05 |
 | [[Assets/Playerinfo_Coriolis.pdf]]                          | 2026-03-23 10:43 |
 | [[Assets/System_Aiwaz.pdf]]                                 | 2026-03-23 10:38 |
