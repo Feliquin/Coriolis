@@ -7,7 +7,7 @@
 | [[Data/⭐ Basic Rules.md\|⭐ Basic Rules]]                           | 23. März 2026, 10:44 |
 | [[Data/The Faith of the People.md\|The Faith of the People]]       | 23. März 2026, 10:55 |
 | [[Data/Religion of the Icons.md\|Religion of the Icons]]           | 22. März 2026, 21:22 |
-| [[Logs/The Tailor from Mira III.md\|The Tailor from Mira III]]     | 22. März 2026, 09:41 |
+| [[Logs/The Tailor from Mira III.md\|The Tailor from Mira III]]     | 28. März 2026, 17:18 |
 | [[Data/Mari Matau.md\|Mari Matau]]                                 | 22. März 2026, 09:43 |
 | [[Data/Golden Harvest.md\|Golden Harvest]]                         | 22. März 2026, 09:43 |
 | [[Data/Dramora Chelebs-Menau.md\|Dramora Chelebs-Menau]]           | 22. März 2026, 09:20 |
@@ -17,6 +17,6 @@
 | [[Data/The Ialid'al Jira prophecy.md\|The Ialid'al Jira prophecy]] | 22. März 2026, 09:14 |
 | [[Data/The Syndicate.md\|The Syndicate]]                           | 23. März 2026, 10:54 |
 | [[Data/The Order of the Pariah.md\|The Order of the Pariah]]       | 23. März 2026, 10:55 |
+| [[Data/The Nomad Federation.md\|The Nomad Federation]]             | 28. März 2026, 17:11 |
 | [[Data/The Draconites.md\|The Draconites]]                         | 23. März 2026, 10:53 |
 | [[Data/The Church of the Icons.md\|The Church of the Icons]]       | 22. März 2026, 21:22 |
-| [[Logs/The Tailor from Mira II.md\|The Tailor from Mira II]]       | 4. März 2026, 09:34  |

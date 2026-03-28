@@ -19,7 +19,7 @@ VIP: Ulmah Goharshûd (Nomad mogul),
 Janhagir (Council Member)
 
 The federation is a jumble of different families, clans, bloodlines, alliances and tribes all 
-claiming nomad heritage. Most nomads in the Federation are from the Quadrant of the Pillar, the Rimward Reach or Nharmada, but the Kyhber swarm from [[Algol]], the salvage nomads from [[Odacon]] and the Jebel and Chambi clans from Melik are also represented here.
+claiming nomad heritage. Most nomads in the Federation are from the [[Quadrant of the Pillar]], the Rimward Reach or Nharmada, but the Kyhber swarm from [[Algol]], the salvage nomads from [[Odacon]] and the Jebel and Chambi clans from Melik are also represented here.
 
 The prime goal of the faction is to strengthen the nomads against the other factions whose claims in the Horizon have grown considerably.
 

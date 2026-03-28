@@ -91,16 +91,16 @@ of the Pillar sits at the mouth of the Miran Chain, and as such,
 has become the focal point of the entire Horizon with the recent blockade of the [[Zalos]] system.
 ### ALTAI
 _Alabaster Council • High corsair activity • City of Khorsabad_
-The inhospitable [[Altai]] system was nothing more than a corsair ruled gateway to The Quadrant of the Pillar just a few decades ago. Now it is the center of the Third Horizon - at least for the Firstcome. 
+The inhospitable [[Altai]] system was nothing more than a corsair ruled gateway to The [[Quadrant of the Pillar]] just a few decades ago. Now it is the center of the Third Horizon - at least for the Firstcome. 
 ### ORDANA
 _Zenithians • Hayrangi Station • Remote Yuisin system_
-[[Ordana]] is often called the Zenithian powerbase in the Quadrant of the Pillar. This is especially true now that the system has become a natural trade path to [[Mira]] on the new [[Odacon]] Route – a result of the frequent blockades of [[Zalos]]. The system is not free from conflict, however, as a growing rebel movement called Ayuttha’s Leopards fight against the allies of [[The Consortium]]. 
+[[Ordana]] is often called the Zenithian powerbase in the [[Quadrant of the Pillar]]. This is especially true now that the system has become a natural trade path to [[Mira]] on the new [[Odacon]] Route – a result of the frequent blockades of [[Zalos]]. The system is not free from conflict, however, as a growing rebel movement called Ayuttha’s Leopards fight against the allies of [[The Consortium]]. 
 ### SIVAS 
 _Firstcome tradition • Gisaeng courtisans • The Lotus Brothers_
-In a forgotten corner of the Quadrant of the Pillar lies the [[Sivas]] system. Far from the traditional trade routes of the Third Horizon, [[Sivas]] is home only to a small number of mining colonies, trade outposts, and the strange moon Karast. 
+In a forgotten corner of the [[Quadrant of the Pillar]] lies the [[Sivas]] system. Far from the traditional trade routes of the Third Horizon, [[Sivas]] is home only to a small number of mining colonies, trade outposts, and the strange moon Karast. 
 ### ZHAU
 _Lance Station • Remnants of Portal Builders • Trinary system_
-The trinary system [[Zhau]] is often called the rogue state of the Quadrant of the Pillar. The abundance of habitable planets has provided a home to many settlers from the Quadrant – and lately – from all across the Horizon.
+The trinary system [[Zhau]] is often called the rogue state of the [[Quadrant of the Pillar]]. The abundance of habitable planets has provided a home to many settlers from the Quadrant – and lately – from all across the Horizon.
 ### ODACON
 _Shadows of the Old War • Dying star • Mining Station Echron_
 The [[Odacon]] system stands as a monument of destruction and a testament to the madness of the Portal wars. People do not travel here voluntarily, unless they are passing through while traversing the Miran chain, or are desperate enough to seek fame and fortune in the ruined system.
