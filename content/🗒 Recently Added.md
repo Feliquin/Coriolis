@@ -1,5 +1,6 @@
 | Entry                                                              | Added                |
 | ------------------------------------------------------------------ | -------------------- |
+| [[Logs/The Tailor from Mira IV.md\|The Tailor from Mira IV]]       | 29. März 2026, 23:23 |
 | [[Data/Character Overview.md\|Character Overview]]                 | 26. März 2026, 15:41 |
 | [[Data/Legend of the Alhari.md\|Legend of the Alhari]]             | 26. März 2026, 12:27 |
 | [[Data/Quadrant of the Pillar.md\|Quadrant of the Pillar]]         | 23. März 2026, 13:00 |
@@ -19,4 +20,3 @@
 | [[Data/The Order of the Pariah.md\|The Order of the Pariah]]       | 23. März 2026, 10:55 |
 | [[Data/The Nomad Federation.md\|The Nomad Federation]]             | 28. März 2026, 17:11 |
 | [[Data/The Draconites.md\|The Draconites]]                         | 23. März 2026, 10:53 |
-| [[Data/The Church of the Icons.md\|The Church of the Icons]]       | 22. März 2026, 21:22 |

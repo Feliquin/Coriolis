@@ -1,5 +1,6 @@
 | Entry                                                                      | Modified             |
 | -------------------------------------------------------------------------- | -------------------- |
+| [[Logs/The Tailor from Mira IV.md\|The Tailor from Mira IV]]               | 29. März 2026, 23:23 |
 | [[Logs/The Tailor from Mira III.md\|The Tailor from Mira III]]             | 28. März 2026, 17:18 |
 | [[Data/Quick Guide to the 3rd Horizon.md\|Quick Guide to the 3rd Horizon]] | 28. März 2026, 17:11 |
 | [[Data/The Nomad Federation.md\|The Nomad Federation]]                     | 28. März 2026, 17:11 |
@@ -19,4 +20,3 @@
 | [[Data/Samenkar.md\|Samenkar]]                                             | 22. März 2026, 09:44 |
 | [[Data/Cemisa Chelebs-Menau.md\|Cemisa Chelebs-Menau]]                     | 22. März 2026, 09:43 |
 | [[Data/Golden Harvest.md\|Golden Harvest]]                                 | 22. März 2026, 09:43 |
-| [[Data/Mari Matau.md\|Mari Matau]]                                         | 22. März 2026, 09:43 |
