@@ -14,5 +14,6 @@ Famous animaturg living on [[Mira]].
 
 > [!NOTE] Campaign notes
 > - Currently with the characters.
+> - On her way to [[Altai]] on board the [[Al-Jamal]].
 
 ![[Mari-TailorMira.png|500]]

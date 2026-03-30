@@ -12,3 +12,5 @@ _Zenithian Hegemony_
 
 > [!NOTE] Campaign notes
 > - To be married to [[Cemisa Chelebs-Menau]].
+
+![[IzaldunLaskarid.png|500]]

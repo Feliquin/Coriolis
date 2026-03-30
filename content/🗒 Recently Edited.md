@@ -1,7 +1,11 @@
 | Entry                                                                      | Modified             |
 | -------------------------------------------------------------------------- | -------------------- |
-| [[Logs/The Tailor from Mira IV.md\|The Tailor from Mira IV]]               | 29. März 2026, 23:23 |
-| [[Logs/The Tailor from Mira III.md\|The Tailor from Mira III]]             | 28. März 2026, 17:18 |
+| [[Logs/The Tailor from Mira IV.md\|The Tailor from Mira IV]]               | 30. März 2026, 11:53 |
+| [[Data/Izaldun Laskarid.md\|Izaldun Laskarid]]                             | 30. März 2026, 11:48 |
+| [[Data/Sirajjin.md\|Sirajjin]]                                             | 30. März 2026, 11:47 |
+| [[Data/Mari Matau.md\|Mari Matau]]                                         | 30. März 2026, 11:46 |
+| [[Data/Cemisa Chelebs-Menau.md\|Cemisa Chelebs-Menau]]                     | 30. März 2026, 11:43 |
+| [[Logs/The Tailor from Mira III.md\|The Tailor from Mira III]]             | 30. März 2026, 10:00 |
 | [[Data/Quick Guide to the 3rd Horizon.md\|Quick Guide to the 3rd Horizon]] | 28. März 2026, 17:11 |
 | [[Data/The Nomad Federation.md\|The Nomad Federation]]                     | 28. März 2026, 17:11 |
 | [[Data/Character Overview.md\|Character Overview]]                         | 26. März 2026, 15:41 |
@@ -16,7 +20,3 @@
 | [[Data/⭐ General Player Info.md\|⭐ General Player Info]]                   | 23. März 2026, 10:47 |
 | [[Data/⭐ Basic Rules.md\|⭐ Basic Rules]]                                   | 23. März 2026, 10:44 |
 | [[Data/The Church of the Icons.md\|The Church of the Icons]]               | 22. März 2026, 21:22 |
-| [[Data/Religion of the Icons.md\|Religion of the Icons]]                   | 22. März 2026, 21:22 |
-| [[Data/Samenkar.md\|Samenkar]]                                             | 22. März 2026, 09:44 |
-| [[Data/Cemisa Chelebs-Menau.md\|Cemisa Chelebs-Menau]]                     | 22. März 2026, 09:43 |
-| [[Data/Golden Harvest.md\|Golden Harvest]]                                 | 22. März 2026, 09:43 |

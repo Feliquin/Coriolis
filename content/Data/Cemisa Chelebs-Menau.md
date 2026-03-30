@@ -14,3 +14,5 @@ _Niece of Dramora_
 > - Niece of [[Dramora Chelebs-Menau]].
 > - To be married to [[Izaldun Laskarid]].
 > - Born with three arms.
+
+![[Cemisa3armed.png]]
