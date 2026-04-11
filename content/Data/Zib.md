@@ -10,7 +10,7 @@ type: System
 # Zib
 _Note_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[System_Zib.pdf]]

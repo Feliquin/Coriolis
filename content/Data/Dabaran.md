@@ -10,7 +10,7 @@ type: System
 # Dabaran
 _Home of the Dars_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[System_Dabaran.pdf]]

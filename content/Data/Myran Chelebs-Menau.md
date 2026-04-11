@@ -10,7 +10,7 @@ draft: false
 # Myran Chelebs-Menau
 _Son in Exile_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Tried to outsmart his mother, [[Dramora Chelebs-Menau]], and failed.
 
 ![[MyranChelebsMenau.png|500]]

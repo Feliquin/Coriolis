@@ -8,7 +8,7 @@ tags:
 # Kindara al-Mandhur
 _First Wife_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - First Wife of [[Jussuf al-Mandhur]]
 
 ![[Kindara.png|500]]

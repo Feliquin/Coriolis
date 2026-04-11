@@ -10,7 +10,7 @@ draft: false
 # Cemisa Chelebs-Menau
 _CEO of Chelebs-Laskarid Shipyards_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Niece of [[Dramora Chelebs-Menau]].
 > - Married to [[Izaldun Laskarid]].
 > - Born with three arms.

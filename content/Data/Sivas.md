@@ -10,7 +10,7 @@ type: System
 # Sivas
 _Home of the Lotus Brotherhood_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[System_Sivas.pdf]]

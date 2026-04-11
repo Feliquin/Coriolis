@@ -10,7 +10,7 @@ type: System
 # Taoan
 _Remote system_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[System_Taoan.pdf]]

@@ -10,7 +10,7 @@ type: Celestial Body
 # Mira (Planet)
 _Home of the Church of the Icons_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Controlled by [[The Church of the Icons]]
 > - Richest and most influencial family: the Chelebs-Menau dynasty (owning the famous shipyard)
 

@@ -132,6 +132,5 @@ No entry yet.
 _End of World Bazaar • Djinni's Voyage • Darkness storms_
 No entry yet.
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

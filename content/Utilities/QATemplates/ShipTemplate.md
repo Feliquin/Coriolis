@@ -9,7 +9,7 @@ draft: false
 # <% tp.file.title %>
 _Note_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - fdfgdfg
 
 ![[]]

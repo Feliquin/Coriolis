@@ -10,7 +10,7 @@ type: System
 # Zhau
 _Note_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[System_Zhau.pdf]]

@@ -8,7 +8,7 @@ tags:
 # Rolan Durrok
 _Member of the Zenithian Hegemony_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Seeks passage through the [[Mira]] Chain
 
 ![[RolanDurrok.png|500]]

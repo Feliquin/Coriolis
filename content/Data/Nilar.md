@@ -8,7 +8,7 @@ tags:
 # Nilar
 _Child living on the streets of Icon City_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Streetwise child living in the outskirts of Icon City on [[Mira (P)]]
 > - Knows the true identity of [[Iskander]] (being [[Jazkaar Chelebs-Menau]])
 

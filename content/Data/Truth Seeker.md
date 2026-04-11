@@ -10,7 +10,7 @@ type: Equipment
 # Truth Seeker
 _Insect_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Bio-mechanical insect used by [[The Order of the Pariah]] for interrogation.
 
 The Order's animaturgs have developed this bionic machine for the purpose of interrogating heretics. The truth-seeker is a living biomechanical insect placed on the face of the prisoner. 

@@ -9,7 +9,7 @@ tags:
 # Dr. Rami Sarif
 _Medicurg_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 Nicht nur meisterhafter Chirurg, sondern auch ein abgebrühter Medien-Profi, der zwar seinen (TV-)Zenith hinter sich hat, aber nach wie vor Bekanntheit und Anerkennung in gewissen Kreisen genießt.  

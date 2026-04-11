@@ -33,6 +33,5 @@ comes to free traders and markets outside of the core systems, the League is pra
 in a monopoly position. The current goal for the League is to keep its control of the outer 
 markets, and to improve the living conditions of its members.
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

@@ -22,7 +22,7 @@ _07/01/Pilgrim/486_
 > Myran Chelebs-Menau, Dramoras ältester Sohn, hat ein Komplott gegen die eigene Mutter gesponnen. Er sich gegenüber Shuhad als Dramora ausgegeben und dessen Schuldgefühle zu seine Gunsten ausgenutzt. Er hat Cemisa gefangen genommen und in die Sommerresidenz gebracht um dort den dritten Arm amputieren zu lassen. Letztlich sollte so das Ansehen von Dramora leiden und sie zum Abdanken gezwungen werden. Doch all dies konnte durch die Aufklärungsarbeit, die die Charaktere geleistet hatten, verhindert werden. Zum Dank erhalten die Charaktere von Dramora einen Nachlass auf die Kosten des Schiffs, einen weiteren Kanonenturm und eine Statue von Menazir al-Jamal. 
 > Shuhad wird die Charaktere eine Weile als zweiter Pilot begleiten.
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - [[Dramora Chelebs-Menau]] thanked the characters for their efforts, gave 20% discount, added a double Thermal Cannon and installed a statue of MenazirAl-Jamal.
 > - All passengers are on board, with [[Mari Matau]] and [[Sirajjin]] as additional passengers.
 > - [[Shuhad]] joined the crew temporarily.

@@ -28,7 +28,7 @@ _02/01/Pilgrim/486 - 05/01/Pilgrim/486_
 ## Auftrag von Meister Iskander
 Die Charaktere werden durch eine Direktnachricht kontaktiert und zu einem Treffen in einer schäbigen Kantina eingeladen. Gut bewacht durch neun Leibwächter lernen sie dort Meister [[Iskander]] kennen, einen exzentrischen Lebemann. Er möchte, dass die Charaktere gegen eine Bezahlung von Þ∙ 20.000 den "Schneider von [[Mira]]", einen legendären Animaturgen, finden und zu ihm bringen. Er geht nicht näher darauf ein, was der Grund für sein Anliegen ist. Nur dass seine Hoffnung darauf beruht, dass Dr. [[Rami Sarif]] hilfreich sein könnte, da er im gleichen Fachgebiet tätig ist.
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - [[Iskander]] is one of the sons of the Chelebs-Menau dynasty - why is he searching for the tailor, a famous animaturg and biosculptor?
 > - [[Nilar]] seems to be very streetwise. Does she know more about the things going on in the darker alleys of the Icon City?
 > - Maybe [[Toyel]] can help you. Regarding to [[Nilar]] he is a biosculptor and good friend of the tailor.

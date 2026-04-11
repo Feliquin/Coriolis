@@ -9,7 +9,7 @@ draft: false
 # Toyel
 _Biosculptor_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Lives in the Brick Quarter of Icon City on [[Mira]].
 > - Knows the Tailor.
 > - Is in financial trouble and has to pay protection money to the [[Okra Darma]] Cartel.

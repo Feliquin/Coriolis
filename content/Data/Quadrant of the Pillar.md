@@ -11,6 +11,5 @@ type:
 
 ![[System_QuadrantPillar.pdf]]
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

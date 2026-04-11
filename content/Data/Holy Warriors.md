@@ -10,7 +10,7 @@ type: Group
 # Holy Warriors
 _Order of the Pariah_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Elite forces of [[The Order of the Pariah]].
 > - Protected by animated armour - including strength and dexterity enhancing bio-mechanical systems and active cloaking.
 > - Often equipped with devastating Antimatter weapons.

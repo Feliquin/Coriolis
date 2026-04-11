@@ -9,7 +9,7 @@ tags:
 # Kaelen al-Sari
 _Agent_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 Ein ehemaliger Agent im Auftrag der Normadenföderation.  

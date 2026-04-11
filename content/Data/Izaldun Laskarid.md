@@ -10,7 +10,7 @@ draft: false
 # Izaldun Laskarid
 _Zenithian Hegemony_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - To be married to [[Cemisa Chelebs-Menau]].
 
 ![[IzaldunLaskarid.png|500]]

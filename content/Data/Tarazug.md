@@ -10,7 +10,7 @@ type: System
 # Tarazug
 _Note_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[System_Tarazug.pdf]]

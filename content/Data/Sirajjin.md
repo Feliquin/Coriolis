@@ -10,7 +10,7 @@ draft: false
 # Sirajjin
 _Girl friend of Mari_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[Sirajjin.png|500]]

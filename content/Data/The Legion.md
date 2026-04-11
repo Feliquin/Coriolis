@@ -27,6 +27,5 @@ The Legion’s fleet suffered great losses during the Second Portal War, but [[T
 
 New ships with jump capability have joined the Fleet in the last few years. [[The Consortium]] uses them to quickly gain influence over the newly discovered systems outside the portal routes.
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

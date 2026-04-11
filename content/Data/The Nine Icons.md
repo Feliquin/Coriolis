@@ -27,6 +27,5 @@ On their way toward the Judge’s justice, the Widow accompanies the dead. She a
 ## THE VOID
 The Seeker among the Icons is never pictured. In temples and on Icon walls there is instead an empty place or alcove, or an asymmetry in the placement of the other Icons. Not so long ago, many did not even know of the existence of the Void, but the rise of [[The Church of the Icons]] changed that. On stage, the Void is portrayed as a masked figure all in black that sneaks about the set, rearranging the props and giving or taking away objects from the actors. The most common aspect of the Icon is the Shadow, although for a long time many thought of it as an evil spirit rather than an Icon. The Shadow brings madness by luring the soul out into the Dark between the Stars. 
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

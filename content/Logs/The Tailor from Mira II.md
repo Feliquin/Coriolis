@@ -19,7 +19,7 @@ _06/01/Pilgrim/486_
 > Samankar arbeitet am Platz der Suchenden bei der Restaurierung der Statuen. Noch bevor die Charaktere dorthin aufbrechen können nötigt Iskander sie zu einem Treffen auf seiner Luxusdohl. Er hat dort aus einer Priesterin ([[Nitoya]]) heraus geprügelt, dass der Schneider Hilfe von Samankar erhalten hatte. Von [[Iskander|Iskanders]] Assistenten [[Shuhad]] erfahren die Charaktere, dass sie keine Wahl haben, außer dieser Spur zu folgen und sie eigentlich für Iskanders Mutter, Dremora Chelebs-Menau, arbeiten.
 
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - The characters are on a grav glider that [[Shuhad]] lent them, going back to the Icon City.
 > - It is late afternoon of 06/01/Pilgrim.
 > - [[Toyel]] has taken a dhol directly from the Tailor's clinic to Icon City and did not witness the events on Jazkaar's luxury dhol.

@@ -8,7 +8,7 @@ tags:
 # Al-Jamal
 _Luxury Medical Cruiser_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Owned by [[Rami Sarif]], [[Rashid ben Said]], [[Suri Esfahan]] and [[Kaelen al-Sari]], under credit from Chelebs-Laskarid Shipyards
 
 ![[BluePrintLarge.png]]

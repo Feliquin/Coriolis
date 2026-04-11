@@ -29,7 +29,7 @@ _06/01/Pilgrim/486_
 > 
 > Gerade als die Charaktere auf den Schneider und die Nonnen treffen, stoßen zwei Krieger des Pariah hinzu. Ein heftiger Kampf entbrennt. Letztlich gelingt es den Charakteren jedoch, gemeinsam mit dem Schneider in die Tiefen des Zuges zu fliehen – dicht gefolgt von mehreren Nonnen und vermutlich vier Kriegern des Pariah.
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - The session ended after the battle against the Okra Darma thugs, the Church's warrior nuns and the Holy warriors of the Order of the Pariah. The characters have freed the Tailor from Mira and are currently in the deep belly of carriage 57.
 > - There might be 3-4 Holy Warriors left somewhere on the train.
 > - Some Warrior Nuns are working with Chelebs-Menau (trying to bring the Tailor to Shuhad), while others are true to the Church's interests and try to get hold of her.

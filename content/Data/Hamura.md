@@ -10,7 +10,7 @@ type: System
 # Hamura
 _Waterworld_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[System_Hamura.pdf]]

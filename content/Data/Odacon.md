@@ -10,7 +10,7 @@ type: System
 # Odacon
 _Note_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[System_Odacon.pdf]]

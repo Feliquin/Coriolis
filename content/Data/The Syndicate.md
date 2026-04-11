@@ -27,6 +27,5 @@ The Syndicate wants their operations to Run smoothly, and this requires a certai
 
 The Syndicate has no seat in the Alabaster Council.
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

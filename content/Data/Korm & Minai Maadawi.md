@@ -8,7 +8,7 @@ tags:
 # Korm & Minai Maadawi
 _Pilgrims_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Pilgrim returning home after their visit to [[Mira (P)]]
 
 ![[KormMinai.png|500]]

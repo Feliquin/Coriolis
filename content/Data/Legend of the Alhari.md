@@ -10,7 +10,7 @@ type:
 # Legend of the Alhari
 _A tale from the Second Portal War_
 
-> [!NOTE] Lesereihenfolge
+> [!INFO] Lesereihenfolge
 > 1. Würfelsack Gazette Q2/2024: *Was bisher geschah*
 > 2. Würfelsack Gazette Q1/2024: *Tragische letzte Reise der Ghazali*
 > 3. Würfelsack Gazette Q1/2024: *Arams Geheimnis enthüllt!*
@@ -29,6 +29,4 @@ _A tale from the Second Portal War_
 ![[WS2024Q4.pdf]]
 ![[WS2025Q1.pdf]]
 
-> [!NOTE] Campaign notes
-> - ...
 

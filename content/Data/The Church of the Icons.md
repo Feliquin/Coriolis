@@ -30,6 +30,5 @@ is still practised by most Firstcome and some Zenithians.
 
 Nowadays, the Church accepts the duality of the Icons’ temperaments and vengefulness. This more open mindset brought some supporters back to the Church of the Icons.
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

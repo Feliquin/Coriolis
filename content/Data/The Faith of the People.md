@@ -33,6 +33,5 @@ fox droppings. Ahmedi was so shaken by the whole affair that he turned in his ba
 ### SORCERERS
 Apart from spirits and djinn, there are many other stories about the dark arts in the Horizon. Parents on [[Kua]], and in former times Coriolis, scare their children with tales of the man-eating spirits that  primitive Firstcome called sarcofagoi. In other versions, the sarcofagoi are spirits who infiltrate spaceships on long hauls, turning the crew against each other and sowing madness. When the crew has finally killed each other in their mania, the sarcofagoi feast on their corpses. Other sorcerer figures in folklore are the bokor, who can reanimate dead cadavers. They are said to hang around slums and tent towns in cities such as Akhander-O-Sharif and the Conglomerate. When it comes to the now extinct faction, the Nazareem’s Sacrifice, the worst evils imaginable are mixed with a certain amount of truth. It is commonly believed that they practiced human sacrifice, performed dark rituals, and formed unholy alliances with evil spirits and djinn.
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

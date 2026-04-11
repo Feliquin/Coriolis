@@ -12,6 +12,5 @@ _The end of the 3rd horizon_
 
 Ialid’al Jira (“The end of times”) is a little-known prophecy put together from fragments, the authenticity of which has been fruitlessly debated by scholars for decades. According to it, when the Darkness returns to the Third Horizon, the Judge will be incarnated first, followed by the Dancer in the form of an unmarried girl with three arms. Together they will lead the righteous against the Darkness in a final battle. 
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - 
-

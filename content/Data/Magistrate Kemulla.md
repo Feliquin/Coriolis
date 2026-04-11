@@ -8,7 +8,7 @@ tags:
 # Magistrate Kemulla
 _Order of the Pariah investigator_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Roughless and cold with a fanatical drive to please [[The Order of the Pariah]].
 > - Is protected by a squad of elite [[Holy Warriors]].
 

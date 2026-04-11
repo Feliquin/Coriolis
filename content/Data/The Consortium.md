@@ -29,6 +29,5 @@ The larger corporations have representatives on the board of directors, the fact
 
 The current faction director is Ilfondra Yriedes, while Sandrol Parr sits in the Alabaster Council on [[Altai]].
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

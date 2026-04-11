@@ -30,6 +30,5 @@ There are about 20 different humanite species, but the largest groups are:
 
 Humanites have one seat in the Alabaster Council and operate a separate Humanite Council.
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

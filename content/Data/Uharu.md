@@ -10,7 +10,7 @@ type: System
 # Uharu
 _Rebel system_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[System_Uharu.pdf]]

@@ -27,6 +27,5 @@ For many years, members of the Hegemony served the Cooperations as influencers a
 
 Now, Lord Lian Quassar officially rules the faction. He still has control over the infamous secret police, the Astûrban. Meanwhile, his sister Olandria Quassar sits in the Alabaster Council.
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

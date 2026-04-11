@@ -17,7 +17,7 @@ _x/x/xxx/486_
 > [!SUMMARY] Summary
 > ...
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ---

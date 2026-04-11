@@ -30,6 +30,5 @@ faction.
 
 Sahdi bat-Erden, a veteran of the Second Portal War, has a seat in the Alabaster Council, while Milan sur-Ibana leads the Draconite Academy on [[Altai]].
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

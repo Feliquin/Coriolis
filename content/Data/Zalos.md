@@ -10,7 +10,7 @@ type: System
 # Zalos
 _Note_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[System_Zalos.pdf]]

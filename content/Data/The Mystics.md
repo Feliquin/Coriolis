@@ -30,6 +30,5 @@ In the passing decades, many Mystics trained in the academies ventured out into 
 
 The Mystics have a seat in the Alabaster Council.
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

@@ -7,7 +7,7 @@ tags:
 ---
 # Pfirsichköpfchen
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Owned by [[Rashid ben Said]].
 
 ![[Pfirsichkoepfchen.png]]

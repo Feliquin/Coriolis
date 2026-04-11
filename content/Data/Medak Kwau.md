@@ -8,7 +8,7 @@ tags:
 # Medak Kwau
 _Ship architect_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Architect and ship sculptor who works for Chelebs Shipyard on [[Mira]].
 > - Designer of the [[Al-Jamal]].
 

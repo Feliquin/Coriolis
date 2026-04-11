@@ -71,6 +71,5 @@ consensus on the matter.
 The religious practices of the factions differ greatly. The Firstcome factions are all dominated by religious and mystical ideas but in different forms. Two factions praise only one Icon – [[The Draconites]] who worship the Executioner, and [[The Order of the Pariah]] who bow only to the Martyr. There are even some different practices within [[The Church of the Icons]], where the marginalized cult of the Circle of Seekers view the Icon faith as a rough but practical simplification of the great mystery of life, and that each Icon is its own way to enlightenment. The Zenithian factions distance themselves from the Icons, but not openly – for strategic reasons. An exception to this is the Foundation, which is in direct opposition to a worldview where the Icons have any power at all. Their hardline scientific convictions have put them on a collision course with [[The Order of the Pariah]].
 
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

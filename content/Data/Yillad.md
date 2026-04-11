@@ -9,7 +9,7 @@ status:
 # Yillad
 _Okra Darma group leader_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Member of the [[Okra Darma]].
 > - Extorts money from businesses in the brick quarter of Icon City.
 > - [[Toyel]] is one of his "clients".

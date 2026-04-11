@@ -22,6 +22,5 @@ Stories from the Portal Wars speak of the Order as fanatic Martyr worshippers, m
 
 Toady, the Order is but a shadow of it’s former strength. Isolated in the [[Zalos]] system and imprisoned in an ongoing civil war, the Horizon mostly forgot the Order.
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

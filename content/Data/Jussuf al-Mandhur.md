@@ -8,7 +8,7 @@ tags:
 # Jussuf al-Mandhur
 _Rich traveller from Dabaran_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Owns a racing camel stable
 > - Loves to travel with his First Wife [[Kindara al-Mandhur]]
 > - Always on the lookout for exiting adventures

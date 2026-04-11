@@ -8,7 +8,7 @@ tags:
 # Mimdosh
 _Skavarran Traveller_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Skavarran Humanite
 > - Seeks passage through the [[Mira]] Chain
 

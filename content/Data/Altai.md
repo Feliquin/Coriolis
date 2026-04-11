@@ -10,7 +10,7 @@ type: System
 # Altai
 _Note_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[System_Altai.pdf]]

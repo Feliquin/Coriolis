@@ -26,6 +26,5 @@ Members of the al-Farhat crime family from [[Algol]] saw the opportunities the T
 
 The Temple’s tea and bathing houses are well known across the Horizon, as are their gambling casinos. They do not have a seat in the Alabaster Council.
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
-

@@ -10,7 +10,7 @@ draft: false
 # Samenkar
 _Seeker of the Church of the Icons_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Member of the Seeker of the Icons (a faction within [[The Church of the Icons]]).
 > - Works on restoring the Dancer statue in the Icon City on [[Mira]].
 > -  Samenkar believes he has evidence there was a secret order among the Firstcome colonists who built the Watching statues, tasked with safekeeping a revelation from the Icons.

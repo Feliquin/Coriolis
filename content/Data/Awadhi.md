@@ -10,7 +10,7 @@ type: System
 # Awadhi
 _Doomed system_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[System_Awadhi.pdf]]

@@ -9,7 +9,7 @@ tags:
 # Suri Esfahan
 _Courtisan_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 Half bereits als Kind Ihrem Vater und älterem Bruder beim Schrott sammeln in den Überresten des 2.Portalkrieges. Die Militär Akademie schloss sie mit vollen Ehren ab. Begann anschließend eine Karrie als Kurtisane auf [[Dabaran]].  

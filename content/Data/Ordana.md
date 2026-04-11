@@ -10,7 +10,7 @@ type: System
 # Ordana
 _Note_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[System_Ordana.pdf]]

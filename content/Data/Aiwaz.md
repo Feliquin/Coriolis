@@ -10,7 +10,7 @@ type: System
 # Aiwaz
 _Beaten system_
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - ...
 
 ![[System_Aiwaz.pdf]]

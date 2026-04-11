@@ -12,7 +12,7 @@ _The Tailor from Mira_
 
 Famous animaturg living on [[Mira]].
 
-> [!NOTE] Campaign notes
+> [!TIP] Campaign notes
 > - Currently with the characters.
 > - On her way to [[Altai]] on board the [[Al-Jamal]].
 
