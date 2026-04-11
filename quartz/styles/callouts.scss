@@ -186,45 +186,50 @@
   }
 }
 
-.tip > .callout-title {
-  display: flex;
-  align-items: flex-start;
-  gap: 5px;
-  padding: 1rem 0;
-  color: rgb(199, 17, 219);
+.tip.tip.tip.tip.tip.tip {
+  --border: rgb(199, 17, 219);
 
-  --icon-size: 18px;
+  .callout-title {
+    display: flex;
+    align-items: flex-start;
+    gap: 5px;
+    padding: 1rem 0;
+    color: rgb(162, 30, 177);
 
-  & .fold-callout-icon {
-    transition: transform 0.15s ease;
-    opacity: 0.8;
-    cursor: pointer;
-    --callout-icon: var(--callout-icon-tip);
-  }
+    --icon-size: 18px;
 
-  &>.callout-title-inner>p {
-    color: rgb(199, 17, 219);
-    margin: 0;
-  }
+    & .fold-callout-icon {
+      transition: transform 0.15s ease;
+      opacity: 0.8;
+      cursor: pointer;
+      --callout-icon: var(--callout-icon-tip);
+    }
 
-  .callout-icon,
-  & .fold-callout-icon {
-    width: var(--icon-size);
-    height: var(--icon-size);
-    flex: 0 0 var(--icon-size);
+    &>.callout-title-inner>p {
+      color: rgb(162, 30, 177);
+      margin: 0;
+    }
 
-    // icon support
-    background-size: var(--icon-size) var(--icon-size);
-    background-position: center;
-    background-color: rgb(199, 17, 219);
-    mask-image: var(--callout-icon);
-    mask-size: var(--icon-size) var(--icon-size);
-    mask-position: center;
-    mask-repeat: no-repeat;
-    padding: 0.2rem 0;
-  }
+    .callout-icon,
+    & .fold-callout-icon {
+      --callout-icon: var(--callout-icon-tip);
+      width: var(--icon-size);
+      height: var(--icon-size);
+      flex: 0 0 var(--icon-size);
 
-  .callout-title-inner {
-    font-weight: $semiBoldWeight;
+      // icon support
+      background-size: var(--icon-size) var(--icon-size);
+      background-position: center;
+      background-color: rgb(162, 30, 177);
+      mask-image: var(--callout-icon);
+      mask-size: var(--icon-size) var(--icon-size);
+      mask-position: center;
+      mask-repeat: no-repeat;
+      padding: 0.2rem 0;
+    }
+
+    .callout-title-inner {
+      font-weight: $semiBoldWeight;
+    }
   }
 }
