@@ -8,7 +8,7 @@ status:
 draft: false
 ---
 # Cemisa Chelebs-Menau
-_Niece of Dramora_
+_CEO of Chelebs-Laskarid Shipyards_
 
 > [!NOTE] Campaign notes
 > - Niece of [[Dramora Chelebs-Menau]].
@@ -16,4 +16,4 @@ _Niece of Dramora_
 > - Born with three arms.
 > - CEO of Chelebs-Laskarid Shipyards (former Chelebs Shipyards)
 
-![[Cemisa3armed.png]]
+![[Cemisa3armed.png|500]]
