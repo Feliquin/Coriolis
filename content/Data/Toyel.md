@@ -13,5 +13,6 @@ _Biosculptor_
 > - Lives in the Brick Quarter of Icon City on [[Mira]].
 > - Knows the Tailor.
 > - Is in financial trouble and has to pay protection money to the [[Okra Darma]] Cartel.
+> - Got state of the art medicurgal [[Equipment]] from the Tailor from [[Mira]].
 
 ![[Toyel.png|500]]

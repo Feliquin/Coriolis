@@ -11,6 +11,6 @@ draft: false
 _Matriach of the Chelebs-Menau family_
 
 > [!NOTE] Campaign notes
-> - ...
+> - Resigned as CEO of Chelebs Shipyards and handed over the corporation to her niece [[Cemisa Chelebs-Menau]]
 
 ![[DramoraChelebsMenau.png|500]]

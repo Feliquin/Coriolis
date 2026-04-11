@@ -12,7 +12,8 @@ _Niece of Dramora_
 
 > [!NOTE] Campaign notes
 > - Niece of [[Dramora Chelebs-Menau]].
-> - To be married to [[Izaldun Laskarid]].
+> - Married to [[Izaldun Laskarid]].
 > - Born with three arms.
+> - CEO of Chelebs-Laskarid Shipyards (former Chelebs Shipyards)
 
 ![[Cemisa3armed.png]]

@@ -9,7 +9,7 @@ tags:
 _Luxury Medical Cruiser_
 
 > [!NOTE] Campaign notes
-> - Owned by [[Rami Sarif]], [[Rashid ben Said]], [[Suri Esfahan]] and [[Kaelen al-Sari]], under credit from Chelebs Shipyards
+> - Owned by [[Rami Sarif]], [[Rashid ben Said]], [[Suri Esfahan]] and [[Kaelen al-Sari]], under credit from Chelebs-Laskarid Shipyards
 
 ![[BluePrintLarge.png]]
 

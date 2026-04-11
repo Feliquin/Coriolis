@@ -19,5 +19,6 @@ _Seeker of the Church of the Icons_
 > - This is far from official iconology, but Samenkar knows he’s right. He believes himself to be the “Shepherd” of the prophecy, with the sacred duty of securing its fulfillment.
 > - To maintain his role as the Shepherd, Samenkar is forbidden from causing death or telling lies. 
 > - He isn’t the least bit interested in the political machinations of the Church or Chelebs-Menau.
+> - Current status: unknown
 
 ![[Samenkar.png|500]]

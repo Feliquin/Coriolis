@@ -28,4 +28,5 @@ _07/01/Pilgrim/486_
 > - [[Shuhad]] joined the crew temporarily.
 
 ---
-
+##### New contacts
+- [[Myran Chelebs-Menau]]

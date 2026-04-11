@@ -13,6 +13,7 @@
 | [[Data/Mari Matau.md\|Mari Matau]]                       | \-     |
 | [[Data/Medak Kwau.md\|Medak Kwau]]                       | \-     |
 | [[Data/Mimdosh.md\|Mimdosh]]                             | \-     |
+| [[Data/Myran Chelebs-Menau.md\|Myran Chelebs-Menau]]     | \-     |
 | [[Data/Nilar.md\|Nilar]]                                 | \-     |
 | [[Data/Nitoya.md\|Nitoya]]                               | dead   |
 | [[Data/Rami Sarif.md\|Rami Sarif]]                       | \-     |

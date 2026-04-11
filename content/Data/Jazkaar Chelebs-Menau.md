@@ -6,10 +6,11 @@ tags:
   - contact
 ---
 # Jazkaar Chelebs-Menau
-_Son of Dramora Chelebs-Menau_
+_Son in Exile_
 
 > [!NOTE] Campaign notes
 > - Sometimes uses a hidden identity: [[Iskander]]
 > - Third son in the Chelebs-Menau dynasty on [[Mira (P)]]
+> - Brother of [[Myran Chelebs-Menau]]
 
 ![[JazkaarChelebsMenau.png|500]]
