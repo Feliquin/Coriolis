@@ -11,6 +11,7 @@ draft: false
 _Zenithian Hegemony_
 
 > [!TIP] Campaign notes
-> - To be married to [[Cemisa Chelebs-Menau]].
+> - Married to [[Cemisa Chelebs-Menau]].
+> - CTO of Chelebs-Laskarid Shipyards.
 
 ![[IzaldunLaskarid.png|500]]
