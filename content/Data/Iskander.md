@@ -9,7 +9,7 @@ tags:
 _Rich asshole_
 
 > [!TIP] Campaign notes
-> - A rich, but exentric patron on [[Mira (P)]]
+> - A rich, but exentric patron on [[Planet Mira]]
 > - In search of the "Tailor from [[Mira]]" (an animaturg)
 > - Hired the characters to find the Tailor
 > - Iskander a one of the hidden identities of [[Jazkaar Chelebs-Menau]]

@@ -9,7 +9,7 @@ tags:
 _Child living on the streets of Icon City_
 
 > [!TIP] Campaign notes
-> - Streetwise child living in the outskirts of Icon City on [[Mira (P)]]
+> - Streetwise child living in the outskirts of Icon City on [[Planet Mira]]
 > - Knows the true identity of [[Iskander]] (being [[Jazkaar Chelebs-Menau]])
 
 ![[Nilar.png|500]]

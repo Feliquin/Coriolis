@@ -44,7 +44,7 @@ Die Charaktere werden durch eine Direktnachricht kontaktiert und zu einem Treffe
 * [[Rolan Durrok]]
 ##### New locations
 * [[Mira]]
-* [[Mira (P)]]
+* [[Planet Mira]]
 #### New info fragments
 * [[The Church of the Icons]]
 ##### New ships

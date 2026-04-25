@@ -26,5 +26,6 @@ _01/02/Pilgrim/486_
 ---
 ##### New locations
 * [[Zib]]
+* [[Planet Zib]]
 ##### New ships
 - [[Jagdfalke]]

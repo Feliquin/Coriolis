@@ -10,7 +10,7 @@ _Son in Exile_
 
 > [!TIP] Campaign notes
 > - Sometimes uses a hidden identity: [[Iskander]]
-> - Third son in the Chelebs-Menau dynasty on [[Mira (P)]]
+> - Third son in the Chelebs-Menau dynasty on [[Planet Mira]]
 > - Brother of [[Myran Chelebs-Menau]]
 
 ![[JazkaarChelebsMenau.png|500]]
