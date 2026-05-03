@@ -4,11 +4,14 @@
 | [[Data/Dramora Chelebs-Menau.md\|Dramora Chelebs-Menau]] | \-     |
 | [[Data/Iskander.md\|Iskander]]                           | \-     |
 | [[Data/Izaldun Laskarid.md\|Izaldun Laskarid]]           | \-     |
+| [[Data/Jabed.md\|Jabed]]                                 | dead   |
 | [[Data/Jazkaar Chelebs-Menau.md\|Jazkaar Chelebs-Menau]] | \-     |
 | [[Data/Jussuf al-Mandhur.md\|Jussuf al-Mandhur]]         | \-     |
 | [[Data/Kaelen al-Sari.md\|Kaelen al-Sari]]               | \-     |
+| [[Data/Kameera.md\|Kameera]]                             | \-     |
 | [[Data/Kindara al-Mandhur.md\|Kindara al-Mandhur]]       | \-     |
 | [[Data/Korm & Minai Maadawi.md\|Korm & Minai Maadawi]]   | \-     |
+| [[Data/Lea Marhoun.md\|Lea Marhoun]]                     | \-     |
 | [[Data/Magistrate Kemulla.md\|Magistrate Kemulla]]       | \-     |
 | [[Data/Mari Matau.md\|Mari Matau]]                       | \-     |
 | [[Data/Medak Kwau.md\|Medak Kwau]]                       | \-     |
@@ -20,7 +23,7 @@
 | [[Data/Rashid ben Said.md\|Rashid ben Said]]             | \-     |
 | [[Data/Rolan Durrok.md\|Rolan Durrok]]                   | \-     |
 | [[Data/Samenkar.md\|Samenkar]]                           | \-     |
-| [[Data/Shuhad.md\|Shuhad]]                               | \-     |
+| [[Data/Shuhad.md\|Shuhad]]                               | dead   |
 | [[Data/Sirajjin.md\|Sirajjin]]                           | \-     |
 | [[Data/Suri Esfahan.md\|Suri Esfahan]]                   | \-     |
 | [[Data/Toyel.md\|Toyel]]                                 | \-     |

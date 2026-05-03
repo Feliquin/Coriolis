@@ -4,6 +4,7 @@ modification date: Sonntag 1. März 2026 08:52:48
 tags:
   - fragment
   - contact
+status: dead
 ---
 # Shuhad
 _Former assistant to the Chelebs-Menau family_
@@ -13,5 +14,6 @@ _Former assistant to the Chelebs-Menau family_
 > - Officially is the right hand of [[Jazkaar Chelebs-Menau]], but in reality he is there to control him.
 > - Told the characters that it's their decision if they want to pursue the search for the Tailor, but if they don't the [[Al-Jamal]] will not be handed over to them.
 > - Stayed in the [[Al-Jamal]] after freeing [[Cemisa Chelebs-Menau]] as gunner and secondary pilot.
+> - Killed by [[Hounds of Tirides]]
 
 ![[Shuhad.png|500]]
