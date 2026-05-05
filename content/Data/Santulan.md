@@ -22,3 +22,6 @@ The golden world of the [[Second Horizon]] is called Argonnas. It is controlled 
 > - 
 
 ![[Santulan.png|500]]
+
+### Links
+[[Vestal]], [[Second Horizon]], [[History of the 3rd Horizon]]
