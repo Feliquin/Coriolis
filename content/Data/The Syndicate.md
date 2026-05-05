@@ -9,7 +9,7 @@ type: Faction
 # The Syndicate
 _Zenithians_
 
-Organized crime in the Third Horizon is controlled by a handful of families and their respective street gangs. They are organized and work just like any other faction. General decisions are made by the Shadow Chamber, where the head of each family has a seat. Much to their chagrin, they do not have a seat on the Alabaster Council.
+Organized crime in the [[Third Horizon]] is controlled by a handful of families and their respective street gangs. They are organized and work just like any other faction. General decisions are made by the Shadow Chamber, where the head of each family has a seat. Much to their chagrin, they do not have a seat on the Alabaster Council.
 
 Alignment: Zenithian 
 Allies: [[The Consortium]]

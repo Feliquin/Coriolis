@@ -18,7 +18,7 @@ _4/2/Pilgrim/486_
 > ...
 
 > [!TIP] Campaign notes
-> - Rescued the mortal remains of [[Rolan Durrok]]'s family, stored them together with the body of a [[Santulian]] inside a sarcophagus (together with a statuette of [[The Glistering One]])
+> - Rescued the mortal remains of [[Rolan Durrok]]'s family, stored them together with the body of a [[Vestal]] inside a sarcophagus (together with a statuette of [[The Glistering One]])
 > - Salvaged three [[Ancient helper drones]] (one heavily damaged)
 > - Took some inscribed hull plates
 > - Attacked by Stardust Hyaena corsairs - rescued them after destroying their ships

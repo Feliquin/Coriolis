@@ -20,7 +20,7 @@ Territory: [[Algol]], [[Altai]]
 VIP: Tarek al-Farhat (Council Member),
 Vinkor Kuma (Head Principal of the Academy)
 
-The First Horizon agents did their best during the Second Portal War to put oil into the fire of hate against the Mystics to weaken the position of the Second Horizon. The result is called the “Mysticides” and it led to hundreds of killed Mystics all across the Horizon. 
+The [[First Horizon]] agents did their best during the Second Portal War to put oil into the fire of hate against the Mystics to weaken the position of the [[Second Horizon]]. The result is called the “Mysticides” and it led to hundreds of killed Mystics all across the Horizon. 
 
 Then came the day of the Fall, when the Mystic cult “Children of the Song” activated the Monolith on [[Kua]] and thus destroyed Coriolis station. Regardless of being mind controlled, many still blaim or outright hate the Mystics for that day.
 

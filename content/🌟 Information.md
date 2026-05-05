@@ -15,7 +15,7 @@
 | [[Data/Quadrant of the Pillar.md\|Quadrant of the Pillar]]                 | \-        |
 | [[Data/Quick Guide to the 3rd Horizon.md\|Quick Guide to the 3rd Horizon]] | \-        |
 | [[Data/Religion of the Icons.md\|Religion of the Icons]]                   | Religion  |
-| [[Data/Santulian.md\|Santulian]]                                           | \-        |
+| [[Data/Santulan.md\|Santulan]]                                             | \-        |
 | [[Data/The Church of the Icons.md\|The Church of the Icons]]               | Faction   |
 | [[Data/The Consortium.md\|The Consortium]]                                 | Faction   |
 | [[Data/The Draconites.md\|The Draconites]]                                 | Faction   |
@@ -31,4 +31,5 @@
 | [[Data/The Order of the Pariah.md\|The Order of the Pariah]]               | Faction   |
 | [[Data/The Syndicate.md\|The Syndicate]]                                   | Faction   |
 | [[Data/The Zenithian Hegemony.md\|The Zenithian Hegemony]]                 | Faction   |
-| [[Data/Truth Seeker.md\|Truth Seeker]]                                     | [[Equipment]] |
+| [[Data/Truth Seeker.md\|Truth Seeker]]                                     | Equipment |
+| [[Data/Vestal.md\|Vestal]]                                                 | \-        |

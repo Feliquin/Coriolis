@@ -9,7 +9,7 @@ type: Faction
 # The Humanites
 _Independant_
 
-Once called “Semi-Intellects” or even more derogatory “Vermin”. Humanites are civilized humanoid species native to the Third Horizon. 
+Once called “Semi-Intellects” or even more derogatory “Vermin”. Humanites are civilized humanoid species native to the [[Third Horizon]]. 
 
 Alignment: Firstcome
 Allies: [[The Draconites]]

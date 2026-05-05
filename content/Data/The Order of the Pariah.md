@@ -18,7 +18,7 @@ Influence: None
 Territory: [[Zalos]]  
 VIP: Brother Benectus (First Illuminated)
 
-Stories from the Portal Wars speak of the Order as fanatic Martyr worshippers, merciless in combat and without any concern for their own lives. Their Nadir fleet of state of the art warships fell into the hands of the First Horizon. They had their hands in the mysticides and the killing of the Emissary. 
+Stories from the Portal Wars speak of the Order as fanatic Martyr worshippers, merciless in combat and without any concern for their own lives. Their Nadir fleet of state of the art warships fell into the hands of the [[First Horizon]]. They had their hands in the mysticides and the killing of the Emissary. 
 
 Toady, the Order is but a shadow of it’s former strength. Isolated in the [[Zalos]] system and imprisoned in an ongoing civil war, the Horizon mostly forgot the Order.
 

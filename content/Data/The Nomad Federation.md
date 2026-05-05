@@ -26,7 +26,7 @@ The prime goal of the faction is to strengthen the nomads against the other fact
 During the Second Portal War, many nomads fled secretly to the Fourth Horizon. Most of 
 them stayed in their newfound home, but some returned two decades after the war. 
 
-They brought with them the technology of the jump drive and gave it to [[The Draconites]], thus changing the Third Horizon. Now, the Nomads control the New Colonial Agency (much to the dismay of [[The Consortium]]) and have a seat in the Alabaster Council.
+They brought with them the technology of the jump drive and gave it to [[The Draconites]], thus changing the [[Third Horizon]]. Now, the Nomads control the New Colonial Agency (much to the dismay of [[The Consortium]]) and have a seat in the Alabaster Council.
 
 > [!TIP] Campaign notes
 > - ...

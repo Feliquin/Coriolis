@@ -9,7 +9,7 @@ type: Faction
 # The Consortium
 _Zenithians_
 
-The Consortium is one of the largest factions in the Third Horizon. It consists of a group of large corporations which together dominate trade, manufacturing, media, science and colonization - at least in the Core Systems.
+The Consortium is one of the largest factions in the [[Third Horizon]]. It consists of a group of large corporations which together dominate trade, manufacturing, media, science and colonization - at least in the Core Systems.
 
 Alignment: Zenithian
 Allies: [[The Legion]]

@@ -35,6 +35,6 @@ _3/2/Pilgrim/486_
 #### New info fragments
 * [[The Glistering One]]
 * [[Darkness between the Stars]]
-* [[Santulian]]
+* [[Vestal]]
 ##### New ships
 * [[Fazar]]
