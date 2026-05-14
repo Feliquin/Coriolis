@@ -8,7 +8,7 @@ type: Horizon
 draft: false
 ---
 # First Horizon
-_Masters of the Darkness
+_Masters of the Darkness_
 #### Info fragments
 * People of the 1st Horizon are called [[Vestal|Vestals]].
 * The First Horizon is at war with the [[Second Horizon]].

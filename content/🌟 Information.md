@@ -31,5 +31,5 @@
 | [[Data/The Order of the Pariah.md\|The Order of the Pariah]]               | Faction   |
 | [[Data/The Syndicate.md\|The Syndicate]]                                   | Faction   |
 | [[Data/The Zenithian Hegemony.md\|The Zenithian Hegemony]]                 | Faction   |
-| [[Data/Truth Seeker.md\|Truth Seeker]]                                     | Equipment |
+| [[Data/Truth Seeker.md\|Truth Seeker]]                                     | [[Equipment]] |
 | [[Data/Vestal.md\|Vestal]]                                                 | \-        |
