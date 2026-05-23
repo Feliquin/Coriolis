@@ -1,12 +1,13 @@
 ---
-creation date: 2026-05-05 13:02
-modification date: Dienstag 5. Mai 2026 13:02:28
+creation date: 2026-05-14 21:53
+modification date: Freitag 15. Mai 2026 14:04:42
 tags:
   - utilitity
 ---
 ---
 
 `gh auth login`
+
 `cd "Mein Obsidian"/quartz/`
 `nvm use 24`
 `npx quartz sync`
@@ -18,6 +19,7 @@ Link Icon: Scan Vault
 
 ---
 
+Updated:  2026-05-23 13:39:26
 Updated:  2026-03-22 09:37:12
 Updated:  2026-03-04 08:59:37
 Updated:  2026-03-23 12:57:00
@@ -36,13 +38,9 @@ Updated:  2026-05-03 11:59:27
 Updated:  2026-05-05 12:44:16
 Updated:  2026-05-05 13:02:28
 Updated:  2026-05-14 21:53:42
-
 Updated:  2026-03-26 21:09:56
-
 Updated:  2026-03-26 12:28:12
-
 Updated:  2026-03-26 12:28:28
-
 Updated:  2026-03-23 13:00:25
 Updated:  2026-03-26 09:45:19
 
