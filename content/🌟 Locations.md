@@ -15,7 +15,7 @@
 | [[Data/Odacon.md\|Odacon]]                     | System         |
 | [[Data/Ordana.md\|Ordana]]                     | System         |
 | [[Data/Planet Mira.md\|Planet Mira]]           | Celestial Body |
-| [[Data/Planet Ordana.md\|Planet Ordana]]       | \-             |
+| [[Data/Planet Ordana.md\|Planet Ordana]]       | Planet         |
 | [[Data/Planet Zib.md\|Planet Zib]]             | Celestial Body |
 | [[Data/Second Horizon.md\|Second Horizon]]     | Horizon        |
 | [[Data/Sivas.md\|Sivas]]                       | System         |

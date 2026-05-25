@@ -11,7 +11,7 @@
 | [[Data/Ayuin Cartel.md\|Ayuin Cartel]]                                     | 25. Mai 2026, 13:53 |
 | [[Logs/The Fate of Shamshir I.md\|The Fate of Shamshir I]]                 | 25. Mai 2026, 13:53 |
 | [[Data/Ordana.md\|Ordana]]                                                 | 25. Mai 2026, 13:50 |
-| [[Data/Planet Ordana.md\|Planet Ordana]]                                   | 25. Mai 2026, 13:44 |
+| [[Data/Planet Ordana.md\|Planet Ordana]]                                   | 25. Mai 2026, 14:05 |
 | [[Logs/Hyaenas of Odacon III.md\|Hyaenas of Odacon III]]                   | 23. Mai 2026, 13:39 |
 | [[Logs/Hyaenas of Odacon II.md\|Hyaenas of Odacon II]]                     | 23. Mai 2026, 13:38 |
 | [[Logs/Hyaenas of Odacon I.md\|Hyaenas of Odacon I]]                       | 23. Mai 2026, 13:37 |

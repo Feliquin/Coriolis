@@ -1,5 +1,6 @@
 | Entry                                                                      | Modified            |
 | -------------------------------------------------------------------------- | ------------------- |
+| [[Data/Planet Ordana.md\|Planet Ordana]]                                   | 25. Mai 2026, 14:05 |
 | [[Data/Kameera.md\|Kameera]]                                               | 25. Mai 2026, 13:53 |
 | [[Data/Quick Guide to the 3rd Horizon.md\|Quick Guide to the 3rd Horizon]] | 25. Mai 2026, 13:53 |
 | [[Data/Ibn Tash.md\|Ibn Tash]]                                             | 25. Mai 2026, 13:53 |
@@ -12,7 +13,6 @@
 | [[Logs/The Fate of Shamshir I.md\|The Fate of Shamshir I]]                 | 25. Mai 2026, 13:53 |
 | [[Data/Ordana.md\|Ordana]]                                                 | 25. Mai 2026, 13:50 |
 | [[Data/Zhau.md\|Zhau]]                                                     | 25. Mai 2026, 13:49 |
-| [[Data/Planet Ordana.md\|Planet Ordana]]                                   | 25. Mai 2026, 13:44 |
 | [[Logs/Hyaenas of Odacon III.md\|Hyaenas of Odacon III]]                   | 23. Mai 2026, 13:39 |
 | [[Logs/Hyaenas of Odacon II.md\|Hyaenas of Odacon II]]                     | 23. Mai 2026, 13:38 |
 | [[Logs/Hyaenas of Odacon I.md\|Hyaenas of Odacon I]]                       | 23. Mai 2026, 13:37 |
