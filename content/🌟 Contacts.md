@@ -1,8 +1,12 @@
 | Contact                                                  | Status |
 | -------------------------------------------------------- | ------ |
+| [[Data/Abba Al-Tamir.md\|Abba Al-Tamir]]                 | \-     |
+| [[Data/Aiman Gaipur.md\|Aiman Gaipur]]                   | \-     |
+| [[Data/Annika Yriedes.md\|Annika Yriedes]]               | \-     |
 | [[Data/Caern.md\|Caern]]                                 | \-     |
 | [[Data/Cemisa Chelebs-Menau.md\|Cemisa Chelebs-Menau]]   | \-     |
 | [[Data/Dramora Chelebs-Menau.md\|Dramora Chelebs-Menau]] | \-     |
+| [[Data/Ibn Tash.md\|Ibn Tash]]                           | \-     |
 | [[Data/Iskander.md\|Iskander]]                           | \-     |
 | [[Data/Izaldun Laskarid.md\|Izaldun Laskarid]]           | \-     |
 | [[Data/Jabed.md\|Jabed]]                                 | dead   |

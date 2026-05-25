@@ -16,6 +16,7 @@ _Stardust Hyaena_
 > - Her ship was destroyed while attacking the [[Al-Jamal]]
 > - Her brother [[Jabed]] was killed by [[Hounds of Tirides]]
 > - Was paid 12.000 Birr by a person on [[Khôban Station]] to attack the [[Al-Jamal]] and film the attack
+> - Left the [[Al-Jamal]] in [[Zhau]] in order to follow a lead regarding [[Caern]] and went to [[Sivas]]
 
 ![[Kameera.png|500]]
 

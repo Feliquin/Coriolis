@@ -11,6 +11,6 @@ type: System
 _Note_
 
 > [!TIP] Campaign notes
-> - ...
+> - [[Lance Station]]
 
 ![[System_Zhau.pdf]]

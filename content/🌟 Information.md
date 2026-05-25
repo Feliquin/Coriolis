@@ -3,6 +3,7 @@
 | [[Data/⭐ General Player Info.md\|⭐ General Player Info]]                   | \-        |
 | [[Data/Ahlam's Temple.md\|Ahlam's Temple]]                                 | Faction   |
 | [[Data/Ancient helper drones.md\|Ancient helper drones]]                   | \-        |
+| [[Data/Ayuin Cartel.md\|Ayuin Cartel]]                                     | \-        |
 | [[Data/Character Overview.md\|Character Overview]]                         | \-        |
 | [[Data/Darkness between the Stars.md\|Darkness between the Stars]]         | \-        |
 | [[Data/Golden Harvest.md\|Golden Harvest]]                                 | \-        |
@@ -31,5 +32,5 @@
 | [[Data/The Order of the Pariah.md\|The Order of the Pariah]]               | Faction   |
 | [[Data/The Syndicate.md\|The Syndicate]]                                   | Faction   |
 | [[Data/The Zenithian Hegemony.md\|The Zenithian Hegemony]]                 | Faction   |
-| [[Data/Truth Seeker.md\|Truth Seeker]]                                     | Equipment |
+| [[Data/Truth Seeker.md\|Truth Seeker]]                                     | [[Equipment]] |
 | [[Data/Vestal.md\|Vestal]]                                                 | \-        |

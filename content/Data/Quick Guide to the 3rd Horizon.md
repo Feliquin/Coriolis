@@ -93,7 +93,7 @@ has become the focal point of the entire Horizon with the recent blockade of the
 _Alabaster Council • High corsair activity • City of Khorsabad_
 The inhospitable [[Altai]] system was nothing more than a corsair ruled gateway to The [[Quadrant of the Pillar]] just a few decades ago. Now it is the center of the [[Third Horizon]] - at least for the Firstcome. 
 ### ORDANA
-_Zenithians • Hayrangi Station • Remote Yuisin system_
+_Zenithians • [[Hayrangi Station]] • Remote Yuisin system_
 [[Ordana]] is often called the Zenithian powerbase in the [[Quadrant of the Pillar]]. This is especially true now that the system has become a natural trade path to [[Mira]] on the new [[Odacon]] Route – a result of the frequent blockades of [[Zalos]]. The system is not free from conflict, however, as a growing rebel movement called Ayuttha’s Leopards fight against the allies of [[The Consortium]]. 
 ### SIVAS 
 _Firstcome tradition • Gisaeng courtisans • The Lotus Brothers_

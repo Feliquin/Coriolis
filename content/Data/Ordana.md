@@ -11,6 +11,7 @@ type: System
 _Note_
 
 > [!TIP] Campaign notes
-> - ...
+> - [[Hayrangi Station]]
+> - [[Planet Ordana]]
 
 ![[System_Ordana.pdf]]
