@@ -15,11 +15,13 @@ _4/2/Pilgrim/486_
 ![[TitleHO.jpg]]
 
 > [!SUMMARY] Summary
-> Die Gebeine, der Sarkophag, drei Serviceroboter sowie mehrere wunderschön verzierte Panzerplatten werden in den nächsten Stunden an Bord gebracht. Im Anschluss geht es zurück Richtung Khoban Station.
-> Auf dem Rückflug wird die al-Jamal von zwei Jägern der Hyänen von Odacon angegriffen. Diese schießen mit teuren Topedos, die aber kaum Schaden anrichten. Die Angreifer fordern, dass die al-Jamal Ladung ausstößt. Dann würden sie den Angriff abbrechen. Suri landet einen Volltreffer und es gibt eine für die Hyänen verheerende Kettenreaktion. 
-> Kurze Zeit später befinden sich Kameera und ihr stark verletzter Bruder Jabed an Bord der al-Jamal. Während Rami sich um Jabed kümmert wird Kameera verhört.
-> Die beiden wurden von Caern einem Dockarbeiter angeheuert um die al-Jamal anzugreifen und dazu zu bringen Ladung ab zuwerfen. Er hatte dazu die Torpedos zur Verfügung gestellt. Er hat zudem verlangt, dass der Angriff gefilmt wird.
-> Schattenhafte Hunde greifen die Besatzung und Passagiere der al-Jamal an. Mit herkömmlichen Waffen kann man diesen Monstern der Finsternis nichts anhaben. Es gibt verschiedene Theorien was es mit diesen grauenerregenden Wesen auf sich hat. Sie scheinen sich von Angst angezogen und vom Glauben an die Ikonen abgeschreckt zu fühlen. Alkohol, Tranquilizer und Gebete führen letztlich dazu, dass die Aschehunde das Schiff verlassen. Jabed und Shuhad sind ihnen allerdings zum Opfer gefallen.
+> In den folgenden Stunden werden die Gebeine, der Sarkophag, drei Serviceroboter sowie mehrere wunderschön verzierte Panzerplatten an Bord gebracht. Anschließend nimmt die Al-Jamal Kurs zurück Richtung Khoban Station.
+> 
+> Auf dem Rückflug wird sie von zwei Jägern der Hyänen von Odacon angegriffen. Die Angreifer feuern mit teuren Torpedos, die aber kaum Schaden anrichten, und stellen eine klare Forderung: Die Al-Jamal solle Ladung ausstoßen, dann werde man vom Angriff ablassen. Doch Suri landet einen Volltreffer – und löst damit eine für die Hyänen verheerende Kettenreaktion aus.
+> 
+> Kurze Zeit später befinden sich Kameera und ihr schwer verletzter Bruder Jabed an Bord der Al-Jamal. Während Rami sich um Jabed kümmert, wird Kameera verhört. Ihre Aussage: Angeheuert wurden die beiden von Caern, einem Dockarbeiter, der sie beauftragt hatte, die Al-Jamal anzugreifen und zum Abwurf der Ladung zu zwingen. Auch die Torpedos hatte er zur Verfügung gestellt. Und er hatte eine ungewöhnliche Zusatzforderung gestellt: Der Angriff sollte gefilmt werden.
+> 
+> Dann greifen schattenhafte Hunde die Besatzung und die Passagiere der Al-Jamal an. Mit herkömmlichen Waffen ist diesen Monstern der Finsternis nicht beizukommen. Über die Natur der grauenerregenden Wesen kursieren verschiedene Theorien – gemeinsam ist ihnen die Beobachtung, dass sich die Hunde von Angst angezogen und vom Glauben an die Ikonen abgeschreckt zu fühlen scheinen. Am Ende sind es Alkohol, Tranquilizer und Gebete, die dazu führen, dass die Aschehunde das Schiff verlassen. Jabed und Shuhad sind ihnen allerdings zum Opfer gefallen.
 
 > [!TIP] Campaign notes
 > - Rescued the mortal remains of [[Rolan Durrok]]'s family, stored them together with the body of a [[Vestal]] inside a sarcophagus (together with a statuette of [[The Glistering One]])
