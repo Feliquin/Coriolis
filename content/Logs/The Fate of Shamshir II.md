@@ -30,10 +30,10 @@ _1/3/Pilger/486_ bis _3/3/Pilger/486_
 
 ---
 ##### New contacts
-...
-##### New locations
-...
-#### New info fragments
-...
-##### New ships
-...
+* [[Mabak Al-Jaipur]]
+* [[Nayam Jummah]]
+* [[Siha Anasha]]
+* [[Schwester Kasturbai]]
+* [[Bruder Anand]]
+* [[Mel "Melone" Quinn]]
+* [[Yemik]]
