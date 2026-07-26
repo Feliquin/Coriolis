@@ -25,6 +25,15 @@ _4/2/Pilgrim/486_
 > 
 > Anschließend stimmt die Besatzung über das weitere Vorgehen ab. Das Ergebnis: Kameera wird nicht den Behörden übergeben, sondern bleibt vorerst an Bord – um am Ende bei der Jagd nach Caern zu unterstützen.
 
+- Kameera und Bruder: letzte Hyänen von Odacon, aus Verzweiflung Caerns Auftrag angenommen
+- Kontakt über geheimen Kanal
+- Al-Jamal muss wegen Jussufs Interview erst durch Priester gereinigt werden
+- Torpedos: vor 1,5 Segmenten vom Legionsschiff Sternenhimmel
+- Caern kein Dockarbeiter; Station bereits mit Jacht Firebird verlassen
+- Jared hatte Seuche von Tarazuk → Geldbedarf für Medikamente
+- Kameera selbst nicht infiziert
+- Beschluss: Kameera bleibt an Bord, hilft bei Jagd auf Caern
+
 > [!TIP] Campaign notes
 > - Kameera stayed on board, "hidden" in the stewart's cabin. The characters (except for Suri) did not want to hand her over to the Legion. Kameera wants revenge and helps the characters find Caern.
 > - Caern seems to have contacts to the Consortium and the Legion (both being Zenithian factions).
