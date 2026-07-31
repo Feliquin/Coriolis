@@ -20,6 +20,7 @@
 | [[Data/Lea Marhoun.md\|Lea Marhoun]]                     | \-     |
 | [[Data/Mabak Al-Jaipur.md\|Mabak Al-Jaipur]]             | \-     |
 | [[Data/Magistrate Kemulla.md\|Magistrate Kemulla]]       | \-     |
+| [[Data/Malhotra.md\|Malhotra]]                           | \-     |
 | [[Data/Mari Matau.md\|Mari Matau]]                       | \-     |
 | [[Data/Medak Kwau.md\|Medak Kwau]]                       | \-     |
 | [[Data/Mel "Melone" Quinn.md\|Mel "Melone" Quinn]]       | \-     |
@@ -29,6 +30,7 @@
 | [[Data/Nilar.md\|Nilar]]                                 | \-     |
 | [[Data/Nitoya.md\|Nitoya]]                               | dead   |
 | [[Data/Rami Sarif.md\|Rami Sarif]]                       | \-     |
+| [[Data/Rania Dudakhmal.md\|Rania Dudakhmal]]             | \-     |
 | [[Data/Rashid ben Said.md\|Rashid ben Said]]             | \-     |
 | [[Data/Rolan Durrok.md\|Rolan Durrok]]                   | \-     |
 | [[Data/Samenkar.md\|Samenkar]]                           | \-     |

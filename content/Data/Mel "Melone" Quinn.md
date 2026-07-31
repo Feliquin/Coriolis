@@ -8,9 +8,9 @@ status:
 draft: false
 ---
 # Mel "Melone" Quinn
-_Klosterbesucher_
+_"Klosterbesucher"_
 
 > [!TIP] Campaign notes
-> - ...
+> - Verbrecher, der im Kloster Harmand auf [[Ordana]] untergetaucht ist.
 
 ![[Melone_.png|500]]
