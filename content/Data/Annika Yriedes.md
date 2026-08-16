@@ -15,6 +15,7 @@ _Independant Journalist_
 > - Invited to stay on board the [[Al-Jamal]] to create a documentation about Rami and "his ship".
 > - Very high carousing skills, can handle a lot of alcohol.
 > - Worked for the Bulletin, but was fired due to "anti-zenithian propaganda".
+> - seems to know everybody in the Horizon
 
 
 ![[AnnikaYriedes.jpg|500]]

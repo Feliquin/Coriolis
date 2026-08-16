@@ -15,6 +15,7 @@
 | [[Data/Jussuf al-Mandhur.md\|Jussuf al-Mandhur]]         | \-     |
 | [[Data/Kaelen al-Sari.md\|Kaelen al-Sari]]               | \-     |
 | [[Data/Kameera.md\|Kameera]]                             | \-     |
+| [[Data/Karim Notash.md\|Karim Notash]]                   | \-     |
 | [[Data/Kindara al-Mandhur.md\|Kindara al-Mandhur]]       | \-     |
 | [[Data/Korm & Minai Maadawi.md\|Korm & Minai Maadawi]]   | \-     |
 | [[Data/Lea Marhoun.md\|Lea Marhoun]]                     | \-     |
@@ -40,5 +41,6 @@
 | [[Data/Sirajjin.md\|Sirajjin]]                           | \-     |
 | [[Data/Suri Esfahan.md\|Suri Esfahan]]                   | \-     |
 | [[Data/Toyel.md\|Toyel]]                                 | \-     |
+| [[Data/Yarah Grehem.md\|Yarah Grehem]]                   | \-     |
 | [[Data/Yemik.md\|Yemik]]                                 | \-     |
 | [[Data/Yillad.md\|Yillad]]                               | \-     |
