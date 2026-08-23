@@ -18,6 +18,7 @@
 | [[Data/Karim Notash.md\|Karim Notash]]                   | \-     |
 | [[Data/Kindara al-Mandhur.md\|Kindara al-Mandhur]]       | \-     |
 | [[Data/Korm & Minai Maadawi.md\|Korm & Minai Maadawi]]   | \-     |
+| [[Data/Lady Orphalia.md\|Lady Orphalia]]                 | \-     |
 | [[Data/Lea Marhoun.md\|Lea Marhoun]]                     | \-     |
 | [[Data/Mabak Al-Jaipur.md\|Mabak Al-Jaipur]]             | \-     |
 | [[Data/Magistrate Kemulla.md\|Magistrate Kemulla]]       | \-     |
@@ -40,6 +41,7 @@
 | [[Data/Siha Anasha.md\|Siha Anasha]]                     | \-     |
 | [[Data/Sirajjin.md\|Sirajjin]]                           | \-     |
 | [[Data/Suri Esfahan.md\|Suri Esfahan]]                   | \-     |
+| [[Data/Tarek al-Farhat.md\|Tarek al-Farhat]]             | \-     |
 | [[Data/Toyel.md\|Toyel]]                                 | \-     |
 | [[Data/Yarah Grehem.md\|Yarah Grehem]]                   | \-     |
 | [[Data/Yemik.md\|Yemik]]                                 | \-     |

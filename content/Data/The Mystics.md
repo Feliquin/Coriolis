@@ -17,7 +17,7 @@ Allies: Ahlam’s Temple, [[The Draconites]]
 Opponents: [[The Order of the Pariah]]
 Influence: Mystic powers
 Territory: [[Algol]], [[Altai]] 
-VIP: Tarek al-Farhat (Council Member),
+VIP: [[Tarek al-Farhat]] (Council Member),
 Vinkor Kuma (Head Principal of the Academy)
 
 The [[First Horizon]] agents did their best during the Second Portal War to put oil into the fire of hate against the Mystics to weaken the position of the [[Second Horizon]]. The result is called the “Mysticides” and it led to hundreds of killed Mystics all across the Horizon. 

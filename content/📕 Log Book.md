@@ -1,5 +1,6 @@
 | Session | Log entry                                                            | Location     | XP |
 | ------- | -------------------------------------------------------------------- | ------------ | -- |
+| 1.13    | [[Logs/4. The Fate of Shamshir V.md\|4. The Fate of Shamshir V]]     | [[Altai]]        | 1  |
 | 1.12    | [[Logs/4. The Fate of Shamshir IV.md\|4. The Fate of Shamshir IV]]   | [[Altai]]        | 1  |
 | 1.11    | [[Logs/4. The Fate of Shamshir III.md\|4. The Fate of Shamshir III]] | [[Ordana]]       | 2  |
 | 1.10    | [[Logs/4. The Fate of Shamshir II.md\|4. The Fate of Shamshir II]]   | [[Ordana]]       | 1  |
