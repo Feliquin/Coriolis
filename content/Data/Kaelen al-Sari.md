@@ -12,7 +12,7 @@ _Agent_
 > [!TIP] Campaign notes
 > - ...
 
-Ein ehemaliger Agent im Auftrag der Normadenföderation.  
+Ein ehemaliger Agent im Auftrag der Nomadenföderation.  
 
 Name:  "Qasim der Verborgene", Qasim al-Makhfi
 
