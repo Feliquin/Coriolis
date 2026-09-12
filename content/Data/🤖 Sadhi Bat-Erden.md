@@ -18,7 +18,7 @@ _Hauptantagonistin — Doppelidentität_
 
 **Sadhi Bat-Erden (öffentliche Konzil-Person) und Genya Artabazus (militante Corsair-Matriarchin) sind DIESELBE PERSON.** Sie führt seit ca. 15-20 Jahren ein Doppelleben: Sadhi als politisch integrierte Ex-Drakonitin und Antiquitätenhändlerin, Genya als Corsair-Anführerin des Artabazus-Clans mit Sitz in Khorsabad.
 
-Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-Rescue). Sadhi kennen sie noch gar nicht direkt (soll erst später auftauchen). **Die persönliche Enthüllung "beide sind dieselbe" ist der Kernmoment der zweiten Kampagnenhälfte — vorzugsweise in Akt 4 (Nova Solyma) oder Akt 5 (Altai-Klimax).**
+Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-Rescue). Sadhi kennen sie noch gar nicht direkt (soll erst später auftauchen). **Die persönliche Enthüllung "beide sind dieselbe" ist der Kernmoment der zweiten Kampagnenhälfte — vorzugsweise in Akt 4 (Nova Solyma) oder Akt 5 ([[Altai]]-Klimax).**
 
 ## Backstory
 
@@ -31,18 +31,18 @@ Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-
 ## Ziele
 
 **Als Genya (militant):**
-- Shamshirs Command Console beschaffen → Kontrolle über den Black Sector von Altai
+- Shamshirs Command Console beschaffen → Kontrolle über den Black Sector von [[Altai]]
 - Alabaster-Konzil zwingen, sich ihr zu unterwerfen
 - Sich zur Rajah von Khorsabad krönen (Wiederherstellung der "Kushtriya-Herrschaft")
 
 **Als Sadhi (politisch):**
 - Konzil-Sitze für ihre Verbündeten sichern (die Zenith-Sturz-Fraktion)
-- Ibn Tash / Orphalia / andere Wissenschaftler stumm halten, die zu tief in die Kushtriya-Geschichte schauen und die Doppelidentität gefährden würden
+- [[Ibn Tash]] / Orphalia / andere Wissenschaftler stumm halten, die zu tief in die Kushtriya-Geschichte schauen und die Doppelidentität gefährden würden
 - Öffentlich als besonnene Politikerin auftreten, um Verdacht abzulenken
 
 ## Wie sie die Party behandelt
 
-**Als Genya:** Kalt, ruthless, keine Verhandlungsbereitschaft außer bezüglich Command Console. Ordert Ibn Tashs Entführung, hetzt Corsair-Verwandte (Yasir Intezar-Artabazus in Sivas) auf die Party.
+**Als Genya:** Kalt, ruthless, keine Verhandlungsbereitschaft außer bezüglich Command Console. Ordert Ibn Tashs Entführung, hetzt Corsair-Verwandte (Yasir Intezar-Artabazus in [[Sivas]]) auf die Party.
 
 **Als Sadhi:** Warm, wohlwollend, hilfsbereit. Bietet politische Unterstützung an. Nutzt Ramis alte Bekanntschaft aus Kampagne 1 (Bene-Meta: Sadhi war Verbündete der alten Party). Für Bene ein bitterer Moment, wenn sich später zeigt wer Sadhi wirklich ist.
 
@@ -52,27 +52,27 @@ Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-
 - Sadhi kommt und geht zu unerklärten Zeitpunkten — offiziell auf "Antiquitätenreisen"
 - Ihre politische Fraktion im Konzil profitiert exakt dann, wenn Genya militärische Erfolge hat
 - Wissenschaftler, die Sadhi konsultiert haben, verschwinden statistisch signifikant
-- Ein Vertrauter (Karim Notash?) kennt möglicherweise Teile der Wahrheit
-- Yarah Grehem war eine ihrer Handlangerinnen — kann bei Verhör Puzzlestücke liefern
+- Ein Vertrauter ([[Karim Notash]]?) kennt möglicherweise Teile der Wahrheit
+- [[Yarah Grehem]] war eine ihrer Handlangerinnen — kann bei Verhör Puzzlestücke liefern
 
 ## Beziehung zu anderen NPCs
 
-- **Ibn Tash:** Sie hat ihn entführen lassen, um ihn zur Shamshir-Suche zu zwingen
-- **Lady Orphalia:** Ehemalige Drakoniten-Weggefährtin. Orphalia weiß möglicherweise seit langem, dass etwas mit Sadhi nicht stimmt — deshalb wurde sie entfernt.
-- **Karim Notash:** Tareks Mann. Beobachtet Sadhi seit einiger Zeit, konnte den Doppel-Identitäts-Beweis noch nicht führen.
-- **Tarek al-Farhat:** Politischer Kollege im Konzil. Vertraut ihr instinktiv nicht, kann es aber nicht begründen. Basti wird die Wiederbegegnung als "vertraute Fremde" spielen können.
-- **Yasir Intezar-Artabazus (Neffe):** Corsair-Kapitän der *Izdubar* in Sivas. Weiß nicht, dass seine Tante = Genya = Sadhi ist. Für ihn ist Genya nur der Codename der Familien-Matriarchin.
+- **[[Ibn Tash]]:** Sie hat ihn entführen lassen, um ihn zur Shamshir-Suche zu zwingen
+- **[[Lady Orphalia]]:** Ehemalige Drakoniten-Weggefährtin. Orphalia weiß möglicherweise seit langem, dass etwas mit Sadhi nicht stimmt — deshalb wurde sie entfernt.
+- **[[Karim Notash]]:** Tareks Mann. Beobachtet Sadhi seit einiger Zeit, konnte den Doppel-Identitäts-Beweis noch nicht führen.
+- **[[Tarek al-Farhat]]:** Politischer Kollege im Konzil. Vertraut ihr instinktiv nicht, kann es aber nicht begründen. Basti wird die Wiederbegegnung als "vertraute Fremde" spielen können.
+- **Yasir Intezar-Artabazus (Neffe):** Corsair-Kapitän der *Izdubar* in [[Sivas]]. Weiß nicht, dass seine Tante = Genya = Sadhi ist. Für ihn ist Genya nur der Codename der Familien-Matriarchin.
 
 ## Konfrontationsoptionen
 
-- **Enthüllung durch Beweismittel** (ideal in Akt 4): Die Party findet auf Nova Solyma etwas, das Sadhi mit Genya verknüpft. Wenn Sadhi persönlich als "vermeintliche Rettung" auf Altai wartet, wird die Enthüllung besonders bitter.
-- **Enthüllung durch persönliche Konfrontation** (ideal in Akt 5): Auf Altai stellt die Party Sadhi/Genya, die entweder mit Command Console (falls sie sie bekommen hat) oder ohne (falls die Party sie zerstört hat) zurückgekehrt ist.
+- **Enthüllung durch Beweismittel** (ideal in Akt 4): Die Party findet auf Nova Solyma etwas, das Sadhi mit Genya verknüpft. Wenn Sadhi persönlich als "vermeintliche Rettung" auf [[Altai]] wartet, wird die Enthüllung besonders bitter.
+- **Enthüllung durch persönliche Konfrontation** (ideal in Akt 5): Auf [[Altai]] stellt die Party Sadhi/Genya, die entweder mit Command Console (falls sie sie bekommen hat) oder ohne (falls die Party sie zerstört hat) zurückgekehrt ist.
 
 ## Endphasen-Rolle
 
 - **Wenn die Party sie besiegt:** Ihr Sturz destabilisiert das Konzil weiter — welche Fraktion füllt das Vakuum? Zweiter Kampagnenteil.
-- **Wenn sie entkommt:** Rachekampagne gegen die Al-Jamal-Crew, potenzielle Verbündete der Vestals aus Verzweiflung.
-- **Wenn sie triumphiert:** Kushtriya-Restauration auf Altai; Party wird zu Rebellen gegen die neue Ordnung.
+- **Wenn sie entkommt:** Rachekampagne gegen die [[Al-Jamal]]-Crew, potenzielle Verbündete der Vestals aus Verzweiflung.
+- **Wenn sie triumphiert:** Kushtriya-Restauration auf [[Altai]]; Party wird zu Rebellen gegen die neue Ordnung.
 
 ## Persönlichkeit
 
@@ -85,5 +85,5 @@ Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-
 
 - Physisches Erscheinungsbild (nicht im Vault). Für Doppelidentität: die beiden müssen sich äußerlich unterscheiden können (Kleidung, Frisur, Make-up) — aber ein aufmerksamer Beobachter sollte es merken können.
 - Wann hat sie die Genya-Identität geschaffen? Bereits in Kampagne 1 oder erst später?
-- Weiß Karim Notash wirklich Bescheid, oder ahnt er nur?
-- Wie stark ist ihr Verhältnis zur Vestal-Fraktion? Kooperieren die beiden Fraktionen bewusst, unbewusst, oder gar nicht?
+- Weiß [[Karim Notash]] wirklich Bescheid, oder ahnt er nur?
+- Wie stark ist ihr Verhältnis zur [[Vestal]]-Fraktion? Kooperieren die beiden Fraktionen bewusst, unbewusst, oder gar nicht?

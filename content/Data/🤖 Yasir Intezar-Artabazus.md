@@ -17,16 +17,16 @@ _Corsair-Kapitän der Izdubar_
 ![[Yasir_Intezar-Artabazus.png|500]]
 
 > [!TIP] Campaign notes
-> - Corsair-Kapitän im Sivas-System, operiert im Trümmerfeld um Meraj-7
+> - Corsair-Kapitän im [[Sivas]]-System, operiert im Trümmerfeld um Meraj-7
 > - Zweiter Neffe von [[🤖 Sadhi Bat-Erden|Genya Artabazus]] — kennt sie NUR als militante Familien-Matriarchin, weiß NICHTS von der Sadhi-Doppelidentität
 > - Führer der *Izdubar* (Class-III-Corsair mit Ion-Kanone)
 > - Legt Party im Meraj-7-Trümmerfeld einen Hinterhalt: Erst Ion-Beschuss, dann Enterversuch mit 4 Corsairs
-> - Hat "spezielles Verständnis" mit den Mogul-Clans, die Sivas kontrollieren — operiert außerhalb ihrer Struktur, aber greift keine Mogul-geschützten Ziele an
+> - Hat "spezielles Verständnis" mit den Mogul-Clans, die [[Sivas]] kontrollieren — operiert außerhalb ihrer Struktur, aber greift keine Mogul-geschützten Ziele an
 
 ## Rolle in der Kampagne
 
 **Sub-Antagonist in Akt 3.** Sein Hinterhalt in Meraj-7 ist der Kampf-Höhepunkt vor Shirins Reliquien. Falls die Party ihn lebend erwischt, ist er eine wertvolle Wissensquelle:
-- Kennt Genyas Netzwerk in Altai teilweise
+- Kennt Genyas Netzwerk in [[Altai]] teilweise
 - Kann bestätigen, dass Genya die Kushtriya-Suche persönlich leitet
 - Kennt die *Asuai* (Genyas Zerstörer)
 - **Weiß NICHT, dass Genya = Sadhi ist** — sein Nicht-Wissen ist selbst ein Puzzle-Stück (warum wird es der Familie vorenthalten?)
@@ -45,7 +45,7 @@ Verhör bringt zutage:
 - Genya ist real, Familien-Oberhaupt, sitzt normalerweise in Khorsabad
 - Sie war vor der Kushtriya-Sache "moderat" — der Suchauftrag habe sie verändert
 - Es gibt jemanden namens "Sadhi" die im Konzil sitzt, die Genya offenbar als politischen Kanal nutzt — Yasir hält Sadhi für Genyas Verbündete, nicht ihre andere Identität
-- Die *Firebird* (Caerns Schiff!) wurde vor Segmenten für einen Auftrag an eine externe Person namens Caern verliehen
+- Die *[[Firebird]]* (Caerns Schiff!) wurde vor Segmenten für einen Auftrag an eine externe Person namens [[Caern]] verliehen
 
 **Damit ist er der erste konkrete Sadhi-Enthüllungs-Baustein für aufmerksame Party.**
 

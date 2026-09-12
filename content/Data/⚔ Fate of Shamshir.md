@@ -1,47 +1,47 @@
----
+[[Altai]][[The Legion]][[The Consortium]][[Altai]][[Altai]][[Quadrant of the Pillar]][[Altai]][[Characteristics]][[Equipment]][[Equipment]][[Darkness between the Stars]][[Lance Station]][[Zhau]][[Ibn Tash]][[Zhau]][[Altai]][[Lance Station]][[Ibn Tash]][[Equipment]][[Ibn Tash]][[Ibn Tash]][[Altai]][[Yarah Grehem]][[Ibn Tash]][[Ibn Tash]][[Ibn Tash]][[Ibn Tash]][[Ibn Tash]][[Ibn Tash]][[Ibn Tash]][[Ibn Tash]][[Altai]][[Yarah Grehem]][[Ibn Tash]][[Ibn Tash]][[Ibn Tash]][[Ibn Tash]][[Ibn Tash]][[Ibn Tash]][[Ibn Tash]][[Ibn Tash]][[Quadrant of the Pillar]][[Ibn Tash]][[Yarah Grehem]][[Altai]][[Altai]][[Altai]][[Third Horizon]][[Altai]][[Ibn Tash]][[Ibn Tash]][[Ibn Tash]][[Altai]][[Altai]][[Altai]][[Altai]][[Altai]][[Altai]][[Ordana]][[Altai]][[Ayuin Cartel]][[Malhotra]][[The Mystics]]---
 draft: true
 ---
 THE FATE OF SHAMSHIR
 A PROPOSAL AT THE ODIC LEAF
-The PCs have learned through their patron that there is a person interested in their services on the Hayrangi space station in the Ordana system. The station itself is a bustling trading post where 
+The PCs have learned through their patron that there is a person interested in their services on the Hayrangi space station in the [[Ordana]] system. The station itself is a bustling trading post where 
 a facade of civility is maintained by the armed guards of the 
-ruling Jafar brothers. The PCs have learned that their patron has dealings with the eminent antiquities connoisseur Ibn Tash, who wants their help with a discreet delivery mission. The PCs have received an encrypted message that Ibn Tash will meet them 
+ruling Jafar brothers. The PCs have learned that their patron has dealings with the eminent antiquities connoisseur [[Ibn Tash]], who wants their help with a discreet delivery mission. The PCs have received an encrypted message that [[Ibn Tash]] will meet them 
 at the Odic Leaf teahouse, located in the emporia of the Duduk district, a bazaar known for its countless antique dealers selling artifacts and historical relics from every corner of the horizon. 
 The Odic Leaf is a kitschy watering hole where the air is thick with aromatic smoke from hookah-smoking patrons. The PCs are met by four burly thugs carrying privately modified grape guns and sharing similar tattoos. They are led by a skinny and fashionably overdressed fellow who introduces himself as Abdallah al Tamir, 
-a humble servant of a merchant group called the Varanasi collective. They ask the PCs to prove that they are who they say they are before leading them into a cramped and smoky private room at the Odic Leaf. A success on an easy Culture roll (+2) reveals that Abdallah and his crew are Corsairs, hailing from the Altai system.
-Inside the room, an awkward Ibn Tash awaits, flanked by two more corsairs. It is clear that Ibn is uncomfortable but also that it is due to something else besides the thugs of the Varanasi collective and Abdallah.
-Ibn apologizes for the suspicious welcome but says that the Quadrant of the Pillar is a place where you need to be on your guard. To prove his own identity, he hands over his business card (see Player handout 1), which may be an important clue for the PCs when they later try to find the historian in Khorsabad. Ibn then 
+a humble servant of a merchant group called the Varanasi collective. They ask the PCs to prove that they are who they say they are before leading them into a cramped and smoky private room at the Odic Leaf. A success on an easy Culture roll (+2) reveals that Abdallah and his crew are Corsairs, hailing from the [[Altai]] system.
+Inside the room, an awkward [[Ibn Tash]] awaits, flanked by two more corsairs. It is clear that Ibn is uncomfortable but also that it is due to something else besides the thugs of the Varanasi collective and Abdallah.
+Ibn apol[[Equipment]]r the suspicious welcome but says that the [[Quadrant of the Pillar]] is a place where you need to be on your guard. To prove his own identity, he hands over his business card (see Player handout 1), which may be an important clue for the PCs when they later try to find the historian in Khorsabad. Ibn then 
 tells them that the PCs' Patron has spoken very highly of them.
 Ibn wants them to act as an intermediary in acquiring a 
-historical object from the planet Ordana. The object, called the Cryptosphere, is of great importance to his historical research 
+historical object from the [[Planet Ordana]]. The object, called the Cryptosphere, is of great importance to his historical research 
 and is located in the Harmand's Monastery in the Meng Delta. To collect the Cryptosphere and deliver it to Ibn, he offers 10.000 birr, 3.000 in advance and 7.000 upon delivery to him and him alone. If the PCs have questions, Ibn provides the following information:
-•  The Cryptosphere is to be delivered to Ibns residence in the Bazaar district on Khorsabad in the Altai system.
+•  The Cryptosphere is to be delivered to Ibns residence in the Bazaar district on Khorsabad in the [[Altai]] system.
 •  The Cryptosphere is a thirty-centimetre wide gilded metal sphere of a golden alloy decorated from the time of the 
 Portal Wars. In some texts it is described as a golden giant pearl. It is not considered particularly important from a historical or religious point of view, but could verify an academic theory on which Ibn bases his research.
 •  The Cryptosphere is said to have belonged to an Icon saint named Shirin, known as the Seventh Herald of the Messenger. •  Negotiating with the Arch Abbess for the Cryptosphere 
 should be easy, as the monastery is in need of cash. Ibn does not have a direct agreement with the Arch Abbess but knows that the Cryptosphere is not a valued relic. According to records it has been in storage for the last 40 cycles. 
 •  Ibn can offer the monastery up to 25.000 birr in compensation for the Cryptosphere. The payment will be left here at Hayrangi with a trusted party and transferred once a deal is brokered.
-•  The relic is to be delivered to Ibns house in Khorsabad in the neighbouring Altai system for payment.
+•  The relic is to be delivered to Ibns house in Khorsabad in the neighbouring [[Altai]] system for payment.
 If the PCs try to press Ibn for more information, a successful roll on Manipulation is required. For each Success, they gain access to one of the bullet points below of the GMs choice.
-•  The Varanasi collective has helped Ibn obtain sensitive material in the past and is a trusted partner. However, they have a relatively (undeserved) bad reputation in Ordana, which is why he or they cannot carry out the negotiation themselves.
+•  The Varanasi collective has helped Ibn obtain sensitive material in the past and is a trusted partner. However, they have a relatively (undeserved) bad reputation in [[Ordana]], which i[[Ordana]]he or they cannot carry out the negotiation themselves.
 •  It is clear that Ibn is worried about a third non-disclosed actor that is interested in the item (Genya Artabazus), but he does not go into any detail about this.
 •  There might be some issues in reaching the monastery 
-as there is a flight embargo in several areas of the planet, including parts of the Meng Delta. This is due to the Ayuin Cartels' low-intensity civil war in the region against the Ordana People's Army.
+as there is a flight embargo in several areas of the planet, including parts of the Meng Delta. This is due to the Ayuin Cartels' low-intensity civil war in the region against the [[Ordana]] People's Army.
 •  As for the payment, Ibn can go as far as offering 5.000 birr in advance and up to 15.000 upon delivery.
 Ibn does not give any information regarding the purpose or origin of the Cryptosphere at this point. However, more information will be revealed later on in the campaign.
-ORDANA
-The Ordana system is the Consortium's stronghold in the 
+[[Ordana]]
+The [[Ordana]] system is [[The Consortium]]'s stronghold in the 
 Pillar Quadrant. As such it is seen as an enlightened system 
 by many Zenitians. Here, through generous investments, 
 the faction has attracted many local companies and actors. 
-With their help, the Consortium has embarked on a massive colonization, industrialization, and exploitation of the system. These subsidiaries and front companies are popularly known 
-as the Cartels. The strongest among these is the Ayuin Cartel, which consists of a plethora of mining complexes, refineries, plantations, and trading companies based in the city of Ayuin on the planet Ordana. Their common ground is an unwavering loyalty toward their benefactor and their prioritization of profit margins over workers' needs and health. (For more information on Ordana and the Meng Delta, please see the Coriolis Community Atlas p.97)
-THE MENG DELTA, ORDANA
-The region around Harmand's Monastery is dominated by mangrove swamps. It is also home to one of the Ayuin Cartel's industrial islands, where, with the help of underpaid and overworked labourers, they produce large quantities of refined rubber. The area is under the protection of the Orcinus Wing, a deadly air company, which has a small airbase and radar station on a nearby isle. In addition, there is the rural community of Tempat, a gathering point for the local population but also a recruiting ground for the People’s Army of Ordana.
+With their help, [[The Consortium]] has embarked on a massive colonization, industrializat[[Quadrant of the Pillar]]of the system. These subsidiaries and front companies are popularly known 
+as the Cartels. The strongest among these is the [[Ayuin Cartel]], which consists of a p[[Altai]]ra of mining complexes, refineries, plantations, and trading companies based in the city of Ayuin on the [[Planet Ordana]]. Their common ground is an unwavering loyalty toward their benefactor and their prioritization of profit margins over workers' needs and health. (For more information on [[Ordana]] and the Meng Delta, please see the Coriolis Community Atlas p.97)
+THE MENG DELTA, [[Ordana]]
+The region around Harmand's Monastery is dominated by mangrove swamps. It is also home to one of the [[Ayuin Cartel]]'s industrial islands, where, with the help of underpaid and overworked labourers, they produce large quantities of refined rubber. The area is under the protection of the Orcinus Wing, a deadly air company, which has a small airbase and radar station on a nearby isle. In addition, there is the rural community of Tempat, a gathering point for the local population but also a recruiting ground for the People’s Army of [[Ordana]].
 However, the delta is notoriously difficult to navigate as it consists of shallow swamps, dense undergrowth, and inhospitable fauna. 
 It is virtually impossible to cover any significant distance on 
 foot. Instead its inhabitants use canoes, hydrocopters, or swamp crawlers.
-FLIGHT BAN IN THE MENG DELTA
+FLIGHT BAN[[Dabaran]] MENG DELTA
 Flying into the Meng Delta, the PCs are harshly hailed by the Orcinus Wing and informed that the area is no-fly zone for commercial space craft. The flight ban extends the entire area surrounding the Rubber refinery (marked by the white circle on 
 the map) and is enforced due to a terrorist attack a few days earlier. The caller informs the PCs that the closest landing spot in the area outside of the no-fly zone is the small village of Tempat.
 There are three different ways for the PCs to get to enter the delta and navigate to Harmand’s Monastery:
@@ -53,26 +53,26 @@ either by themselves or with the help of one of the villagers, proceed to Harman
 to try an improvised landing in the swamp. This option will without a doubt end in violence as the Orinus Wing will dispatch strikecrafts within moments. It will also make it difficult to procure the Cryptosphere at the monastery as Sister Kasturbai will not negotiate with someone directly hunted by the Orcinus Wing.
 If the PCs venture alone into the dangerous Meng Delta without a guide, the GM receives 4 Darkness Points.
 TEMPAT
-The small community of Tempat is located on one of the many islands of the Meng Delta. Much of the village consists of wooden buildings raised on tall stilts about 7 meters above the muddy ground. The core of the village consists of a small chapel and 
+The small community of Tempat is located on one of the many isla[[Ibn Tash]]he Meng Delta. Much of the village c[[Ibn Tash]]of wooden buildings raised on tall stilts[[Ibn Tash]] meters above the muddy ground. The core of the village consists of a small chapel and 
 a combined general store and canteen, Mabak's Emporium. 
-In addition, there is a small marina and a raised, rectangular, moss-covered cement landing pad. The village has about 240 inhabitants, who make their meager living from fishing, rubber farming, and small-scale silk farming. The villagers generally try 
-to stay away from the Cartel's activities. Tempat has three primary actors with different agendas: the local Song keeper Nayem Jummah, the merchant and smuggler Mabak, and the Cartel's recruitment agent Siha Anasha.
+In addition, there is a small marina and a raised, rectangular, moss-covered cement landing pad. The village h[[Altai]]out 240 inhabitants, who make their meager living from fishing, rubber farming, and small-scale silk farmi[[Ibn Tash]]villagers generally try 
+to stay away from the Cartel's activities. Tempat has three primary actors with different agendas: the local Song keeper Nayem Jummah, the merchant and smuggler Mabak, and the Cartel's recruitment agent [[Siha Anasha]].
 If the PCs want, they can try to rent or buy a boat for transportation to Harmand's, the price for renting is about 200 birr per day and buying a boat costs approximately 1500 birr.
-MERCHANT MABAK AL-JAIPUR
-Mabak Al-Jaipur runs the local combined canteen and general store in Tempat. Despite his modest income, he is one of the 
-more influential persons in the village. His inventory consists of basic goods, imported spare parts, and simple food and drink. He supplements this business by selling the drug Wang-Wang under the table. Mabak is linked to the Jade Jackals smuggling gang. Once a week he goes to their camp northwest of Tempat in a hydrocopter, under the pretext of a fishing trip. Here he picks up Wang-Wang and sometimes other contraband.
-Mabak is fond of birr and strongly dislikes the Ayuin Cartel, whose activities severely restrict his entrepreneurship. With a hefty bribe, trustworthy PCs can convince Mabak to put them in contact with the Jade Jackals.
-SONG KEEPER NAYAM JUMMAH 
-Nayem is an idealistic man in his 50s. He manages the village chapel and as the village song keeper, he is responsible for remembering all the ancestors of the area, who play an important role in the local ancestral religion. The ancestors act as sub-icons and can be called upon as mediators to the Icons. Nayem still remembers the time before the Consortium and their minions arrived on Ordana, and likes to paint it in a nostalgic light, often using stories about the ancestors.
-Nayem strongly disapproves of the Ayuin Cartel's activities on Ordana, as they both trample on its history and ruthlessly exploit the planet's population. He is also critical of the monestary’s 
+MERCHANT [[Mabak Al-Jaipur]]
+[[Mabak Al-Jaipur]] runs the local combined canteen and general store in Tempat. Despite his modest income, he is one of the 
+more influential persons in the village. His inventory consists of basic goods, imported spare parts, and simple food and drink. He supplements this business by selling the drug Wang-Wang under the table. Mabak is linked to the Jade Jackals smug[[Ordana]]gang. Once a week he goes to their camp northwest of Tempat in a hydrocopter, under the pretext of a fishing trip. Here he picks up Wang-Wang and sometimes other contraband.
+Mabak is fond of birr and strongly dis[[Altai]] the [[Ayuin Cartel]], whose activities severely restrict his entrepreneurship. With a hefty bribe, trustworthy PCs can convince Mabak to put them in contact with the Jade Jackals.
+SONG KEEPER [[Nayam Jummah]] 
+Nayem is an idealistic man in his 50s. He manages the village chapel and as the village song keeper, he is responsible for remembering all the ancestors of the area, who play an important role in the local ancestral religion. The ancestors act as sub-icons and can be called upon as mediators to the Icons. Nayem still remembers the time before [[The Consortium]] and their minions arrived on [[Ordana]], and likes to paint it in a nostalgic light, often using stories about the ancestors.
+Nayem strongly disapproves of the [[Ayuin Cartel]]'s activities on [[Ordana]], as they both trample on its history and ruthlessly exploit the planet's population. He is also critical of the monestary’s 
 neutral stance in the region and therefore has very limited 
-contact with it. He is also allied with the People’s Army of Ordana and acts as one of their informants. He regularly sends reports via trained birds. The birds are equipped with info tags, thus avoiding traceable radio communications. If the PCs turn out to be pious Icon worshipers or express disapproval of the Ayuin Cartel or the Consortium, he can help them make contact with the People’s Army of Ordana Reconnaissance Camp.
-RECRUITMENT AGENT SIHA ANASHA
-Siha has been working for the Ayuin cartel since her teens. Now, 
-at 25, trained by the cartel's industrial institute, she has been put in charge of recruitment in the Meng Delta. The Ayuin cartel is in constant need of new workers for its expanding industrial sector. Siha’s approach is often to charm and pamper potential new recruits with arrack in her lavishly furnished office, then persuade them to sign steel-clad employment contracts in one of the region's industries. The next day, they are shipped off to gruelling employment and may never be seen in Tempat again. This has made the rest of Tempat's population reluctant to socialize with her. Siha is also on the lookout for any threats to the Cartel's operations or allies of the People’s Army of Ordana. Every reported tip about the rebels brings a considerable bonus. If the PCs have a solid cover story and want to get to the Rubber refinery, they can approach Siha to seek seasonal employment.
+contact with it. He is also allied with the People’s Army of [[Ordana]] and acts as one of their informants. He regularly sends reports via trained birds. The birds are equipped with info tags, thus avoiding traceable radio communications. If the PCs turn out to be pious Icon worshipers or express disapproval of the [[Ayuin Carte[[The Consortium]]onsortium]], he can help them make contact with the People’s Army of [[Ordana]] Reconnaissance Camp.
+RECRUITMENT AGENT [[Siha Anasha]]
+Siha has been working for the [[Ayuin Cartel]] since her teens. Now, 
+at 25, trained by the cartel's industrial institute, she has been put in charge of recruitment in the Meng Delta. The [[Ayuin Cartel]] is in constant need of new workers for its expanding industrial sector. Siha’s approach is often to charm and pamper potential new recruits with arrack in her lavishly furnished office, then persuade them to sign steel-clad employment contracts in one of the region's industries. The next day, they are shipped off to gruelling employment and may never be seen in Tempat again. This has made the rest of Tempat's population reluctant to socialize with her. Siha is also on the lookout for any threats t[[Ibn Tash]]rtel's operations or allies of the People’s Army of [[Ordana]]. Every reported tip about the rebels brings a considerable bonus. If the PCs have a solid cover story and want to get to the Rubber refinery, they can approach Siha to seek seasonal employment.
 3
 THE RUBBER REFINERY 
-In the sleepy swamps of the Meng Delta, the Ayuin cartel has built 
+In the sleepy swamps of the Meng Delta, the [[Ayuin Cartel]] has built 
 a massive industrial plant to refine raw rubber. The refinery is a large industrial complex run by about 600 workers, mostly low-skilled contracted labourers. They work long, hard hours under 
 the supervision of cartel foremen to handle the bulk cargoes of raw rubber that arrive at the plant daily by boat. The workers 
 live and sleep in warrens of cramped and dilapidated residential barracks dotted around the main plant. The main plant itself is 
@@ -80,46 +80,46 @@ a seven-storey steel and cement colossus, firmly anchored in
 the marshland. Life for the contracted workers is bleak. After 
 their 10-hour shifts in the refinery, many spend their time in one 
 of the area's rickety canteens, where many use the drug Wang-Wang. The cartel has a small security force in place with thirty soldiers. They are mainly interested in keeping order inside the factory and removing any threats to production. Troublemakers are either put in a holding cell for a few days or receive a one-way swimming lesson into the swamp by the Chief Security Officer, 
-Jael Maroun (has the characteristics of a Typical NPC soldier but with Command 3, p.343 in the core rulebook).
+Jael Maroun (has the [[Characteristics]] of a Typical NPC soldier but with Command 3, p.343 in the core rulebook).
 Every other day a small group of missionaries led by Brother 
-Anand from the Harmand's Monastery arrive to preach the Word of the Icons and help with basic medical care. They arrive at dawn and leave in the afternoon on a reinforced riverboat, after being searched by the plant's guards.
+Anand from the Harmand's Monastery arrive to preach the Word of the Icons and help with basic medical care. They arrive at[[Sivas]] and leave in the afternoon on a reinforced riverboat, after being searched by the plant's guards.
 REBEL SABOTAGE
-A loud explosion rocks the factory and large clouds of dark smoke emerge from the machinery. Workers run around in disarray and the security forces are rushing to the scene of the crime. One of the PCs can see a masked figure breaking away from the turmoil and running into the swamp. A few moments later Jael Maroun and five members of his security team confront the PCs. Were they involved? As newcomers, the timing is without doubt suspicious. The atmosphere quickly becomes hostile and the PCs need to either convince them, flee, or prepare for a fight. Cost: 2 DP
+A loud expl[[Sivas]] rocks the factory and large clouds of dark [[Ibn Tash]]erge from the machinery. Workers run around in disarray and the security forces are rushing to the scene of the crime. One of the PCs can see a masked figure breaking away from the turmoil and running into the swamp. A few moments later Jael Maroun and fi[[Altai]]mbers of his security team confront the PCs. Were they involved? As newcomers, the timing is without doubt suspicious. The atmosphere quickly becomes hostile and the PCs need to either convince them, flee, or prepare for a fight. Cost: 2 DP
 WORKPLACE ACCIDENT
-A shipment of unrefined rubber arrives by large flat-bottomed rafts. The large crates are lifted by spidery cranes into the factory’s conveyor belts. The workers toil slowly with the noisy machinery. Suddenly one of the heavy crates breaks loose and falls from the crane, smashing into the floor and causing a highway of destruction as it tumbles through the facility. The 
+A shipment of unrefined rubber arrives by large flat-bottomed rafts. The large crates are lifted by spidery cranes into the factory’s conveyor belts. The workers toil slowly with the noisy machinery. Suddenly one of the heavy crates breaks loose and falls from the crane, smashing into the floor and causing a highway[[Sivas]]estruction as it tumbles through the facility. The 
 PCs need to make a successful Dexterity roll to avoid getting hit 
-by splinters of metal and wood that hurl across the factory. Any who fail suffers 1 point of Damage. In the wreckage, half a dozen workers are badly hurt. Many of the remaining workers seem 
+by splinters [[Ibn Tash]] and wood that hurl across the factory. Any who fail suffers 1 point of Damage. In the wreckage, half a dozen workers are badly hurt. Many of the remaining workers seem 
 dazed and react slowly to the carnage, they are clearly high on Wang-Wang. Cost: 1 DP
 ARRIVAL OF THE SEEKERS
-A small vessel arrives at the docks of the island. It is  painted brightly blue and its passengers are singing a slow and melodic hymn to the Icons as they disembark, led by the charismatic Brother Anand. After a quick inspection by the plant's security, the Seekers swiftly construct two tents, one medical and one that acts as a chapel from struts and colorful canvas from within the boat. They are greeted by a growing crowd of workers who seek either spiritual or physical aid from the nuns and monks from Harmands Monastery. The lines grow long during the day and only with the coming dusk do the activities stop and the seekers return to their boat for the journey back to the monastery. Cost: 0 DP
-ORCINUS WING RADIO STATION 
-A military facility almost overshadowed by the surrounding jungle. The exception is the 30 meters high metal mast and the two small landing pads for the base's two strikecrafts. The facility is small, and its primary mission is to protect the Rubber refinery and 
-scout for activity from the People’s Army of Ordana. The base itself 
+A small vessel arrives at the [[Ibn Tash]] the island. It is  painted brightly blue and its passengers are singing a slow and melodic hymn to the Icons as they disembark, led by the charismatic Brother Anand. After a quick inspection by the pl[[The Consortium]], the Seekers swiftly construct two tents, one medical and one that acts as a chapel from struts and colorful canvas from within the boat. They are greeted by a growing crowd of workers who seek either spiritual or physical aid from the nuns and monks from Harmands Monastery. The lines grow long during the day[[Sivas]]only with the coming dusk do the activities stop and the seekers return to their boat for the journey back to the monastery. Cost: 0 DP
+ORCINUS WING R[[Sivas]]STATION 
+A m[[Sivas]]ry facility almost overshadowed by the surrounding jungle. The exception is the 30 meters high metal mast and the two small landing pads for the base's two strikecrafts. The facility is small, [[Sivas]]ts primary mission is to [[Sivas]]ct the Rubber refinery and 
+scout for activity from the People’s Army of [[Ordana]]. The base itself 
 consists of a fortified bunker with radio facilities and two smaller subterranean hangars. It is guarded by 20 soldiers and surrounded by a 3-meter-high fence and anti-personnel mines. The facility is in constant contact with several other major military bases in the region and can call for reinforcements if necessary.
 The Orcinus Wing monitors a large area in the region (marked 
-on the map with a large light circle).  This area is restricted and includes not only the radio station itself, but also the Rubber refinery and the Harmand's Monastery. The monastery is included in the area because the Ayuin cartel has long been concerned 
+on the map with a large light circle).  This are[[Sivas]]restricted and includes not only the radio station itself, but also the Rubber refinery and the Harmand's Monastery. The monastery is included in the area because the [[Ayuin Cartel]] has long been concerned 
 that it will become a haven for rebels, but claims outwards that 
-the surveillance is only for the monastery's own safety in these troubled times. The Wing has a shoot-to-kill-order on all unknown foreign ships entering the no-fly zone during the scenario.
+the surveillance is only for the monastery's own safety in these troubled times. The Wing has a shoot-to-kill-order on all unknow[[Sivas]]eign ships entering the no-fly zone during the scenario.
 THE DEN OF THE JADE JACKALS
 Deep in the mangrove swamp is the Jade Jackal headquarters. 
 It consists of a 60-meter-long old metal riverboat sunk into the mud of the swamp and anchored with steel rods. Most of the 
-ship is underwater and serves as a factory for the Jade Jackals' Wang-Wang production. The camp is run by the gang leader 
+ship is underwater and serves as a factory for [[Third Horizon]]als' Wang-Wang production. The camp is run by the gang leader 
 Aiman Gapuir: an iron-fisted but intelligent man. In total, the 
 camp has about 12 inhabitants, 3 of whom are scrawny chemists 
-in the Wang-Wang factory and 8 are armed thugs (Typical NPC Scientists and Soldiers respectively on p.343 in the Core rulebook). In addition to the river boat, there are a few small residential huts, a couple of small, motorized canoes, and three swamp crawlers. Swamp crawlers are oblong vehicles, four meters in length, that move with the help of ten long, multi-jointed mechanical legs. 
-The vehicle also has an air-filled rubber bladder underneath that allows it to function as a boat. Swamp crawlers are excellent for traversing the hilly and difficult mangrove swamps, as they can travel both on land and in water. Another advantage is that the mechanical legs leave very little trace behind, which suits the smugglers well.
-AIMAN GAIPUR. LEADER OF THE JADE JACKALS
-Aiman handles the contact with Mabak and hates the Ayuin cartel and their security forces with passion. For the right price, he 
+in the Wang-Wang factory and 8 are armed thugs (Typical NPC Scientists and Soldiers respectively on p.343 in the Core rulebook). In addition to the river boat, there are a few small residential huts, a couple of small, motorized canoes, and three swamp crawlers. Swamp crawlers are oblong vehicles, four meters i[[Sivas]]gth, that move with the help of ten long, multi-jointed mechanical legs. 
+The vehicle also has an air-filled rubber b[[Sivas]]r underneath that allows it to function as a boat. Swamp crawlers are excellent for traversing the hilly and difficult mangrove swamps, as they can travel both on land and in water. Another advantage is that the mechanical legs leave very little trace behind, which suits the smugglers well.
+[[Aiman Gaipur]]. LEADER OF THE JADE JACKALS
+Aiman handles the contact with Mabak and hates the [[Ayuin Cartel]] and their security forces with passion. For the right price, he 
 might consider smuggling the PCs overland to the Harmand's Monastery with his swamp crawlers. For an even higher price, he might consider arranging a distraction in the swamp to draw the attention of the Orcinus Wing. He also offers the PCs the chance 
 to try Wang-Wang in an attempt to get more buyers of the deeply addictive drug.
 4
-THE PEOPLE’S ARMY OF ORDANA RECONNAISSANCE CAMP
-In the remains of an old Taonesian ruin, a scouting party of the People’s Army of Ordana is entrenched. Twelve dedicated rebels have built a temporary outpost with simple tarps and hammocks. The area around the outpost is booby-trapped with hidden fragmentation grenades. From here they monitor the Cartel's transmissions and operations under the leadership of Corporal Rania Dudakhmal.
-CORPORAL RANIA DUDAKHMAL 
-Rania is a very religious and seasoned leader as well as a good friend of Nayem Jummah. Her mission is to gather information about the Orcinus Wing and the Rubber refinery and, if possible, disrupt their operations and confiscate resources for the People’s Army of Ordana. Rania is willing to cooperate with outsiders, if Neyem vouches for them. She is also annoyed by the Jade Jackals' smuggling in the area, partly because they turn local people into mindless drug addicts.
-To get the People’s Army of Ordana's help through the delta, 
-the PCs need to offer Rania something in return. She is mainly interested in military equipment, and if the PCs can offer her 
-such things as torpedoes, explosives, or a large number of small arms, she could help them get to Harmand's Monastery discreetly. Another option is for them to help her locate and neutralize the Jade Jackals' camp and Wang-Wang production. She could also suggest that the PCs infiltrate and sabotage the rubber refinery in exchange for safe passage through the delta.
+THE PEOPLE’S ARMY OF [[Ordana]] RECONNAISSANCE CAMP
+In the remains of an old Taonesian ruin, a scouting party of the People’s Army of [[Ordana]] is entrenched. Twelve dedicated rebels have built a temporary outpost with simple tarps and hammocks. The area around the outpost is booby-trapped with hidden fragmentation grenades. From here they monitor the Cartel's transmissions and operations under the leadership of Corporal [[Rania Dudakhmal]].
+CORPORAL [[Rania Dudakhmal]] 
+Rania is a very religious and seasoned leader as well as a good friend of Nayem Jummah. Her mission is to gather information about the Orcinus Wing and the Rubber refinery and, if possible, disrupt their operations and confiscate resources for the People’s Army of [[Ordana]]. Rania is willing to cooperate with outsiders, if Neyem vouches for them. She is also annoyed by the Jade Jackals' smuggling in the area, partly because they turn local people into mindless drug addicts.
+To get the People’s Army of [[Ordana]]'s help through the delta, 
+the PCs need to offer Rania something in return. She is mainly interested in military [[Equipment]], and if the PCs can offer her 
+such things as torpedoes, explosives, or a large number of small arms, she could help them get to Harmand's Monastery discreetly. Another option is for them to help her locate and neutralize the Jade Jackals' camp and Wang-Wang production. She could also suggest that the PCs infiltrate and sabotage the rubber refinery in exchange for safe passage t[[Sivas]]h the delta.
 FREE EPISODES IN THE DELTA
 Below are various free episodes for traveling in the swamp 
 of the Meng delta. If the PCs choose to try to find their way to 
@@ -128,7 +128,7 @@ ENGINE FAILURE
 The vehicle used by the PCs, be it a swamp walker, canoe, or hydrocopter, suffers an engine failure. Black smoke starts pouring out of the engine. It takes a successful roll on Technology to get the engine running again. Otherwise, the PCs need to 
 call in outside help or face a difficult swim back to the nearest outpost. Cost: 2 DP
 REBEL PATROL 
-Suddenly, the PCs see a pair of shapes moving through the undergrowth. With a successful roll on Observation, they can make out four scouts from the People’s Army of Ordana. (Typical NPC Soldier on p.343 in the Core rulebook. The scouts have Survival 3 and are equipped with silenced vulcan carbines, shock grenades, dura knife and light armour.) The scouts have been following the group for a while, trying to determine if they are friend or foe. 
+Suddenly, the PCs see a pair of shapes moving through the undergrowth. With a successful roll on Observation, they can make out four scouts from the People’s Army of [[Ordana]]. (Typical NPC Soldier on p.343 in the Core rulebook. The scouts have Survival 3 and are equipped with silenced vulcan carbines, shock grenades, dura knife and light armour.) The scouts have been following the group for a while, trying to determine if they are friend or foe. 
 If the scouts are spotted, it is possible to turn the rebels into friendly with a successful roll of Manipulation. If the group are traveling in the company of the Jade Jackals or allies with Ayuin 
 Cartel, the scouts definitely sees them as enemies. In such cases they plan an abrupt ambush with blazing Vulcan carbines while shouting political slogans. Cost: 1 DP
 SMUGGLERS 
@@ -138,7 +138,7 @@ SPIDER LARVAE COLONY
 The craft passes under the canopy of trees covered in a sheer white web. It is a colony of spider larvae. The vegetation around the colony is withered or decayed due to the spider larvaes' 
 5
 DISORIENTED WORKERS 
-Out on a small island in the swamp are two lost workers (Typical NPC Deckhand according to p.343 in the Core rulebook, but with Empathy 1 and Wits 1. Equipped with knives). They are severely affected by Wang-Wang and barely know where they are. Emotionally unstable and screaming for help, they try to board the PCs' ship. They are disoriented and only give incoherent explanations as to why they are in the swamp. A success on Manipulation can calm them down. When calm, they can show the PCs the way to the Rubber refinery. If the PCs reject their call for help, they become aggressive. Cost: 1 DP
+Out on a small island in the swamp are two lost workers (Typical NPC Deckhand according to p.343 in the Core rulebook, but with Empathy 1 and Wits 1. Equipped with knives). They are severely affected by Wang-Wang and barely know where they are. Emotionally unstable and screaming for help, they try to board the PCs' ship. They are disoriented and only give incoherent explanations as to why they are in the swamp. A success on Manipulation can calm them down. When calm, they can show the PCs the way to[[Darkness between the Stars]]he PCs reject their call for help, they become aggressive. Cost: 1 DP
 venom. If the caterpillars are disturbed, they flock to attack 
 the invaders. In hundreds, they swarm down the branches with exposed mandibles. Cost: 1 DP
 LOST
@@ -159,20 +159,20 @@ SWAMP PREDATOR
 All the PCs can make out in the shadow of the foliage is a pair of yellow eyes before a predator attacks a random traveller on the vehicle. It is a huge Red Meng caiman. It tries to bite and drag its victim down with it into the water. Cost: 2 DP
 DESTROYED FISHING BOAT 
 In an opening between the mangroves, the remains of a fishing boat can be seen sticking up above the surface. The hull of the boat is torn and largely submerged. A closer examination shows that the boat has also been exposed to fire. Three plastic-wrapped packages lie in the surrounding water. These contain 2 kilograms of Wang-Wang each. 
-Also floating near the boat is a severed human right leg, no owner is present. The leg has been mauled by a predator. Who or what attacked the boat and its owner is uncertain. Perhaps it was cartel security forces executing a potential smuggler, a fatal engine failure, or the boat's owner being attacked by wild animals. 
+Also floating near the boat is a severed human right leg, no owner is present. The leg has been mauled by a predator. W[[Equipment]]t attacked the boat and its owner is uncertain. Perhaps it was cartel security forces executi[[Equipment]]ntial smuggler, a fatal engine failure, or the boat's owner being attacked by wild animals. 
 Cost: 0 DP
 HARMAND'S MONASTERY
 High above the green leaves of the mangrove forest, a wide, circular stone building rises 10 stories high. Its facade bears signs of the building's ancient origins and is a solid fortress against 
 the forces of nature. In the middle of the circular construction is 
 a large courtyard with one of the distinct meditation gardens of the Circle of Seekers. The building houses about 100 sisters and brothers who seek the innermost revelations of existence. The 
 age of the monastery shines through in every detail of the building and it is a quiet oasis in contrast to the wilderness outside.
-In addition to the courtyard, the monastery consists of four dormitories, an auditorium, several meditation rooms of varying sizes, two chapels, an administrative wing, an extensive refectory, a library, and a crypt. The monastery is open to visitors and has around 30 guests seeking the peace and enlightenment of the Icons. It is rumored that some of these guests are afflicted with the Mystics’ Disease, with the hope that the monks' meditation will give them the ability to repress their newly awakened powers.
-The monastery is normally led by Arch Abbess Malhotra, who 
+In addition to the courtyard, the monastery consists of four dormitories, an auditorium, several meditation rooms of varying sizes, two chapels, an administrative wing, an extensive refectory, a library, and a crypt. The monastery is open to visitors and has around 30 guests seeking the peace and enlightenment of the Icons. It is rumored that some of these guests are afflicted with [[The Mystics]]’ Disease, with the hope that the monks' meditation will give them the ability to repress their newly awakened powers.
+The monastery is normally led by Arch Abbess [[Malhotra]], who 
 tries to keep her theological outpost out of the region's mundane conflict. Instead, the Seekers look inwards, towards the mysteries of the soul. Although the monastery is under the control of 
-the Circle of Seekers, they are currently under the involuntary protection of the Ayuin Cartel. This is mainly because the Cartel is worried about rebels gaining a foothold in the area. But apart from the Orcinus Wing searching all visiting ships in the area for rebels, the monastery and its visitors have mostly been left undisturbed.
+the Circle of Seekers, they are currently under the involuntary protection of the [[Ayuin Cartel]]. This is mainly because the Cartel is worried about rebels gaining a foothold in the area. But apart from the Orcinus Wing searching all visiting ships in the area for rebels, the monastery and its visitors have mostly been left undisturbed.
 5
 DISORIENTED WORKERS 
-Out on a small island in the swamp are two lost workers (Typical NPC Deckhand according to p.343 in the Core rulebook, but with Empathy 1 and Wits 1. Equipped with knives). They are severely affected by Wang-Wang and barely know where they are. Emotionally unstable and screaming for help, they try to board the PCs' ship. They are disoriented and only give incoherent explanations as to why they are in the swamp. A success on Manipulation can calm them down. When calm, they can show the PCs the way to the Rubber refinery. If the PCs reject their call for help, they become aggressive. Cost: 1 DP
+Out on a small island in the swamp are two lost workers (Typical NPC Deckhand according to p.343 in the Core rulebook, but with Empath[[Altai]]nd Wits 1. Equipped with knives). They are severely affected by Wang-Wang and barely know where they are. Emotionally unstable and screaming for help, they try to board the PCs' ship. They are disoriented and only give incoherent explanations as to why they are in the swamp. A success on Manipulation can calm them down. When calm, they can show the PCs the way to the Rubber refinery. If the PCs reject their call for help, they become aggressive. Cost: 1 DP
 venom. If the caterpillars are disturbed, they flock to attack 
 the invaders. In hundreds, they swarm down the branches with exposed mandibles. Cost: 1 DP
 LOST
@@ -186,24 +186,22 @@ the ruins is also very translucent, as if some pollution is killing
 all microorganisms. Several meters below the water surface, 
 a bejewelled skeleton, dressed in the remains of a beautiful ceremonial costume can be seen. Cost: 0 DP
 ABANDONED CHAPEL 
-A small wooden building, standing on wooden stilts, stands alone in the wilderness. It is an abandoned temple to a long-forgotten ancestor. The chapel is dominated by a 2-meter-high wooden sculpture of an old but powerful woman. At its feet are the remains of shrivelled offerings. Cost: 0 DP
+A small wooden bui[[Ibn Tash]]tanding on wooden stilts, stands alone in the wilderness. It is an abandoned temple to a long-forgotten ancestor. The chapel is dominated by a 2-meter-high woode[[Zhau]]ulpture of an old but powerful woman. At its feet are the remains of shrivelled offerings. Cost: 0 DP
 SUDDEN STORM 
-Out of nowhere, the grey sky is replaced by black clouds and a small typhoon falls on the vehicle. A successful roll on Observation or Survival gives the PCs a few minutes to prepare before the storm hits. The storm is brutal and lightning fast. To avoid being washed overboard or lost in the storm surge the PCs need to seek shelter quickly. This requires a roll on an appropriate skill, based on the PCs approach. For 1 extra DP, the storm can wash away one or more possessions. Cost: 1-2 DP
-SWAMP PREDATOR 
-All the PCs can make out in the shadow of the foliage is a pair of yellow eyes before a predator attacks a random traveller on the vehicle. It is a huge Red Meng caiman. It tries to bite and drag its victim down with it into the water. Cost: 2 DP
+Out of nowhere, the grey sky is replaced by black clouds and a small typhoon falls on the vehicle. A successful roll on[[Zhau]]ervation or Survival gives the PCs a few minutes to prepare before the storm hits. The storm is brutal and lightning fast. To avoid being washed overboard or lost in t[[Zhau]]torm surge the PCs need to seek shelter quickly. This requires a ro[[Zhau]]n an appropriate skill, based on [[Lance Station]]ach. For 1 extra DP, the storm can wash away one or more possessions. Cost: 1-2 DP
+SWAMP P[[The Legion]]ll the PCs can make out in the shadow of the foliage is a pair of yellow eyes before a predator attacks a random traveller on the vehicle. It is a huge Red Meng caiman. It tries to bite and drag its victim down with it into the water. Cost: 2 DP
 DESTROYED FISHING BOAT 
-In an opening between the mangroves, the remains of a fishing boat can be seen sticking up above the surface. The hull of the boat is torn and largely submerged. A closer examination shows that the boat has also been exposed to fire. Three plastic-wrapped packages lie in the surrounding water. These contain 2 kilograms of Wang-Wang each. 
-Also floating near the boat is a severed human right leg, no owner is present. The leg has been mauled by a predator. Who or what attacked the boat and its owner is uncertain. Perhaps it was cartel security forces executing a potential smuggler, a fatal engine failure, or the boat's owner being attacked by wild animals. 
-Cost: 0 DP
+In an opening between the mangroves, the remains of a fishing boat can be seen sticking up above the surfac[[Zhau]]he hull of the boat is torn and largely submerged. A closer examination shows that the boat has also been exposed to fire. Three plastic-wrapped packages lie in the surrounding water. These contain 2 kilograms of Wang-Wang each. 
+Also floating near the boat is a severed human right leg, no owner is present. The leg has been mauled by a predator. Who or what attacked the boat and its owner is uncertain. Perhaps it was cartel security forces executing a potential smuggler, a fatal engine failure, or the boat's owner being[[Zalos]]cked[[The Order of the Pariah]]: 0 DP
 HARMAND'S MONASTERY
-High above the green leaves of the mangrove forest, a wide, circular stone building rises 10 stories high. Its facade bears signs of the building's ancient origins and is a solid fortress against 
-the forces of nature. In the middle of the circular construction is 
+High above the green lea[[Zhau]]of the mangrove forest, a wide, circular stone building rises 10 stories high. Its facade bears signs of t[[Zhau]]uilding's ancient origins and is a solid fortress against 
+the forces of nature. In the [[Lance Station]] circular construction is 
 a large courtyard with one of the distinct meditation gardens of the Circle of Seekers. The building houses about 100 sisters and brothers who seek the innermost revelations of existence. The 
 age of the monastery shines through in every detail of the building and it is a quiet oasis in contrast to the wilderness outside.
-In addition to the courtyard, the monastery consists of four dormitories, an auditorium, several meditation rooms of varying sizes, two chapels, an administrative wing, an extensive refectory, a library, and a crypt. The monastery is open to visitors and has around 30 guests seeking the peace and enlightenment of the Icons. It is rumored that some of these guests are afflicted with the Mystics’ Disease, with the hope that the monks' meditation will give them the ability to repress their newly awakened powers.
-The monastery is normally led by Arch Abbess Malhotra, who 
+In addition to the courtyard, the monastery consists of four dormitories, an auditorium, several meditation rooms of varying sizes, two chapels, an administrative wing, an extensive refectory, a library, and a crypt. The monastery is open to visitors and has around 30 guests seeking the peace an[[Zhau]]lightenment of the Icons. It is rumored that some of these guests are afflicted with [[The Mystics]]’ Disease, with the hope that the monks' meditation will give them the ability to repress their newly awakened powers.
+The monastery is normally led by Arch Abbess [[Malhotra]], who 
 tries to keep her theological outpost out of the region's mundane conflict. Instead, the Seekers look inwards, towards the mysteries of the soul. Although the monastery is under the control of 
-the Circle of Seekers, they are currently under the involuntary protection of the Ayuin Cartel. This is mainly because the Cartel is worried about rebels gaining a foothold in the area. But apart from the Orcinus Wing searching all visiting ships in the area for rebels, the monastery and its visitors have mostly been left undisturbed.
+the Circle of Seekers, they are currently under the involuntary protection of the [[Ayuin Cartel]]. This is mainly because the Cartel is worried about rebels gaining a foothold in the area. But apart from the Orcinus Wing searching all visiting ships in the area for rebels, the monastery and its visitors have mostly been left undisturbed.
 5
 DISORIENTED WORKERS 
 Out on a small island in the swamp are two lost workers (Typical NPC Deckhand according to p.343 in the Core rulebook, but with Empathy 1 and Wits 1. Equipped with knives). They are severely affected by Wang-Wang and barely know where they are. Emotionally unstable and screaming for help, they try to board the PCs' ship. They are disoriented and only give incoherent explanations as to why they are in the swamp. A success on Manipulation can calm them down. When calm, they can show the PCs the way to the Rubber refinery. If the PCs reject their call for help, they become aggressive. Cost: 1 DP

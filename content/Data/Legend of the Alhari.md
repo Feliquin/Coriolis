@@ -30,3 +30,4 @@ _A tale from the Second Portal War_
 ![[WS2025Q1.pdf]]
 
 
+siehe auch [[Rückblick erste Kampagne]]

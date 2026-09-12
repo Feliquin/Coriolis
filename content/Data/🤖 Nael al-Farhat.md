@@ -52,5 +52,5 @@ Sein Ahlams Tempel unterscheidet sich vom historischen Vorbild: keine Tempel-Str
 ## Offene GM-Fragen
 - Aussehen konkret (kein Foto im Vault)
 - Familienstand aktuell — mehr Kinder/Enkel als Jasmina?
-- Verhältnis zu [[Yillad]] (Okra Darma Icon City) — direkter Konflikt möglich?
+- Verhältnis zu [[Yillad]] ([[Okra Darma]] Icon City) — direkter Konflikt möglich?
 - Verhältnis zum Ayuin-Kartell — Wangwang-Zulieferung geht möglicherweise durch sie

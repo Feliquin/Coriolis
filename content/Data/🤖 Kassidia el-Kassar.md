@@ -31,7 +31,7 @@ Kassidia fliegt die Alhari II eigenverantwortlich durch den Horizont. Nach dem T
 
 ## Bedeutung für die Kampagne
 - Die Alhari II ist eine der wertvollsten Ressourcen im Horizont. Für [[🤖 GM Vestal Threat|die Ansha'ir]] ist sie automatisch von brennendem Interesse (eigenes Portal!). Kassidia wird ins Visier geraten.
-- Sie kann die Al-Jamal an Orte bringen, die sonst wochenlange Reisen wären.
+- Sie kann die [[Al-Jamal]] an Orte bringen, die sonst wochenlange Reisen wären.
 - Politisch neutral, den Nomaden loyal — will keiner Fraktion dienen.
 
 ## Persönlichkeit
