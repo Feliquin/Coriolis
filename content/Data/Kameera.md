@@ -17,6 +17,8 @@ _Stardust Hyaena_
 > - Her brother [[Jabed]] was killed by [[Hounds of Tirides]]
 > - Was paid 12.000 Birr by a person on [[Khôban Station]] to attack the [[Al-Jamal]] and film the attack
 > - Left the [[Al-Jamal]] in [[Zhau]] in order to follow a lead regarding [[Caern]] and went to [[Sivas]]
+> - Abgeholt von der [[Al-Jamal]] in [[Sivas]] auf dem Weg zum Tempel auf Mejai 7.
+> - Gute Bordschützin, hat die Izdubar zerstört.
 
 ![[Kameera.png|500]]
 

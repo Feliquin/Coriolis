@@ -33,13 +33,13 @@ Sana brauchte nach den Erlebnissen eine Auszeit und trennte sich vorerst von Tar
 
 **_Session_**_: 1.05 + 1.06 Die letzte Reise der Ghazali_
 
-Im Segment des Reisenden des 60. Coriolisumlaufs erreichte ein verzweifelter und bruchstückhafter Notruf die Coriolis Station, gesendet aus Taoan. Die dortige Tsurabi-Gasmine, die in der dichten Atmosphäre des Gasriesen verankert wurde, benötigte offenscheinlich dringende Hilfe aus unbekannten Gründen. 
+Im Segment des Reisenden des 60. Coriolisumlaufs erreichte ein verzweifelter und bruchstückhafter Notruf die Coriolis Station, gesendet aus [[Taoan]]. Die dortige Tsurabi-Gasmine, die in der dichten Atmosphäre des Gasriesen verankert wurde, benötigte offenscheinlich dringende Hilfe aus unbekannten Gründen. 
 
 Die Kolonialbehörde, Haupteigentümer der Kolonie, begann unverzüglich mit der Organisation einer Rettungsflotte. Ziel sollte es sein, die Kolonisten zu evakuieren und die wertvolle Bergbauausrüstung zu retten. Wesentlicher Teil der Flotte wurde dabei das ausgemusterte Luxusschiff namens _Ghazali_, welches kurzfristig um fünfhundert Stasis-Einheiten - genug für die zweihundert Rettungskräfte und das Personal der _Tsurabi_ - aufgerüstet wurde.
 
 Viele kleinere Schiffe schlossen sich den Aufrufen an und begleiteten die _Ghazali_ - auch weil eine lukrative Belohnung in Aussicht gestellt wurde. Die meisten kleineren Schiffe wurden in die Docks der _Ghazali_ aufgenommen und ihre Besatzungen an Bord des Luxusliners auf Eis gelegt.
 
-Die Legion stellte zudem eine Eskorte in Form des Zerstörers _Zafirah_. Der erste Sprung der Rettungsmission von Kua nach Hamura verlief erfolgreich, aber der zweite von Hamura nach Taoan endete in einer Katastrophe.
+Die Legion stellte zudem eine Eskorte in Form des Zerstörers _Zafirah_. Der erste Sprung der Rettungsmission von [[Kua]] nach [[Hamura]] verlief erfolgreich, aber der zweite von Hamura nach Taoan endete in einer Katastrophe.
 
 Als die _Zafirah_ in das Portalfeld nach Taoan eintrat, wurden urpötzlich enorme Mengen Energie freigesetzt. Der genaue Auslöser dafür bleibt weiter im Dunkeln, aber die _Ghazali_ wurde dadurch in harter Strahlung gebadet. Die Sprungcrew, noch beschäftigt mit letzten Vorbereitungen für den Portalsprung, wurde sofort getötet.  Der Antrieb der _Ghazali_ explodierte und das Schiff wurde in einen absteigenden Orbit um den Stern Hamura geworfen. 
 
@@ -57,7 +57,7 @@ Die Krankenstation auf _Hamurabi_, inzwischen wieder stabilisiert und voll funkt
 
 **Konsequenzen**
 
-Untersuchungen laufen, was die Katastrophe ausgelöst hat. Offensichtlich sind nur ihre Konsequenzen. So gilt das Portal nach Taoan aus Richtung Hamura als zerstört. Die Legion bezichtigt den Orden des Pariah als Auslöser der Situation. Daraufhin errichtete der Orden eine Blockade auf der anderen Seite der Route von Dabaran ausgehend. 
+Untersuchungen laufen, was die Katastrophe ausgelöst hat. Offensichtlich sind nur ihre Konsequenzen. So gilt das Portal nach Taoan aus Richtung Hamura als zerstört. Die Legion bezichtigt den Orden des Pariah als Auslöser der Situation. Daraufhin errichtete der Orden eine Blockade auf der anderen Seite der Route von [[Dabaran]] ausgehend. 
 
 Wie nun Hilfsgüter zur Tsurabi-Mine gelangen sollen ist noch unklar - wir gehen von schwierigen und gegebenenfalls langwierigen Verhandlungen zwischen den Parteien aus. Was genau das für die in Not geratenen Kolonisten bedeutet bleibt vorerst unklar. Sicher ist nur, dass die Leute auf _Tsurabi_ vorerst auf sich allein gestellt sind.
 
@@ -67,7 +67,7 @@ ERFOLGTE NOCH AM GLEICHEN TAG**
 
 Angeblich leisteten sie einen erheblich Anteil im Überlebenskampf auf der dem Tode geweihten _Ghazali_. Etliche Überlebende feierten sie gar bei der Ankunft auf der Hamurabi-Station als Helden, ohne die es kaum jemand aus dem Wrack lebendig herausgeschafft hätte.
 
-Und doch gibt es erhebliche Anschuldigungen gegen die Crew des freien Transporters _Alhari_. So sollen sie in Kontakt mit Mitgliedern des Ordens des Pariah auf Dabaran stehen. Das alleine ist sicherlich kein Verbrechen, doch gibt es Anzeichen, dass die Crew unter dem Befehl von Captain Tarek al-Farhat großen Wert auf die Rettung der entlaufenen Nektara gelegt hat - auf Kosten von Menschenleben. Unseren Recherchen nach ist al-Farhat ebenso wie sein Bruder und Maschinist Nael al-Farhat Mitglied eines Verbrechersyndikats, das seinen Ursprung im Algolsystem hat.
+Und doch gibt es erhebliche Anschuldigungen gegen die Crew des freien Transporters _Alhari_. So sollen sie in Kontakt mit Mitgliedern des Ordens des Pariah auf Dabaran stehen. Das alleine ist sicherlich kein Verbrechen, doch gibt es Anzeichen, dass die Crew unter dem Befehl von Captain [[Tarek al-Farhat]] großen Wert auf die Rettung der entlaufenen Nektara gelegt hat - auf Kosten von Menschenleben. Unseren Recherchen nach ist al-Farhat ebenso wie sein Bruder und Maschinist Nael al-Farhat Mitglied eines Verbrechersyndikats, das seinen Ursprung im Algolsystem hat.
 
 Unter Verdacht der Sabotage und einer vermuteten Vertuschung von Beweismaterial wurde die Crew von der Legion verhaftet und befindet sich nun auf dem Weg zum Legionsstützpunkt auf Hamura. 
 
@@ -79,7 +79,7 @@ DIE GHAZALI KATASTROPHE VERÄNDERN WIRD** 
 
 Man mag nun zu den Ikonen beten und sie anflehen, ihre heilenden und vermeintlich wohlwollenden Kräfte auf den Horizont anzuwenden. Wer jedoch weniger an Aberglauben interessiert ist und sich lieber konkreten Problem und ihrer Lösungen annimmt, der wird zweifelsohne schnell bemerken in welch unglückliche Lage die Ereignisse um _Tsurabi_ und _Ghazali_ uns bringen. 
 
-Als hätten die seit Jahren schwelenden Spannungen zwischen der Legion und den Fanatikern des Pariahordens nicht bereits lähmende Auswirkungen auf den Handel und Fortschritt der Zentralwelten. Nun wird neben Aiwaz ein zweiter Brennpunkt eröffnet, zwar weit Draußen im Außenarm der Dabaran-Route und doch für jeden von uns alsbald spürbar. Schon jetzt zieht die Legion Zerstörer zusammen um eine Flotte nach Dabaran zu verlegen. Und der Orden entsendet zwei weitere Tempelschiffe ebenfalls dorthin. Weniger Waren werden transportiert werden, der Austausch der Kolonien wird erschwert und Kontrollen werden ausgeweitet. All das wird zu erheblichen Preisanstiegen führen - nicht nur im Kua-System, sondern vor allem auch in den anderen Kernwelten. Darauf müssen wir uns alle einstellen. Und sollte es zu echten Kampfhandlungen kommen, das Potenzial dazu hat die aktuelle Situation mit Gewissheit, sollte also ein Krieg ausbrechen, dann hüllt sich bald erneut das dunkle Tuch des Rückschritts über den Horizont. Dann können wir nur noch zu den Ikonen beten.
+Als hätten die seit Jahren schwelenden Spannungen zwischen der Legion und den Fanatikern des Pariahordens nicht bereits lähmende Auswirkungen auf den Handel und Fortschritt der Zentralwelten. Nun wird neben [[Aiwaz]] ein zweiter Brennpunkt eröffnet, zwar weit Draußen im Außenarm der Dabaran-Route und doch für jeden von uns alsbald spürbar. Schon jetzt zieht die Legion Zerstörer zusammen um eine Flotte nach Dabaran zu verlegen. Und der Orden entsendet zwei weitere Tempelschiffe ebenfalls dorthin. Weniger Waren werden transportiert werden, der Austausch der Kolonien wird erschwert und Kontrollen werden ausgeweitet. All das wird zu erheblichen Preisanstiegen führen - nicht nur im Kua-System, sondern vor allem auch in den anderen Kernwelten. Darauf müssen wir uns alle einstellen. Und sollte es zu echten Kampfhandlungen kommen, das Potenzial dazu hat die aktuelle Situation mit Gewissheit, sollte also ein Krieg ausbrechen, dann hüllt sich bald erneut das dunkle Tuch des Rückschritts über den Horizont. Dann können wir nur noch zu den Ikonen beten.
 
 ---
 
@@ -101,7 +101,7 @@ Bei weiteren Auseinandersetzungen wurden Augenzeugenberichten zu Folge die verbl
 
 Über viele Segmente galt die _Zafirah_ als verloren, seit der Zerstörer der Legion im Zusammenhang mit der Ghazali-Katastrophe im Portal nach Taoan verschwand. Doch durch geheime Informanten sind nun brisante Neuigkeiten über das Schiff in unserer Redaktion angekommen. Wir konnten einige Fragmente der Geschichte noch nicht zweifelsfrei beweisen, daher sei der geneigte Leser darauf hingewiesen, dass Details im folgenden Text unwahr sein könnten. Wir sind aber überzeugt, dass die Geschichte der Wahrheit so nahe steht wie nur möglich. 
 
-Die Crew des freien Schiffes _Alhari_, welche auch bekannt ist als _Helden der Ghazali_ (und die in die Aufklärung der Entführung des Boten-Gesandten verwickelt war), wurde beauftragt im Geheimen in das Uharu-System zu fliegen. Dort vermutet die Legion das Wrack der  Zafirah irgendwo draußen im Orbit des braunen Nebensterns.
+Die Crew des freien Schiffes _Alhari_, welche auch bekannt ist als _Helden der Ghazali_ (und die in die Aufklärung der Entführung des Boten-Gesandten verwickelt war), wurde beauftragt im Geheimen in das [[Uharu]]-System zu fliegen. Dort vermutet die Legion das Wrack der  Zafirah irgendwo draußen im Orbit des braunen Nebensterns.
 
 Angeblich befand sich zu diesem Zeitpunkt bereits eine kleine Gruppe von Spezialagenten der Legion an Bord um die Alharibesatzung zu unterstützen und die Bergung der Smaragdscheibe des vermissten Zerstörers zu sichern. Getarnt als Hilfstransport gelang es der _Alhari_, die Blockade des Ordens des Pariah zu umgehen und zum braunen Zwerg zu fliegen. Im Trümmergürtel um den Eismond Azraq-3 stieß man tatsächlich auf größere Wrackteile der _Zafirah_. Das einst stolze Schiff war aufgerissen und in sich verdreht - Schäden jenseits der Möglichkeiten gängiger Waffensysteme. Doch die Brücke, geschützt tief im Inneren des Schiffes eingebaut, war hier nicht zu finden. Das wahrscheinlichste Schicksal dieses zentralen Moduls war es, irgendwo im Eis von Azraq-3 bruchgelandet zu sein.
 
@@ -130,7 +130,7 @@ Session 3.06 fehlt...
 **_Session_**_: 3.07 Ein neuer Morgen_
 
 Nach ihrer segmentenlangen Reise im Kälteschlaf durch die  
-Finsternis zwischen den Sternen, wurde die Crew der Alhari schließlich von einem Bergeschiff im Dabaran-System entdeckt. Glücklicherweise stand das Schiff in loser Verbindung mit Lady Orphalia, so dass die Patronin der Alhari eilig einige Vorkehrungen treffen konnte, bevor die Truppen der Legion dem vermissten Schiff habhaft werden konnten und es in Gewahrsam nahmen.
+Finsternis zwischen den Sternen, wurde die Crew der Alhari schließlich von einem Bergeschiff im Dabaran-System entdeckt. Glücklicherweise stand das Schiff in loser Verbindung mit [[Lady Orphalia]], so dass die Patronin der Alhari eilig einige Vorkehrungen treffen konnte, bevor die Truppen der Legion dem vermissten Schiff habhaft werden konnten und es in Gewahrsam nahmen.
 
 Während die Alhari in einer Werft im Kua-System systematisch von den Agenten des Konsortiums auseinander genommen wurde, brachte man Kassidia, Tarek und Nael in ein Hospital im Monolithen. Hier kümmerten sich Spezialisten um die körperlichen Schäden - vor allem aber um die tiefen mentalen Wunden, hervorgerufen durch die Dunkelheit. Zwar verlief die Heilung schneller als erwartet, doch blieben bei jedem der drei geistige Narben zurück.
 
@@ -158,9 +158,9 @@ Tarek, Nael und Kassidia werden aus dem Hospital des Konsortiums entlassen und v
 
 **2**•**1**•**1**•**63: Angriff auf Kua**
 
-Der Tempelkreuzer Ima-Halaat trat durch das Portal von Aiwaz ins Kua-System ein. Etwa eine Stunde zuvor wurde eine Nachrichtensonde durch das Portal geschickt - laut Legion mit einer Drohung und laut Orden mit der Ankündigung einer friedlichen Mission. Als dann die Sensoren der Legionsflotte aktive Waffensysteme registrierten wurde sofort das Feuer eröffnet. Ariana Darabén an Bord des Flagschiffs Ramarah in Begleitung von sechs Torpedoschiffen zerstörte unter leichten Verlusten das Schiff des Ordens. In den Kernwelten führte dieser Akt zu einer weiteren Zunahme der anti-zalosianischen Einstellung, während es auf Zalos zu Übergriffen auf zenithische Einrichtungen kam.
+Der Tempelkreuzer Ima-Halaat trat durch das Portal von Aiwaz ins Kua-System ein. Etwa eine Stunde zuvor wurde eine Nachrichtensonde durch das Portal geschickt - laut Legion mit einer Drohung und laut Orden mit der Ankündigung einer friedlichen Mission. Als dann die Sensoren der Legionsflotte aktive Waffensysteme registrierten wurde sofort das Feuer eröffnet. Ariana Darabén an Bord des Flagschiffs Ramarah in Begleitung von sechs Torpedoschiffen zerstörte unter leichten Verlusten das Schiff des Ordens. In den Kernwelten führte dieser Akt zu einer weiteren Zunahme der anti-zalosianischen Einstellung, während es auf [[Zalos]] zu Übergriffen auf zenithische Einrichtungen kam.
 
-Die Alhari-Crew erfuhr diese erschreckenden Nachrichten bei einem Treffen mit den alten Bekannten Xia und Althea, die sich inzwischen politisch für die Belange der Deckarbeiter in den Raumhäfen engagieren. Sie berichteten auch, dass Sana nach dem Verschwinden von Tarek zu einer Pilgerreise nach Mira aufgebrochen ist. 
+Die Alhari-Crew erfuhr diese erschreckenden Nachrichten bei einem Treffen mit den alten Bekannten Xia und Althea, die sich inzwischen politisch für die Belange der Deckarbeiter in den Raumhäfen engagieren. Sie berichteten auch, dass Sana nach dem Verschwinden von Tarek zu einer Pilgerreise nach [[Mira]] aufgebrochen ist. 
 
 Als Reaktion auf die politischen Ereignisse vereinbarte man kurzfristig ein Treffen mit Schwester Almas, erfuhr von ihr die Perspektive des Ordens auf diese und informierte sie im Gegenzug über den eigenen Plan, nach Aiwaz aufzubrechen. 
 

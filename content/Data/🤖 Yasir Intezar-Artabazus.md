@@ -14,13 +14,13 @@ _Corsair-Kapitän der Izdubar_
 > [!WARNING] GM-only
 > Draft-Flag gesetzt, bis der Charakter aktiv in einer Session begegnet ist.
 
-![[Yasir_Intezar-Artabazus.png|500]]
+![[Yasir_Intezar-Artabazus 1.png|500]]
 
 > [!TIP] Campaign notes
 > - Corsair-Kapitän im [[Sivas]]-System, operiert im Trümmerfeld um Meraj-7
-> - Zweiter Neffe von [[🤖 Sadhi Bat-Erden|Genya Artabazus]] — kennt sie NUR als militante Familien-Matriarchin, weiß NICHTS von der Sadhi-Doppelidentität
-> - Führer der *Izdubar* (Class-III-Corsair mit Ion-Kanone)
-> - Legt Party im Meraj-7-Trümmerfeld einen Hinterhalt: Erst Ion-Beschuss, dann Enterversuch mit 4 Corsairs
+> - Hält nicht viel von [[🤖 Sadhi Bat-Erden|Genya Artabazus]] — kennt sie NUR als militante Familien-Matriarchin, weiß NICHTS von der Sadhi-Doppelidentität, empfindet ihren plötzlichen Aufstieg als nicht begründet
+> - Führer der *Izdubar* (Class-III-Corsair mit Torpedos und Plasma Kanone) - sein Schiff wurde von der [[Al-Jamal]] zerstört
+> - Legte Party im Meraj-7-Trümmerfeld einen Hinterhalt.
 > - Hat "spezielles Verständnis" mit den Mogul-Clans, die [[Sivas]] kontrollieren — operiert außerhalb ihrer Struktur, aber greift keine Mogul-geschützten Ziele an
 
 ## Rolle in der Kampagne
@@ -36,16 +36,17 @@ _Corsair-Kapitän der Izdubar_
 - Kalt-kalkulierend, aber nicht sadistisch — Corsair-Handwerk, nicht Fanatismus
 - Familien-loyal (Artabazus-Clan geht vor); persönliche Karriere zweitrangig
 - Verhandlungsbereit, wenn die Bilanz stimmt
+- Sehr von seiner Position und dem Rückhalt des Klans überzeugt, sieht sein Tun als reines Geschäft.
 - Wenn er verliert, kein Selbstmord-Reflex — er ergibt sich, um später zu leben
 - Hat eine leise Bewunderung für Kompetenz — die Party könnte ihn beeindrucken
 
 ## Wenn die Party ihn lebend nimmt
 
-Verhör bringt zutage:
+Verhör kann zutage bringen:
 - Genya ist real, Familien-Oberhaupt, sitzt normalerweise in Khorsabad
-- Sie war vor der Kushtriya-Sache "moderat" — der Suchauftrag habe sie verändert
+- Allerdings ist sie erst vor ein paar Zyklen richtig aufgestiegen, von einer einfachen Kapitänin wie er zur Anführerin des Klans. Yaris findet, sie hat bisher nicht bewiesen, diese Position verdient zu haben.
+- Sie war vor der Kushtriya-Sache "moderat" — der Suchauftrag habe sie verändert. Ihr Aufstieg fällt in diese Zeit.
 - Es gibt jemanden namens "Sadhi" die im Konzil sitzt, die Genya offenbar als politischen Kanal nutzt — Yasir hält Sadhi für Genyas Verbündete, nicht ihre andere Identität
-- Die *[[Firebird]]* (Caerns Schiff!) wurde vor Segmenten für einen Auftrag an eine externe Person namens [[Caern]] verliehen
 
 **Damit ist er der erste konkrete Sadhi-Enthüllungs-Baustein für aufmerksame Party.**
 
@@ -66,6 +67,5 @@ portrait in the artstyle of Symbaroum of a 35 year old male corsair captain with
 
 ## Offene GM-Fragen
 
-- Familienstand? (Vielleicht eine Frau/Kinder auf Khorsabad, als Erpressungshebel)
-- Wie viele seiner Corsairs überleben den Hinterhalt?
-- Wenn er in Akt 4 wieder auftaucht — auf der *Asuai* oder eigenständig?
+- Wie viele seiner Corsairs überleben den Hinterhalt? -> nur einer
+- Wenn er in Akt 4 wieder auftaucht — auf der *Asuai* oder eigenständig? -> aktuell in Gefangenschaft

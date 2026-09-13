@@ -63,9 +63,7 @@ Die Al-Jamal ist mehrere Tage unterwegs (Sublight + Portalsprünge). Vier Vignet
 
 > Suri.
 >
-> Ich bin in Sivas. Habe eine Spur zur *Firebird* aufgetan — sie war vor drei Segmenten in einem der äußeren Mogul-Häfen, ist aber weiter Richtung Kala geflogen. Wenn eure Route stimmt, kreuzen wir uns dort. Ich habe niemanden hier, mit dem ich kooperieren kann. Ich habe auch kein Recht, euch um irgendwas zu bitten. Aber wenn ihr in Sivas landet und mich brauchen könnt — oder ich euch — hier ist mein Kanal.
->
-> Keine Rescue-Mission. Nur die Chance, sein Gesicht zu sehen.
+> Ich bin in Sivas. Habe eine Spur zur *Firebird* aufgetan. Allerdings stecke ich auf der Portalstation fest und muss abgeholt werden - fragt nicht warum, aber niemand möchte mich Richtung Altai mitnehmen. Ich habe niemanden hier, mit dem ich kooperieren kann. 
 >
 > — K.
 

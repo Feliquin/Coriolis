@@ -12,16 +12,16 @@ type: Religion
 ![[Icons.png|700]]
 
 The rise of the Church of the Icons has changed the way the Icons are worshipped in the Horizon. Through the canonizing of the holy scriptures and the Declaration of Sacred Rites, the 
-faith has been formalized in a way it never was before. The dark aspects of the Icons have officially been cast out, but still remain among most of the general public. From Mira, Coriolis and Dabaran, the matriarchs and patriarchs rule the Church, living in life bonds with one another but without children, as they are firmly devoted to the Icons only. The pinnacles of the faith are the sacred rites and they are equally important to all believers, although local customs may weigh in depending on system, culture and clan.
+faith has been formalized in a way it never was before. The dark aspects of the Icons have officially been cast out, but still remain among most of the general public. From [[Mira]], Coriolis and [[Dabaran]], the matriarchs and patriarchs rule the Church, living in life bonds with one another but without children, as they are firmly devoted to the Icons only. The pinnacles of the faith are the sacred rites and they are equally important to all believers, although local customs may weigh in depending on system, culture and clan.
 
 ---
 ## THE SACRED RITES
 There are nine sacred rites, just like there are nine Icons, but many hold prayer and blessing as the two most important ones. The Order has their own version of the blessing, incorporating elements of flagellation and martyrdom.
 ### THE MISSION
-The mission is what separates the new faith from the old ways found on Mira, Zalos, and Sadaal. The mission rite requires a believer to leave her home and travel the Horizon for one segment, spreading the faith. Low-ranking preachers or prophets are often sent to the fringes of civilization to serve in a chapel or monastery there, sometimes for a whole triad.
+The mission is what separates the new faith from the old ways found on Mira, [[Zalos]], and Sadaal. The mission rite requires a believer to leave her home and travel the Horizon for one segment, spreading the faith. Low-ranking preachers or prophets are often sent to the fringes of civilization to serve in a chapel or monastery there, sometimes for a whole triad.
 Frequency: At least once in a life, for at least one segment.
 ### THE LIFE BOND
-At some point during one’s lifetime, one should form a life bond with someone of the same or opposite gender. The orthodox believers meant that the purpose of the life bond was to procreate, but this is possible regardless of gender in the Third Horizon, thanks to advanced technology such as nutri-wombs and cloning. Divorce is forbidden. Widows and widowers are 
+At some point during one’s lifetime, one should form a life bond with someone of the same or opposite gender. The orthodox believers meant that the purpose of the life bond was to procreate, but this is possible regardless of gender in the [[Third Horizon]], thanks to advanced technology such as nutri-wombs and cloning. Divorce is forbidden. Widows and widowers are 
 supposed to live out the rest of their lives in mourning. 
 Frequency: Once in a life.
 ### THE CREED
@@ -48,7 +48,7 @@ Frequency: Twice Daily
 
 ---
 ## CHAPELS AND HOLY SITES
-The Horizon is full of chapels, temples, Icon walls, and sculptures. Much of the worship takes place at these sites, in homes, or at spiritual focal points such as the Lotus Rock on Dabaran or the Holy Grove in Alchai. Pilgrims flock to two major holy sites: the Icon City on Mira, and Lotus on Dabaran. The Crater Dome on Algol is smaller and mainly visited by local pilgrims, but the news of its holiness is spreading.
+The Horizon is full of chapels, temples, Icon walls, and sculptures. Much of the worship takes place at these sites, in homes, or at spiritual focal points such as the Lotus Rock on Dabaran or the Holy Grove in Alchai. Pilgrims flock to two major holy sites: the Icon City on Mira, and Lotus on Dabaran. The Crater Dome on [[Algol]] is smaller and mainly visited by local pilgrims, but the news of its holiness is spreading.
 ### THE ICON CHAPEL
 The typical chapel is an open, octagonal building with eight or nine alcoves in a large room. The alcoves contain statues of all the Icons except the Faceless One. The chapels usually have high ceilings, supported by a pillar in each alcove, and it is common that they have an opening in the ceiling where the sun or the stars can be seen. 
 The local priest or preacher will usually live in a building adjacent to the chapel, although only missionaries or pilgrims tend to very remote sites. No matter how small the dome, chapel  or temple is, they always contain a common room where the faithful can relax and spend time together, with food, chai, hookahs, or just a few chairs. Many chapels also have fountains or, in the Algolan fashion, raked stone gardens. Special courtesan temples exist on Mira where more intimate acts are allowed, something the modern parts of the Church want to ban.
@@ -62,7 +62,7 @@ Despite the Church’s efforts, the Icon faith is not a uniform religion but fil
 capable of both blessings and curses. This is firmly denied by the Church of the Icons through all the teachings of their missionaries, preachers, and prophets – nothing bad can come from the Icons, mankind itself and the Dark between the Stars are the roots of evil. At present, there are two major schisms dividing the faith: the echo of the Emissary from Xene and Oikoumene as Nadjim.
 
 #### OIKOUMENE AS NADJIM
-In the last few cycles, a new subject has sparked debate among philosophers and preachers, especially in the Rimward Reach in the Kua system. The matter concerns whether or not humanites are the spiritual equals of base humans. The issue was first brought up when new colonists questioned the nomads’ religious rhetoric. The prophet Ndina addressed the issue in a sermon, and the five head preachers in the Rimward Reach were quick to outline new teachings for the nadjim, the humanites. An ecumenical assembly, Oikoumene as Nadjim, is being organized to establish that there is no spiritual difference between humanites and base humans. 
+In the last few cycles, a new subject has sparked debate among philosophers and preachers, especially in the Rimward Reach in the [[Kua]] system. The matter concerns whether or not humanites are the spiritual equals of base humans. The issue was first brought up when new colonists questioned the nomads’ religious rhetoric. The prophet Ndina addressed the issue in a sermon, and the five head preachers in the Rimward Reach were quick to outline new teachings for the nadjim, the humanites. An ecumenical assembly, Oikoumene as Nadjim, is being organized to establish that there is no spiritual difference between humanites and base humans. 
 Invitations to the assembly have been sent out to knowledgeable preachers and prophets across the Horizon, as well as to the matriarch and patriarch of Mira. So far, there is no 
 consensus on the matter.
 
