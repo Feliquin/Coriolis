@@ -52,8 +52,21 @@ await fileAndQuery.forEach(async (query, filename) => {
   const tFile = tp.file.find_tfile(filename);
   const queryOutput = await dv.queryMarkdown(query);
 
+  // prefix with aggregated info for specific pages
+  let prefix = "";
+  if (filename === "📕 Log Book") {
+    const pages = dv.pages("#logentry")
+      .where(p => !p.file.name.includes("Template") && !p.draft);
+    let totalXP = 0;
+    for (const p of pages) {
+      const xp = parseInt(p.xp, 10);
+      if (!isNaN(xp)) totalXP += xp;
+    }
+    prefix = `\nTotal gained XP: \`${totalXP}\`\n\n`;
+  }
+
   // write query output to file
-  await app.vault.modify(tFile, queryOutput.value);
+  await app.vault.modify(tFile, prefix + queryOutput.value);
 
 });
 
