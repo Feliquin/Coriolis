@@ -176,8 +176,9 @@ Nael-Auftritt bleibt sparsam. Warme kleine Wiedersehensszene mit Rami (Meta-Mome
 - Cryptosphere aktivieren, Karte zu Z-9/Zhau enthüllt
 - Konfrontation mit [[🤖 Yasir Intezar-Artabazus]] (Corsair-Neffe, weiß nichts von Doppelidentität) — bei Erwischen als lebender Gefangener wichtige Sadhi-Enthüllungs-Bausteine
 
-**Akt 4 — Zhau / Nova Solyma / Shamshir** (Sessions ~20-25)
+**Akt 4 — Zhau / Nova Solyma / Shamshir** (Sessions ~16+, aktuell startend)
 - Ankunft Lance Station: Kaelen trifft [[🤖 Nabir Wickremesin]], erfährt Vestal-Legende + Gruß-Geste
+- **Nabir als entscheidender Infokanal für Nova Solyma:** Da die Cryptosphere-Botschaft in 1.15 bewusst nur "Berge von Zhau" verriet (ohne konkreten Namen oder Koordinaten), **ist Nabir jetzt der einzige Weg**, wie die Party den konkreten Ort findet. Nabir hat Nomaden-Kenntnisse über Z-9 und kann die Suche eingrenzen (Expedition, Führer, Karten).
 - Optional: Kontakt zu [[🤖 Kassidia el-Kassar]] + Alhari II
 - Nova Solyma: tote Kushtriya-Kolonie, Vestal-Sabotage in Reaktor entdeckbar
 - Shamshir mit Command Console
@@ -241,7 +242,7 @@ Nael-Auftritt bleibt sparsam. Warme kleine Wiedersehensszene mit Rami (Meta-Mome
 - Konkreter Auftritt der Vestals als dritte Fraktion in Akt 4/Nova Solyma — schleichende Enthüllung oder aggressiver Auftritt?
 - Wann *genau* die Sadhi=Genya-Enthüllung platzieren — Akt 4 oder Akt 5?
 - Wird Malhotra überhaupt noch aktiv (als Ratgeberin), oder bleibt sie komplett im Hintergrund?
-- Kaelens Nabir-Kontakt: früh (Session 15-17) oder erst bei Zhau-Anreise?
+- ~~Kaelens Nabir-Kontakt: früh (Session 15-17) oder erst bei Zhau-Anreise?~~ Erledigt: Nabir hat in 1.14 geschrieben, Kaelen hat die Info privat behalten. Die Party reist jetzt per Nomaden-Frachter nach Zhau (via Kaelens Kontakte). Nabir-Treffen auf Lance Station ist Ankunftsszene von Session 1.16.
 - Konkurrenz oder Kooperation Nael ↔ Yillad (Okra Darma Icon City)?
 - Wie viel Vestal-Präsenz in Akt 3/Sivas — nur die Legende via Nabir, oder erste direkte Sichtung?
 

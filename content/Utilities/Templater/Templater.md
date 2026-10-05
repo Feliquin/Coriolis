@@ -23,7 +23,7 @@ const fileAndQuery = new Map([
   ],
   [
     "📕 Log Book",
-    'TABLE WITHOUT ID session AS "Session", file.link AS "Log entry", location as "Location", xp as "XP" FROM #logentry WHERE !contains(file.name, "Template") AND !draft SORT session desc, file.name asc',
+    'TABLE WITHOUT ID session AS "Session", file.link AS "Log entry", location as "Location", xp as "XP", luck as "Luck" FROM #logentry WHERE !contains(file.name, "Template") AND !draft SORT session desc, file.name asc',
   ],
   [
     "🎲 Meta",

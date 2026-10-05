@@ -10,10 +10,21 @@ draft: true
 type: GM Notes
 ---
 # 🤖 Session 1.15 Prep — Akt 3 (Fortsetzung): Meraj VII, Jayrat, Cryptosphere
-_GM-only Session-Vorbereitung_
+_GM-only Session-Vorbereitung — [ABGESCHLOSSEN am 2026-10-04]_
+
+> [!TIP] Session durchgeführt
+> Diese Session wurde am 2026-10-04 gespielt (Session-Log: [[4. The Fate of Shamshir VII]]). Wesentliche Abweichungen vom Plan:
+> - **Nova Solyma als Name NICHT verraten** — GM-Entscheidung, nur "Berge von Zhau" als Richtung. Nabir soll Details liefern.
+> - Party hat die Cryptosphere-Botschaft manipuliert → **falsche Fährte nach Awadhi** als Ablenkung für Sadhi/Verfolger.
+> - Al-Jamal wurde im 1.14-Raumkampf schwer beschädigt → fliegt mit Annika/Yemik/Kameera zurück nach Altai zur Reparatur.
+> - Hauptparty (Rami, Suri, Rashid, Kaelen) reist per Nomaden-Frachter nach Zhau (Kaelens Kontakte).
+> - Rashid-Krise ("mit Wischmop gegen Jayrats") als Charakter-Beat.
+> - Annika/Kaelen → körperliche Beziehung aktiviert.
+>
+> Siehe [[🤖 Story Threads]] für Fäden-Updates.
 
 > [!WARNING] GM-only
-> Draft-Flag gesetzt, nicht mit Spielern teilen. Enthält Encounter-Details und Cliffhanger-Trigger.
+> Draft-Flag gesetzt, nicht mit Spielern teilen.
 
 **Session-Slot:** ~4,5 Stunden (18:30–23:00, wie 1.14). 
 **Ort in-game:** Al-Jamal auf Meraj VII gelandet, ~10 Min. Fußmarsch (2 Min. per Grav-Vehicle) zum Nameless Icon Temple. 
@@ -27,7 +38,8 @@ _GM-only Session-Vorbereitung_
 
 ## Personenlage an Bord der Al-Jamal (Stand Beginn 1.15)
 
-**Crew:** Rami, Suri, Rashid, Kaelen. **Passagiere/Gäste:**
+**Crew:** Rami, Suri, Rashid, Kaelen. 
+**Passagiere/Gäste:**
 - **[[Kameera]]** — jetzt aktives Party-Mitglied nach Portalstation-Reunion. War im Kampf gegen die Izdubar an der Thermalkanone. Kann als Kämpferin im Tempel dabei sein — ihr Thermal-Fokus ist für Jayrats potenziell **entscheidend** (siehe Ausrüstungs-Note unten). Rache-Motivation gegen Caern bleibt aktiv, aber Caern ist nicht auf Meraj VII.
 - **[[Annika Yriedes]]** — als Doku-Journalistin. Wenn sie mit in den Tempel geht: großartige Kamera-Perspektive, aber unbewaffnet. Bleibt eher an Bord, kann per Kommunikator Kushtriya-Info-Portionen liefern.
 - **[[Yemik]]** — auf Bewährung, bleibt an Bord (könnte bewachen, was mit Yasir passiert).
@@ -107,12 +119,36 @@ Sarg brechen = Trigger für Jayrat-Schwarm.
 
 Sobald das Siegel bricht, ertönt aus dem Riss der Prayer Room ein Kratzen und Schwirren. Der Schwarm strömt durch die südliche Tür (falls offen) oder direkt aus den Wandrissen in die Tabernakel-Kammer.
 
-**Statblock (aus 1.14 Prep, dort ist voller Statblock, hier Kurzverweis):**
-- Hits: 12 (Schwarm-Kollektiv)
-- Konventionelle Waffen: nur 1 Punkt Schaden pro Treffer
-- Flammenwerfer/Thermal/Plasma/Sprengstoff: voller Schaden
-- Cloak of Shadows: 1 Punkt Stress/Runde für gefangenes Ziel
-- Mania: END 8+ Save
+**Jayrat-Schwarm** (Traveller-2E-konvertiert)
+
+**Characteristics:** STR 8, DEX 12, END 8, INT 5, INS 8, PACK 12
+**Hits:** 12 (Schwarm-Kollektiv; siehe *Swarm* unten)
+**Movement:** 12 m / Runde (Boden und Wände, klettert schnell durch Risse)
+**Skills:** Melee (natural) 1, Athletics (dexterity) 1, Stealth 3, Recon 2
+
+**Angriff — Schwarm-Biss:** 2D Schaden gegen alle Ziele im Nahkampf-Bereich; ignoriert bis zu 3 Punkte Rüstung (die Jayrats krabbeln unter die Kleidung)
+
+**Traits:**
+
+- **Swarm.** Konventionelle Waffen (Vulcan, Klingen, Aki-Pistolen etc.) verursachen nur **1 Punkt Schaden pro Treffer**. Vollen Schaden richten nur an: Flammenwerfer, Thermalwaffen, Plasma, Sprengstoffe, Granaten, Feuer allgemein. Improvisierte Fackel: 1D+Effekt Schaden.
+- **Cloak of Shadows.** Einmal pro Runde kann der GM 1 Darkness Point ausgeben, um ein Ziel im Nahkampf mit dem Schwarm in völlige Dunkelheit zu hüllen. Ziel hat **Bane** auf alle Sicht-Proben, kann keine Fern-Ziele wählen, und erleidet **1 Punkt Stress/Psi-Schaden pro Runde**, solange die Wolke anhält. Löst sich, wenn Ziel den Schwarmbereich verlässt oder der Schwarm zerstreut ist.
+- **Mania.** Wenn der Schwarm ein Ziel beißt, kann der GM 1 Darkness Point ausgeben, um eine **Mania** aufzuzwingen. END 8+ Save, um zu widerstehen. Bei Misserfolg: Mania von der Coriolis-Manie-Tabelle (GM-Wahl oder zufällig).
+
+**Anwendungshinweise für den Tisch:**
+
+- Bei jedem Vulcan-Treffer nur 1 Punkt notieren. Der Schwarm hat 12 Hits — reine Feuerwaffen brauchen also 12 Treffer. **Nutze das als Druckmittel:** Die Party merkt schnell, dass sie ohne Feuer/Explosive nicht rechtzeitig fertig wird.
+- **Improvisierte Fackeln:** Rami hat medizinischen Alkohol an Bord (Brandbeschleuniger). Suri hat vermutlich Granaten. Kaelen kann mit Ship-Support experimentieren. Notieren, welche Feuer-Ressourcen die Party mitgebracht hat, bevor sie in den Tempel geht.
+- **Cloak-Timing:** Setze den Cloak strategisch ein — wenn ein PC abgesplittert ist oder auf einen Schuss zielt. Nicht bei jedem Angriff.
+- **Mania:** Sparsam. Ein bis zwei Manias pro Kampf reichen für Bedrohlichkeit, ohne die Party dauerhaft zu ruinieren.
+
+1D6 MANIA
+1: Phobia - terrified and runs away
+2: Compulsion - compulsively performs 1 special action
+3: Melancholy - no point in existence, becoming fearless
+4: Spiritual rupture - hears voices whispering and hissing, GM decides action
+5: Waking Sleep - Apathetic, staring at a wall
+6: Murderous rage - raving mad, tries to kill everyone
+Duration: 1d6 rounds - can be reduced by spending INT points (must be healed back up), reroll allowed
 
 **Kampf-Setup:**
 - Enger Raum → Party ist konzentriert, kein Ausweichen im Nahkampf
@@ -189,21 +225,44 @@ Falls die Slots A-D schneller laufen als geplant, gibt es Raum für:
 
 ## HANDOUTS
 
-Diese Session braucht nur ein neues Handout — die **Cryptosphere-Botschaft**, in zwei Versionen. Beide sind bereits in **[[🤖 Session 1.14 Prep]]** ausformuliert (Handout 3 = Standardversion, Kryptische Version = separate GM-Antwort).
+### Handout 3 — Cryptosphere-Botschaft (Shakur Bazaan Kushtriya)
 
-**Empfehlung:** Vor der Session ausdrucken. Bei der Aktivierung entscheidest du am Tisch anhand des Übersetzungs-Rolls, welche Version die Party bekommt.
+#### Version bei guter Übersetzung
+```
+Meine Tochter,
 
----
+wenn du dieses Lied hörst, wird das Feuer der Trauer erloschen sein. Ich bereue zutiefst, dass das Schicksal unsere Würfel in dieser Weise fallen ließ.
 
-## Statblock-Vorbereitung
+Du kennst meinen Namen nicht, doch ich bin dein Vater, Shakur Bazaan Kushtriya. Ich empfinde große Scham, da ich mich entschieden habe, dich fortzugeben.
 
-**Jayrat-Schwarm** — voller Statblock in **[[🤖 Session 1.14 Prep]]** unter "Statblock-Vorbereitung". Kurzform:
+Das Begräbnis gilt Praveen Kushtriya, Schwester des Raj Mukarram Batal Kushtriya. Sie war deine Großmutter. Jedes Kind hat das Recht, seinen Ursprung zu kennen.
 
-- **Hits:** 12 | **Movement:** 12m/Runde | **Skills:** Melee 1, Stealth 3, Recon 2
-- **Angriff:** 2D, ignoriert bis 3 Rüstung
-- **Traits:** Swarm, Cloak of Shadows (1 DP), Mania (1 DP + END 8+ Save)
+Wir sind die rechtmäßigen Regenten von Altai, und hätte ich frei wählen können, wäre deine Kindheit in Seide und Juwelen gekleidet gewesen. Deine Mutter war nicht von adeligem Blut, aber dennoch eine bemerkenswerte Frau. Ich kann noch immer das grüne Licht des Palastes in ihren Augen sehen. Doch das Protokoll gebot, dass ein außerehelich gezeugtes Kind nicht Teil der Dynastie sein durfte. Nun aber, mit dem Tod deiner Großmutter, habe ich entschieden, dass das Protokoll nicht länger eingehalten werden muss.
 
-**Kameera-als-Party-Mitglied** — behandle sie mechanisch als kompetente NPC-Kämpferin (angelehnt an Corsair-Deckhand-Werte, aber mit persönlichem Motiv). Wenn sie Portable Thermal hat: 3D+Effekt Schaden pro Schuss, 5 Ladungen.
+Während die Ikonen uns in ihrem Urteil aus dem unsrigen alabasternen Palast vertrieben haben, sind wir nicht untätig geblieben. Verzweiflung ist unser edlem Blut nicht würdig. Aus leblosem Fels und Stein haben wir eine Festung geschaffen, würdig der Kushtriya — Nova Solyma, Zuflucht in den Bergen von Zhau. Ein Palast der Träume, geborgen vor Sorge und Korruption, fern von Eindringlingen. Der Horizont wird ihre schimmernden Hallen und ihre erlesenen Räume bestaunen. Wenn die Zeit reif ist, wird unsere Familie sich wieder erheben. Auch dies ist der Wille der Ikonen.
+
+Ich flehe dich an, mein Kind, komm zu uns. Lass mich die Fehler der Vergangenheit gutmachen.
+```
+
+#### Version bei schlechter Übersetzung
+```
+Meine Tochter,
+
+wenn du dieses Lied hörst, wird das Feuer … erloschen sein. Ich bereue … das Schicksal … diese Würfel …
+
+Du kennst meinen Namen nicht, ich bin dein Gebieter … Shakur Bazaan Kushtriya. Große Scham … da ich mich … dich fortzugeben.
+
+Das Begräbnis … Praveen Kushtriya, Blut des … Raj Mukarram Batal Kushtriya. Sie war deine … . Jedes Kind hat das Recht des Ursprungs.
+
+Unser Blut … nach allem Recht … Regenten von Altai … ich frei wähle … , deine Kindheit hätte stattgefunden in Seide und Juwelen. Deine Gebieterin … keine Jade in ihrem Blut … wunderbare Frau. Das grüne Licht blendet ihre Augen …
+
+Doch Gesetze befehlen … unrein gezeugte Kinder … zu entfernen … aus dem Kreis des Blutes. Aber, Dank des Todes deiner … fiel eine Entscheidung …
+
+Während die Ikonen … aus dem alabasternen Palast vertrieben wurden… , wir sind nicht untätig … Verzweiflung … nicht würdig. Aus … Fels und Stein eine Festung geschaffen in Würde der Kushtriya: Neue Zuflucht in den Bergen von Zhau. Ein Palast der Träume, geborgen … fern von Eindringlingen. Der Horizont … schimmernden Hallen und … Räume in Staunen versetzt. Wenn die Zeit reif ist, wird unsere Familie … . Dies ist der Wille der Ikonen.
+
+Ich flehe dich an, mein Kind … . Lass mich die Fehler gutmachen.
+```
+
 
 ---
 
@@ -260,3 +319,40 @@ Total Kern-Content: 2:45-3:30. Puffer: ~1h. Das passt gut ins 4,5h-Fenster.
 - Nabir-[[Vestal]]-Legende (kommt in [[Zhau]])
 
 Bleib fokussiert auf das Tempel-Cryptosphere-Ziel. Wenn die Party ausschweift, hol sie zurück mit [[Kameera]] oder Zeit-Druck (Meteoriten-Schauer, Meraj-VII-Instabilität).
+
+
+---
+
+## GM-Referenz: Die Kushtriya-Dynastie (Kurz-Übersicht)
+
+Für dich als GM. Diese Fakten kann Annika (aus Orphalias Datafile) auf Nachfrage der Party portionsweise liefern.
+
+**Die Kushtriya waren die letzte Raj-Dynastie von Altai vor Tang Gols Invasion.** Sie herrschten über Marakanda und das Altai-System, bevor der Warlord Tang Gol vor Jahrhunderten das System eroberte.
+
+- **Familiensiegel:** Grüne Spinne in dunklem Kreis
+- **Herrschaftszentrum:** Alabasterner Palast auf Marakanda (heute Sitz des Alabaster-Rats — daher der Name)
+- **Machtbasis:** Kontrolle über den **Schwarzen Sektor** (Waffensystem in der Asteroidenwolke, das Altai vor Invasoren schützt). Das Herzstück des Schwarzen Sektors war eine Command Console — auf ihrem Flagschiff **Shamshir** installiert.
+- **Sturz:** Als Tang Gol die Kushtriya besiegte, floh der Rest der Dynastie mit Shamshir aus dem System. Das Schiff verschwand — mitsamt dem gesamten Rajahdom-Schatz und der Command Console.
+- **Heute:** Die Kushtriya gelten als ausgestorben. Artefakte aus ihrer Regierungszeit sind auf Altai unbeliebt (Alabaster-Rats-Propaganda: "die Alten waren Tyrannen"). Wenige Sammler halten kleine Kushtriya-Bestände.
+
+**Kushtriya und Shirin:**
+- **Shirin** war eine Herold-Nonne im Kreis der Suchenden ("Siebter Herold des Boten"). Berühmt für ihre Missionsarbeit auf Sivas — sie bekehrte viele Moguln zum Ikonenglauben.
+- Sie starb ~200 Zyklen vor heute. Ihre Reliquien wurden auf Meraj VII beigesetzt (die Moguln, die sie bekehrt hatte, bauten ihr diesen Tempel).
+- **Geheimwissen (nur GM):** Shirin war eine illegitime Tochter der Kushtriya-Familie (Vater: Shakur Bazaan Kushtriya). Ihre DNA öffnet die Cryptosphere.
+
+**Nova Solyma (für die Party noch geheim):**
+- Neue Kushtriya-Kolonie nach der Flucht aus Altai — auf Planet Z-9 im Zhau-System
+- Wurde in einem Berg gebaut, aus Fels und Stein
+- Ist heute tote Ruine (siehe Akt 4)
+- **GM-Wissen: Der Reaktor-Unfall, der Nova Solyma zerstörte, war Vestal-Sabotage — die Kushtriya hatten unbewusst auf einer alten Firstcome-/Vestal-Stätte gebaut.**
+
+**Warum Sadhi/Genya die Kushtriya sucht:**
+- Sie hält sich für eine Kushtriya-Erbin (falsch — reine Wahnidee, siehe [[🤖 Sadhi Bat-Erden]])
+- Sie will die Command Console → Schwarzer Sektor → Herrschaft über Altai → Restauration der "wahren" Herrscherlinie
+- Das archäologische Institut in Khorsabad (Annex A) war ihr Suchapparat
+
+**Was Annika NICHT weiß (nicht im Datafile):**
+- Dass es einen Vestal-Bezug gibt
+- Dass Sadhi = Genya ist
+- Wo genau Nova Solyma liegt (Datafile hört bei "flohen aus Altai" auf)
+- Details zur Command Console

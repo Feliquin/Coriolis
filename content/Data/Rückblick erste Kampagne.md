@@ -39,7 +39,7 @@ Die Kolonialbehörde, Haupteigentümer der Kolonie, begann unverzüglich mit der
 
 Viele kleinere Schiffe schlossen sich den Aufrufen an und begleiteten die _Ghazali_ - auch weil eine lukrative Belohnung in Aussicht gestellt wurde. Die meisten kleineren Schiffe wurden in die Docks der _Ghazali_ aufgenommen und ihre Besatzungen an Bord des Luxusliners auf Eis gelegt.
 
-Die Legion stellte zudem eine Eskorte in Form des Zerstörers _Zafirah_. Der erste Sprung der Rettungsmission von [[Kua]] nach [[Hamura]] verlief erfolgreich, aber der zweite von Hamura nach Taoan endete in einer Katastrophe.
+Die Legion stellte zudem eine Eskorte in Form des Zerstörers _Zafirah_. Der erste Sprung der Rettungsmission von [[Kua]] nach [[Hamura]] verlief erfolgreich, aber der zweite von [[Hamura]] nach [[Taoan]] endete in einer Katastrophe.
 
 Als die _Zafirah_ in das Portalfeld nach Taoan eintrat, wurden urpötzlich enorme Mengen Energie freigesetzt. Der genaue Auslöser dafür bleibt weiter im Dunkeln, aber die _Ghazali_ wurde dadurch in harter Strahlung gebadet. Die Sprungcrew, noch beschäftigt mit letzten Vorbereitungen für den Portalsprung, wurde sofort getötet.  Der Antrieb der _Ghazali_ explodierte und das Schiff wurde in einen absteigenden Orbit um den Stern Hamura geworfen. 
 
@@ -53,7 +53,7 @@ Wer konnte, suchte den Weg zur Krankenstation, wo sich Bruder Ramas und andere H
 
 Einer tapferen Gruppe Überlebender gelang es ein Schiff im Inneren des Luxusliners flugfähig zu bekommen. Darin und über Frachtcontainer, die notdürftig ausgestattet wurden, konnten schließlich etwa 40 der über 200 Retter dem Feuertod entkommen. Die _Ghazali_ stürzte Minuten später mit allen Seelen an Bord in die Corona des Sterns und verglühte. Unzählige Schiffe im Hamurasystem kamen so schnell sie nur konnten zur Hilfe. Auch wenn sie nicht rechtzeitig eintrafen um der _Ghazali_ zu helfen, so konnten sie doch die Überlebenden aus den Containern aufnehmen.
 
-Die Krankenstation auf _Hamurabi_, inzwischen wieder stabilisiert und voll funktionsfähig, wurde von der Legion abgeriegelt, um den Überlebenden und den Helfern Ruhe und Abgeschiedenheit zu gewähren. Aus dem Kua-System wurden zudem Hilfsgüter per Direktflug schnellstmöglich in das Nachbarsystem gebracht. Das Kolonialbüro hat ein Spendenkonto eingerichtet, über das Unterstützung an die Hinterbliebenen der Ghazalibesatzung und der anderen verstorbenen Retter ausgezahlt wird. Das Konzil von Coriolis hat sich mit einer hohen Birrsumme beteiligt, ebenso wie namhafte Konzerne wie Parr-Nestera, Tilides and Xoar. Wenn Du ebenfalls den Hinterbliebenden Unterstützung in dieser schweren Zeit zukommen lassen möchtest so spende an x894-846-100.
+Die Krankenstation auf _Hamurabi_, inzwischen wieder stabilisiert und voll funktionsfähig, wurde von der Legion abgeriegelt, um den Überlebenden und den Helfern Ruhe und Abgeschiedenheit zu gewähren. Aus dem [[Kua]]-System wurden zudem Hilfsgüter per Direktflug schnellstmöglich in das Nachbarsystem gebracht. Das Kolonialbüro hat ein Spendenkonto eingerichtet, über das Unterstützung an die Hinterbliebenen der Ghazalibesatzung und der anderen verstorbenen Retter ausgezahlt wird. Das Konzil von Coriolis hat sich mit einer hohen Birrsumme beteiligt, ebenso wie namhafte Konzerne wie Parr-Nestera, Tilides and Xoar. Wenn Du ebenfalls den Hinterbliebenden Unterstützung in dieser schweren Zeit zukommen lassen möchtest so spende an x894-846-100.
 
 **Konsequenzen**
 
@@ -67,7 +67,7 @@ ERFOLGTE NOCH AM GLEICHEN TAG**
 
 Angeblich leisteten sie einen erheblich Anteil im Überlebenskampf auf der dem Tode geweihten _Ghazali_. Etliche Überlebende feierten sie gar bei der Ankunft auf der Hamurabi-Station als Helden, ohne die es kaum jemand aus dem Wrack lebendig herausgeschafft hätte.
 
-Und doch gibt es erhebliche Anschuldigungen gegen die Crew des freien Transporters _Alhari_. So sollen sie in Kontakt mit Mitgliedern des Ordens des Pariah auf Dabaran stehen. Das alleine ist sicherlich kein Verbrechen, doch gibt es Anzeichen, dass die Crew unter dem Befehl von Captain [[Tarek al-Farhat]] großen Wert auf die Rettung der entlaufenen Nektara gelegt hat - auf Kosten von Menschenleben. Unseren Recherchen nach ist al-Farhat ebenso wie sein Bruder und Maschinist Nael al-Farhat Mitglied eines Verbrechersyndikats, das seinen Ursprung im Algolsystem hat.
+Und doch gibt es erhebliche Anschuldigungen gegen die Crew des freien Transporters _Alhari_. So sollen sie in Kontakt mit Mitgliedern des Ordens des Pariah auf [[Dabaran]] stehen. Das alleine ist sicherlich kein Verbrechen, doch gibt es Anzeichen, dass die Crew unter dem Befehl von Captain [[Tarek al-Farhat]] großen Wert auf die Rettung der entlaufenen Nektara gelegt hat - auf Kosten von Menschenleben. Unseren Recherchen nach ist al-Farhat ebenso wie sein Bruder und Maschinist Nael al-Farhat Mitglied eines Verbrechersyndikats, das seinen Ursprung im Algolsystem hat.
 
 Unter Verdacht der Sabotage und einer vermuteten Vertuschung von Beweismaterial wurde die Crew von der Legion verhaftet und befindet sich nun auf dem Weg zum Legionsstützpunkt auf Hamura. 
 
@@ -113,7 +113,7 @@ Unter Einsatz ihres Lebens konnte die Gruppe die wertvolle Smaragdscheibe bergen
 
 Auch über die exakten Ereignisse tief unter dem Eis gibt es noch kein klares Bild. Fest steht nur, dass die ausgebildeten Soldaten ihr Ende in der eisigen Finsternis fanden. Die Alharicrew jedoch konnte diesem Schicksal entkommen.
 
-Beim Rückflug zum Hauptstern Uharu kam es aber dann endgültig zur Katastrophe: die beiden Tempelschiffe _Taliq-Alnaar_ and _Alit-Samah_ des Ordens, welche das Portal nach Dabaran bewachten, wurden mitsamt einem halben Dutzend weiterer Schiffe Opfer einer Energiewelle. Diese weist starke Ähnlichkeit zu jenen Kräften auf, welche auch schon die _Ghazali_ und ihren Begleitern zum Verhängnis wurden. Das Portal kollabierte und ist nun unpassierbar, doch durch den Segen der Ikonen geschützt konnte die _Alhari_ einen letzten verzweifelten Sprung durchführen.
+Beim Rückflug zum Hauptstern [[Uharu]] kam es aber dann endgültig zur Katastrophe: die beiden Tempelschiffe _Taliq-Alnaar_ and _Alit-Samah_ des Ordens, welche das Portal nach Dabaran bewachten, wurden mitsamt einem halben Dutzend weiterer Schiffe Opfer einer Energiewelle. Diese weist starke Ähnlichkeit zu jenen Kräften auf, welche auch schon die _Ghazali_ und ihren Begleitern zum Verhängnis wurden. Das Portal kollabierte und ist nun unpassierbar, doch durch den Segen der Ikonen geschützt konnte die _Alhari_ einen letzten verzweifelten Sprung durchführen.
 
 Gut sechs Segmente später erst entdeckte ein Schürferschiff die schwerst beschädigte _Alhari_. Schnell waren Kolonialbüro sowie die Legion informiert und die Besatzung konnte mit schwachen Lebenszeichen geborgen werden. Auch die Smaragdscheibe der _Zafirah_ sowie ein Datenkern des Angreiferschiffes wurden gerettet.
 
@@ -146,7 +146,7 @@ Kurz vor der Zykladenfeier wurde der Crew dann offenbart, dass sie zur großen G
 
 Der Festabend selbst war strapaziös und vorführend. Die Reporterin Jeyla Kuhari tauchte kurz auf und stellte vernünftige Fragen - wurde aber durch Sicherheitspersonal schnell abgeführt.
 
-Am nächsten Morgen kontaktierte die Crew Bat-Erden und sagte ihr zu. Sie offenbarte darauf hin, dass sie - ebenso wie Lady Orphalia - langjährige Drakonitinnen sind. Doch auch diese Enthüllung brachte die Crew nicht von ihrem Entschluss ab.
+Am nächsten Morgen kontaktierte die Crew Bat-Erden und sagte ihr zu. Sie offenbarte darauf hin, dass sie - ebenso wie [[Lady Orphalia]] - langjährige Drakonitinnen sind. Doch auch diese Enthüllung brachte die Crew nicht von ihrem Entschluss ab.
 
 ---
 
@@ -158,7 +158,7 @@ Tarek, Nael und Kassidia werden aus dem Hospital des Konsortiums entlassen und v
 
 **2**•**1**•**1**•**63: Angriff auf Kua**
 
-Der Tempelkreuzer Ima-Halaat trat durch das Portal von Aiwaz ins Kua-System ein. Etwa eine Stunde zuvor wurde eine Nachrichtensonde durch das Portal geschickt - laut Legion mit einer Drohung und laut Orden mit der Ankündigung einer friedlichen Mission. Als dann die Sensoren der Legionsflotte aktive Waffensysteme registrierten wurde sofort das Feuer eröffnet. Ariana Darabén an Bord des Flagschiffs Ramarah in Begleitung von sechs Torpedoschiffen zerstörte unter leichten Verlusten das Schiff des Ordens. In den Kernwelten führte dieser Akt zu einer weiteren Zunahme der anti-zalosianischen Einstellung, während es auf [[Zalos]] zu Übergriffen auf zenithische Einrichtungen kam.
+Der Tempelkreuzer Ima-Halaat trat durch das Portal von [[Aiwaz]] ins Kua-System ein. Etwa eine Stunde zuvor wurde eine Nachrichtensonde durch das Portal geschickt - laut Legion mit einer Drohung und laut Orden mit der Ankündigung einer friedlichen Mission. Als dann die Sensoren der Legionsflotte aktive Waffensysteme registrierten wurde sofort das Feuer eröffnet. Ariana Darabén an Bord des Flagschiffs Ramarah in Begleitung von sechs Torpedoschiffen zerstörte unter leichten Verlusten das Schiff des Ordens. In den Kernwelten führte dieser Akt zu einer weiteren Zunahme der anti-zalosianischen Einstellung, während es auf [[Zalos]] zu Übergriffen auf zenithische Einrichtungen kam.
 
 Die Alhari-Crew erfuhr diese erschreckenden Nachrichten bei einem Treffen mit den alten Bekannten Xia und Althea, die sich inzwischen politisch für die Belange der Deckarbeiter in den Raumhäfen engagieren. Sie berichteten auch, dass Sana nach dem Verschwinden von Tarek zu einer Pilgerreise nach [[Mira]] aufgebrochen ist. 
 
@@ -212,7 +212,7 @@ In den frühen Morgenstunden erwiesen die Besitzer der Alhari in der Kuppel der 
 
 **7**•**1**•**1**•**63: Blockade von Aiwaz**
 
-Die Sadaal-Route und der Weg nach Mira und Zalos sind komplett blockiert, seit der Orden des Pariah seine bisher größte Flotte im Aiwaz-System zusammenzog. Kein Flugverkehr zwischen den Systemen Kua und Aiwaz ist mehr möglich und alle Schiffe unterliegen scharfen Kontrollen. Der Konflikt im dritten Horizont verschärft sich weiter und steuert auf einen großen Knall zu.
+Die Sadaal-Route und der Weg nach [[Mira]] und [[Zalos]] sind komplett blockiert, seit der Orden des Pariah seine bisher größte Flotte im Aiwaz-System zusammenzog. Kein Flugverkehr zwischen den Systemen Kua und Aiwaz ist mehr möglich und alle Schiffe unterliegen scharfen Kontrollen. Der Konflikt im dritten Horizont verschärft sich weiter und steuert auf einen großen Knall zu.
 
 
 ---

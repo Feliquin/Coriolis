@@ -8,6 +8,7 @@ session: "1.00"
 draft: false
 xp: "1"
 location: "-"
+luck: "-"
 ---
 # <% tp.file.title %>
 _x/x/xxx/486_

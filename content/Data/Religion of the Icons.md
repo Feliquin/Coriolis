@@ -18,7 +18,7 @@ faith has been formalized in a way it never was before. The dark aspects of the 
 ## THE SACRED RITES
 There are nine sacred rites, just like there are nine Icons, but many hold prayer and blessing as the two most important ones. The Order has their own version of the blessing, incorporating elements of flagellation and martyrdom.
 ### THE MISSION
-The mission is what separates the new faith from the old ways found on Mira, [[Zalos]], and Sadaal. The mission rite requires a believer to leave her home and travel the Horizon for one segment, spreading the faith. Low-ranking preachers or prophets are often sent to the fringes of civilization to serve in a chapel or monastery there, sometimes for a whole triad.
+The mission is what separates the new faith from the old ways found on [[Mira]], [[Zalos]], and Sadaal. The mission rite requires a believer to leave her home and travel the Horizon for one segment, spreading the faith. Low-ranking preachers or prophets are often sent to the fringes of civilization to serve in a chapel or monastery there, sometimes for a whole triad.
 Frequency: At least once in a life, for at least one segment.
 ### THE LIFE BOND
 At some point during one’s lifetime, one should form a life bond with someone of the same or opposite gender. The orthodox believers meant that the purpose of the life bond was to procreate, but this is possible regardless of gender in the [[Third Horizon]], thanks to advanced technology such as nutri-wombs and cloning. Divorce is forbidden. Widows and widowers are 
@@ -37,7 +37,7 @@ Frequency: From dawn to dusk during the segment of the Merchant.
 To purify the mind, the faithful should confess their sins once per segment, preferably to an anointed priest or priestess, but a missionary, preacher, or pilgrim could also do. No believer is free from mistakes and lies, which makes the confession a very important sacrament.
 Frequency: Once each segment.
 ### THE PILGRIMAGE
-There are two holy sites that the faithful should visit at least once during their lives – the Dome of the Icons on Coriolis and the Icon City on Mira. Many regard the temple city Lotus on Dabaran as an even holier site and the Church has come under pressure to include Lotus in the pilgrimage.
+There are two holy sites that the faithful should visit at least once during their lives – the Dome of the Icons on Coriolis and the Icon City on Mira. Many regard the temple city Lotus on [[Dabaran]] as an even holier site and the Church has come under pressure to include Lotus in the pilgrimage.
 Frequency: Once in a life.
 ### THE ALMS-GIVING
 Giving alms to the poor pleases the Icons and should be done once per segment. A ninth of one’s income is to be given away. The alms-giving is considered one of the most important sacred rites on Mira.

@@ -14,7 +14,7 @@ _Korsarenkapitän_
 > - Klan Artabazus
 > - Hat die [[Al-Jamal]] in [[Sivas]] angegriffen, dabei wurde sein Schiff, die Izdubar zerstört und große Teile seiner Crew getötet.
 > - Nüchterner Geschäftsmann, der das Korsarentum als normalen Beruf betrachtet.
-> - Scheint eine Abneigung gegen Genya Artabazus zu haben (oder sie nicht wirklich als Anführerin akzeptieren zu wollen)
+> - Scheint eine Abneigung gegen [[Genya Artabazus]] zu haben (oder sie nicht wirklich als Anführerin akzeptieren zu wollen)
 > - Liegt auf Eis an Bord der [[Al-Jamal]]
 
 ![[Assets/Yasir_Intezar-Artabazus.png|500]]

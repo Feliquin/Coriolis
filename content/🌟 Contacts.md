@@ -7,6 +7,7 @@
 | [[Data/Caern.md\|Caern]]                                     | \-     |
 | [[Data/Cemisa Chelebs-Menau.md\|Cemisa Chelebs-Menau]]       | \-     |
 | [[Data/Dramora Chelebs-Menau.md\|Dramora Chelebs-Menau]]     | \-     |
+| [[Data/Genya Artabazus.md\|Genya Artabazus]]                 | \-     |
 | [[Data/Ibn Tash.md\|Ibn Tash]]                               | dead   |
 | [[Data/Iskander.md\|Iskander]]                               | \-     |
 | [[Data/Izaldun Laskarid.md\|Izaldun Laskarid]]               | \-     |
