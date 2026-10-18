@@ -11,7 +11,6 @@
 | [[Data/🤖 Session 1.15 Prep - DONE.md\|🤖 Session 1.15 Prep - DONE]] |
 | [[Data/🤖 Session 1.16 Prep - DONE.md\|🤖 Session 1.16 Prep - DONE]] |
 | [[Data/🤖 Session 1.17 Prep.md\|🤖 Session 1.17 Prep]]               |
-| [[Data/🤖 Story Threads.md\|🤖 Story Threads]]                       |
 | [[Data/🤖 Szenen-Notizen Sivas.md\|🤖 Szenen-Notizen Sivas]]         |
 | [[Data/🤖 Szenen-Notizen Zhau.md\|🤖 Szenen-Notizen Zhau]]           |
 | [[Data/🤖 Yasir Intezar-Artabazus.md\|🤖 Yasir Intezar-Artabazus]]   |

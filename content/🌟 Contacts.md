@@ -18,6 +18,7 @@
 | [[Data/Kaelen al-Sari.md\|Kaelen al-Sari]]                   | \-     |
 | [[Data/Kameera.md\|Kameera]]                                 | \-     |
 | [[Data/Karim Notash.md\|Karim Notash]]                       | \-     |
+| [[Data/Kassidia el-Kassar.md\|Kassidia el-Kassar]]           | \-     |
 | [[Data/Kindara al-Mandhur.md\|Kindara al-Mandhur]]           | \-     |
 | [[Data/Korm & Minai Maadawi.md\|Korm & Minai Maadawi]]       | \-     |
 | [[Data/Lady Orphalia.md\|Lady Orphalia]]                     | \-     |
@@ -30,6 +31,7 @@
 | [[Data/Mel "Melone" Quinn.md\|Mel "Melone" Quinn]]           | \-     |
 | [[Data/Mimdosh.md\|Mimdosh]]                                 | \-     |
 | [[Data/Myran Chelebs-Menau.md\|Myran Chelebs-Menau]]         | \-     |
+| [[Data/Nabir Wickremesin.md\|Nabir Wickremesin]]             | \-     |
 | [[Data/Nayam Jummah.md\|Nayam Jummah]]                       | \-     |
 | [[Data/Nilar.md\|Nilar]]                                     | \-     |
 | [[Data/Nitoya.md\|Nitoya]]                                   | dead   |
