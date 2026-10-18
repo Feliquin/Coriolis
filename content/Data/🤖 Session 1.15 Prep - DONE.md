@@ -179,7 +179,7 @@ Cryptosphere berührt Shirins DNA (Knochen oder Haarteil aus dem Leichentuch). D
 
 **Handout: Cryptosphere-Botschaft von Shakur Bazaan Kushtriya**
 
-Beide Versionen aus **[[🤖 Session 1.14 Prep]]** verfügbar:
+Beide Versionen aus **[[🤖 Session 1.14 Prep - DONE]]** verfügbar:
 - Standardversion (bei geglücktem Übersetzungswurf)
 - Kryptische Version (bei knapp verpatztem Wurf) — Kernanker Nova Solyma, Kushtriya, Vater/Tochter bleiben erhalten
 
@@ -327,32 +327,32 @@ Bleib fokussiert auf das Tempel-Cryptosphere-Ziel. Wenn die Party ausschweift, h
 
 Für dich als GM. Diese Fakten kann Annika (aus Orphalias Datafile) auf Nachfrage der Party portionsweise liefern.
 
-**Die Kushtriya waren die letzte Raj-Dynastie von Altai vor Tang Gols Invasion.** Sie herrschten über Marakanda und das Altai-System, bevor der Warlord Tang Gol vor Jahrhunderten das System eroberte.
+**Die Kushtriya waren die letzte Raj-Dynastie von [[Altai]] vor Tang Gols Invasion.** Sie herrschten über Marakanda und das [[Altai]]-System, bevor der Warlord Tang Gol vor Jahrhunderten das System eroberte.
 
 - **Familiensiegel:** Grüne Spinne in dunklem Kreis
 - **Herrschaftszentrum:** Alabasterner Palast auf Marakanda (heute Sitz des Alabaster-Rats — daher der Name)
-- **Machtbasis:** Kontrolle über den **Schwarzen Sektor** (Waffensystem in der Asteroidenwolke, das Altai vor Invasoren schützt). Das Herzstück des Schwarzen Sektors war eine Command Console — auf ihrem Flagschiff **Shamshir** installiert.
+- **Machtbasis:** Kontrolle über den **Schwarzen Sektor** (Waffensystem in der Asteroidenwolke, das [[Altai]] vor Invasoren schützt). Das Herzstück des Schwarzen Sektors war eine Command Console — auf ihrem Flagschiff **Shamshir** installiert.
 - **Sturz:** Als Tang Gol die Kushtriya besiegte, floh der Rest der Dynastie mit Shamshir aus dem System. Das Schiff verschwand — mitsamt dem gesamten Rajahdom-Schatz und der Command Console.
-- **Heute:** Die Kushtriya gelten als ausgestorben. Artefakte aus ihrer Regierungszeit sind auf Altai unbeliebt (Alabaster-Rats-Propaganda: "die Alten waren Tyrannen"). Wenige Sammler halten kleine Kushtriya-Bestände.
+- **Heute:** Die Kushtriya gelten als ausgestorben. Artefakte aus ihrer Regierungszeit sind auf [[Altai]] unbeliebt (Alabaster-Rats-Propaganda: "die Alten waren Tyrannen"). Wenige Sammler halten kleine Kushtriya-Bestände.
 
 **Kushtriya und Shirin:**
-- **Shirin** war eine Herold-Nonne im Kreis der Suchenden ("Siebter Herold des Boten"). Berühmt für ihre Missionsarbeit auf Sivas — sie bekehrte viele Moguln zum Ikonenglauben.
+- **Shirin** war eine Herold-Nonne im Kreis der Suchenden ("Siebter Herold des Boten"). Berühmt für ihre Missionsarbeit auf [[Sivas]] — sie bekehrte viele Moguln zum Ikonenglauben.
 - Sie starb ~200 Zyklen vor heute. Ihre Reliquien wurden auf Meraj VII beigesetzt (die Moguln, die sie bekehrt hatte, bauten ihr diesen Tempel).
 - **Geheimwissen (nur GM):** Shirin war eine illegitime Tochter der Kushtriya-Familie (Vater: Shakur Bazaan Kushtriya). Ihre DNA öffnet die Cryptosphere.
 
 **Nova Solyma (für die Party noch geheim):**
-- Neue Kushtriya-Kolonie nach der Flucht aus Altai — auf Planet Z-9 im Zhau-System
+- Neue Kushtriya-Kolonie nach der Flucht aus [[Altai]] — auf Planet Z-9 im [[Zhau]]-System
 - Wurde in einem Berg gebaut, aus Fels und Stein
 - Ist heute tote Ruine (siehe Akt 4)
-- **GM-Wissen: Der Reaktor-Unfall, der Nova Solyma zerstörte, war Vestal-Sabotage — die Kushtriya hatten unbewusst auf einer alten Firstcome-/Vestal-Stätte gebaut.**
+- **GM-Wissen: Der Reaktor-Unfall, der Nova Solyma zerstörte, war [[Vestal]]-Sabotage — die Kushtriya hatten unbewusst auf einer alten Firstcome-/[[Vestal]]-Stätte gebaut.**
 
 **Warum Sadhi/Genya die Kushtriya sucht:**
 - Sie hält sich für eine Kushtriya-Erbin (falsch — reine Wahnidee, siehe [[🤖 Sadhi Bat-Erden]])
-- Sie will die Command Console → Schwarzer Sektor → Herrschaft über Altai → Restauration der "wahren" Herrscherlinie
+- Sie will die Command Console → Schwarzer Sektor → Herrschaft über [[Altai]] → Restauration der "wahren" Herrscherlinie
 - Das archäologische Institut in Khorsabad (Annex A) war ihr Suchapparat
 
 **Was Annika NICHT weiß (nicht im Datafile):**
-- Dass es einen Vestal-Bezug gibt
+- Dass es einen [[Vestal]]-Bezug gibt
 - Dass Sadhi = Genya ist
-- Wo genau Nova Solyma liegt (Datafile hört bei "flohen aus Altai" auf)
+- Wo genau Nova Solyma liegt (Datafile hört bei "flohen aus [[Altai]]" auf)
 - Details zur Command Console

@@ -28,7 +28,7 @@ _Corsair-Kapitän der Izdubar_
 **Sub-Antagonist in Akt 3.** Sein Hinterhalt in Meraj-7 ist der Kampf-Höhepunkt vor Shirins Reliquien. Falls die Party ihn lebend erwischt, ist er eine wertvolle Wissensquelle:
 - Kennt Genyas Netzwerk in [[Altai]] teilweise
 - Kann bestätigen, dass Genya die Kushtriya-Suche persönlich leitet
-- Kennt die *Asuai* (Genyas Zerstörer)
+- Kennt die *[[Asuai]]* (Genyas Zerstörer)
 - **Weiß NICHT, dass Genya = Sadhi ist** — sein Nicht-Wissen ist selbst ein Puzzle-Stück (warum wird es der Familie vorenthalten?)
 
 ## Persönlichkeit
@@ -68,4 +68,4 @@ portrait in the artstyle of Symbaroum of a 35 year old male corsair captain with
 ## Offene GM-Fragen
 
 - Wie viele seiner Corsairs überleben den Hinterhalt? -> nur einer
-- Wenn er in Akt 4 wieder auftaucht — auf der *Asuai* oder eigenständig? -> aktuell in Gefangenschaft
+- Wenn er in Akt 4 wieder auftaucht — auf der *[[Asuai]]* oder eigenständig? -> aktuell in Gefangenschaft

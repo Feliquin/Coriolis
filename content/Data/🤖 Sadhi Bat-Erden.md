@@ -16,14 +16,16 @@ _Hauptantagonistin — Doppelidentität_
 
 ## Der zentrale Twist
 
-**Sadhi Bat-Erden (öffentliche Konzil-Person) und Genya Artabazus (militante Corsair-Matriarchin) sind DIESELBE PERSON.** Sie führt seit ca. 15-20 Jahren ein Doppelleben: Sadhi als politisch integrierte Ex-Drakonitin und Antiquitätenhändlerin, Genya als Corsair-Anführerin des Artabazus-Clans mit Sitz in Khorsabad.
+**Sadhi Bat-Erden (öffentliche Konzil-Person) und [[Genya Artabazus]] (militante Corsair-Matriarchin) sind DIESELBE PERSON.** Sie führt seit ca. 15-20 Jahren ein Doppelleben: Sadhi als politisch integrierte Ex-Drakonitin und Antiquitätenhändlerin, Genya als Corsair-Anführerin des Artabazus-Clans mit Sitz in Khorsabad.
 
-Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-Rescue). Sadhi kennen sie noch gar nicht direkt (soll erst später auftauchen). **Die persönliche Enthüllung "beide sind dieselbe" ist der Kernmoment der zweiten Kampagnenhälfte — vorzugsweise in Akt 4 (Nova Solyma) oder Akt 5 ([[Altai]]-Klimax).**
+**Wichtige Klarstellung: Sadhi/Genya ist KEINE Vestalin.** Sie ist Mensch, Dritter Horizont, biologisch unauffällig. Ihr Doppelleben ist rein identitätsbasierte Tarnung, keine fremde Physiologie. Was sie mit den [[Vestal]]-Hardlinern verbindet, ist eine **Zweckehe** — sie wollen das Konzil geschwächt, sie will die Macht. Sadhi ist für die Hardliner ein Werkzeug im Horizont, kein Teil der Fraktion.
+
+Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-Rescue). Sadhi kennen sie noch gar nicht direkt (soll erst später auftauchen). **Die persönliche Enthüllung "beide sind dieselbe" ist der Kernmoment von Sleeping Butterflies in [[Altai]] — nach Abschluss von Fate of Shamshir.**
 
 ## Backstory
 
 - In Kampagne 1 Verbündete der alten Party (Drakonitin, Antiquitätenhändlerin auf Coriolis)
-- In den 40 Jahren seither politisch aufgestiegen; hat gleichzeitig die Corsair-Identität "Genya Artabazus" aufgebaut, um militärische/kriminelle Operationen von ihrer politischen Karriere zu trennen
+- In den 40 Jahren seither politisch aufgestiegen; hat gleichzeitig die Corsair-Identität "[[Genya Artabazus]]" aufgebaut, um militärische/kriminelle Operationen von ihrer politischen Karriere zu trennen
 - Der "Artabazus-Clan" ist real — eine kleine Corsair-Familie, deren Führung sie sich vor Jahren angeeignet hat. Die meisten Corsairs des Clans wissen nicht, dass ihre Matriarchin unter anderem Namen im Alabaster-Konzil sitzt
 - **Ihre Radikalisierung:** Sie hält sich für eine Erbin der Kushtriya-Dynastie. Diese Überzeugung ist NICHT real (sie ist keine echte Kushtriya-Blutverwandte), aber sie ist fanatisch davon überzeugt. Der Wahn treibt sie.
 - Sadhi/Genya ist nicht wirklich böse — sie ist überzeugt, das Wohl des Horizonts zu vertreten, indem sie die "wahre" Herrscherlinie restauriert. Aber sie hat aus dem Auge verloren, welchen Preis das für andere hat.
@@ -42,7 +44,7 @@ Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-
 
 ## Wie sie die Party behandelt
 
-**Als Genya:** Kalt, ruthless, keine Verhandlungsbereitschaft außer bezüglich Command Console. Ordert Ibn Tashs Entführung, hetzt Corsair-Verwandte (Yasir Intezar-Artabazus in [[Sivas]]) auf die Party.
+**Als Genya:** Kalt, ruthless, keine Verhandlungsbereitschaft außer bezüglich Command Console. Ordert Ibn Tashs Entführung, hetzt Corsair-Verwandte ([[Yasir Intezar-Artabazus]] in [[Sivas]]) auf die Party.
 
 **Als Sadhi:** Warm, wohlwollend, hilfsbereit. Bietet politische Unterstützung an. Nutzt Ramis alte Bekanntschaft aus Kampagne 1 (Bene-Meta: Sadhi war Verbündete der alten Party). Für Bene ein bitterer Moment, wenn sich später zeigt wer Sadhi wirklich ist.
 
@@ -61,7 +63,7 @@ Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-
 - **[[Lady Orphalia]]:** Ehemalige Drakoniten-Weggefährtin. Orphalia weiß möglicherweise seit langem, dass etwas mit Sadhi nicht stimmt — deshalb wurde sie entfernt.
 - **[[Karim Notash]]:** Tareks Mann. Beobachtet Sadhi seit einiger Zeit, konnte den Doppel-Identitäts-Beweis noch nicht führen.
 - **[[Tarek al-Farhat]]:** Politischer Kollege im Konzil. Vertraut ihr instinktiv nicht, kann es aber nicht begründen. Basti wird die Wiederbegegnung als "vertraute Fremde" spielen können.
-- **Yasir Intezar-Artabazus (Neffe):** Corsair-Kapitän der *Izdubar* in [[Sivas]]. Weiß nicht, dass seine Tante = Genya = Sadhi ist. Für ihn ist Genya nur der Codename der Familien-Matriarchin.
+- **[[Yasir Intezar-Artabazus]] (Neffe):** Corsair-Kapitän der *Izdubar* in [[Sivas]]. Weiß nicht, dass seine Tante = Genya = Sadhi ist. Für ihn ist Genya nur der Codename der Familien-Matriarchin.
 
 ## Konfrontationsoptionen
 
@@ -86,4 +88,4 @@ Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-
 - Physisches Erscheinungsbild (nicht im Vault). Für Doppelidentität: die beiden müssen sich äußerlich unterscheiden können (Kleidung, Frisur, Make-up) — aber ein aufmerksamer Beobachter sollte es merken können.
 - Wann hat sie die Genya-Identität geschaffen? Bereits in Kampagne 1 oder erst später?
 - Weiß [[Karim Notash]] wirklich Bescheid, oder ahnt er nur?
-- Wie stark ist ihr Verhältnis zur [[Vestal]]-Fraktion? Kooperieren die beiden Fraktionen bewusst, unbewusst, oder gar nicht?
+- ~~Wie stark ist ihr Verhältnis zur [[Vestal]]-Fraktion?~~ → Festgelegt: **Zweckehe mit den Hardlinern.** Sadhi ist nicht Vestalin, kooperiert pragmatisch. Vermutlich kennt sie die Hardliner-Anführerin persönlich, aber über eine Mittelsperson ([[Caern]] war einer; es gibt vermutlich weitere).

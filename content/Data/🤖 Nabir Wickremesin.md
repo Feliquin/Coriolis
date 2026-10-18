@@ -18,21 +18,23 @@ _Nomaden-Historiker auf Lance Station_
 
 ## Wer er ist
 
-Alter Nomaden-Historiker, Ende 70/Anfang 80. Lebt zurückgezogen auf **[[Lance Station]] im [[Zhau]]-System**. Kennt [[🤖 Kaelen al-Sari|Kaelen]] aus dessen Nomaden-Zeit. Wortkarg, weise, misstrauisch gegenüber allen nicht-Nomaden Fraktionen.
+Alter Nomaden-Historiker, Ende 70/Anfang 80. Lebt zurückgezogen auf **[[Lanzenstation]] im [[Zhau]]-System**. Kennt [[🤖 Kaelen al-Sari|Kaelen]] aus dessen Nomaden-Zeit. Wortkarg, weise, misstrauisch gegenüber allen nicht-Nomaden Fraktionen.
 
 ## Bedeutung für die Kampagne
 
 **Nabir ist Kaelens Solo-Karte** — der Türöffner zu Wissen, das keinem anderen der Party zugänglich ist. Er bringt Andi einen einzigartigen Story-Beitrag, den die Veteranen nicht überstrahlen können.
 
-**Zwei Kern-Funktionen:**
-1. **[[Vestal]]-Wissen liefern:** Er erzählt die Nomaden-Legende vom gestrandeten [[Vestal]] vor 40 Jahren, gibt Kaelen einen alten Nomaden-Gruß (Handgeste) mit, die von den Vestals damals gelernt wurde. Damit hat Kaelen ein Werkzeug, um Ansha'ir zu erkennen: Wer die Geste erkennt, ist einer.
-2. **Vermittlung zu [[🤖 Kassidia el-Kassar]] und der Alhari II:** Nabir kennt Kassidia — die Nomaden schätzen sie als eine der ihren geworden. Nabir kann ein Treffen arrangieren.
+**Zwei Kern-Funktionen in Session 1.16:**
+1. **[[Asuai]]-Warnung:** Nabir informiert die Party, dass [[Genya Artabazus]] mit ihrer [[Asuai]] bereits auf dem Weg nach Z-9 ist (gewaltsam ins System eingedrungen, Honor Legion jagt sie). Zeitdruck wird etabliert.
+2. **Vermittlung zu [[🤖 Kassidia el-Kassar]] + [[Alhari II]]:** Nabir bringt die Party zum **Iski'ir-Tempel** auf [[Zhau]], wo Kassidia bereits auf eine Nomaden-Anfrage hin wartet. Kassidia fliegt sie mit der [[Alhari II]] (Portalantrieb!) nach Z-9. Ohne dieses Angebot wäre die Reise zu langsam.
+
+**Wichtig: Nabir erzählt in 1.16 NICHT die [[Vestal]]-Legende und übergibt KEINE Erkennungs-Geste.** Diese Erzählung wird aufgespart — sie kommt in 1.17 bei der Rückkehr nach Lance, wenn Kassidia Ozehs wahre Identität enthüllt. Nabir hält sein [[Vestal]]-Wissen bewusst zurück, bis klar ist, dass die Party es verlässlich tragen kann.
 
 ## Verortung: Lance Station in Zhau
 
-Perfekte geografische Konvergenz: [[Lance Station]] ist die Portalstation, an der die Party bei ihrer Reise nach [[Zhau]] (Akt 4 des Klimax-Bogens) sowieso vorbeikommt. Damit findet Kaelen Nabir "natürlich" auf dem Weg zu Nova Solyma — nicht als extra Umweg.
+Perfekte geografische Konvergenz: [[Lanzenstation]] ist die Portalstation, an der die Party bei ihrer Reise nach [[Zhau]] (Akt 4 des Klimax-Bogens) sowieso vorbeikommt. Damit findet Kaelen Nabir "natürlich" auf dem Weg zu Nova Solyma — nicht als extra Umweg.
 
-**Alternativer früher Kontakt:** Nabir könnte Kaelen bereits Sessions vorher (Sessions 15-17) via Botendrohne oder verschlüsselte Nachricht kontaktieren, sodass die Party zum ersten Zwischenstopp auf [[Lance Station]] gezielt anläuft. So bleibt Andi die Story-Initiative.
+**Alternativer früher Kontakt:** Nabir könnte Kaelen bereits Sessions vorher (Sessions 15-17) via Botendrohne oder verschlüsselte Nachricht kontaktieren, sodass die Party zum ersten Zwischenstopp auf [[Lanzenstation]] gezielt anläuft. So bleibt Andi die Story-Initiative.
 
 ## Persönlichkeit
 
@@ -65,9 +67,13 @@ Perfekte geografische Konvergenz: [[Lance Station]] ist die Portalstation, an de
 - Nabir kooperiert nicht mit Zenithern (Rami/Suri werden misstrauisch beäugt)
 - Rashid als politisch geschulter Erstsiedler bekommt einen leichten Bonus
 
+## Nach Session 1.17 (Enthüllungs-Moment)
+
+Nabir ist bei der [[Vestal]]-Enthüllung durch [[🤖 Kassidia el-Kassar]] und [[🤖 Ozeh Kaldar]] auf der Lance Station anwesend. Er fungiert als Vermittler und steht nach dem Reveal weiterhin als Nomaden-Kanal zur Verfügung — die Party kann über ihn Botschaften an die Reformisten senden.
+
 ## Offene GM-Fragen
 
 - ~~Aussehen konkret~~ -> siehe Bild
 - Familie oder allein?
-- Wieso ist er ausgerechnet auf [[Lance Station]] geblieben (statt weiterzuwandern)?
+- Wieso ist er ausgerechnet auf [[Lanzenstation]] geblieben (statt weiterzuwandern)?
 - ~~Weiß er von Kassidias Kampagne-1-Vergangenheit?~~ -> nein

@@ -17,12 +17,14 @@ _Pilotin der Alhari II_
 > [!TIP] Campaign notes
 > - Ehemals PC in der ersten Kampagne (gespielt von Peti, die jetzt [[Rashid ben Said]] spielt).
 > - Tochter der verstorbenen Hohepriesterin Kamallah el-Kassar.
-> - Alleinige Besitzerin der Alhari II — eines Schiffs mit eingebautem Portalantrieb (Geschenk einer verlorenen Fraktion aus Kampagne 1).
+> - Alleinige Besitzerin der [[Alhari II]] — eines Schiffs mit eingebautem Portalantrieb (Geschenk einer verlorenen Fraktion aus Kampagne 1).
 > - Hat sich in den letzten Jahren den Nomaden angenähert; fliegt für sie oder mit ihnen, je nach Auftrag.
 > - Alter: heute ca. 70. Immer noch als Pilotin aktiv, Draufgängertum durch Routine gemildert, aber nicht ausgestorben.
 
 ## Aktuelle Situation
-Kassidia fliegt die Alhari II eigenverantwortlich durch den Horizont. Nach dem Tod ihrer Mutter Kamallah und dem Auseinanderdriften der alten Crew hat sie sich stärker den Nomaden angeschlossen — nicht als Mitglied, aber als vertraute Verbündete. Die Alhari II ist das einzige bekannte Schiff im Dritten Horizont mit eigener Portalfähigkeit (dank Hüter-Technologie aus dem verlorenen Nagar-System); ob dieses Wissen darüber hinaus verbreitet ist, ist unklar.
+Kassidia fliegt die [[Alhari II]] eigenverantwortlich durch den Horizont. Nach dem Tod ihrer Mutter Kamallah und dem Auseinanderdriften der alten Crew hat sie sich stärker den Nomaden angeschlossen — nicht als Mitglied, aber als vertraute Verbündete. Die [[Alhari II]] ist das einzige bekannte Schiff im Dritten Horizont mit eigener Portalfähigkeit (dank Hüter-Technologie aus dem verlorenen Nagar-System); ob dieses Wissen darüber hinaus verbreitet ist, ist unklar.
+
+**Vertraute der [[Vestal]]-Reformisten:** Kassidia weiß seit Jahren von den gestrandeten Ansha'ir. Sie ist eng mit [[🤖 Ozeh Kaldar]] verbunden — Ozeh war einer der ersten, der sich ihr nach Kamallahs Tod anvertraute, und sie unterstützt still die Reformisten-Fraktion. Diese Verbindung ist das Geheimnis, das sie in Session 1.17 bricht, wenn sie die [[Vestal]]-Enthüllung mit Ozeh zusammen inszeniert.
 
 ## Zugang für die aktuelle Party
 - **Primär über [[Kaelen al-Sari]]** — Kaelens Nomaden-Netzwerk kennt Kassidia und kann ein Treffen vermitteln.
@@ -30,9 +32,11 @@ Kassidia fliegt die Alhari II eigenverantwortlich durch den Horizont. Nach dem T
 - Für Andi/Kaelen ist Kassidia damit ein *selbst entdeckter* NPC, nicht ein "die kennt ihr schon" der Veteranen.
 
 ## Bedeutung für die Kampagne
-- Die Alhari II ist eine der wertvollsten Ressourcen im Horizont. Für [[🤖 GM Vestal Threat|die Ansha'ir]] ist sie automatisch von brennendem Interesse (eigenes Portal!). Kassidia wird ins Visier geraten.
+- Die [[Alhari II]] ist eine der wertvollsten Ressourcen im Horizont. Für [[🤖 GM Vestal Threat|die Ansha'ir-Hardliner]] ist sie automatisch von brennendem Interesse (eigenes Portal!). Kassidia wird ins Visier geraten.
 - Sie kann die [[Al-Jamal]] an Orte bringen, die sonst wochenlange Reisen wären.
-- Politisch neutral, den Nomaden loyal — will keiner Fraktion dienen.
+- Politisch neutral öffentlich, den Nomaden und den [[Vestal]]-**Reformisten** loyal — will Hardliner-Rückkehr-Pläne verhindern.
+- **Session 1.16:** Fliegt die Party per [[Alhari II]] nach Z-9.
+- **Session 1.17:** Harassiert die [[Asuai]] während des Nova-Solyma-Einsatzes. Alhari wird schwer beschädigt, Kassidia verletzt. Zweites Nomaden-Schiff rettet sie. Nach Rückkehr enthüllt sie Ozeh und die [[Vestal]]-Fraktion gegenüber der Party.
 
 ## Persönlichkeit
 - Draufgängerisch, aber durch Alter und Verluste (Kamallah, evtl. andere) reflektierter geworden

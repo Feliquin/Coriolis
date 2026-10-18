@@ -10,7 +10,7 @@
 | [[Data/Hayrangi Station.md\|Hayrangi Station]] | \-             |
 | [[Data/Khôban Station.md\|Khôban Station]]     | \-             |
 | [[Data/Kua.md\|Kua]]                           | System         |
-| [[Data/Lance Station.md\|Lance Station]]       | \-             |
+| [[Data/Lanzenstation.md\|Lanzenstation]]       | \-             |
 | [[Data/Mira.md\|Mira]]                         | System         |
 | [[Data/Odacon.md\|Odacon]]                     | System         |
 | [[Data/Ordana.md\|Ordana]]                     | System         |

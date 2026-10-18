@@ -17,32 +17,47 @@ _Antiquitätensammler — tatsächlich [[Vestal]]-Reformist_
 ![[Ozeh_Kaldar.png|500]]
 
 > [!TIP] Campaign notes
-> - Öffentlich: **Ozeh Kaldar**, alter Antiquitätensammler mit Sammlung obskurer Firstcome-Artefakte, Hauptsitz auf einer kleineren Handelsstation im [[Zhau]]- oder [[Aiwaz]]-System
+> - Öffentlich: **Ozeh Kaldar**, alter Antiquitätensammler mit Sammlung obskurer Firstcome-Artefakte, operiert vom **Iski'ir-Tempel im [[Zhau]]-System** aus (Nomaden-Enklave)
 > - Wahre Identität: einer der ursprünglichen [[Vestal]]-Ansha'ir, gestrandet seit 40 Jahren, Anführer der **Reformisten** (siehe [[🤖 GM Vestal Threat]])
 > - Alter geschätzt ~200 Jahre ([[Vestal]]-Lebensspanne). Beginnt zu schwächen.
 > - Über die Jahrzehnte "sesshaft" geworden — hat sich mit einem Leben im Dritten Horizont arrangiert
+> - Verwendet eine **Firstcome-Bio-Sculpting-Technik**, um sich menschlich erscheinen zu lassen (siehe unten). Schmerzhaft, zeitlich begrenzt, selten — nur wenige Vestalen können das
 > - Sabotiert im Verborgenen die Rückkehrpläne der Hardliner (Fraktions-Anführerin ist ihm namentlich bekannt, aber die beiden sehen sich seit Jahren nicht mehr)
+> - **Verbunden mit [[🤖 Kassidia el-Kassar]]** über das Nomaden-Netzwerk — Kassidia ist langjährige Vertraute und unterstützt die Reformisten
 
 ## Bedeutung für die Kampagne
 
-**Erstkontakt-NPC der Party mit den Ansha'ir.** Er wird die Party in Akt 4 (Nova Solyma oder Anreise) suchen, um sie vor den Hardlinern zu warnen und um sie zu bitten, die Command Console nicht in [[Vestal]]-Hände fallen zu lassen. Sein Motiv: Wenn die Heimkehrer ein neues Portal öffnen, wird die Wahrheit über die Gestrandeten im Ersten Horizont bekannt — und Ozeh hat Angst, was seine ehemaligen Vorgesetzten dann mit einer plötzlich wieder erreichbaren Ansha'ir-Fraktion machen würden.
+**Erstkontakt-NPC der Party mit den Ansha'ir.** 
+
+**Session 1.16 — Mysteriöser Teaser:** Begegnet der Party kurz im Iski'ir-Tempel auf [[Zhau]], während Kassidia sich bereitmacht. Erscheint menschlich (Bio-Sculpting), stellt sich als Antiquitätenhändler vor, zeigt Interesse an den [[Fazar]]-Panzerplatten. Keine Enthüllung — nur subtiler Teaser. Peti/Andi sollen "da war etwas Komisches" denken, ohne Theorien zu bauen.
+
+**Session 1.17 — Enthüllung auf der Lance Station:** Nach der Rückkehr der Party von Z-9 bricht Kassidia das Schweigen. Ozeh enthüllt vor der Party seine [[Vestal]]-Form — löst das Bio-Sculpting sichtbar auf. Erklärt die Ansha'ir-Geschichte, warnt vor den Hardlinern, nennt Sadhi Bat-Erden als Hardliner-Verbündete (aber nicht als Vestalin — Sadhi ist Mensch), lädt die Party ein, mit den Reformisten gegen die Hardliner zu arbeiten.
+
+Sein Motiv: Wenn die Heimkehrer ein neues Portal öffnen, wird die Wahrheit über die Gestrandeten im Ersten Horizont bekannt — und Ozeh hat Angst, was seine ehemaligen Vorgesetzten dann mit einer plötzlich wieder erreichbaren Ansha'ir-Fraktion machen würden.
 
 ## Wie er auftritt
 
-**Als Ozeh (menschliche Tarnung):**
-- Trägt einen aufwendigen mechanischen Exo-Skelett-Anzug unter weiter Robe, der ihm menschliche Proportionen suggeriert (er misst dann ca. 190 cm, nicht seine echten >250 cm)
-- Bewegt sich langsam, "wegen des Alters"
-- Handschuhe, hochgeschlagener Kragen, Kopfbedeckung — Haut ist verhüllt
+**Als Ozeh (menschliche Tarnung via Firstcome-Bio-Sculpting):**
+- Firstcome-Bio-Sculpting-Technik: eine seltene, schmerzhafte und zeitlich begrenzte Methode, die die [[Vestal]]-Physiologie temporär auf menschliche Proportionen reduziert — Haut-Pigmentation anpasst, Glieder verkürzt (durch intensive muskuläre Kompression), Gesichtszüge verändert
+- Erscheint als ~195 cm große, schlanke Gestalt (statt echter >250 cm)
+- Trägt weite Robe, Handschuhe, hochgeschlagener Kragen, Kopfbedeckung — kaschiert noch verbleibende Unregelmäßigkeiten
+- Bewegt sich präzise und ökonomisch — fast zu präzise, als ob jeder Schritt bewusst gezählt wird (die Bio-Sculpting-Technik erfordert konstante Konzentration)
 - Sprache flüssig, mit leichtem "archaischen" Akzent, den er als Firstcome-Studium-Marotte erklärt
-- Ein aufmerksamer PC (Rami mit Medicurgie) könnte bemerken, dass etwas an seinen Bewegungen nicht stimmt — zu präzise, zu ökonomisch, wie durch mechanische Verstärkung
+- Augen fokussieren anders als bei Menschen, er blinzelt zu selten
+- **Begrenzung:** Die Verwandlung hält etwa 6-8 Stunden, dann braucht Ozeh Erholung in [[Vestal]]-Form. Deshalb trifft die Party ihn in 1.16 nur kurz — er muss sich zurückziehen.
+
+**Aufmerksame PCs** könnten bemerken (nicht würfeln, nur Beschreibung):
+- Rami mit Medicurgie: Zu glatte, zu kontrollierte Bewegungen
+- Rashid mit Culture: Akzent klingt wie tote Sprache als Muttersprache
+- Suri mit Observation: Blinzel-Pattern falsch
 
 **Enthüllt ([[Vestal]]-Form):**
-- Über 250 cm groß, extrem lange schlanke Gliedmaßen
-- Bleiche, fast bläulich-weiße Haut
+- Über 230 cm groß, extrem lange schlanke Gliedmaßen
+- Bleiche, fast bläulich-weiße Haut mit feinen Kapillarmustern
 - Tiefliegende, müde Augen
 - Spärliches silberweißes Haar
 - Wirkt uralt, aber intellektuell wach
-- Ohne den Exo-Anzug bewegt er sich langsam und gestützt
+- Bewegt sich in natürlicher Form langsam und gestützt (die Vestalen sind nicht für Horizont-Schwerkraft gebaut)
 
 ## Was er weiß
 
@@ -62,11 +77,13 @@ _Antiquitätensammler — tatsächlich [[Vestal]]-Reformist_
 - Optional: Er bietet an, die [[Fazar]]-Mumie zurückzuerhalten und würdig zu bestatten — im Tausch bekommt die Party Zugang zu älteren Ansha'ir-Archiven
 - **Er lügt nicht** — aber er sagt auch nicht die ganze Wahrheit von sich aus. Fragen bringen mehr
 
-## Wo er die Party findet (Vorschläge)
+## Wo er die Party findet (festgelegt)
 
-- Auf [[Lance Station]] in [[Zhau]], kurz nach Nabir-Kontakt — als "Antiquitätensammler mit Interesse an ihren [[Fazar]]-Funden"
-- In der Nova-Solyma-Ruine, wo er auf sie wartet (er wusste, dass jemand kommen würde)
-- Via Botendrohne, mit Einladung zu einem Treffen an neutralem Ort
+- **Session 1.16 (Teaser):** Im Iski'ir-Tempel auf [[Zhau]], menschlich verkleidet, als Antiquitätenhändler mit Interesse an den [[Fazar]]-Funden. Kurzer mysteriöser Auftritt, bleibt zurück im Tempel, als die Party nach Z-9 aufbricht.
+- **Session 1.17 (Enthüllung):** In der Nomaden-Enklave auf Lance Station, nach der Rückkehr der Party von Z-9. Kassidia bringt beide zusammen. Ozeh enthüllt seine [[Vestal]]-Form.
+- **Nach 1.17:** Potenzielle Verbindung über Nabir (Lance Station) oder Nomaden-Kanäle.
+
+**NICHT in Nova Solyma.** Nova Solyma ist eine tote Kushtriya-Kolonie, keine [[Vestal]]-Besiedlung.
 
 ## Persönlichkeit
 
@@ -87,12 +104,12 @@ portrait in the artstyle of Symbaroum of an ancient alien humanoid being, over 2
 ## Midjourney-Prompt (menschliche Tarnung als Ozeh Kaldar)
 
 ```
-portrait in the artstyle of Symbaroum of an elderly antiques dealer with a mysterious presence, tall and slender build in a heavy exo-support harness barely visible under his clothing. Face partially shadowed by a raised collar and a soft dark hood. Only the eyes are clearly visible - dark, deep-set, weary. Wearing an ornate charcoal-grey Firstcome-style robe with intricate silver embroidery, gloved hands. Dark antique-shop background with muted amber light. --s 250 --ar 4:5 --v 8.2
+portrait in the artstyle of Symbaroum of an elderly antiques dealer with a mysterious presence, tall and slender build with unnaturally precise posture. Face partially shadowed by a raised collar and a soft dark hood. Only the eyes are clearly visible - dark, deep-set, weary, blinking rarely. Wearing an ornate charcoal-grey Firstcome-style robe with intricate silver embroidery, gloved hands. Dark antique-shop background with muted amber light. --s 250 --ar 4:5 --v 8.2
 ```
 
 ## Offene GM-Fragen
 
-- Konkreter Ort für seinen Antiquitäten-Laden — [[Zhau]] oder [[Aiwaz]] oder [[Altai]]?
+- ~~Konkreter Ort für seinen Antiquitäten-Laden~~ → **Iski'ir-Tempel auf [[Zhau]]** (festgelegt)
 - Wie viele Reformisten gibt es insgesamt außer ihm? Zahlen fürs GM-Wissen
-- Wie kommt er an sein Exo-Skelett? (Selbst gebaut, [[Vestal]]-Technik, Firstcome-Fund?)
+- ~~Wie kommt er an sein Exo-Skelett?~~ → **Firstcome-Bio-Sculpting-Technik** (festgelegt), gefunden/mitgebracht aus dem Ersten Horizont
 - Nachname "Kaldar" ok, oder anderer Vorschlag?

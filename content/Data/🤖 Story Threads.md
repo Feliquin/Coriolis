@@ -1,4 +1,4 @@
----
+[[Al-Jamal]][[Fazar]][[Asuai]][[Caern]][[Kameera]][[Caern]][[Asuai]][[Vestal]][[Altai]][[Sivas]][[Caern]][[Kameera]][[Kameera]][[Yemik]][[Al-Jamal]][[Kameera]][[Altai]][[Kameera]][[Yemik]][[Awadhi]][[Zhau]][[Altai]][[Kameera]][[Yemik]][[Al-Jamal]][[Zhau]][[Fazar]][[Odacon]][[Caern]][[Caern]][[Sivas]][[Kameera]][[Caern]][[Kameera]][[Genya Artabazus]][[Alhari II]][[Al-Jamal]][[Fazar]][[Asuai]][[Caern]][[Kameera]][[Caern]][[Asuai]][[Vestal]][[Altai]][[Sivas]][[Caern]][[Kameera]][[Kameera]][[Yemik]][[Al-Jamal]][[Kameera]][[Altai]][[Kameera]][[Yemik]][[Awadhi]][[Zhau]][[Altai]][[Kameera]][[Yemik]][[Al-Jamal]][[Zhau]][[Fazar]][[Odacon]][[Caern]][[Caern]][[Sivas]][[Kameera]][[Caern]][[Kameera]][[Genya Artabazus]][[Alhari II]]---
 creation date: 2026-09-10 12:00
 modification date: 2026-09-10 12:00
 tags:
@@ -14,7 +14,7 @@ _GM-only Übersicht aller offenen Handlungsfäden_
 > [!WARNING] GM-only
 > Dieses Dokument ist ausschließlich für den GM (und Co-GM). Draft-Flag ist gesetzt — nicht publizieren, nicht mit Spielern teilen.
 
-Stand: nach Session **1.15 (Fate of Shamshir VII)**. Datum in-game: **2/4/Pilger/486 PK**. **Party geteilt:** Rami, Suri, Rashid, Kaelen reisen per Nomaden-Frachter nach **Zhau / Lance Station** (Al-Jamal zu beschädigt für den Transport). Annika, Yemik, Kameera fliegen die beschädigte Al-Jamal nach Altai zur Reparatur. Yasir + 1 Corsair weiterhin in Stasis an Bord. **Falsche Fährte:** Rashid hat die Cryptosphere-Botschaft manipuliert, sodass sie nach Awadhi statt Zhau zeigt. Video an Orphalia (schwach verschlüsselt — als Köder), Bote mit stärker verschlüsselter Wahrheit zu Tarek unterwegs.
+Stand: nach Session **1.16 (Fate of Shamshir VIII)**. Datum in-game: **11/4/Pilger/486 PK**. **Hauptparty** (Rami, Suri, Rashid, Kaelen) ist mit der **[[Alhari II]]** (Pilotin [[🤖 Kassidia el-Kassar|Kassidia]]) auf **Z-9** gelandet und erkundet den Außenposten vor **Nova Solyma**. **[[Mimdosh]]** reist als "geduldeter Gast unter Aufsicht" an Bord der Alhari mit. **Al-Jamal** mit Annika/Yemik/Kameera + Yasir in Stasis weiterhin in Werft auf Altai. **Cliffhanger:** Die **[[Asuai]]** mit [[Caern]] an Bord ist im Z-9-Orbit und entsendet Shuttles. **Falsche Fährte:** Rashid-Köder nach Awadhi via Orphalia weiterhin aktiv. **Neuer GM-Faden:** Die Al-Jamal-Fahrt war von Artabazus eingefädelt (Mimdosh als Hebel) — Zweck unbekannt, Material für zweite Kampagnenhälfte.
 
 Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Status, beteiligte NPCs, mögliche nächste Trigger, offene Fragen. Fäden sind grob nach Dringlichkeit sortiert (heiß → schwelend → schlummernd).
 
@@ -43,13 +43,12 @@ Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Sta
 - **Offene Fragen:** Wer hat die Sklaven abgenommen? Konsortium / Syndikat / lokale Käufer? Warum ausgerechnet Wissenschaftler?
 - **Meta:** Schuld-Motor für die Party — sie sind zu spät gekommen. Kua ist inhaltlich reich (Kirche, Coriolis-Station, alte Mira-Fäden), das könnte in der zweiten Kampagnenhälfte oder als Ruhe-Session dazwischen aktiviert werden.
 
-### 2. Kryptosphäre — Kushtriya-Artefakt (aktiviert)
-- **Ursprung:** Sessions 1.09–1.15
-- **Status:** **Aktiviert in 1.15.** Shirins Haar als DNA-Schlüssel. Holo-Botschaft von Shakur Bazaan Kushtriya + Sternenkarte Altai→Zhau. **Rashids Übersetzung war lückenhaft** — Party weiß nur: Kushtriya-Erben haben eine "**Neue Zuflucht in den Bergen von Zhau**" gebaut. **Der genaue Name "Nova Solyma" wurde NICHT verraten** (GM-Entscheidung, soll über Nabir in Zhau nachgeliefert werden).
-- **NPCs:** Shirin † (DNA-Schlüssel), Shakur Bazaan Kushtriya † (Vater, Audio-Botschaft), [[Lady Orphalia]] (via Nachrichten erreichbar), [[🤖 Sadhi Bat-Erden]]
-- **Nächster Trigger:** Ankunft Lance Station in Zhau; Nabir liefert konkrete Hinweise zu "Bergen von Zhau" (= Z-9, Nova Solyma); Vestal-Bezug kommt via Nabirs Legende erstmals auf
-- **Offene Fragen:** Wie viel über die Berge von Zhau weiß Nabir? Wie detailliert können die Nomaden-Kontakte die Suche eingrenzen?
-- **Meta:** Die Cryptosphere wurde von Rashid manipuliert, sodass die exportierte Version nach **Awadhi** (nicht Zhau) zeigt — als falsche Fährte. Siehe Faden 2b.
+### 2. Kryptosphäre — Kushtriya-Artefakt (aktiviert, verwendet)
+- **Ursprung:** Sessions 1.09–1.16
+- **Status:** **In 1.16 abgeschlossen** als Puzzle-Führer. [[🤖 Kassidia el-Kassar|Kassidia]] hat die lückenhafte Übersetzung Rashids präzisiert und die Party zu **Z-9 im Zhau-System** geführt. **Nova Solyma** als konkreter Ortsname ist der Party weiterhin nicht bekannt — sie kennt den Außenposten davor und sieht das eigentliche Eingangsportal.
+- **NPCs:** Shirin † (DNA-Schlüssel), Shakur Bazaan Kushtriya † (Vater, Audio-Botschaft), [[Lady Orphalia]], [[🤖 Kassidia el-Kassar]] (präzise Übersetzung), [[🤖 Sadhi Bat-Erden]]
+- **Nächster Trigger:** Betreten der Nova-Solyma-Anlage in 1.17; Konfrontation um die Shamshir
+- **Meta:** Die Cryptosphere-Fährte nach Awadhi (siehe Faden 2b) ist weiter in der Welt — Sadhi hat vermutlich bereits angebissen (Caern wurde von Lanzenstation geholt und ins System geführt; Mimdosh-Pfad zeigt, dass Artabazus die Awadhi-Fährte womöglich **nicht** gekauft hat).
 
 ### 2b. Falsche Fährte: Awadhi-Cryptosphere-Nachricht
 - **Ursprung:** Session 1.15
@@ -90,12 +89,12 @@ Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Sta
 - **Offene Fragen:** Wer war der Auftraggeber? Was hätten die Wanzen abgehört? Werden die Panzerplatten-Registrierung wichtig?
 
 ### 6. Kameera und die Jagd auf Caern
-- **Ursprung:** Session 1.07–1.08, weitergeführt in 1.14–1.15
-- **Status:** Kameera war im Tempel-Trupp dabei (hat Rashid bei der Übersetzung der alten Schrift geholfen — **sie kann archaische Kushtriya-nahe Schrift lesen**, GM-interessanter neuer Hintergrund). Fliegt jetzt zusammen mit Annika und Yemik die beschädigte Al-Jamal zurück nach Altai zur Reparatur. **Rache-Faden gegen Caern vorerst auf Pause** — Caern war zuletzt Richtung Altai gesichtet, Kameera reist nun selbst dorthin.
-- **NPCs:** [[Kameera]] (jetzt auf Al-Jamal Richtung Altai), [[Caern]], [[Annika Yriedes]], [[Yemik]]
-- **Nächster Trigger:** Kameera findet in Altai möglicherweise Caern-Spuren während der Reparatur-Wartezeit; Firebird-Sichtung an Altai; Konfrontation offen
-- **Meta:** Caerns Sivas-Präferenz statt Ordana-Route ist auffällig. GM-Wissen: Sadhis Zenith-Kanal operiert bevorzugt über Sivas (Mogul-Clans sind weniger Zenith-freundlich, aber auch weniger überwacht als Ordana-Cartel). Kameera-Schrift-Fähigkeit könnte später für Nova-Solyma-Erkundung wertvoll werden — Charakter-Potenzial.
-- **Offene Fragen (Party-Ebene):** Für welche Zenith-Fraktion arbeitet Caern? Was war der eigentliche Zweck des Film-Auftrags?
+- **Ursprung:** Session 1.07–1.08, weitergeführt in 1.14–1.16
+- **Status:** Kameera weiterhin auf Al-Jamal in Altai (Reparatur). **Caern wurde in 1.16 bestätigt gesichtet:** War seit Tagen auf der [[Lanzenstation]] und sammelte Infos über die Al-Jamal und die Shamshir, bevor er per Shuttle an Bord der **[[Asuai]]** von [[Genya Artabazus]] ging — jetzt definitiv Teil des Artabazus-Netzwerks. Steht am Ende von 1.16 vor einer unmittelbaren Konfrontation mit der Party auf Z-9. **Mimdosh schwor ebenfalls Rache an Caern** (siehe neuer Faden 25).
+- **NPCs:** [[Kameera]] (in Altai), [[Caern]] (auf Asuai, im Z-9-Orbit), [[Annika Yriedes]], [[Yemik]], [[Mimdosh]]
+- **Nächster Trigger:** 1.17 — Caern kommt mit Shuttle von der Asuai nach Z-9 und jagt die Party in Nova Solyma. Falls Caern überlebt: Rückkehr nach Altai zu Kameera für finale Konfrontation
+- **Meta:** Caern-Flucht-Priorität behalten für Kameera-Linie in Sleeping Butterflies. Mimdosh-Rache ist Doppel-Gleis.
+- **Offene Fragen (Party-Ebene):** Was ist Caerns konkrete Mission auf Z-9 — nur Shamshir-Konsole, oder auch Beseitigung der Party?
 
 ### 6b. Caern als Sadhis Zenith-Frontmann (GM-Wissen)
 - **Ursprung:** Session 1.07–1.08 (Odacon-Ambush), rückwirkend eingebettet nach Sadhi-Twist
@@ -132,12 +131,11 @@ Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Sta
 - **Offene Fragen:** Ist die Häufung Zufall oder häuft es sich horizontweit? Sind die Charaktere Anziehungspunkt (Prophezeiung), oder Zeugen einer größeren Verschiebung?
 
 ### 10. Fazar-Fund — Vestal & Glitzernder
-- **Ursprung:** Session 1.06–1.07, Vestal-Andeutung verstärkt in 1.14
-- **Status:** Vestal-Mumie mit Statuette des Glitzernden geborgen; Servicedronen und gravierte Panzerplatten an Bord. **Neu aus 1.14:** Orphalia hat die Panzerplatten kurz begutachtet und stellt fest, dass darauf **fremdartige, bisher unbekannte Schriftzeichen sind — gemischt mit Erstsiedler-Schrift**. Sie will die Platten bei Gelegenheit genauer studieren. Party hat die Info über Annika/Datafile-Nachricht bekommen.
-- **NPCs:** [[Rolan Durrok]] (verlassen), [[Mimdosh]] (verlassen), [[Vestal]], [[The Glistering One]], [[Lady Orphalia]] (Analystin auf Distanz)
-- **Nächster Trigger:** Rückkehr nach Altai für Orphalia-Analyse; potenzieller Interessent von Ansha'ir-Seite (Panzerplatten wurden bei Khorsabad-Kontrolle registriert!); Wissenschaftler wird durch die Fundstücke aufmerksam.
-- **Offene Fragen:** Was ist die unbekannte Schrift? (GM-Wissen: Vestal.) Kann Orphalia das entschlüsseln? Sucht jemand die Party wegen dieser Funde auf?
-- **Meta:** Erster echter Vestal-Hint für die Party. Nicht sofort erkennbar, aber wenn Orphalia die Schrift später als "fremd wie nichts, was wir aus dem Horizont kennen" beschreibt, ist das der Anker für den späteren Ansha'ir-Reveal.
+- **Ursprung:** Session 1.06–1.07, Vestal-Andeutung verstärkt in 1.14, konkreter Interessent in 1.16
+- **Status:** Vestal-Mumie mit Statuette des Glitzernden geborgen; Servicedronen und gravierte Panzerplatten an Bord der Al-Jamal (jetzt in Altai). **Neu aus 1.16:** [[🤖 Ozeh Kaldar]] hat beim kurzen Treffen auf der Alhari explizit nach den Panzerplatten gefragt — "wenn ihr sie je verkaufen wollt, denkt an mich". Das ist der erste konkrete Interessent von Ansha'ir-Seite (Party weiß das nicht). Zusätzlich seine Andeutung zu Rami: "Firstcome-Material. Manches davon sieht älter aus, als es ist" — Teaser.
+- **NPCs:** [[Rolan Durrok]] (verlassen), [[Mimdosh]] (jetzt an Bord Alhari, siehe Faden 25), [[Vestal]], [[The Glistering One]], [[Lady Orphalia]] (Analystin auf Distanz), [[🤖 Ozeh Kaldar]] (neuer Interessent)
+- **Nächster Trigger:** Rückkehr nach Altai für Orphalia-Analyse; Vestal-Enthüllung durch Ozeh in 1.17 wird den Panzerplatten-Faden mit dem Ansha'ir-Faden fusionieren
+- **Offene Fragen:** Was ist die unbekannte Schrift? (GM-Wissen: Vestal.) Was will Ozeh wirklich mit den Platten?
 
 ### 11. Chelebs-Menau-Nachbeben
 - **Ursprung:** Sessions 1.01–1.05
@@ -150,12 +148,12 @@ Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Sta
 
 ## 🕯 Schlummernde Fäden (langfristig / Hooks)
 
-### 12. Jussuf und seine Krankheit
-- **Ursprung:** Session 1.09
-- **Status:** Bei den Nomaden auf Lance Station stabilisiert. Rami wusste von der Muskelnekrose, hat es verschwiegen. Jussuf wollte „eine letzte große Reise".
-- **NPCs:** [[Jussuf al-Mandhur]], [[Kindara al-Mandhur]]
-- **Nächster Trigger:** Kindara/Jussuf melden sich, wollen an Bord zurück; Kindara erfährt von Ramis Verschwiegen; Rechnung offen
-- **Offene Fragen:** Wird Jussuf wirklich geheilt oder nur stabilisiert? Wird Kindara Rami für das Schweigen zur Rechenschaft ziehen?
+### 12. Jussuf und seine Krankheit — Heilung in Sicht
+- **Ursprung:** Session 1.09, Update in 1.16
+- **Status:** **Session 1.16: Jussuf ist dank Nomaden-Technologie (Vierter Horizont, via [[Dr. Aghali ag Amoume]]) auf dem Weg zur vollständigen Heilung.** Wird in wenigen Tagen aus der medizinischen Einrichtung der Lanzenstation entlassen. [[Kindara al-Mandhur|Kindara]] ist bei ihm. Rami hat bei der Behandlung mitgewirkt. Opulentes Abendessen wurde den Chars angeboten (absagen mussten, Session-Zeitdruck).
+- **NPCs:** [[Jussuf al-Mandhur]], [[Kindara al-Mandhur]], [[Dr. Aghali ag Amoume]]
+- **Nächster Trigger:** Wiederbegegnung bei Rückkehr der Party zur Lanzenstation nach Nova Solyma (Session 1.17); Jussuf/Kindara wollen vielleicht mitreisen; nachgeholtes Abendessen; Rami bekommt vielleicht Vierte-Horizont-Technologie-Zugang
+- **Offene Fragen:** Wird Kindara Rami für das Schweigen zur Rechenschaft ziehen? Wissen Jussuf/Kindara, dass die Technologie, die sie heilt, aus dem Vierten Horizont stammt?
 
 ### 13. Ayuin-Kartell + VAO kennen die Gruppe
 - **Ursprung:** Session 1.11
@@ -179,14 +177,13 @@ Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Sta
 - **Offene Fragen:** Weiß Suri, dass Jasmina Naels Enkelin ist? (wahrscheinlich nicht — Enthüllungsmoment). Wie stellt sich Nael zu Yemik/VAO/Ayuin auf?
 - **Andi-Prinzip:** Auftritt Nael als aktueller NPC einführen, warme Wiedersehensszene für Rami als Nebenszene halten — kein großes Set-Piece, das Andi ausschließt.
 
-### 14d. Kassidia el-Kassar & Alhari II
-- **Ursprung:** noch nicht in Spiel, geplant ab Session 15-18 über [[Kaelen al-Sari|Kaelens]] Nomaden-Karte
-- **Status:** Kassidia (siehe [[🤖 Kassidia el-Kassar]]) fliegt die Alhari II — das einzige bekannte Schiff im Dritten Horizont mit eingebautem Portalantrieb. Loyal den Nomaden, keiner Fraktion verpflichtet. Für Peti: alter PC (Kampagne 1), für die anderen: neue NPC.
-- **NPCs:** [[🤖 Kassidia el-Kassar]], Alter Nabir (Kaelens Kontakt, siehe [[🤖 GM Vestal Threat]])
-- **Nächster Trigger:** Nabir vermittelt Kontakt an Kaelen; Kassidia hilft Al-Jamal mit ihrer Portalfähigkeit; Ansha'ir bekommen Wind von der Alhari II und peilen Diebstahl an
-- **Offene Fragen:** Weiß Kassidia von den Vestals aus Kampagne 1 (wahrscheinlich ja); wo hält sie sich üblicherweise auf?
-- **Andi-Prinzip:** Kassidia ist Andis Story-Beitrag — er entdeckt sie über Kaelens Netzwerk. Wiedererkennung durch Rami/Rashid ist sekundär.
-- **Meta:** Alhari-II-Klimax möglich als Alternative zum Kryptosphäre-Portalbau (siehe [[🤖 GM Vestal Threat]]).
+### 14d. Kassidia el-Kassar & Alhari II — aktiviert
+- **Ursprung:** Aktiviert in Session 1.16 über Nabirs Vermittlung
+- **Status:** **Session 1.16: Party hat die Alhari II kennengelernt und benutzt sie als Transportmittel.** Kassidia erklärte sich bereit, da Nabir bürgte und die Artabazus-Korsaren unterwegs sind. Vertrauen entstand durch präzise Datasphäre-Übersetzung, Tarek/Orphalia-Kontakte und Portalkriegs-Legende. Reist jetzt mit der Party, bleibt bei der Alhari während Z-9-Expedition.
+- **Portalantrieb-Klarstellung (GM-Wissen):** Die Alhari erzeugt ein Portal direkt vor ihrem Bug und springt dann sekundenschnell zu einem **beliebigen aktiven Portal**. Das Erzeugen kostet viel Energie und kann nur alle paar Stunden gemacht werden. Nicht freie Sprünge im Raum, sondern Portal-Netz-Nutzung.
+- **NPCs:** [[🤖 Kassidia el-Kassar]], [[🤖 Nabir Wickremesin]], [[🤖 Ozeh Kaldar]] (war kurz an Bord in menschlicher Verkleidung — siehe Faden 10)
+- **Nächster Trigger:** Rückflug nach Lance (muss neues Portal erzeugen); Alhari als mögliches Ziel für Hardliner-Vestalen (ihr Portalantrieb ist Ansha'ir-Jackpot)
+- **Andi-Prinzip:** Kassidia ist Andis größter Story-Beitrag — er hat sie über Kaelen-Nabir-Linie ins Spiel gebracht. Peti-Reveal ist gelandet.
 
 ### 14e. Sadhi Bat-Erden = Genya Artabazus — Hauptantagonistin
 - **Ursprung:** Genya als Holo-Aufnahme in Session 1.12, Name und Plan in 1.13 der Party enthüllt.
@@ -243,13 +240,12 @@ Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Sta
 - **Nächster Trigger:** Fan-Situation; Skandal-Aufhänger; Rekrut für neue Serie
 - **Offene Fragen:** Was war Ramis letzter TV-Kollaps — freiwilliger Rückzug oder Krise?
 
-### 18. Kaelens Nomaden-Vergangenheit + Nabir-Kontakt
-- **Ursprung:** Backstory + Lance Station Zhau
-- **Status:** **Entwicklung in 1.15:** Kaelen hat seine Nomaden-Kontakte reaktiviert und für die Party einen **Frachter von Nomaden** organisiert, der sie nach Zhau bringt (ohne Al-Jamal, die zur Reparatur zurück nach Altai geht). Damit ist der Nomaden-Kanal operativ und sichtbar in der Party. Nabir ist weiter nicht namentlich erwähnt — Kaelen hält diese spezifische Info noch privat (aus 1.14). Ankunft Lance Station ist der nächste Trigger.
-- **NPCs:** [[🤖 Nabir Wickremesin]], [[🤖 Kassidia el-Kassar]], namenlose Nomaden-Frachter-Crew
-- **Nächster Trigger (Session 1.16):** Ankunft auf Lance Station. Kaelen hat jetzt zwei Optionen für Nabir-Treffen: solo (Info für sich behalten) oder mit Party (Vestal-Legende + Nabirs Kenntnisse zu "Bergen von Zhau" / Nova Solyma). **Nabir ist jetzt der Hauptinfokanal für die eigentliche Nova-Solyma-Lokation** — die Cryptosphere-Botschaft war bewusst vage ("Berge von Zhau"), ohne Nabir hat die Party keinen genauen Ort.
-- **Offene Fragen:** Warum hat Kaelen den Nomaden-Dienst verlassen? Wie detailliert kennt Nabir "die Berge von Zhau"? Wann/wie teilt Andi Nabir mit der Party?
-- **Andi-Prinzip:** Kaelens Nomaden-Kanal hat gerade die ganze Party nach Zhau gebracht — das ist Andis bisher größter Story-Beitrag. **Perfekt gelandet.** Nabir als nächster Schritt baut darauf auf.
+### 18. Kaelens Nomaden-Vergangenheit + Nabir-Kontakt — vollendet
+- **Ursprung:** Backstory + Lance Station Zhau; vollendet in 1.16
+- **Status:** **Session 1.16: Kaelen hat Nabir alleine im "Zelt der Dünenwinde" getroffen** (langjähriger väterlicher Kontakt, Jahre nicht gesehen). Nabir hat die Asuai-Warnung geliefert und Kassidia + Alhari vermittelt. Vestal-Legende und Erkennungs-Geste wurden **nicht** direkt übergeben — kommt in 1.17 bei der Rückkehr durch Kassidia/Ozeh-Enthüllung.
+- **NPCs:** [[🤖 Nabir Wickremesin]], [[🤖 Kassidia el-Kassar]]
+- **Nächster Trigger:** Rückkehr der Party zur Lance; Nabir ist dann bei der Vestal-Enthüllung-Szene wieder dabei (Nomaden-Enklave-Treffen in 1.17)
+- **Andi-Prinzip:** Kaelen hat die ganze Party nach Zhau geführt UND den Zugang zur Alhari organisiert — bisher größter Andi-Beitrag. Vollendet.
 
 ### 19. Rashids Pfirsichköpfchen
 - **Ursprung:** Session 1.01
@@ -287,6 +283,30 @@ Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Sta
 - **Nächster Trigger:** Rashid könnte in Zhau beweisen wollen — kampftauglich oder zumindest nützlich. Oder er zieht sich auf Politik/Diplomatie zurück. Peti entscheidet.
 - **Meta:** Perfekter Peti-Faden. Rashid als politischer Charakter in einem Horror-Setting hat genau diese Diskrepanz. Nutze das als GM — nicht erzwingen, aber Gelegenheiten geben wo politische Fähigkeiten die Rettung sind (z.B. Nomaden-Verhandlung auf Lance Station).
 
+### 25. Mimdosh — Verräter wider Willen, Rächer für Ibn
+- **Ursprung:** Session 1.16 (überraschende Enthüllung)
+- **Status:** [[Mimdosh]] taucht in 1.16 überraschend auf der Lanzenstation auf. Enthüllung während des Alhari-Flugs: Er hat **250.000 Birr Spielschulden beim Artabazus-Clan**. Die Artabazus forderten, dass er Ibn Tash — falls Ibn sich bei ihm meldet — an einen Artabazus-Kontakt vermittelt (Caern sollte dann Ibn "helfen" und das Artefakt für Sadhi/Genya beschaffen). Mimdosh entschied aus Loyalität zur Al-Jamal-Crew: brachte Ibn stattdessen mit den Chars in Kontakt. **Seither jagen ihn Artabazus-Thugs.** Schwor nach Erfahren von Ibns Tod + Caerns Beteiligung Rache gegen Caern.
+- **NPCs:** [[Mimdosh]], [[Caern]] (Rache-Ziel), [[Genya Artabazus]] / [[🤖 Sadhi Bat-Erden]] (Gläubiger), Artabazus-Thugs (jagen Mimdosh)
+- **Status als Party-Mitglied:** "Geduldeter Gast unter Aufsicht" an Bord der [[Alhari II]]. Nicht vollwertig, aber mitreisend. Chars misstrauen, tolerieren.
+- **Nächster Trigger:** Mimdosh will persönlich an der Caern-Konfrontation in Nova Solyma teilhaben (bleibt zunächst bei Kassidia an Bord — Entscheidung offen für 1.17); Begleichung der Spielschulden als späteres Druckmittel; Artabazus-Thugs könnten Mimdosh in Altai aufspüren
+- **Offene Fragen:** Haben die Chars Mimdosh wirklich vergeben? Wird er zum vollwertigen Begleiter oder bleibt er "unter Beobachtung"? Welche weiteren Infos hat Mimdosh über das Artabazus-Netzwerk?
+
+### 26. Al-Jamal-Fahrt von Artabazus eingefädelt (GM-Wissen)
+- **Ursprung:** Session 1.16 (durch Mimdosh-Reveal retrospektiv aufgedeckt)
+- **Status:** **GM-Wissen — Party weiß NICHT davon in diesem Umfang:** Die gesamte Al-Jamal-Reise war **von Artabazus eingefädelt**. Mimdosh war nur der Hebel (Spielschulden-Druck). Der Zweck dahinter ist noch nicht enthüllt — ob Sadhi/Genya die Al-Jamal-Crew aus bestimmten Gründen in die Shamshir-Suche hineinmanövriert hat, oder ob ein noch größerer Plan dahintersteht, bleibt zu klären.
+- **NPCs:** [[🤖 Sadhi Bat-Erden]] / Genya, [[Mimdosh]] (unwissender Hebel), vermutlich weitere Artabazus-Agenten
+- **Nächster Trigger:** **Aufschub bis zweite Kampagnenhälfte (Sleeping Butterflies).** Wird nicht in 1.17 aufgelöst.
+- **Offene Fragen (für zweite Hälfte):** Warum **diese** Crew? War es Sadhi, der die Bergung der Fazar antizipiert hat? Spielte Zuggang zu Rami (Firstcome-Material-Zugang via TV-Fame) eine Rolle? War die Ursprungs-Al-Jamal-Mission in Mira auch schon Teil davon?
+- **Meta:** Dies ist einer der Haupt-Mystery-Treiber für Sleeping Butterflies. Nicht zu früh öffnen.
+
+### 27. Dr. Aghali ag Amoume + Nomaden-Vierte-Horizont-Technologie
+- **Ursprung:** Session 1.16 — Erstkontakt
+- **Status:** **[[Dr. Aghali ag Amoume]]** ist der Nomadenarzt, der Jussufs Heilung mit Dr. Rami vorantreibt. Die verwendete Medizintechnik hat **Ursprung im Vierten Horizont**. Rami hat Fachgespräche mit ihm geführt und ist beeindruckt. **Dies ist der erste konkrete Hinweis für die Party, dass die Zhau-Nomaden Zugang zu Wissen und Werkzeugen aus dem Vierten Horizont haben.**
+- **NPCs:** [[Dr. Aghali ag Amoume]], [[Rami Sarif]] (Fachkontakt), [[Jussuf al-Mandhur]] (Patient)
+- **Nächster Trigger:** Rückkehr der Party zur Lance in 1.17 — Rami kann weiter Kontakt pflegen; Aghali könnte Vermittlung zu weiteren Nomaden-Technologien bieten; Vierte-Horizont-Faden wird größer
+- **Offene Fragen (GM-only):** Was wissen die Zhau-Nomaden konkret über den Vierten Horizont? Haben sie direkten Zugang (Portal)? Gibt es noch ein Portal auf das sie zugreifen? **(GM-Wissen: ja — das Portal zum Vierten Horizont, das sie seit Kampagne 1 bewachen. Noch nicht enthüllt.)**
+- **Meta:** Dies verbindet den Nomaden-Setting-Shift (sie kontrollieren Zhau, hüten etwas Wichtiges) mit einem konkreten Beweis in der Welt. Für die Party ist Aghalis Technologie der erste greifbare Puzzlestein.
+
 ### 20. Die Hundert Cheleb-Reisenden / Krieger des Pariah
 - **Ursprung:** Session 1.03–1.04
 - **Status:** Auf dem Golden Harvest sind noch 3-4 Pariah-Krieger unterwegs. Kirchentreue Nonnen wissen jetzt vom Al-Jamal-Namen.
@@ -311,9 +331,10 @@ Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Sta
 - **2026-09-10** — Ersterstellung durch Co-GM auf Stand Session 1.12.
 - **2026-09-10** — Zwei neue Fäden ergänzt: 14b Nael al-Farhat & Ahlams Tempel, 14c Wangwang-Handel & [[Ordana]]-Verstrickung. Beide durch Kampagne-1-Callback und Naels Grauzonen-Syndikat begründet. Querverweis zu [[🤖 GM Vestal Threat]] und neuem Kontakt-Eintrag [[🤖 Nael al-Farhat]].
 - **2026-09-10** — Kampagne-1-Zusammenfassung ausgewertet. Neue Fäden 14d ([[🤖 Kassidia el-Kassar]] & Alhari II als Andi-Karte via Kaelen) und 14e (Sadhi Bat-Erden als sekundäre Antagonistin) ergänzt. Faden 14b entschärft (Nael-Reunion als Nebenszene, nicht Set-Piece; Andi-Prinzip explizit vermerkt). Neue Kontakt-Einträge [[🤖 Kassidia el-Kassar]] und [[🤖 Sana]] als drafts angelegt. Nazareems Opfer explizit gestrichen — kein zweiter Dunkelheits-Player.
-- **2026-09-10** — **Große Neuausrichtung nach offiziellem Fate-of-Shamshir-Abenteuer + GM-Entscheidungen:** Faden 2 (Kryptosphäre) umgeschrieben — Kushtriya-Artefakt mit Shirin als Schlüssel, [[Malhotra]] fällt raus. Faden 5 ([[Malhotra]]) entspannt — sie rückt in Hintergrund. Faden 14e (Sadhi) massiv erweitert — jetzt HAUPTANTAGONISTIN mit Doppelidentität als Genya Artabazus. Neuer Faden 14f (Shamshir/Command Console/Nova Solyma) für den Klimax-Bogen. Faden 18 (Kaelen-Nomaden) konkretisiert mit [[🤖 Nabir Wickremesin]] auf [[Lance Station]] [[Zhau]]. Neue Kontakt-Einträge [[🤖 Sadhi Bat-Erden]] und [[🤖 Nabir Wickremesin]] als drafts angelegt.
+- **2026-09-10** — **Große Neuausrichtung nach offiziellem Fate-of-Shamshir-Abenteuer + GM-Entscheidungen:** Faden 2 (Kryptosphäre) umgeschrieben — Kushtriya-Artefakt mit Shirin als Schlüssel, [[Malhotra]] fällt raus. Faden 5 ([[Malhotra]]) entspannt — sie rückt in Hintergrund. Faden 14e (Sadhi) massiv erweitert — jetzt HAUPTANTAGONISTIN mit Doppelidentität als Genya Artabazus. Neuer Faden 14f (Shamshir/Command Console/Nova Solyma) für den Klimax-Bogen. Faden 18 (Kaelen-Nomaden) konkretisiert mit [[🤖 Nabir Wickremesin]] auf [[Lanzenstation]] [[Zhau]]. Neue Kontakt-Einträge [[🤖 Sadhi Bat-Erden]] und [[🤖 Nabir Wickremesin]] als drafts angelegt.
 - **2026-09-10** — Zwei weitere NPC-Dateien für Akt 3/4 angelegt: [[🤖 Yasir Intezar-Artabazus]] (Corsair-Kapitän, [[Sivas]]-Ambush, Sadhis Neffe ohne Wissen der Doppelidentität) und [[🤖 Ozeh Kaldar]] ([[Vestal]]-Reformist als Erstkontakt-NPC ab Akt 4, öffentlich als Antiquitätensammler). Beide mit Midjourney-Prompts. Faden 14f entsprechend verlinkt.
 - **2026-09-12** — Faden 6 (Kameera/Caern) aktualisiert: Kameera nicht mehr an Bord, sie ist in Sivas selbständig unterwegs; Wiedersehen in Slot B/C von 1.14 möglich. Neuer Faden 6b: **Caern als Sadhis Zenith-Frontmann** — GM-Wissen zur Zweigleisigkeit von Sadhis Netzwerken (Corsair via Artabazus + Zenith via Caern + Konzil-Politik). Odacon-Angriff wird rückwirkend Sadhi-motiviert (Propaganda-Vorbereitung gegen die Party nach Fazar-Bergung). Faden 14e um Drei-Kanal-Struktur ergänzt.
 - **2026-10-04** — **Session 1.15 (Fate of Shamshir VII) ausgewertet:** (a) Stand-Zeile: Party geteilt, Hauptteam auf Nomaden-Frachter nach Zhau, Al-Jamal mit Annika/Yemik/Kameera + Stasis-Gefangene zurück nach Altai zur Reparatur. (b) Faden 2 (Cryptosphäre) auf "aktiviert" gesetzt — **GM-Entscheidung: Nova Solyma als Name NICHT verraten**, nur "Berge von Zhau". Nabir ist der Haupt-Infokanal für den konkreten Ort. (c) Neuer Faden 2b: **Awadhi-Fährte** — Rashid hat die Botschaft manipuliert, Köder an Orphalia, Wahrheit per Boten an Tarek. (d) Faden 4 (Yemik) + Faden 6 (Kameera): beide reisen zurück nach Altai. Kameera hat alte Schrift übersetzen können — neuer Charakter-Hintergrund. (e) Faden 18 (Kaelen): Nomaden-Frachter organisiert — Kaelens bisher größter Story-Beitrag. (f) Faden 21: Yasir/Corsair reisen auf Al-Jamal mit, Annika/Yemik/Kameera müssen über sie entscheiden. (g) Neue Fäden 22 (Ramis Analyseergebnisse: Methan, Dunkelkreatur-Spuren, Shirins Haar), 23 (Annika/Kaelen körperlich — Trennung ab jetzt), 24 (Rashid-Krise mit Wischmop, kompensiert via Analysearbeit).
 - **2026-09-13** — **Session 1.14 (Fate of Shamshir VI) ausgewertet:** (a) Stand-Zeile aktualisiert: Party auf Meraj 7 gelandet. (b) Faden 2: Landung, Tempel als nächstes. (c) Faden 6: Kameera wieder an Bord (Portalstation eingesammelt), Caern-Route via Sivas bestätigt, letzter bekannter Punkt 1/3/Pilger Richtung Altai. (d) Faden 10: Orphalias erste Panzerplatten-Analyse — unbekannte Schrift + Erstsiedler-Mix. **Erster echter Vestal-Hint für die Party.** (e) Faden 14e: Yasirs Verhör-Zitat zu Genya ("aufgestiegen vor ein paar Zyklen, hat sich nicht bewiesen") + grüne Spinne am Kragen bestätigt = Sadhi-Puzzle-Steine. (f) Faden 18: Kaelen hat Nabir-Nachricht empfangen, aber nicht mit Party geteilt — Andi hält Info privat, GM respektiert das. (g) Neuer Faden 21: Yasir + Corsair in Stasis als Loose End.
 - **2026-09-10** — **Session 1.13 (Fate of Shamshir V) ausgewertet:** (a) Faden 1 tragisch aufgelöst — [[Ibn Tash]] tot, Orphalia gerettet, andere Wissenschaftler nach [[Kua]] verkauft. (b) Neuer Faden 1b: [[Lady Orphalia]] als neue Kushtriya-Wissensträgerin. (c) Neuer Faden 1c: Verschleppte Wissenschaftler in [[Kua]] als Schuld-Motor / spätere Nebenmission. (d) Neuer Faden 5b: Wanzen an Bord + Panzerplatten-Registrierung. (e) Neuer Faden 14g: Tarek vs. "Genya" politisches Duell auf [[Altai]] (Meta-Ironie: Tarek erkennt Sadhi nicht). (f) Faden 2, 3, 14e, 14f mit Party-Wissen aus 1.13 aktualisiert. (g) Stand-Zeile im Kopf des Dokuments aktualisiert (Party auf dem Weg nach [[Sivas]]).
+- **2026-10-18** — **Session 1.16 (Fate of Shamshir VIII) ausgewertet:** (a) Stand-Zeile aktualisiert (11/4/Pilger/486, Party auf Z-9 mit Alhari, Asuai-Cliffhanger). (b) Faden 2 (Cryptosphere) abgeschlossen als Puzzle-Führer — Kassidia hat präzise übersetzt, Nova Solyma erreicht. (c) Faden 6 (Caern/Kameera): Caern bestätigt auf Asuai, Konfrontation unmittelbar in 1.17. (d) Faden 10 (Fazar-Panzerplatten): [[🤖 Ozeh Kaldar|Ozeh]] als erster konkreter Interessent. (e) Faden 12 (Jussuf): Heilung in Sicht dank Nomaden-Technologie (via neu [[Dr. Aghali ag Amoume]]). (f) Faden 14d (Kassidia/Alhari) aktiviert, Portalantrieb-Mechanik klargestellt. (g) Faden 18 (Kaelen/Nabir) vollendet. **(h) Drei neue Fäden:** 25 ([[Mimdosh]] als Verräter wider Willen + Rächer für Ibn, geduldeter Gast an Bord), 26 (Al-Jamal-Fahrt von Artabazus eingefädelt — großes GM-Mystery für zweite Kampagnenhälfte), 27 ([[Dr. Aghali ag Amoume]] + Nomaden-Vierte-Horizont-Technologie als neuer Faden-Hub). Neue Datei [[Dr. Aghali ag Amoume]] angelegt, [[Mimdosh]] und [[Caern]] inhaltlich aktualisiert.

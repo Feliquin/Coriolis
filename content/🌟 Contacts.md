@@ -6,6 +6,7 @@
 | [[Data/Bruder Anand.md\|Bruder Anand]]                       | \-     |
 | [[Data/Caern.md\|Caern]]                                     | \-     |
 | [[Data/Cemisa Chelebs-Menau.md\|Cemisa Chelebs-Menau]]       | \-     |
+| [[Data/Dr. Aghali ag Amoume.md\|Dr. Aghali ag Amoume]]       | \-     |
 | [[Data/Dramora Chelebs-Menau.md\|Dramora Chelebs-Menau]]     | \-     |
 | [[Data/Genya Artabazus.md\|Genya Artabazus]]                 | \-     |
 | [[Data/Ibn Tash.md\|Ibn Tash]]                               | dead   |

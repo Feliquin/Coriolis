@@ -41,13 +41,17 @@ Eine kleine Vestal-Beobachtergruppe wurde am Ende des Zweiten Portalkriegs vor 4
 
 ## Wie sich das mit dem offiziellen "Fate of Shamshir"-Abenteuer verzahnt
 
-Das offizielle Abenteuer verläuft weitgehend wie geschrieben, mit drei entscheidenden Umbauten:
+Das offizielle Abenteuer verläuft im Shamshir-Kernteil (Sessions 1.16/1.17) weitgehend wie geschrieben, aber die Vestal-Enthüllung wird nach Shamshir aufgespart (Sleeping Butterflies ab 1.18 in Altai):
 
-**1. Genya Artabazus = Sadhi Bat-Erden.** Doppelidentität. Siehe [[🤖 Sadhi Bat-Erden]]. Enthüllung ideal in Akt 4 (Nova Solyma) oder Akt 5 (Altai-Klimax). Sadhis Kushtriya-Erbschafts-Wahn ist die Triebkraft — sie hält sich (fälschlich) für die legitime Erbin und will die Restauration.
+**1. Genya Artabazus = Sadhi Bat-Erden.** Doppelidentität. Siehe [[🤖 Sadhi Bat-Erden]]. Enthüllung in Sleeping Butterflies (Altai-Klimax). Sadhis Kushtriya-Erbschafts-Wahn ist die Triebkraft — sie hält sich (fälschlich) für die legitime Erbin und will die Restauration. **Sadhi ist KEINE Vestalin**, sie kooperiert nur mit den Hardlinern (Zweckehe).
 
-**2. Nova-Solyma-Reaktor-Unfall = Vestal-Sabotage.** Die Kushtriya hatten sich vor Jahrhunderten versehentlich auf einer alten Firstcome/Vestal-Stätte niedergelassen. Die Ansha'ir (bzw. deren Vorläufer) haben den Reaktor sabotiert, um die Kolonisierung zu stoppen. Heute wollen die Ansha'ir die verbliebenen Firstcome-Reste (in der Nova-Solyma-Grundstruktur, unter dem Shamshir-Wrack) zurück — sie könnten Portalkomponenten enthalten.
+**2. Caern als Finale-Antagonist in Nova Solyma, nicht Genya.** Caern wurde nach dem Firebird-Verlust von Genya adoptiert — er brauchte Schutz vor Kameera, sie brauchte jemanden, der die Party kennt. Caern kommandiert in 1.17 ein Asuai-Shuttle, nicht die Asuai selbst. **Genya bleibt für Sleeping Butterflies/Altai aufgespart.** Die Asuai stürzt in 1.17 ab, aber ob Genya an Bord war, bleibt offen.
 
-**3. Shamshirs Command Console** kontrolliert nicht nur den Black Sector, sondern enthält Firstcome-Portalsteuerungslogik. Für die Ansha'ir ist die Konsole der Jackpot: Damit könnten sie ein Portal öffnen, ohne dass sie Firstcome-Koordinaten aus einer Cryptosphere brauchen.
+**3. Nova Solyma = tote Kushtriya-Kolonie.** Keine lebenden Vestalen vor Ort. Der historische Reaktor-Unfall kann in Sleeping Butterflies als Hardliner-Sabotage von vor Jahrhunderten enthüllt werden, aber in 1.17 bleibt es ein tragischer Unfall. **Nur Lamka-Echsen aus dem Abenteuertext als Encounter, plus Caern + Corsairs.**
+
+**4. Shamshirs Command Console** kontrolliert nicht nur den Black Sector, sondern enthält Firstcome-Portalsteuerungslogik. Für die Hardliner ist die Konsole der Jackpot: Damit könnten sie ein Portal öffnen, ohne dass sie Firstcome-Koordinaten aus einer Cryptosphere brauchen. Caern will sie in 1.17 für Genya bergen → in Wahrheit für die Hardliner.
+
+**5. Vestal-Enthüllung erst in 1.17-Ende via Kassidia und Ozeh.** Nabir übergibt in 1.16 keine Vestal-Legende und keine Erkennungs-Geste. Die ganze Vestal-Wahrheit kommt auf einen Schlag in der Lance-Rückkehr-Szene nach Nova Solyma — Kassidia zeigt die Verbindung, Ozeh enthüllt seine Form.
 
 **Weitere Verzahnungen — bewusst ohne Vestal-Bezug:**
 
@@ -116,7 +120,9 @@ Die Konsole enthält Firstcome-Portalsteuerungslogik (was Genya/Sadhi nicht wei�
 | **Aschehunde (Odacon)** | Möglicherweise Vestal-Experiment im Aschegürtel, aber weit weniger zentral als früher angedacht |
 | **Dschinn (Zib, Jazkaars Pod)** | Gezielter Angriff — die Ansha'ir wussten von der Al-Jamal-Werftausfahrt (warum? offen) |
 | **Kemulla-Dunkelheitswolke (Mira)** | Sabotage-Vorrichtung in Ibn Tashs Schneider-Klinik (warum? offen) |
-| **Caern** | Ansha'ir-Mittelsmann. *Firebird* wahrscheinlich Ansha'ir-Front-Schiff. |
+| **Caern** | Sadhi-Zenith-Frontmann, nach Firebird-Verlust vollständig in Artabazus-Netzwerk integriert. In 1.16 auf Lanzenstation gesichtet → an Bord der Asuai → Jagd auf Z-9. |
+| **[[Mimdosh]]** (Verräter wider Willen) | Von Artabazus über 250.000 Birr Spielschulden erpresst, hätte Ibn ausliefern sollen — hat statt dessen die Chars vermittelt. **In 1.16 enthüllt: Die ganze Al-Jamal-Fahrt war von Artabazus eingefädelt.** Jetzt an Bord der Alhari als "geduldeter Gast". |
+| **[[Dr. Aghali ag Amoume]]** + Nomaden-4H-Tech | **Großer neuer Faden in 1.16:** Nomaden auf Zhau haben Zugang zu Vierte-Horizont-Technologie (Jussuf-Heilung). Konsistent mit Portal-zum-4H-Hintergrund. Erster greifbarer Beweis für die Party. |
 | **Hammer of the Stars (Legion)** | Korrupter Kapitän liefert EMP-Torpedos an Caern |
 | **Ibn Tashs Ruin** | Sadhi/Genya hat ihn gezielt zur Kushtriya-Recherche gelockt — keine Vestal-Verstrickung |
 | **Yarah Grehem** | Sadhi/Genya-Handlangerin, keine Vestal-Verbindung |
@@ -132,11 +138,14 @@ Die zentrale Antagonistin. Doppelidentität. Details in [[🤖 Sadhi Bat-Erden]]
 
 **Wichtigste Punkte:**
 - Sadhi (öffentlich, Konzil) und Genya (militant, Corsair) sind dieselbe Person
+- **Sie ist KEINE Vestalin.** Mensch, Dritter Horizont, biologisch unauffällig. Nur Doppelidentität, keine fremde Physiologie.
 - Ihre Kushtriya-Erbin-Überzeugung ist Wahn (sie ist keine echte Erbin)
 - Sie ist nicht wirklich böse — sie ist fanatisch überzeugt, das "Rechte" zu tun
-- Enthüllung als Kern-Story-Beat in Akt 4 oder 5
+- Enthüllung als Kern-Story-Beat in Sleeping Butterflies (Altai, 1.18+)
 - Für Bene (Rami) bitterer Meta-Moment: Sadhi war in Kampagne 1 Verbündete der alten Party
-- Sadhi/Genya und die Ansha'ir kooperieren NICHT direkt — beide profitieren voneinander in Zweckehe (siehe unten)
+- Sadhi/Genya und die Vestal-Hardliner kooperieren in **Zweckehe**: Die Hardliner wollen das Konzil geschwächt, Sadhi will die Macht. Sie ist für die Hardliner ein Werkzeug im Horizont, kein Fraktionsmitglied.
+- Caern war einer von Sadhis Mittelsmännern zu den Hardlinern. Nach Fate of Shamshir ggf. gefangen oder geflohen.
+- **Session 1.16 — Großer neuer GM-Faden:** Die Al-Jamal-Fahrt war **von Artabazus eingefädelt**. [[Mimdosh]] war der Hebel (250.000 Birr Spielschulden). Zweck noch nicht enthüllt. **Material für Sleeping Butterflies / zweite Kampagnenhälfte.** Mögliche Erklärungen (noch nicht festgelegt): (a) Sadhi antizipierte die Fazar-Bergung und wollte das Vestal-Material unter Kontrolle; (b) Rami als TV-Fame-Zugang zu bestimmten Kreisen; (c) der Ursprungs-Al-Jamal-Mira-Auftrag war schon Teil davon; (d) etwas noch Unbekanntes. **Nicht in 1.17 öffnen — erst in Sleeping Butterflies.**
 
 ---
 
@@ -160,6 +169,24 @@ Nael-Auftritt bleibt sparsam. Warme kleine Wiedersehensszene mit Rami (Meta-Mome
 
 ---
 
+## Nomaden-Zugang zum Vierten Horizont — neuer Faden ab 1.16
+
+**Kernaussage:** Die Zhau-Nomaden bewachen seit Kampagne 1 ein **Portal zum Vierten Horizont**. In Session 1.16 wird dieser Hintergrund für die Party erstmals **indirekt** sichtbar:
+
+- **[[Dr. Aghali ag Amoume]]**, Nomadenarzt auf der Lanzenstation, verwendet **Vierte-Horizont-Technologie** zur Heilung von [[Jussuf al-Mandhur|Jussuf]]
+- Rami kommt in Fachgespräche mit ihm und ist beeindruckt
+- Die Party weiß **nicht**, dass die Technologie aus dem Vierten Horizont stammt — nur dass sie der aktuellen Horizont-Technik überlegen ist
+
+**Was das für die Sleeping-Butterflies-Dynamik bedeutet:**
+- Die Nomaden sind kein harmloses Transportvolk — sie sind **Hüter einer gefährlichen Ressource**
+- Falls die Hardliner-Vestalen vom Nomaden-Portal erfahren, wäre das für sie ein alternativer Rückkehrpfad (statt Shamshir-Konsole)
+- Kaelen (als Nomade) steht potenziell im Zentrum eines Loyalitätskonflikts: Nomaden-Geheimnis bewahren vs. Party-Allianz
+- Das 4H-Portal könnte in späteren Sessions zum Spielfeld werden — Reise in den Vierten Horizont als mögliche Final-Mission
+
+**Ozehs Wissen (GM-Spekulation):** Als Vestal-Reformist, der schon lange im Horizont lebt, **weiß** Ozeh vermutlich vom Nomaden-Portal. Er hat sich bisher nicht genähert, weil die Reformisten den Horizont nicht destabilisieren wollen. Die Hardliner wissen vermutlich **noch** nichts — oder suchen aktiv.
+
+---
+
 ## Kassidia el-Kassar & Alhari II — Kaelens Karte
 
 **[[🤖 Kassidia el-Kassar]]** fliegt die Alhari II mit eingebautem Portalantrieb. Zugang zur Party über [[🤖 Nabir Wickremesin]] auf **Lance Station in Zhau** (perfekte geografische Konvergenz mit Akt 4). Andi-Karte.
@@ -176,17 +203,22 @@ Nael-Auftritt bleibt sparsam. Warme kleine Wiedersehensszene mit Rami (Meta-Mome
 - Cryptosphere aktivieren, Karte zu Z-9/Zhau enthüllt
 - Konfrontation mit [[🤖 Yasir Intezar-Artabazus]] (Corsair-Neffe, weiß nichts von Doppelidentität) — bei Erwischen als lebender Gefangener wichtige Sadhi-Enthüllungs-Bausteine
 
-**Akt 4 — Zhau / Nova Solyma / Shamshir** (Sessions ~16+, aktuell startend)
-- Ankunft Lance Station: Kaelen trifft [[🤖 Nabir Wickremesin]], erfährt Vestal-Legende + Gruß-Geste
-- **Nabir als entscheidender Infokanal für Nova Solyma:** Da die Cryptosphere-Botschaft in 1.15 bewusst nur "Berge von Zhau" verriet (ohne konkreten Namen oder Koordinaten), **ist Nabir jetzt der einzige Weg**, wie die Party den konkreten Ort findet. Nabir hat Nomaden-Kenntnisse über Z-9 und kann die Suche eingrenzen (Expedition, Führer, Karten).
-- Optional: Kontakt zu [[🤖 Kassidia el-Kassar]] + Alhari II
-- Nova Solyma: tote Kushtriya-Kolonie, Vestal-Sabotage in Reaktor entdeckbar
-- Shamshir mit Command Console
-- Erste Konfrontation mit "Genya" auf der Asuai — Honor Legion greift ein
-- **Möglicher Enthüllungsmoment: Sadhi = Genya** (Bene-bitterer-Meta-Moment)
-- Die Vestals tauchen als **dritte Fraktion** auf, wollen die Command Console
+**Akt 4 — Zhau / Nova Solyma / Shamshir** (Sessions 1.16 + 1.17)
 
-**Akt 5 — Zurück auf Altai (NEU)** (Sessions ~25-30)
+**1.16:** 
+- Ankunft Lance Station: Kaelen trifft [[🤖 Nabir Wickremesin]]. Nabir warnt vor Asuai (bereits unterwegs zu Z-9), vermittelt Pilotin + Schiff im Iski'ir-Tempel. **Keine Vestal-Legende, keine Erkennungs-Geste** — wird für 1.17 aufgespart.
+- Iski'ir-Tempel: Treffen mit [[🤖 Kassidia el-Kassar]] (Pilotin der Alhari II) und [[🤖 Ozeh Kaldar]] (menschlich verkleidet, mysteriöser Teaser).
+- Portalsprung mit Alhari II nach Z-9. Outpost-Erkundung (atmosphärisch, Zorn-Brief, improvisierte Kapelle). Nova-Solyma-Eingang.
+- Cliffhanger: Asuai erscheint im Orbit, startet Shuttle, Alhari engagiert Hit-and-Run.
+
+**1.17:**
+- Nova Solyma Hauptkorridor unter Zeitdruck. Lamka-Nest-Encounter (Core Rulebook).
+- Shamshir-Wrack mit Command Console. Mehrere Entscheidungs-Optionen für die Konsole (mitnehmen, zerstören, Reaktor sprengen).
+- Konfrontation mit **[[Caern]]** als Genyas Agent + 4-6 Artabazus-Corsairs. Caern-Flucht als präferierter Ausgang (Kameera-Linie!).
+- Rückzug: Asuai stürzt ab, Alhari schwer beschädigt, Kassidia verletzt. Zweites Nomaden-Schiff rettet.
+- Rückkehr Lance Station: **Vestal-Enthüllung durch Kassidia + Ozeh.** Ganze Backstory auf einmal, Sadhi als Hardliner-Verbündete genannt, Fraktions-Setup. Session-Ende.
+
+**Akt 5 "Sleeping Butterflies" — Zurück auf Altai** (Sessions 1.18+)
 - Volle Breitseite: mehrere parallele Konflikte
   - Konzil-Sturz durch Sadhis Fraktion (falls Konsole in ihrer Hand)
   - Vestal-Portal-Bau (falls Konsole in ihrer Hand)
@@ -239,12 +271,14 @@ Nael-Auftritt bleibt sparsam. Warme kleine Wiedersehensszene mit Rami (Meta-Mome
 
 ## Offene Fragen für den Co-GM
 
-- Konkreter Auftritt der Vestals als dritte Fraktion in Akt 4/Nova Solyma — schleichende Enthüllung oder aggressiver Auftritt?
-- Wann *genau* die Sadhi=Genya-Enthüllung platzieren — Akt 4 oder Akt 5?
+- ~~Konkreter Auftritt der Vestals als dritte Fraktion in Akt 4/Nova Solyma~~ → Festgelegt: Mysteriöser Ozeh-Teaser im Iski'ir-Tempel in 1.16, volle Enthüllung durch Kassidia + Ozeh auf Lance Station nach Nova-Solyma-Rückkehr in 1.17.
+- ~~Wann *genau* die Sadhi=Genya-Enthüllung platzieren~~ → Festgelegt: Sleeping Butterflies (Altai, 1.18+). Nicht in Fate of Shamshir.
 - Wird Malhotra überhaupt noch aktiv (als Ratgeberin), oder bleibt sie komplett im Hintergrund?
-- ~~Kaelens Nabir-Kontakt: früh (Session 15-17) oder erst bei Zhau-Anreise?~~ Erledigt: Nabir hat in 1.14 geschrieben, Kaelen hat die Info privat behalten. Die Party reist jetzt per Nomaden-Frachter nach Zhau (via Kaelens Kontakte). Nabir-Treffen auf Lance Station ist Ankunftsszene von Session 1.16.
+- ~~Kaelens Nabir-Kontakt: früh (Session 15-17) oder erst bei Zhau-Anreise?~~ Erledigt: Nabir-Treffen auf Lance Station in Session 1.16.
 - Konkurrenz oder Kooperation Nael ↔ Yillad (Okra Darma Icon City)?
-- Wie viel Vestal-Präsenz in Akt 3/Sivas — nur die Legende via Nabir, oder erste direkte Sichtung?
+- ~~Wie viel Vestal-Präsenz in Akt 3/Sivas~~ → Festgelegt: Keine. Jayrat als kanonische Dunkelheits-Kreatur, keine Vestal-Verknüpfung in 1.15.
+- **Neu: Caerns Schicksal in 1.17** — geflohen, gefangen, tot? Hängt vom Spielausgang ab. Präferenz GM: geflohen oder gefangen, damit Kameera ihre Rache-Linie in Sleeping Butterflies spielen kann.
+- **Neu: War Genya persönlich auf der Asuai?** Beim Absturz offen gelassen — können die Spieler nicht sofort wissen. Entscheidung des GM, ob Genya auf Altai zurückgekehrt ist (für Sleeping Butterflies-Konfrontation) oder abgestürzt (dann übernimmt Sadhi vollständig die öffentliche Rolle).
 
 ---
 
@@ -252,6 +286,8 @@ Nael-Auftritt bleibt sparsam. Warme kleine Wiedersehensszene mit Rami (Meta-Mome
 
 - **2026-09-10** — Ersterstellung durch Co-GM. Konzept entwickelt in Absprache mit GM.
 - **2026-09-10** — Ergänzt um Nael al-Farhat / Ahlams Tempel als natürlichen Gegner. Suri-Jasmina-Nael-Pipeline. Wangwang-Handel als Motiv im [[Ordana]]-Bogen. Neuer Kontakt-Eintrag [[🤖 Nael al-Farhat]].
-- **2026-09-10** — Peti-Kampagne-1-Frage teilweise beantwortet: Kassidia el-Kassar.
-- **2026-09-10** — Komplette Überarbeitung nach Kampagne-1-Zusammenfassung: Designprinzip "Kampagne 2 eigenständig", alle PCs post-Kampagne-1, Sadhi als sekundäre Antagonistin, Kassidia + Alhari II als Kaelen-Zugang, [[Vestal]]-Optik präzisiert, Nael-Reunion entschärft, Sana ergänzt, Nazareems Opfer gestrichen. Neue Dateien [[🤖 Kassidia el-Kassar]] und [[🤖 Sana]].
-- **2026-09-10** — **Große Neuausrichtung nach Auswertung des offiziellen Fate-of-Shamshir-Abenteuers und den GM-Entscheidungen:** (a) **Sadhi = Genya** als Hauptantagonistin mit Doppelidentität, (b) Cryptosphere = reines Kushtriya-Artefakt mit Shirin als Schlüssel — [[Malhotra]] fällt raus als Schlüssel-Trägerin, (c) [[Malhotra]] rückt in Hintergrund, (d) [[Ordana]]-Bogen wird bewusst [[Vestal]]-frei, (e) [[Vestal]]-Fokus auf [[Fazar]] + Nova-Solyma-Sabotage + Shamshir Command Console als Firstcome-Portalsteuerung, (f) Jayrat kanonische Kreatur (kein [[Vestal]]), (g) 5-Akt-Klimax mit neuem Akt 5 auf [[Altai]], (h) "Volle Breitseite" in Akt 5 als Design-Prinzip: Party löst nur einen Konflikt, ungelöste tragen zweite Kampagnenhälfte, (i) Nabir auf [[Lance Station]] [[Zhau]] verortet. Neue Dateien [[🤖 Sadhi Bat-Erden]] und [[🤖 Nabir Wickremesin]].
+- **2026-09-10** — Peti-Kampagne-1-Frage teilweise beantwortet: [[Kassidia el-Kassar]].
+- **2026-09-10** — Komplette Überarbeitung nach Kampagne-1-Zusammenfassung: Designprinzip "Kampagne 2 eigenständig", alle PCs post-Kampagne-1, Sadhi als sekundäre Antagonistin, Kassidia + [[Alhari II]] als Kaelen-Zugang, [[Vestal]]-Optik präzisiert, Nael-Reunion entschärft, Sana ergänzt, Nazareems Opfer gestrichen. Neue Dateien [[🤖 Kassidia el-Kassar]] und [[🤖 Sana]].
+- **2026-09-10** — **Große Neuausrichtung nach Auswertung des offiziellen Fate-of-Shamshir-Abenteuers und den GM-Entscheidungen:** (a) **Sadhi = Genya** als Hauptantagonistin mit Doppelidentität, (b) Cryptosphere = reines Kushtriya-Artefakt mit Shirin als Schlüssel — [[Malhotra]] fällt raus als Schlüssel-Trägerin, (c) [[Malhotra]] rückt in Hintergrund, (d) [[Ordana]]-Bogen wird bewusst [[Vestal]]-frei, (e) [[Vestal]]-Fokus auf [[Fazar]] + Nova-Solyma-Sabotage + Shamshir Command Console als Firstcome-Portalsteuerung, (f) Jayrat kanonische Kreatur (kein [[Vestal]]), (g) 5-Akt-Klimax mit neuem Akt 5 auf [[Altai]], (h) "Volle Breitseite" in Akt 5 als Design-Prinzip: Party löst nur einen Konflikt, ungelöste tragen zweite Kampagnenhälfte, (i) Nabir auf [[Lanzenstation]] [[Zhau]] verortet. Neue Dateien [[🤖 Sadhi Bat-Erden]] und [[🤖 Nabir Wickremesin]].
+- **2026-10-09** — **GM-Entscheidungen für Sessions 1.16/1.17 nach Spielergruppen-Rückmeldung:** (a) **Sadhi ist KEINE Vestalin** — nur Zweckehe mit Hardlinern, (b) **Keine Vestalen in Nova Solyma** — tote Kushtriya-Kolonie wie im Original-Abenteuer, (c) **[[Caern]] als Finale-Antagonist** statt Genya, [[Caern]] = Genyas Agent nach [[Firebird]]-Verlust, (d) **Keine [[Vestal]]-Legende bei Nabir in 1.16**, Enthüllung auf einen Schlag in 1.17 durch Kassidia + Ozeh auf Lance Station, (e) **Ozeh verwendet Firstcome-Bio-Sculpting** für menschliche Tarnung (nicht Exo-Skelett), kurzer Teaser-Auftritt im Iski'ir-Tempel in 1.16, (f) **Alhari-vs-[[Asuai]] Hit-and-Run** aus Bodensicht statt direkter Space-Battle, Alhari schwer beschädigt + Kassidia verletzt, zweites Nomaden-Schiff rettet, (g) Fate of Shamshir schließt mit 1.17 ab, **Sleeping Butterflies** startet in 1.18 in [[Altai]]. Keine neuen Dateien, nur Updates an Prep 1.16/1.17 + Referenz-NSCs.
+- **2026-10-18** — **Session 1.16 ausgewertet, neue Fäden integriert:** (a) **Setting-Shift bestätigt**: [[Zhau]]-Nomaden mit Ehrenwache + [[Takoba]] kontrollieren das System, Lance-Begegnung lief über Kaelen+Zollamt+Nabir. (b) **Iski'ir-Tempel-Konzept verworfen** (5.5 AE Distanz unlogisch) — statt dessen Alhari getarnt im Nichts, Übergabe im Shuttle-Flug. (c) **[[Caern]] bestätigt im Artabazus-Netzwerk**: war auf [[Lanzenstation]], jetzt an Bord der [[Asuai]]. (d) **Großer neuer Faden**: [[Al-Jamal]]-Fahrt war von Artabazus eingefädelt ([[Mimdosh]]-Reveal), Zweck unbekannt → Material für Sleeping Butterflies, nicht in 1.17 öffnen. (e) **Großer neuer Faden**: Nomaden-Zugang zu Vierte-Horizont-Technologie (via Dr. Aghali-Jussuf-Heilung) — eigener Abschnitt im Dokument. (f) **[[Mimdosh]]** als "geduldeter Gast" an Bord der Alhari, Rache-Faden gegen [[Caern]] parallel zu [[Kameera]]-Linie. (g) **Z-9 ist eisig** (nicht Säureregen-Wüste), starker Strahlungs-Ausschlag in nördlichem Gebirge. (h) **Ozeh-Teaser** auf der Alhari (menschlich verkleidet, [[Fazar]]-Panzerplatten-Frage) — Enthüllung bleibt für 1.17 nach Nova-Solyma-Rückkehr. Neue Datei: [[Dr. Aghali ag Amoume]]. Aktualisiert: [[Mimdosh]], [[Caern]].
