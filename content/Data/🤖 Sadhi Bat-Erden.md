@@ -42,6 +42,12 @@ Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-
 - [[Ibn Tash]] / Orphalia / andere Wissenschaftler stumm halten, die zu tief in die Kushtriya-Geschichte schauen und die Doppelidentität gefährden würden
 - Öffentlich als besonnene Politikerin auftreten, um Verdacht abzulenken
 
+**Als Hardliner-Agentin (Zweckehe-Dienst) — [[🤖 Menazir|Menazir-Jägerin]]:**
+- Verstreute [[🤖 Menazir|Menazir]] im Horizont lokalisieren, einsammeln oder zerstören — Dunkelheits-Dämpfung des Horizonts schwächen, damit Vestal-Technologie und Portal-Bau funktionieren können
+- Operative Vermittlung zwischen Hardliner-Zelle und ihren Corsair-/Konzil-Ressourcen
+- Narrative Tarnung dieser Aufgabe als "kulturelle Rückführung alter Marakanda-Antiquitäten" — ihre eigenen Anhänger wissen nichts vom Vestal-Zweck
+- Konkreter aktueller Zugriff: **[[MenazirAl-Jamal]]** an Bord der [[Al-Jamal]]. Information kam durch [[Mimdosh]] als unwissenden Spürhund (siehe [[🤖 Menazir]]). Hyänen-Attacke war erster Zugriffsversuch, scheiterte. Aktuelle Caern-Operation läuft weiter.
+
 ## Wie sie die Party behandelt
 
 **Als Genya:** Kalt, ruthless, keine Verhandlungsbereitschaft außer bezüglich Command Console. Ordert Ibn Tashs Entführung, hetzt Corsair-Verwandte ([[Yasir Intezar-Artabazus]] in [[Sivas]]) auf die Party.
@@ -89,3 +95,4 @@ Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-
 - Wann hat sie die Genya-Identität geschaffen? Bereits in Kampagne 1 oder erst später?
 - Weiß [[Karim Notash]] wirklich Bescheid, oder ahnt er nur?
 - ~~Wie stark ist ihr Verhältnis zur [[Vestal]]-Fraktion?~~ → Festgelegt: **Zweckehe mit den Hardlinern.** Sadhi ist nicht Vestalin, kooperiert pragmatisch. Vermutlich kennt sie die Hardliner-Anführerin persönlich, aber über eine Mittelsperson ([[Caern]] war einer; es gibt vermutlich weitere).
+- **Menazir-Projekt (2026-10-18 ergänzt):** Sadhi ist operative Jägerin des [[🤖 Menazir|Menazir-Netzwerks]] im Horizont. Offene Fragen: Wie viele hat sie bereits? (Vorschlag: 3-5.) Kennt sie die Umpolungs-Option, oder halten die Hardliner das für sich? Hat sie ein vollständiges Menazir-Verzeichnis, oder sammelt sie Hinweise? Hat sie weitere Spürhunde wie Mimdosh im Horizont?

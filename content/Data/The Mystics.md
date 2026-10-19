@@ -9,8 +9,8 @@ type: Faction
 # The Mystics
 _Independant_
 
-Gifted with mental powers by the arrival of the Emissaries, the Mystics were demonized both 
-by [[The Order of the Pariah]] and the Zenithian factions. Even [[The Church of the Icons]] saw them as a mockery to the Icons. Now the Mystics live secluded in remote monastaries to train their mental abilities.
+Gifted with mental powers as a side-effect of the [[Santulan|Santulan]] Projections during the Second Portal War, the Mystics were demonized both 
+by [[The Order of the Pariah]] and the Zenithian factions. Even [[The Church of the Icons]] saw them as a mockery to the Icons. Now the Mystics live secluded in remote monastaries to train their mental abilities. Despite the shared origin of their gift, Mystics are **people of the Third Horizon** — they have no active connection to the Santulans and are not controlled from Argonnas.
 
 Alignment: Firstcome
 Allies: Ahlam’s Temple, [[The Draconites]] 

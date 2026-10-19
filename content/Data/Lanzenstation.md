@@ -11,7 +11,7 @@ draft: false
 _Nomad trade hub_
 
 > [!TIP] Campaign notes
-> - 0.5AU away from the star [[Zhau]].
+> - 1AU away from the star [[Zhau]], 0.5AU from the portal station
 > - Trade hub and meeting ground of all the different nomad families.
 > - State of the art medical research department.
 

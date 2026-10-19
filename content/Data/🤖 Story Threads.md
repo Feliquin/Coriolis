@@ -285,18 +285,20 @@ Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Sta
 
 ### 25. Mimdosh — Verräter wider Willen, Rächer für Ibn
 - **Ursprung:** Session 1.16 (überraschende Enthüllung)
-- **Status:** [[Mimdosh]] taucht in 1.16 überraschend auf der Lanzenstation auf. Enthüllung während des Alhari-Flugs: Er hat **250.000 Birr Spielschulden beim Artabazus-Clan**. Die Artabazus forderten, dass er Ibn Tash — falls Ibn sich bei ihm meldet — an einen Artabazus-Kontakt vermittelt (Caern sollte dann Ibn "helfen" und das Artefakt für Sadhi/Genya beschaffen). Mimdosh entschied aus Loyalität zur Al-Jamal-Crew: brachte Ibn stattdessen mit den Chars in Kontakt. **Seither jagen ihn Artabazus-Thugs.** Schwor nach Erfahren von Ibns Tod + Caerns Beteiligung Rache gegen Caern.
+- **Status:** [[Mimdosh]] taucht in 1.16 überraschend auf der Lanzenstation auf. Enthüllung während des Alhari-Flugs: Er hat **250.000 Birr Spielschulden beim Artabazus-Clan**. Die Artabazus forderten, dass er Ibn Tash — falls Ibn sich bei ihm meldet — an einen Artabazus-Kontakt vermittelt (Caern sollte dann Ibn "helfen" und das Artefakt für Sadhi/Genya beschaffen). Mimdosh entschied aus Loyalität zur Al-Jamal-Crew: brachte Ibn stattdessen mit der Crew in Kontakt. **Seither jagen ihn Artabazus-Thugs.** Schwor nach Erfahren von Ibns Tod + Caerns Beteiligung Rache gegen Caern.
 - **NPCs:** [[Mimdosh]], [[Caern]] (Rache-Ziel), [[Genya Artabazus]] / [[🤖 Sadhi Bat-Erden]] (Gläubiger), Artabazus-Thugs (jagen Mimdosh)
-- **Status als Party-Mitglied:** "Geduldeter Gast unter Aufsicht" an Bord der [[Alhari II]]. Nicht vollwertig, aber mitreisend. Chars misstrauen, tolerieren.
+- **Status als Crew-Mitglied:** "Geduldeter Gast unter Aufsicht" an Bord der [[Alhari II]]. Nicht vollwertig, aber mitreisend. Crew misstraut, toleriert.
+- **GM-Zusatz-Faden (Menazir-Spur):** Mimdosh war an Bord der Al-Jamal auch der **ungewollte Informationsbringer** für den [[MenazirAl-Jamal]]. Er hatte beobachtet, wie die Statue bei Dunkelheits-Begegnungen aufleuchtet, und das an Caern berichtet (vermutlich ohne Verständnis, was er damit lieferte). Diese Information war der Auslöser für die Hyänen-Attacke und die spätere Eskalation. Siehe [[🤖 Menazir]], Faden 28.
 - **Nächster Trigger:** Mimdosh will persönlich an der Caern-Konfrontation in Nova Solyma teilhaben (bleibt zunächst bei Kassidia an Bord — Entscheidung offen für 1.17); Begleichung der Spielschulden als späteres Druckmittel; Artabazus-Thugs könnten Mimdosh in Altai aufspüren
-- **Offene Fragen:** Haben die Chars Mimdosh wirklich vergeben? Wird er zum vollwertigen Begleiter oder bleibt er "unter Beobachtung"? Welche weiteren Infos hat Mimdosh über das Artabazus-Netzwerk?
+- **Offene Fragen:** Hat die Crew Mimdosh wirklich vergeben? Wird er zum vollwertigen Begleiter oder bleibt er "unter Beobachtung"? Welche weiteren Infos hat Mimdosh über das Artabazus-Netzwerk?
 
 ### 26. Al-Jamal-Fahrt von Artabazus eingefädelt (GM-Wissen)
 - **Ursprung:** Session 1.16 (durch Mimdosh-Reveal retrospektiv aufgedeckt)
-- **Status:** **GM-Wissen — Party weiß NICHT davon in diesem Umfang:** Die gesamte Al-Jamal-Reise war **von Artabazus eingefädelt**. Mimdosh war nur der Hebel (Spielschulden-Druck). Der Zweck dahinter ist noch nicht enthüllt — ob Sadhi/Genya die Al-Jamal-Crew aus bestimmten Gründen in die Shamshir-Suche hineinmanövriert hat, oder ob ein noch größerer Plan dahintersteht, bleibt zu klären.
+- **Status:** **GM-Wissen — Crew weiß NICHT davon in diesem Umfang:** Die gesamte Al-Jamal-Reise war **von Artabazus eingefädelt**. Mimdosh war nur der Hebel (Spielschulden-Druck). Der Zweck dahinter ist noch nicht enthüllt — ob Sadhi/Genya die Al-Jamal-Crew aus bestimmten Gründen in die Shamshir-Suche hineinmanövriert hat, oder ob ein noch größerer Plan dahintersteht, bleibt zu klären.
 - **NPCs:** [[🤖 Sadhi Bat-Erden]] / Genya, [[Mimdosh]] (unwissender Hebel), vermutlich weitere Artabazus-Agenten
 - **Nächster Trigger:** **Aufschub bis zweite Kampagnenhälfte (Sleeping Butterflies).** Wird nicht in 1.17 aufgelöst.
 - **Offene Fragen (für zweite Hälfte):** Warum **diese** Crew? War es Sadhi, der die Bergung der Fazar antizipiert hat? Spielte Zuggang zu Rami (Firstcome-Material-Zugang via TV-Fame) eine Rolle? War die Ursprungs-Al-Jamal-Mission in Mira auch schon Teil davon?
+- **Abgrenzung zu Faden 28:** Die ursprüngliche Al-Jamal-Einfädelung ist **nicht** Menazir-motiviert — Sadhi wusste erst nachträglich durch Mimdosh vom [[MenazirAl-Jamal]]. Der Menazir-Fund ist ein nachträgliches Bonus-Interesse, keine Erklärung für den Ursprung von Faden 26. Beide Fäden laufen jetzt parallel.
 - **Meta:** Dies ist einer der Haupt-Mystery-Treiber für Sleeping Butterflies. Nicht zu früh öffnen.
 
 ### 27. Dr. Aghali ag Amoume + Nomaden-Vierte-Horizont-Technologie
@@ -306,6 +308,16 @@ Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Sta
 - **Nächster Trigger:** Rückkehr der Party zur Lance in 1.17 — Rami kann weiter Kontakt pflegen; Aghali könnte Vermittlung zu weiteren Nomaden-Technologien bieten; Vierte-Horizont-Faden wird größer
 - **Offene Fragen (GM-only):** Was wissen die Zhau-Nomaden konkret über den Vierten Horizont? Haben sie direkten Zugang (Portal)? Gibt es noch ein Portal auf das sie zugreifen? **(GM-Wissen: ja — das Portal zum Vierten Horizont, das sie seit Kampagne 1 bewachen. Noch nicht enthüllt.)**
 - **Meta:** Dies verbindet den Nomaden-Setting-Shift (sie kontrollieren Zhau, hüten etwas Wichtiges) mit einem konkreten Beweis in der Welt. Für die Party ist Aghalis Technologie der erste greifbare Puzzlestein.
+
+### 28. Menazir-Netzwerk gegen die Dunkelheit (GM-Wissen)
+- **Ursprung:** Chat-Brainstorming 2026-10-18 (Konzept-Papier siehe [[🤖 Menazir]])
+- **Status:** **GM-Wissen — Crew kennt nur die eigene Statue [[MenazirAl-Jamal]] als "Erstsiedler-Zeichen gegen die Dunkelheit", nicht das Netzwerk.** Die Menazir sind ein degradiertes horizont-weites Erstsiedler-Netzwerk: jedes einzelne dämpft Dunkelheit zwischen den Sternen lokal (leuchtet als Warnung, schützt Umfeld), ein intaktes Netzwerk hätte den gesamten Dritten Horizont immunisiert. Die Kushtriya-Priester-Zirkel in Marakanda haben vor dem Tang-Gol-Sturz vor ~250 Jahren das Netzwerk-Konzept zurück erschlossen und begonnen Menazir zu sammeln. Der geflohene Rest ihrer Arbeit liegt vermutlich in Nova Solyma.
+- **Wichtig für die Vestalen-Hardliner:** Vestal-Technologie läuft auf Dunkelheit zwischen den Sternen. Jeder noch aktive Menazir ist eine lokale Treibstoff-Senke, blockiert Vestal-Operationen und erschwert den geplanten Portal-Bau. **Umpolungs-Hypothese** (GM-Option, später enthüllbar): Die Menazir könnten umgepolt werden — statt Dunkelheit zu dämpfen, würden sie sie leiten. Dann wäre das Netzwerk Hardliner-Infrastruktur statt -Hindernis.
+- **Sadhis Rolle:** [[🤖 Sadhi Bat-Erden]] ist die Haupt-Agentin der Hardliner für das Menazir-Projekt im Horizont (Zweckehe-Dienst). Ihre Corsair-Anhänger sehen die Jagd als "kulturelle Rückführung alter Marakanda-Artefakte" (Restauration-Rhetorik), nicht als Vestal-Projekt.
+- **NPCs:** [[🤖 Sadhi Bat-Erden]] / Genya (Jägerin), [[Caern]] (Mittelsmann), [[Mimdosh]] (ungewollter Informationsbringer, siehe Faden 25), Vestal-Hardliner (im Hintergrund)
+- **Nächster Trigger:** Nova-Solyma-Erkundung in 1.17 — mögliche Menazir-Reste oder Priester-Zirkel-Archiv-Hinweise. Enthüllung in Richtung Crew frühestens durch Ozeh in 1.17-Ende, vermutlich erst in Sleeping Butterflies.
+- **Offene Fragen (GM-only):** Wie viele Menazir sind heute noch intakt (Vorschlag: 15-30)? Wie viele hat Sadhi bereits (Vorschlag: 3-5)? Ist die Umpolung real oder Wunschdenken? Wo liegt ein zentrales Steuer-Artefakt? Was weiß Ozeh wirklich darüber?
+- **Meta:** Strukturelles Rückgrat für die zweite Kampagnenhälfte — gibt Sleeping Butterflies einen messbaren Fortschrittsbalken (Menazir in Crew-Hand vs. in Hardliner-Hand).
 
 ### 20. Die Hundert Cheleb-Reisenden / Krieger des Pariah
 - **Ursprung:** Session 1.03–1.04
@@ -328,6 +340,7 @@ Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Sta
 
 ## Aktualisierungs-Log
 
+- **2026-10-18** — **Menazir-Netzwerk-Konzept integriert** (Chat-Brainstorming): Neuer Faden 28 für das Erstsiedler-Netzwerk gegen die Dunkelheit, aufgehängt am bereits etablierten [[MenazirAl-Jamal]]. Faden 25 (Mimdosh) um Menazir-Spur ergänzt (Mimdosh als ungewollter Informationsbringer). Faden 26 (Al-Jamal-Mystery) um Abgrenzung ergänzt (Menazir ≠ Ursprung von Faden 26, nur Parallelfaden). Neue Dateien: [[🤖 Menazir]], [[MenazirAl-Jamal]]. Aktualisiert: [[🤖 GM Vestal Threat]], [[🤖 Sadhi Bat-Erden]]. Opportunistisch "Chars" → "Crew" in Faden 25.
 - **2026-09-10** — Ersterstellung durch Co-GM auf Stand Session 1.12.
 - **2026-09-10** — Zwei neue Fäden ergänzt: 14b Nael al-Farhat & Ahlams Tempel, 14c Wangwang-Handel & [[Ordana]]-Verstrickung. Beide durch Kampagne-1-Callback und Naels Grauzonen-Syndikat begründet. Querverweis zu [[🤖 GM Vestal Threat]] und neuem Kontakt-Eintrag [[🤖 Nael al-Farhat]].
 - **2026-09-10** — Kampagne-1-Zusammenfassung ausgewertet. Neue Fäden 14d ([[🤖 Kassidia el-Kassar]] & Alhari II als Andi-Karte via Kaelen) und 14e (Sadhi Bat-Erden als sekundäre Antagonistin) ergänzt. Faden 14b entschärft (Nael-Reunion als Nebenszene, nicht Set-Piece; Andi-Prinzip explizit vermerkt). Neue Kontakt-Einträge [[🤖 Kassidia el-Kassar]] und [[🤖 Sana]] als drafts angelegt. Nazareems Opfer explizit gestrichen — kein zweiter Dunkelheits-Player.

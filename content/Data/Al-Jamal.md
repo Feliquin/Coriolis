@@ -10,6 +10,7 @@ _Luxury Medical Cruiser_
 
 > [!TIP] Campaign notes
 > - Owned by [[Rami Sarif]], [[Rashid ben Said]], [[Suri Esfahan]] and [[Kaelen al-Sari]], under credit from Chelebs-Laskarid Shipyards
+> - An Bord: [[MenazirAl-Jamal]], Erstsiedler-Statue (Werft-Geschenk bei Übergabe) — Zeichen gegen die Dunkelheit zwischen den Sternen
 
 ![[BluePrintLarge.png]]
 

@@ -2,6 +2,7 @@
 | -------------------------------------------------------------------- |
 | [[Data/🤖 GM Vestal Threat.md\|🤖 GM Vestal Threat]]                 |
 | [[Data/🤖 Kassidia el-Kassar.md\|🤖 Kassidia el-Kassar]]             |
+| [[Data/🤖 Menazir.md\|🤖 Menazir]]                                   |
 | [[Data/🤖 Nabir Wickremesin.md\|🤖 Nabir Wickremesin]]               |
 | [[Data/🤖 Nael al-Farhat.md\|🤖 Nael al-Farhat]]                     |
 | [[Data/🤖 Ozeh Kaldar.md\|🤖 Ozeh Kaldar]]                           |
