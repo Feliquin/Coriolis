@@ -19,6 +19,16 @@ Stand: nach Session **1.16 (Fate of Shamshir VIII)**. Datum in-game: **11/4/Pilg
 Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Status, beteiligte NPCs, mögliche nächste Trigger, offene Fragen. Fäden sind grob nach Dringlichkeit sortiert (heiß → schwelend → schlummernd).
 
 ---
+## Manuelle Notizen
+### Zeitlinie
+* Crew beschließt sich zusammen zu tun und die Schiffsanteile zusammen zu werfen. Rashid und Rami erhalten jeweils 40% Anteil, Kaelen und Suri jeweils 10%. Für alle ist es ein gewaltiges Wagnis, ein so teures und luxuriöses Schiff in Auftrag zu geben.
+* Man beauftragt die berühmte Werft Chelebs (im Besitz der Familie Chelebs-Menau) einen medizinischen Luxuskreuzer zu bauen. Ein Schiff im Glanze der Ikonen, sündhaft teuer und ein neues Wahrzeichen des Horizonts.
+* Als Geschenk für den prestigeträchtigen Auftrag installiert Chelebs eine Artefakt-Statue (siehe [[MenazirAl-Jamal]]), uralt und wertvoll. Eigentlich nur, weil der Sockel den Namen des Schiffes zufällig eingraviert hat. Die Statue soll dem Schiff Glück bringen und es vor der Dunkelheit bewahren.
+* Noch vor dem "Stapellauf" gerät die Crew in eine wilde Geschichte um die Familie Chelebs-Menau (siehe "Der Schneider von Mira").
+* Unter den ersten Gästen befindet sich Mimdosh, ein Skavarra (Humanit, der optisch an einen Waschbären erinnert). Er wurde von dem Korsaren-Klan Artabazus an Bord gebracht, eigentlich als Spion um zu prüfen ob sich ein Überfall/Diebstahl des Schiffes lohnen würde. Dr. Rami als Fernsehdoktor wirkt inkompetent und malten sich die Korsaren leichte Beute aus. Mimdosh war aber aus zwei anderen Gründen nützlich für Artabazus: 1) sollte er eine Vermittlung einfädeln bzgl. seines Freundes Ibn Tash (hat nichts mit der Al-Jamal zu tun) und 2) meldete Mimdosh die Existenz der Menazir Statue - die zufällig ein begehrtes Artefakt für Genya Artabazus und ihre verdeckten Pläne ist. Die Al-Jamal hatte endgültig das Interesse des Clans auf sich gezogen.
+
+
+---
 
 ## 🔥 Heiße Fäden (unmittelbar)
 
@@ -136,6 +146,7 @@ Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Sta
 - **NPCs:** [[Rolan Durrok]] (verlassen), [[Mimdosh]] (jetzt an Bord Alhari, siehe Faden 25), [[Vestal]], [[The Glistering One]], [[Lady Orphalia]] (Analystin auf Distanz), [[🤖 Ozeh Kaldar]] (neuer Interessent)
 - **Nächster Trigger:** Rückkehr nach Altai für Orphalia-Analyse; Vestal-Enthüllung durch Ozeh in 1.17 wird den Panzerplatten-Faden mit dem Ansha'ir-Faden fusionieren
 - **Offene Fragen:** Was ist die unbekannte Schrift? (GM-Wissen: Vestal.) Was will Ozeh wirklich mit den Platten?
+- **GM-Umdeutung 2026-10-19:** Die **Statuette des Glitzernden ist eine [[🤖 Glistering Ones|Glistering One]]** — Teil des Vestalen-Dunkelheits-Netzwerks, Gegenstück zu den [[🤖 Menazir]]. Der tote Vestal hatte sie als persönliches Rückkehr-/Signalwerkzeug mit sich geführt. Hyänen-Angriff auf die Al-Jamal (Odacon) war vermutlich gezielt auf die **zweite Glistering vom Nekropolis-Schiff** gerichtet, die die Crew unauffällig gesichert hat. Beide Statuen liegen heute im Al-Jamal-Schmuggler-Fach, abgeschirmt — die [[MenazirAl-Jamal]] dämpft sie passiv im selben Volumen (siehe Faden 29).
 
 ### 11. Chelebs-Menau-Nachbeben
 - **Ursprung:** Sessions 1.01–1.05
@@ -319,6 +330,16 @@ Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Sta
 - **Offene Fragen (GM-only):** Wie viele Menazir sind heute noch intakt (Vorschlag: 15-30)? Wie viele hat Sadhi bereits (Vorschlag: 3-5)? Ist die Umpolung real oder Wunschdenken? Wo liegt ein zentrales Steuer-Artefakt? Was weiß Ozeh wirklich darüber?
 - **Meta:** Strukturelles Rückgrat für die zweite Kampagnenhälfte — gibt Sleeping Butterflies einen messbaren Fortschrittsbalken (Menazir in Crew-Hand vs. in Hardliner-Hand).
 
+### 29. Glistering-Netzwerk & die Al-Jamal-Balance (GM-Wissen)
+- **Ursprung:** Chat-Brainstorming 2026-10-19 (Konzept-Papier siehe [[🤖 Glistering Ones]])
+- **Status:** **GM-Wissen — Crew kennt nur Oberflächliches:** Die [[The Glistering One|Statuette des Glitzernden]] (Fazar) und eine zweite Glistering aus dem Nekropolis-Schiff (Odacon-Hyänen-Angriff) liegen abgeschirmt im Schmuggler-Fach der [[Al-Jamal]]. GM-Wahrheit: Sie sind das **Gegenstück-Netzwerk** zu den [[🤖 Menazir]] — Erstsiedler-Dunkelheits-Verstärker, die ursprünglich die Menazir überhaupt erst nötig gemacht haben. **Hardliner sammeln aktiv Glistering parallel zur Menazir-Jagd** (siehe Faden 28). Konsole + Glistering-Hub = die eigentliche Finale-Energiequelle für Portal-Umcodierung.
+- **Al-Jamal-Balance:** [[MenazirAl-Jamal]] (oben, sichtbar) und die beiden Glistering (unten, abgeschirmt) heben sich im selben Schiff passiv auf — zwei umgekehrte Pole in Reichweite. Deshalb war bisher Ruhe. Wenn eines der beiden Elemente das Schiff verlässt, bricht das Gleichgewicht sofort. **Hitchcock-Material für Sleeping Butterflies.**
+- **NPCs:** [[🤖 Sadhi Bat-Erden]] / Genya (sammelt im Horizont), [[Caern]] (wusste vermutlich mehr über Fazar/Nekropolis-Statuen, als er sagte), Vestal-Hardliner (im Hintergrund), [[🤖 Ozeh Kaldar]] (potenzieller Erklär-NPC bei Vertrauens-Aufbau)
+- **Rückwirkende Umdeutungen:** Hyänen-Angriff (Odacon) war gezielter Griff nach einer Glistering, nicht allgemeiner Heist. Caern wusste mehr. Fazar-Bergung lieferte beiläufig die zweite. Kemulla-Dunkelheitswolke (Mira) und Jazkaar-Pod (Zib) könnten rückwirkend als Glistering-Experimente lesbar sein.
+- **Nächster Trigger:** Spontane Enthüllung durch Statue-Interaktion, oder durch Ozeh/Nabir/Prophetess-Beat (falls [[🤖 Sleeping Butterflies Konzept|Masberg-Material]] gespielt wird). Spätestens: Hardliner-Hub-Fund in Akt 7.
+- **Offene Fragen (GM-only):** Welche Ursprungs-Variante (A/B/C siehe [[🤖 Glistering Ones]])? Wie viele Glistering existieren noch? Wo ist der Hardliner-Hub, der sie bündelt? Können Glistering ↔ Menazir untereinander konvertiert werden? Weiß Ozeh Bescheid?
+- **Meta:** Zusammen mit Faden 28 (Menazir) das strukturelle Herzstück von Sleeping Butterflies. Zwei Fortschrittsbalken, die Crew gegen die Hardliner.
+
 ### 20. Die Hundert Cheleb-Reisenden / Krieger des Pariah
 - **Ursprung:** Session 1.03–1.04
 - **Status:** Auf dem Golden Harvest sind noch 3-4 Pariah-Krieger unterwegs. Kirchentreue Nonnen wissen jetzt vom Al-Jamal-Namen.
@@ -340,6 +361,7 @@ Jeder Faden ist eigenständig als kurze Kapsel geführt: Ursprung, aktueller Sta
 
 ## Aktualisierungs-Log
 
+- **2026-10-19** — **Dual-Netzwerk-Konzept integriert** (Chat-Brainstorming): Die vorher offene Umpolungs-Hypothese ist durch die **Dual-Netzwerk-Erkenntnis** ersetzt: Die [[🤖 Glistering Ones]] sind das komplementäre Erstsiedler-Gegennetzwerk zu den [[🤖 Menazir]], umgekehrte Polung. Menazir wurden ursprünglich **als Antwort auf** Glistering gebaut. Neue Datei [[🤖 Glistering Ones]]. Faden 10 (Fazar-Fund) um GM-Umdeutung ergänzt (Statuette des Glitzernden = Glistering One; Hyänen-Angriff Odacon war gezielt). Neuer Faden 29 für das Glistering-Netzwerk und die Al-Jamal-Balance (zwei Pole in demselben Schiff, passiv ausgeglichen). Aktualisiert: [[🤖 Menazir]], [[🤖 GM Vestal Threat]], diese Datei. Konzept-Dach: [[🤖 Sleeping Butterflies Konzept]].
 - **2026-10-18** — **Menazir-Netzwerk-Konzept integriert** (Chat-Brainstorming): Neuer Faden 28 für das Erstsiedler-Netzwerk gegen die Dunkelheit, aufgehängt am bereits etablierten [[MenazirAl-Jamal]]. Faden 25 (Mimdosh) um Menazir-Spur ergänzt (Mimdosh als ungewollter Informationsbringer). Faden 26 (Al-Jamal-Mystery) um Abgrenzung ergänzt (Menazir ≠ Ursprung von Faden 26, nur Parallelfaden). Neue Dateien: [[🤖 Menazir]], [[MenazirAl-Jamal]]. Aktualisiert: [[🤖 GM Vestal Threat]], [[🤖 Sadhi Bat-Erden]]. Opportunistisch "Chars" → "Crew" in Faden 25.
 - **2026-09-10** — Ersterstellung durch Co-GM auf Stand Session 1.12.
 - **2026-09-10** — Zwei neue Fäden ergänzt: 14b Nael al-Farhat & Ahlams Tempel, 14c Wangwang-Handel & [[Ordana]]-Verstrickung. Beide durch Kampagne-1-Callback und Naels Grauzonen-Syndikat begründet. Querverweis zu [[🤖 GM Vestal Threat]] und neuem Kontakt-Eintrag [[🤖 Nael al-Farhat]].

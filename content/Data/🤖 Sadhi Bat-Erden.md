@@ -68,8 +68,47 @@ Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-
 - **[[Ibn Tash]]:** Sie hat ihn entführen lassen, um ihn zur Shamshir-Suche zu zwingen
 - **[[Lady Orphalia]]:** Ehemalige Drakoniten-Weggefährtin. Orphalia weiß möglicherweise seit langem, dass etwas mit Sadhi nicht stimmt — deshalb wurde sie entfernt.
 - **[[Karim Notash]]:** Tareks Mann. Beobachtet Sadhi seit einiger Zeit, konnte den Doppel-Identitäts-Beweis noch nicht führen.
-- **[[Tarek al-Farhat]]:** Politischer Kollege im Konzil. Vertraut ihr instinktiv nicht, kann es aber nicht begründen. Basti wird die Wiederbegegnung als "vertraute Fremde" spielen können.
+- **[[Tarek al-Farhat]]:** Politischer Kollege im Konzil UND alter Weggefährte aus Kampagne 1. Siehe eigener Abschnitt "Alte Weggefährten".
+- **[[🤖 Kassidia el-Kassar]]:** Alte Weggefährtin aus Kampagne 1, aktuell direkte Verbündete der Crew (Pilotin der Alhari II). Siehe eigener Abschnitt "Alte Weggefährten".
 - **[[Yasir Intezar-Artabazus]] (Neffe):** Corsair-Kapitän der *Izdubar* in [[Sivas]]. Weiß nicht, dass seine Tante = Genya = Sadhi ist. Für ihn ist Genya nur der Codename der Familien-Matriarchin.
+
+## Alte Weggefährten als Bedrohung — der dritte Druckvektor
+
+Sadhi steht in Akt 4+ unter **drei konvergierenden Druckvektoren**, die alle organisch aus etablierten Fäden entstehen und sich jetzt auf sie zubewegen:
+
+1. **Menazir** — materielle Bedrohung ihres Vestalen-Hardliner-Deals (siehe [[🤖 Menazir]])
+2. **Datensphäre + Shirin** — die Kushtriya-Wahrheit, die ihre Selbst-Erzählung als "legitime Erbin" demontieren könnte (sie ist keine echte Erbin — eine echte Erbinnen-Linie, auch wenn illegitim, existiert in Shirin)
+3. **Alte Weggefährten (Tarek + Kassidia)** — die emotional-biografische Bedrohung ihrer Doppelidentität
+
+Dieser dritte Vektor ist für Sadhi persönlich der unheimlichste, weil er nicht abgewehrt oder beseitigt werden kann wie Material oder politische Gegner. **Es sind Menschen, die sie wirklich kennen** — aus einer Zeit, bevor sie die Genya-Identität schuf. Jede Nähe der Crew zu einem der beiden erhöht ihren persönlichen Puls.
+
+### [[Tarek al-Farhat]]
+- **Kampagne-1-Weggefährte**: Tarek war in der ersten Kampagne mit Sadhi/Bene & Co. aktiv — ihre Beziehung reicht Jahrzehnte zurück
+- **Heute**: Mystiker-Vertreter im Alabasterkonzil, politischer Sitznachbar der Draconiter-Vertreterin Sadhi
+- **Status**: Vertraut Sadhi instinktiv nicht, kann es aber nicht begründen. Hat seine Antennen auf Empfang — Karim Notash beobachtet sie seit Jahren in seinem Auftrag
+- **Spezifische Bedrohung**: Tarek hat Zugriff auf Konzil-Macht und politisches Kapital. Wenn er einmal konkrete Beweise hätte, wäre Sadhis Konzil-Position in Tagen zerstört. Zusätzlich: Er kennt sie aus einer Zeit, in der die Genya-Identität noch nicht existierte — er könnte Vergleichsmomente einbringen, die niemand anderer kann.
+- **Bene-Meta**: Ramis Spieler hatte in Kampagne 1 Tarek als PC — die neue Rami-Tarek-Beziehung läuft parallel auf zwei Ebenen. Für Bene bitterer Doppelmoment, wenn Sadhi sich enthüllt.
+
+### [[🤖 Kassidia el-Kassar]]
+- **Kampagne-1-Weggefährtin**: Peti-Spieler-PC in der ersten Kampagne, Nomaden-Veteranin, Alhari-II-Pilotin seit Jahrzehnten
+- **Heute**: Aktive Verbündete der aktuellen Crew in Akt 4 (Z-9 / Zhau), persönliche Beziehung zur Al-Jamal-Crew wächst
+- **Status**: Weiß Dinge über Sadhi aus deren Vorzeit, die niemand sonst wissen kann. Welche genau — GM-Entscheidung, aber potentiell: alte Beziehungen, frühe Erbinnen-Wahn-Momente, verheimlichte Aktionen, Nomaden-Kontakte aus der Vorzeit.
+- **Spezifische Bedrohung**: Kassidia hat kein politisches Gewicht wie Tarek, aber sie hat die **Alhari II** — das einzige Portalschiff im Horizont. Wenn sie der aktuellen Crew etwas sagt, geht das sofort an Tarek weiter (Konzil-Allianz der Crew), und sie kann die Crew überall hin bringen. Zusätzlich: Als Peti-PC hat sie **Spieler-Agency**, die Sadhi nicht einplanen kann.
+- **Peti-Meta**: Kassidia als alte PC-Figur gibt Peti/Rashid einen Solo-Karten-Vorteil, den die anderen nicht haben.
+
+### Sadhis Reaktionsmuster unter diesem Druck
+
+Weil der Weggefährten-Vektor nicht neutralisierbar ist, wird Sadhi vermutlich:
+- **Nicht direkt angreifen** — ein Angriff auf Tarek oder Kassidia wäre zu offensichtlich und würde den Konzil-Aufstieg gefährden
+- **Isolieren und diskreditieren** — versuchen, die beiden voneinander und von der Crew zu trennen; Gerüchte streuen, politische Fallen stellen
+- **Priorität verschieben** — die Shamshir-Konsole wird plötzlich noch dringender, weil mit ihr in der Hand ein Vorsprung geschaffen ist, bevor die Weggefährten sich organisieren
+- **Fluchtvektor planen** — als letzte Option Sleeping-Butterflies-Finale: sie verschwindet in Richtung Vestalen-Hardliner, falls alle anderen Vektoren versagen
+
+### Spielerische Konsequenzen für den Tisch
+
+- Die Crew weiß zunächst **gar nicht**, dass sie Druck ausübt — sie knüpft "nur" Beziehungen zu Tarek und Kassidia. Für Sadhi ist jede dieser Interaktionen eine Alarm-Stufe.
+- GM-Chance: Sadhi reagiert **bevor die Crew versteht warum**. Verstärkter Druck in Altai, politische Nadelstiche, möglicherweise Attentate auf Tarek oder Kassidia, die auf Draconiter oder andere geschoben werden.
+- Enthüllungs-Payoff in Sleeping Butterflies: Wenn Sadhi/Genya in [[Altai]] gestellt wird, sind Tarek und Kassidia am Tisch — die emotionale Konfrontation gewinnt dadurch mehrere Schichten (politischer Verrat, biografische Lüge, Weggefährten-Betrug).
 
 ## Konfrontationsoptionen
 

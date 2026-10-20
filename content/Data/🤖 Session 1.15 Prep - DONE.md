@@ -13,7 +13,7 @@ type: GM Notes
 _GM-only Session-Vorbereitung — [ABGESCHLOSSEN am 2026-10-04]_
 
 > [!TIP] Session durchgeführt
-> Diese Session wurde am 2026-10-04 gespielt (Session-Log: [[4. The Fate of Shamshir VII]]). Wesentliche Abweichungen vom Plan:
+> Diese Session wurde am 2026-10-04 gespielt (Session-Log: [[4. Fate of Shamshir VII]]). Wesentliche Abweichungen vom Plan:
 > - **Nova Solyma als Name NICHT verraten** — GM-Entscheidung, nur "Berge von Zhau" als Richtung. Nabir soll Details liefern.
 > - Party hat die Cryptosphere-Botschaft manipuliert → **falsche Fährte nach Awadhi** als Ablenkung für Sadhi/Verfolger.
 > - Al-Jamal wurde im 1.14-Raumkampf schwer beschädigt → fliegt mit Annika/Yemik/Kameera zurück nach Altai zur Reparatur.

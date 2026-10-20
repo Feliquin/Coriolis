@@ -73,13 +73,13 @@ Die **Vestalen-Hardliner** (Ansha'ir-Fraktion "Heimkehrer", siehe [[🤖 GM Vest
 2. **Horizont-weite Infrastruktur:** Jede Reaktivierung des Netzwerks würde Vestal-Agenten und -Schiffe im Horizont deutlich schwächen. Umgekehrt: Jeder zerstörte Menazir schafft lokal Platz für mehr Dunkelheit — und damit für mehr Vestal-Reichweite.
 3. **Portal-Bau:** Für den geplanten Rückkehr-Portal-Bau (mit oder ohne Shamshir-Konsole) brauchen die Hardliner **massive Dunkelheits-Reserven**. Die Menazir-Dämpfung ist eine Hürde, die ihnen das noch schwerer macht.
 
-### Das große Spiel: Umkehrung statt Zerstörung
+### Das größere Spiel: Keine Umpolung — das Gegen-Netzwerk existiert bereits
 
-Reines Zerstören der Menazir wäre für die Hardliner Verschwendung. Die größere Hypothese (noch nicht am Spieltisch bewiesen, GM-Vorbehalt): **Die Menazir lassen sich umpolen.** Statt Dunkelheit zu dämpfen würden sie dann Dunkelheit **anziehen** oder **leiten** — eine Netzwerk-Infrastruktur **für** die Dunkelheit statt gegen sie.
+**UPDATE 2026-10-19:** Die ursprünglich vermutete Umpolungs-Hypothese ist durch ein elegantes Alternativ-Konzept ersetzt worden: **Die [[🤖 Glistering Ones]].** Es gibt bereits ein komplementäres Netzwerk mit umgekehrter Polung — Erstsiedler-Statuen, die Dunkelheit anziehen und für Vestal-Technologie verfügbar machen. Die Erstsiedler haben die Menazir ursprünglich **gezielt als Antwort auf die Glistering Ones** gebaut, die sie bei ihrer Ankunft im Dritten Horizont bereits vorfanden.
 
-Wenn das zutrifft, ist das Menazir-Netzwerk der größte strategische Hebel überhaupt für die Hardliner — mehr noch als die Shamshir-Konsole. Aber: Die Umpolung erfordert vermutlich ein zentrales Steuer-Artefakt (vielleicht in Nova Solyma, vielleicht in Marakanda) UND eine kritische Menge an Menazir in Hardliner-Hand.
+Das bedeutet für die Hardliner-Strategie: Sie müssen die Menazir **nicht umpolen** — sie müssen das **Glistering-Netzwerk reaktivieren** und gleichzeitig das Menazir-Netzwerk schwächen. Beide Projekte laufen parallel. Siehe das eigene Dokument [[🤖 Glistering Ones]] für Details und die Dual-Netzwerk-Mechanik.
 
-**GM-Haltung:** Lass das offen. Die Umpolung ist das späteste Enthüllungs-Thema, möglicherweise erst in der zweiten Kampagnenhälfte. In Sleeping Butterflies reicht zunächst die reine "sammeln und zerstören"-Lesart.
+**Konsequenz für die Menazir-Jagd:** Sadhis Teil des Hardliner-Deals ist beides — Menazir sammeln/zerstören UND Glistering sammeln/reaktivieren. Jeder gewonnene Menazir in Crew-Hand entwertet den Hardliner-Fortschritt doppelt (Dämpfung bleibt + ein Glistering könnte durch die Menazir in Reichweite neutralisiert werden).
 
 ---
 
@@ -154,6 +154,7 @@ Das Menazir-Thema als strukturelles Rückgrat der zweiten Kampagnenhälfte:
 
 ## Verzahnung mit anderen Fäden
 
+- **[[🤖 Glistering Ones]]:** Direktes Gegenstück — gleiche Mechanik, umgekehrte Polung. Dual-Netzwerk-Konzept. **Pflichtlektüre** zusammen mit diesem Papier.
 - **[[🤖 GM Vestal Threat]]:** Menazir ist ein neuer Hardliner-Hauptfaden neben Command Console
 - **[[🤖 Sadhi Bat-Erden]]:** Menazir als operative Aufgabe im Rahmen ihrer Zweckehe
 - **[[🤖 Story Threads]] Faden 26 (Al-Jamal-Mystery):** Parallelfaden, nicht Ursprung — Menazir ist Zusatzgrund für aktuellen Druck
@@ -161,6 +162,7 @@ Das Menazir-Thema als strukturelles Rückgrat der zweiten Kampagnenhälfte:
 - **[[🤖 Story Threads]] Faden 28 (Menazir-Netzwerk):** Haupt-Faden-Eintrag — dieses Dokument ist das Konzept-Papier dazu
 - **Nova Solyma (1.17):** Potenzielle Menazir-Reste oder Priester-Zirkel-Archive
 - **Faden 27 ([[Dr. Aghali ag Amoume]] / Nomaden-4H-Portal):** Mögliches Verwandtschafts-Verhältnis zwischen Nomaden-Dunkelheits-Immunsystem und Erstsiedler-Menazir-Prinzip
+- **[[🤖 Sleeping Butterflies Konzept]]:** Strukturelles Dach-Dokument für die zweite Kampagnenhälfte, in dem Menazir + Glistering als mechanische Fortschrittsbalken dienen
 
 ---
 
