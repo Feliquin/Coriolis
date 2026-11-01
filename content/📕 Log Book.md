@@ -1,8 +1,9 @@
 
-Total gained XP: `22`
+Total gained XP: `26`
 
 | Session | Log entry                                                      | Location     | XP | Luck    |
 | ------- | -------------------------------------------------------------- | ------------ | -- | ------- |
+| 1.17    | [[Logs/4. Fate of Shamshir IX.md\|4. Fate of Shamshir IX]]     | Zhau         | 4  | -       |
 | 1.16    | [[Logs/4. Fate of Shamshir VIII.md\|4. Fate of Shamshir VIII]] | Zhau         | 1  | -       |
 | 1.15    | [[Logs/4. Fate of Shamshir VII.md\|4. Fate of Shamshir VII]]   | Sivas        | 1  | refresh |
 | 1.14    | [[Logs/4. Fate of Shamshir VI.md\|4. Fate of Shamshir VI]]     | Altai, Sivas | 1  | \-      |

@@ -12,6 +12,7 @@
 | [[Data/Kua.md\|Kua]]                           | System         |
 | [[Data/Lanzenstation.md\|Lanzenstation]]       | \-             |
 | [[Data/Mira.md\|Mira]]                         | System         |
+| [[Data/Nova Solyma.md\|Nova Solyma]]           | \-             |
 | [[Data/Odacon.md\|Odacon]]                     | System         |
 | [[Data/Ordana.md\|Ordana]]                     | System         |
 | [[Data/Planet Mira.md\|Planet Mira]]           | Celestial Body |

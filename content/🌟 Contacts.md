@@ -35,10 +35,12 @@
 | [[Data/Nayam Jummah.md\|Nayam Jummah]]                       | \-     |
 | [[Data/Nilar.md\|Nilar]]                                     | \-     |
 | [[Data/Nitoya.md\|Nitoya]]                                   | dead   |
+| [[Data/Ozeh Kaldar.md\|Ozeh Kaldar]]                         | \-     |
 | [[Data/Rami Sarif.md\|Rami Sarif]]                           | \-     |
 | [[Data/Rania Dudakhmal.md\|Rania Dudakhmal]]                 | \-     |
 | [[Data/Rashid ben Said.md\|Rashid ben Said]]                 | \-     |
 | [[Data/Rolan Durrok.md\|Rolan Durrok]]                       | \-     |
+| [[Data/Sadhi Bat-Erden.md\|Sadhi Bat-Erden]]                 | \-     |
 | [[Data/Samenkar.md\|Samenkar]]                               | \-     |
 | [[Data/Schwester Kasturbai.md\|Schwester Kasturbai]]         | \-     |
 | [[Data/Shuhad.md\|Shuhad]]                                   | dead   |

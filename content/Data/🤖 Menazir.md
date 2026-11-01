@@ -67,7 +67,7 @@ Als Tang Gol kam und Marakanda stürzte, floh ein Teil der Priester-Zirkel mit i
 
 ## Vestalen-Interesse — die Umkehrung
 
-Die **Vestalen-Hardliner** (Ansha'ir-Fraktion "Heimkehrer", siehe [[🤖 GM Vestal Threat]]) haben in den letzten Jahren erkannt, dass die Menazir ihr Rückkehr-Projekt direkt behindern:
+Die **Vestalen-Hardliner** (Ansha'ir-Fraktion **Arda'ur**/"Heimkehrer", siehe [[🤖 GM Vestal Threat]]) haben in den letzten Jahren erkannt, dass die Menazir ihr Rückkehr-Projekt direkt behindern:
 
 1. **Dunkelheit als Treibstoff:** Vestal-Technologie läuft auf Dunkelheit zwischen den Sternen. Je mehr Menazir in einem Gebiet aktiv sind, desto weniger Dunkelheit steht dort für Vestal-Operationen zur Verfügung.
 2. **Horizont-weite Infrastruktur:** Jede Reaktivierung des Netzwerks würde Vestal-Agenten und -Schiffe im Horizont deutlich schwächen. Umgekehrt: Jeder zerstörte Menazir schafft lokal Platz für mehr Dunkelheit — und damit für mehr Vestal-Reichweite.
@@ -89,7 +89,7 @@ Das bedeutet für die Hardliner-Strategie: Sie müssen die Menazir **nicht umpol
 
 - **Dienst für die Hardliner:** Jeder eingesammelte oder zerstörte Menazir ist eine Lieferung an ihre Verbündeten. Teil ihres Deals für Hardliner-Unterstützung bei ihren eigenen politischen Zielen (Konzil-Sturz, Kushtriya-Restauration).
 - **Narrative Tarnung für ihre Anhänger:** Sadhis Corsair-Fraktion sieht die Menazir-Jagd als "kulturelle Rückführung alter Marakanda-Artefakte" — ein stimmiges Puzzlestück ihrer Restauration-Rhetorik. Ihre Anhänger wissen NICHTS vom Vestalen-Zweck.
-- **Teilwissen:** Sadhi weiß nicht alles. Sie kennt kein vollständiges Menazir-Verzeichnis (das Priester-Zirkel-Archiv liegt zum Großteil in Nova Solyma), sie weiß nicht genau, wie viele Menazir noch intakt sind, und sie weiß möglicherweise nicht von der Umpolungs-Option — die Hardliner halten das für sich.
+- **Teilwissen:** Sadhi weiß nicht alles. Sie kennt kein vollständiges Menazir-Verzeichnis (das Priester-Zirkel-Archiv liegt zum Großteil in Nova Solyma), sie weiß nicht genau, wie viele Menazir noch intakt sind, und sie weiß möglicherweise nicht, wofür die Hardliner die Glistering Ones brauchen — das halten sie für sich.
 
 **Sadhis Zugang zum MenazirAl-Jamal-Thema:**
 - **Recent** — die Information kam **erst mit Mimdoshs Spürhund-Dienst**. Vor Mimdosh wusste Sadhi/Genya nicht, dass die Al-Jamal einen Menazir an Bord hat.
@@ -97,7 +97,7 @@ Das bedeutet für die Hardliner-Strategie: Sie müssen die Menazir **nicht umpol
 - Caern meldete es an Sadhi (und als Mittelsmann auch an die Hardliner).
 - **Daraufhin:** Hyänen-Attentat (erster Zugriff, gescheitert) → spätere eskalierende Operationen.
 
-**Wichtig:** Die ursprüngliche Al-Jamal-Einfädelung (siehe [[🤖 Story Threads]] Faden 26) hat NICHTS mit Menazir zu tun — die Al-Jamal war aus anderen (noch offenen) Gründen Sadhis Ziel. Der Menazir-Fund ist ein nachträgliches Bonus-Interesse, das sich auf dieselbe Crew richtet. Beide Fäden laufen jetzt parallel.
+**Wichtig (Tommys Zeitlinie in [[🤖 Story Threads]]):** Mimdosh wurde ursprünglich von den Artabazus als Spion an Bord der Al-Jamal gebracht, um zu prüfen, ob sich ein Überfall auf den neuen Luxuskreuzer lohnt. Erst seine Meldung über den Menazir machte aus der Al-Jamal ein ernsthaftes Ziel für Genyas verdeckte Pläne. Der Menazir ist also nicht der Ursprung des Interesses, aber der Grund, warum es ernst wurde.
 
 ---
 
@@ -112,7 +112,7 @@ Ob Mimdosh verstanden hat, was er da weitergab, ist offen (GM-Entscheidung):
 - **Variante A:** Nein, er sah nur "eine seltsame leuchtende Statue" und meldete es als Kuriosität. Caern/Sadhi wussten erst später, was das wirklich bedeutet.
 - **Variante B:** Er hatte eine Ahnung, aber keine Priorität — die Information wurde erst für Caern wichtig, als dieser weitere Puzzlestücke von Sadhi/Hardlinern bekam.
 
-Mimdoshs aktuelle Haltung: Rache-Faden gegen Caern. Hat **vermutlich keine Ahnung**, dass die Statue einer der Schlüssel zu seinem eigenen Verrats-Fehler war. Wenn ihm das später klar wird — potenzielles Mimdosh-Schuld-Drama.
+Mimdoshs Rache an Caern hat sich in 1.17 erledigt (Kaelen hat Caern getötet). Mimdosh bleibt bei der Crew. Er hat **vermutlich keine Ahnung**, dass die Statue einer der Schlüssel zu seinem eigenen Verrats-Fehler war. Wenn ihm das später klar wird — potenzielles Mimdosh-Schuld-Drama.
 
 ---
 
@@ -127,14 +127,13 @@ Mimdoshs aktuelle Haltung: Rache-Faden gegen Caern. Hat **vermutlich keine Ahnun
 **NICHT Spieler-Wissen (bis Sleeping Butterflies oder später):**
 - Netzwerk-Charakter der Menazir
 - Erstsiedler-Immunsystem-Design
-- Vestalen-Interesse (allgemein, erst nach Ozeh-Enthüllung in 1.17 denkbar)
-- Vestalen-Interesse am Menazir (Umkehrung, möglicherweise bis spät verborgen)
+- Vestalen-Interesse am Menazir (die Crew kennt seit 1.17 die Vestalen und ihre Heimkehrer, aber nicht deren Interesse an den Statuen)
 - Sadhis Rolle als Menazir-Jägerin
 
 **Mögliche Enthüllungs-Pfade:**
-- **Ozeh in 1.17 oder später:** Könnte das Menazir-Netzwerk erklären (sobald Vertrauen aufgebaut) — ist als Reformist dafür, dass das Netzwerk gestärkt wird, nicht geschwächt
-- **Nova Solyma / Priester-Zirkel-Archiv:** Ein Fund dort könnte das Netzwerk belegen
-- **Kassidia (sofern wach):** Als Nomaden-nahe Veteranin könnte sie Legenden kennen
+- **Ozeh (seit 1.17 offenbart):** Könnte das Menazir-Netzwerk erklären, sobald Vertrauen aufgebaut ist — ist als Jashini'ir dafür, dass das Netzwerk gestärkt wird, nicht geschwächt
+- **Nova Solyma / Priester-Zirkel-Archiv:** Ein Fund dort könnte das Netzwerk belegen (in 1.17 nicht erkundet)
+- **Kassidia:** Als Nomaden-nahe Veteranin könnte sie Legenden kennen
 - **Nabir:** Als alter Nomaden-Historiker könnte er fragmentarische Erinnerungen haben
 - **Rückschluss aus Caerns Angriffsmustern:** Wenn die Crew bemerkt, dass Caerns Angriffe immer dann eskalierten, wenn die Statue präsent war
 
@@ -146,9 +145,9 @@ Das Menazir-Thema als strukturelles Rückgrat der zweiten Kampagnenhälfte:
 
 1. **Wettlauf-Mechanik:** Die Crew gegen Sadhi/Hardliner um die restlichen Menazir im Horizont. Jeder gewonnene Menazir ist ein messbarer Fortschritt für die "Dunkelheits-Immunisierung". Jeder verlorene schwächt den Horizont.
 2. **Marakanda-Verzeichnis als großer MacGuffin:** Falls die Crew die Liste in Nova Solyma oder anderswo findet, haben sie die vollständige Karte und können Sadhi überholen.
-3. **Umpolungs-Enthüllung:** Später — wenn die Hardliner weit genug sind, dass ihre Pläne beobachtbar werden — wird klar, dass sie nicht nur sammeln, sondern **umpolen** wollen. Massive Steigerung der Stakes.
+3. **Glistering-Enthüllung:** Später — wenn die Hardliner weit genug sind, dass ihre Pläne beobachtbar werden — wird klar, dass sie nicht nur Menazir zerstören, sondern parallel das [[🤖 Glistering Ones|Glistering-Netzwerk]] reaktivieren. Massive Steigerung der Stakes.
 4. **Nomaden-Allianz:** Falls Dr. Aghali / die Nomaden-Infrastruktur mit Menazir-Technik verwandt ist, Potenzial für Allianz-Narrative.
-5. **Nova-Solyma-Rückkehr:** Wenn die Crew in 1.17 nicht alles aus Nova Solyma mitnimmt, könnte eine spätere Rückkehr lohnend sein — Priester-Zirkel-Archive, zusätzliche Menazir, Kontroll-Artefakt.
+5. **Nova-Solyma-Rückkehr:** Die Crew war in 1.17 nur kurz in Nova Solyma (Tunnel, Kuppelhalle, Teile der Shamshir). Eine spätere Rückkehr könnte lohnen — Priester-Zirkel-Archive, Schatzkammer der Shamshir, zusätzliche Menazir. Aber: Die Artabazus-Korsaren sind jetzt vor Ort.
 
 ---
 
@@ -160,7 +159,8 @@ Das Menazir-Thema als strukturelles Rückgrat der zweiten Kampagnenhälfte:
 - **[[🤖 Story Threads]] Faden 26 (Al-Jamal-Mystery):** Parallelfaden, nicht Ursprung — Menazir ist Zusatzgrund für aktuellen Druck
 - **[[🤖 Story Threads]] Faden 25 (Mimdosh):** Mimdosh war ungewollter Informations-Bringer, weiß möglicherweise nicht, was er geliefert hat
 - **[[🤖 Story Threads]] Faden 28 (Menazir-Netzwerk):** Haupt-Faden-Eintrag — dieses Dokument ist das Konzept-Papier dazu
-- **Nova Solyma (1.17):** Potenzielle Menazir-Reste oder Priester-Zirkel-Archive
+- **Nova Solyma:** Potenzielle Menazir-Reste oder Priester-Zirkel-Archive (in 1.17 nicht erkundet)
+- **[[🤖 Maschine der Ältesten]]:** Programmiert Portalbauer-Technologie. Menazir und Glistering sind dagegen Erstsiedler- bzw. ältere Technik. Ob die Maschine auch auf sie wirkt, ist offen.
 - **Faden 27 ([[Dr. Aghali ag Amoume]] / Nomaden-4H-Portal):** Mögliches Verwandtschafts-Verhältnis zwischen Nomaden-Dunkelheits-Immunsystem und Erstsiedler-Menazir-Prinzip
 - **[[🤖 Sleeping Butterflies Konzept]]:** Strukturelles Dach-Dokument für die zweite Kampagnenhälfte, in dem Menazir + Glistering als mechanische Fortschrittsbalken dienen
 
@@ -170,9 +170,8 @@ Das Menazir-Thema als strukturelles Rückgrat der zweiten Kampagnenhälfte:
 
 - Wie viele Menazir sind heute im Horizont noch intakt? Vorschlag: 15-30, konkrete Zahl GM-Entscheidung
 - Wie viele hat Sadhi bereits? Vorschlag: 3-5 (genug um ernst zu nehmen, nicht genug um das Spiel zu entscheiden)
-- Ist die Umpolung tatsächlich möglich oder nur Hardliner-Wunschdenken? GM-Entscheidung, idealerweise erst in der Spielphase festlegen
-- Wo liegt das Kontroll-Artefakt (falls es eins gibt)? Nova Solyma, Marakanda, ein verborgener Nomaden-Tempel?
-- Weiß Ozeh wirklich alles über die Menazir? Als Reformist würde er die Hardliner-Jagd ablehnen — aber kennt er die Mechanik?
+- Gibt es ein zentrales Steuer-Artefakt für das Menazir-Netzwerk? Oder kann die Maschine der Ältesten diese Rolle übernehmen?
+- Weiß Ozeh wirklich alles über die Menazir? Als Jashini'ir würde er die Hardliner-Jagd ablehnen — aber kennt er die Mechanik?
 - Nabirs Wissen: fragmentarisch oder detailliert?
 - Chelebs-Werft: Wusste jemand dort, was sie da verschenkt haben? (Vermutlich nein — reines Antiquitäten-Geschäft.)
 - Hat Sadhi weitere Spürhunde wie Mimdosh im Horizont, die Menazir identifizieren?

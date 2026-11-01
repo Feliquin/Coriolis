@@ -9,31 +9,52 @@ status:
 draft: true
 ---
 # 🤖 Ozeh Kaldar
-_Antiquitätensammler — tatsächlich [[Vestal]]-Reformist_
+_Antiquitätensammler — tatsächlich [[Vestal]], Jashini'ir_
 
 > [!WARNING] GM-only
-> Draft-Flag gesetzt, bis der Charakter aktiv in einer Session begegnet ist. Enthält den zweiten großen [[Vestal]]-Reveal der Kampagne — nicht mit Spielern teilen.
+> GM-Fassung. Seit 1.17 gibt es die Spieler-Fassung [[Ozeh Kaldar]] mit dem, was die Crew weiß. Hier bleiben Hintergründe, die die Crew nicht kennt.
 
 ![[Ozeh_Kaldar.png|500]]
 
 > [!TIP] Campaign notes
-> - Öffentlich: **Ozeh Kaldar**, alter Antiquitätensammler mit Sammlung obskurer Firstcome-Artefakte, operiert vom **Iski'ir-Tempel im [[Zhau]]-System** aus (Nomaden-Enklave)
-> - Wahre Identität: einer der ursprünglichen [[Vestal]]-Ansha'ir, gestrandet seit 40 Jahren, Anführer der **Reformisten** (siehe [[🤖 GM Vestal Threat]])
+> - Öffentlich: **Ozeh Kaldar**, alter Antiquitätensammler mit Sammlung obskurer Firstcome-Artefakte, im Umfeld der Nomaden im [[Zhau]]-System (die Iski'ir-Tempel-Verortung ist seit 1.16 verworfen)
+> - Wahre Identität: einer der ursprünglichen [[Vestal]]-Ansha'ir, vor über 50 Jahren als Beobachter geschickt, seit 40 Jahren gestrandet, Anführer der **Jashini'ir** ("die Erleuchteten", früher GM-intern "Reformisten") (siehe [[🤖 GM Vestal Threat]])
 > - Alter geschätzt ~200 Jahre ([[Vestal]]-Lebensspanne). Beginnt zu schwächen.
 > - Über die Jahrzehnte "sesshaft" geworden — hat sich mit einem Leben im Dritten Horizont arrangiert
 > - Verwendet eine **Firstcome-Bio-Sculpting-Technik**, um sich menschlich erscheinen zu lassen (siehe unten). Schmerzhaft, zeitlich begrenzt, selten — nur wenige Vestalen können das
-> - Sabotiert im Verborgenen die Rückkehrpläne der Hardliner (Fraktions-Anführerin ist ihm namentlich bekannt, aber die beiden sehen sich seit Jahren nicht mehr)
-> - **Verbunden mit [[🤖 Kassidia el-Kassar]]** über das Nomaden-Netzwerk — Kassidia ist langjährige Vertraute und unterstützt die Reformisten
+> - Sabotiert im Verborgenen die Rückkehrpläne der **Arda'ur** (Hardliner) (Fraktions-Anführerin ist ihm namentlich bekannt, aber die beiden sehen sich seit Jahren nicht mehr)
+> - **Verbunden mit [[🤖 Kassidia el-Kassar]]** über das Nomaden-Netzwerk — Kassidia ist langjährige Vertraute und unterstützt die Jashini'ir
 
 ## Bedeutung für die Kampagne
 
 **Erstkontakt-NPC der Party mit den Ansha'ir.** 
 
-**Session 1.16 — Mysteriöser Teaser:** Begegnet der Party kurz im Iski'ir-Tempel auf [[Zhau]], während Kassidia sich bereitmacht. Erscheint menschlich (Bio-Sculpting), stellt sich als Antiquitätenhändler vor, zeigt Interesse an den [[Fazar]]-Panzerplatten. Keine Enthüllung — nur subtiler Teaser. Peti/Andi sollen "da war etwas Komisches" denken, ohne Theorien zu bauen.
+**Session 1.16 — Mysteriöser Teaser (so gespielt):** War zufällig an Bord der Alhari, als die Crew ankam. Erschien menschlich (Bio-Sculpting), stellte sich als Antiquitätenhändler vor, zeigte Interesse an den [[Fazar]]-Panzerplatten. Flog mit Nabir zurück zur Lanzenstation.
 
-**Session 1.17 — Enthüllung auf der Lance Station:** Nach der Rückkehr der Party von Z-9 bricht Kassidia das Schweigen. Ozeh enthüllt vor der Party seine [[Vestal]]-Form — löst das Bio-Sculpting sichtbar auf. Erklärt die Ansha'ir-Geschichte, warnt vor den Hardlinern, nennt Sadhi Bat-Erden als Hardliner-Verbündete (aber nicht als Vestalin — Sadhi ist Mensch), lädt die Party ein, mit den Reformisten gegen die Hardliner zu arbeiten.
+**Session 1.17 — Enthüllung auf der Lanzenstation (gespielt wie geplant):** Nabir empfing die Crew mit Ozeh in der Nomaden-Enklave. Ozeh löste das Bio-Sculpting auf. *"Mein Name — mein echter Name — ist nicht Ozeh. Aber ihr könnt mich weiterhin so nennen."* Er erklärte die Ansha'ir-Geschichte (vor über 50 Jahren als Beobachter geschickt, vor 40 Jahren Rückkehrportal gesprengt, seitdem versteckt, nur noch wenige, in Fraktionen zerbrochen), nannte seine Fraktion **Jashini'ir** und warnte vor den **Arda'ur**, die seit Jahren an einem neuen Portal bauen und die Steuerkonsole für den Schlüssel halten: Durch die Bergung *"nicht gestoppt. Nur verlangsamt."* Schlusssatz: *"Wir sind weder Götter noch Dämonen. Wir sind Menschen, die leben wollen."* Caern hat er **nicht** erwähnt. **Sadhi Bat-Erden nannte Kassidia, nicht Ozeh** (siehe [[🤖 Kassidia el-Kassar]]). Nabir empfahl der Crew, Ozeh zu vertrauen: *"Er kann euch helfen."* Die Spieler waren geschockt, die Crew hat sich noch nicht festgelegt.
+
+**Nach 1.17:** Die Crew besitzt jetzt genau das, wovor Ozeh gewarnt hat: die Maschine der Ältesten. Ozeh wird dringend raten, sie zu verstecken oder zu zerstören, auf keinen Fall aber den Heimkehrern zu überlassen. Er ist der natürliche Ansprechpartner, um zu verstehen, was die Maschine kann.
 
 Sein Motiv: Wenn die Heimkehrer ein neues Portal öffnen, wird die Wahrheit über die Gestrandeten im Ersten Horizont bekannt — und Ozeh hat Angst, was seine ehemaligen Vorgesetzten dann mit einer plötzlich wieder erreichbaren Ansha'ir-Fraktion machen würden.
+
+## Wahrer Name (GM-only)
+
+**Ez'rhaa-Ozehn Bhen'haaruun-esh Al-Khaadh'irral Min'aardhaa-thuul**
+
+Aussprache etwa: *Es-RHAA-o-zehn Ben-HAA-ruun-esch Al-CHAAD-hir-ral Min-AAR-dhaa-tuul*
+
+Ein Name irdischen Ursprungs, über Jahrhunderte im Ersten Horizont von der Dunkelheit verformt:
+
+| Namensteil | Irdische Wurzel | Bedeutung |
+|---|---|---|
+| **Ez'rhaa-Ozehn** | *Ezra* (hebräisch) | "Hilfe". **"Ozeh" ist das Ende seines eigenen Namens.** Echo zu Nabirs *"Er kann euch helfen."* |
+| **Bhen'haaruun-esh** | *ben Harun* | "Sohn des Harun/Aaron". Das angehängte *-esh* ist eine Vestalen-Endung ohne irdische Wurzel. |
+| **Al-Khaadh'irral** | *al-Khidr / al-Khadir* | Der ewige Wanderer, Helfer der Reisenden. In Horizont-Mündern wird daraus **"Kaldar"**. |
+| **Min'aardhaa-thuul** | *min al-Ardh* (arabisch) | "von der Erde". Dieselbe Wurzel wie **Al-Ardha**, der Sitz des Unsterblichen Kaisers (siehe [[Vestal]]). *-thuul* ist eine reine Dunkelheits-Endung. |
+
+**Muster der Verformung** (für weitere Vestalen-Namen wiederverwendbar): Vokale werden gedehnt (*aa, uu*), harte Laute werden behaucht (*dh, kh, rh*), Apostrophe stehen dort, wo die Dunkelheit Laute "verschluckt" hat, und hinten wachsen Endungen ohne irdische Wurzel an (*-esh, -thuul*). Die Ansha'ir kennen die irdischen Bedeutungen selbst nicht mehr. Ozeh hat seinen Decknamen bewusst aus Bruchstücken des echten Namens gebaut.
+
+**Am Tisch:** In 1.17 nicht genannt (*"Mein echter Name ist nicht Ozeh"*). Kann später als Vertrauensbeweis fallen. Rashid könnte beim Hören die Wurzeln *Ezra* und *al-Ardh* erkennen.
 
 ## Wie er auftritt
 
@@ -61,11 +82,11 @@ Sein Motiv: Wenn die Heimkehrer ein neues Portal öffnen, wird die Wahrheit übe
 
 ## Was er weiß
 
-- Die vollständige Ansha'ir-Geschichte (40 Jahre gestrandet, geopfert durch die Portal-Sprengung)
+- Die vollständige Ansha'ir-Geschichte (vor über 50 Jahren geschickt, seit 40 Jahren gestrandet, geopfert durch die Portal-Sprengung)
 - Namen und grobe Aufenthaltsorte der 3-4 anderen aktiven Ansha'ir
-- Was die Hardliner-Fraktion plant (Command Console als Portal-Basis)
-- Dass die [[Vestal]]-Sabotage auf Nova Solyma vor Jahrhunderten stattfand — er selbst war beteiligt
-- Dass die Statuette des Glitzernden (auf der [[Fazar]]) ein [[Vestal]]-Grabgeschenk war
+- Was die Arda'ur planen (Command Console als Portal-Basis, siehe [[🤖 Maschine der Ältesten]])
+- ~~Vestal-Sabotage auf Nova Solyma~~ **verworfen** (Kanon 2026-11-01): Die Nova-Solyma-Katastrophe war ein missglückter Sprung der Kushtriya, kein Vestalen-Werk. Ob Ozeh überhaupt davon weiß: offen.
+- Was die Statuette des Glitzernden (auf der [[Fazar]]) ist: Für ihn ein heiliges Erbstück. Ob er das Glistering-Netzwerk als Ganzes versteht, ist offen (siehe [[🤖 Glistering Ones]])
 - Wo die [[Fazar]]-Mumie geehrt begraben werden sollte
 - **NICHT:** Er kennt Sadhi/Genya nicht persönlich; die Ansha'ir wissen von Sadhis Fanatismus nur indirekt
 
@@ -73,14 +94,14 @@ Sein Motiv: Wenn die Heimkehrer ein neues Portal öffnen, wird die Wahrheit übe
 
 **Zeitweise Kooperation mit der Party.** Sein Angebot:
 - Er hilft ihnen, die Hardliner zu stoppen
-- Im Gegenzug: Party lässt die Reformisten und Beobachter in Ruhe, wenn der Konflikt entschieden ist
+- Im Gegenzug: Crew lässt die Jashini'ir und die Beobachter in Ruhe, wenn der Konflikt entschieden ist
 - Optional: Er bietet an, die [[Fazar]]-Mumie zurückzuerhalten und würdig zu bestatten — im Tausch bekommt die Party Zugang zu älteren Ansha'ir-Archiven
 - **Er lügt nicht** — aber er sagt auch nicht die ganze Wahrheit von sich aus. Fragen bringen mehr
 
 ## Wo er die Party findet (festgelegt)
 
-- **Session 1.16 (Teaser):** Im Iski'ir-Tempel auf [[Zhau]], menschlich verkleidet, als Antiquitätenhändler mit Interesse an den [[Fazar]]-Funden. Kurzer mysteriöser Auftritt, bleibt zurück im Tempel, als die Party nach Z-9 aufbricht.
-- **Session 1.17 (Enthüllung):** In der Nomaden-Enklave auf Lance Station, nach der Rückkehr der Party von Z-9. Kassidia bringt beide zusammen. Ozeh enthüllt seine [[Vestal]]-Form.
+- **Session 1.16 (Teaser):** An Bord der Alhari, menschlich verkleidet, als Antiquitätenhändler mit Interesse an den [[Fazar]]-Funden. Fliegt mit Nabir zurück zur Lanzenstation.
+- **Session 1.17 (Enthüllung):** In der Nomaden-Enklave auf der Lanzenstation, mit Nabir. Ozeh enthüllt seine [[Vestal]]-Form.
 - **Nach 1.17:** Potenzielle Verbindung über Nabir (Lance Station) oder Nomaden-Kanäle.
 
 **NICHT in Nova Solyma.** Nova Solyma ist eine tote Kushtriya-Kolonie, keine [[Vestal]]-Besiedlung.
@@ -109,7 +130,8 @@ portrait in the artstyle of Symbaroum of an elderly antiques dealer with a myste
 
 ## Offene GM-Fragen
 
-- ~~Konkreter Ort für seinen Antiquitäten-Laden~~ → **Iski'ir-Tempel auf [[Zhau]]** (festgelegt)
-- Wie viele Reformisten gibt es insgesamt außer ihm? Zahlen fürs GM-Wissen
+- Konkreter Ort für seinen Antiquitäten-Laden? (Iski'ir-Tempel ist verworfen, vielleicht die Lanzenstation)
+- Wie viele Jashini'ir gibt es insgesamt außer ihm? Zahlen fürs GM-Wissen
+- ~~Ozehs echter Name?~~ → festgelegt, siehe "Wahrer Name" (der Crew noch unbekannt)
 - ~~Wie kommt er an sein Exo-Skelett?~~ → **Firstcome-Bio-Sculpting-Technik** (festgelegt), gefunden/mitgebracht aus dem Ersten Horizont
-- Nachname "Kaldar" ok, oder anderer Vorschlag?
+- ~~Nachname "Kaldar" ok?~~ → bleibt, abgeleitet aus *Al-Khaadh'irral*

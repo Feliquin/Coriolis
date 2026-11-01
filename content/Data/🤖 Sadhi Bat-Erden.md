@@ -33,7 +33,7 @@ Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-
 ## Ziele
 
 **Als Genya (militant):**
-- Shamshirs Command Console beschaffen → Kontrolle über den Black Sector von [[Altai]]
+- Shamshirs Command Console beschaffen → Kontrolle über den Black Sector von [[Altai]]. **In 1.17 verfehlt:** Die Crew hat die Konsole ([[🤖 Maschine der Ältesten]]) geborgen und ist entkommen. Neues Ziel: sie der Crew abnehmen.
 - Alabaster-Konzil zwingen, sich ihr zu unterwerfen
 - Sich zur Rajah von Khorsabad krönen (Wiederherstellung der "Kushtriya-Herrschaft")
 
@@ -46,7 +46,16 @@ Die Party sieht Genya bislang nur in Holo-Aufzeichnungen (siehe Akt 2, Ibn-Tash-
 - Verstreute [[🤖 Menazir|Menazir]] im Horizont lokalisieren, einsammeln oder zerstören — Dunkelheits-Dämpfung des Horizonts schwächen, damit Vestal-Technologie und Portal-Bau funktionieren können
 - Operative Vermittlung zwischen Hardliner-Zelle und ihren Corsair-/Konzil-Ressourcen
 - Narrative Tarnung dieser Aufgabe als "kulturelle Rückführung alter Marakanda-Antiquitäten" — ihre eigenen Anhänger wissen nichts vom Vestal-Zweck
-- Konkreter aktueller Zugriff: **[[MenazirAl-Jamal]]** an Bord der [[Al-Jamal]]. Information kam durch [[Mimdosh]] als unwissenden Spürhund (siehe [[🤖 Menazir]]). Hyänen-Attacke war erster Zugriffsversuch, scheiterte. Aktuelle Caern-Operation läuft weiter.
+- Konkreter aktueller Zugriff: **[[MenazirAl-Jamal]]** an Bord der [[Al-Jamal]]. Information kam durch [[Mimdosh]] als unwissenden Spürhund (siehe [[🤖 Menazir]]). Hyänen-Attacke war erster Zugriffsversuch, scheiterte. Caern ist seit 1.17 tot.
+
+## Lage nach Session 1.17
+
+- **Niederlage auf Z-9:** Konsole an die Crew verloren, Caern tot (damit ihr Zenith-Frontmann und ein Mittelsmann zu den Hardlinern weg), Asuai-Shuttle zerstört. Die Asuai selbst ist intakt. Ob Genya an Bord war, ist offen.
+- **Die Crew hält jetzt fast alles, was Sadhi und ihre Hardliner-Partner wollen:** die Maschine (Lanzenstation), den MenazirAl-Jamal und zwei Glistering-Statuen (Al-Jamal in Altai).
+- **Druck von den Hardlinern:** Sie hat den Hardlinern die Konsole nicht geliefert. Die Zweckehe gerät unter Spannung.
+- **Gelegenheit:** Die Shamshir liegt weiter in Nova Solyma, ihre Korsaren sind vor Ort. ~60 nukleare Torpedos und der Schatz der Shamshir können geborgen werden.
+- **Kassidia will nach Altai, um Tarek zu unterstützen.** Zwei alte Weggefährten an einem Ort, und das, nachdem Kassidia der Crew geholfen hat: Der Druckvektor "Alte Weggefährten" wird akut.
+- **Die Crew kennt jetzt Sadhis Namen:** Kassidia hat sie auf der Lanzenstation als ihre einstige Wegbegleiterin genannt, die mit den Heimkehrern (Arda'ur) kooperiert, zutiefst von sich überzeugt ist und die Vestalen als Werkzeug für ihre eigenen Ziele benutzt. **Sadhi = Genya weiß die Crew weiterhin nicht.** Öffentlich bekannt ist zudem ihr Sitz im Alabasterrat (Spieler-Datei [[Sadhi Bat-Erden]]). Folgen: Ein "warmer" Sadhi-Auftritt vor der Crew trifft jetzt auf Misstrauen, und Kassidia hat sich vor der Crew gegen sie gestellt. **Festgelegt:** Sadhi erfährt **nicht**, dass Kassidia sie genannt hat, für sie bleibt Kassidia eine unverdächtige alte Weggefährtin. Die Crew hat damit einen Informationsvorsprung. Kassidia selbst weiß **nicht**, dass Sadhi = Genya ist: Sie hält Sadhis Haltung für Hybris und will nicht glauben, dass Sadhi so verdorben sein könnte.
 
 ## Wie sie die Party behandelt
 
@@ -90,18 +99,18 @@ Dieser dritte Vektor ist für Sadhi persönlich der unheimlichste, weil er nicht
 - **Bene-Meta**: Ramis Spieler hatte in Kampagne 1 Tarek als PC — die neue Rami-Tarek-Beziehung läuft parallel auf zwei Ebenen. Für Bene bitterer Doppelmoment, wenn Sadhi sich enthüllt.
 
 ### [[🤖 Kassidia el-Kassar]]
-- **Kampagne-1-Weggefährtin**: Peti-Spieler-PC in der ersten Kampagne, Nomaden-Veteranin, Alhari-II-Pilotin seit Jahrzehnten
-- **Heute**: Aktive Verbündete der aktuellen Crew in Akt 4 (Z-9 / Zhau), persönliche Beziehung zur Al-Jamal-Crew wächst
+- **Kampagne-1-Weggefährtin**: In der ersten Kampagne Petis PC, **heute reiner GM-NPC**. Nomaden-Veteranin, Alhari-II-Pilotin seit Jahrzehnten
+- **Heute**: Aktive Verbündete der aktuellen Crew, hat sie in 1.17 samt Maschine aus Nova Solyma geholt. Will demnächst nach Altai, um Tarek zu unterstützen
 - **Status**: Weiß Dinge über Sadhi aus deren Vorzeit, die niemand sonst wissen kann. Welche genau — GM-Entscheidung, aber potentiell: alte Beziehungen, frühe Erbinnen-Wahn-Momente, verheimlichte Aktionen, Nomaden-Kontakte aus der Vorzeit.
-- **Spezifische Bedrohung**: Kassidia hat kein politisches Gewicht wie Tarek, aber sie hat die **Alhari II** — das einzige Portalschiff im Horizont. Wenn sie der aktuellen Crew etwas sagt, geht das sofort an Tarek weiter (Konzil-Allianz der Crew), und sie kann die Crew überall hin bringen. Zusätzlich: Als Peti-PC hat sie **Spieler-Agency**, die Sadhi nicht einplanen kann.
-- **Peti-Meta**: Kassidia als alte PC-Figur gibt Peti/Rashid einen Solo-Karten-Vorteil, den die anderen nicht haben.
+- **Spezifische Bedrohung**: Kassidia hat kein politisches Gewicht wie Tarek, aber sie hat die **Alhari II** — das einzige Portalschiff im Horizont. Wenn sie der aktuellen Crew etwas sagt, geht das sofort an Tarek weiter (Konzil-Allianz der Crew), und sie kann die Crew überall hin bringen.
+- **Peti-Meta**: Kassidia war Petis alte PC-Figur. Seit sie GM-NPC ist, kann der GM sie frei einsetzen, auch gefährden.
 
 ### Sadhis Reaktionsmuster unter diesem Druck
 
 Weil der Weggefährten-Vektor nicht neutralisierbar ist, wird Sadhi vermutlich:
 - **Nicht direkt angreifen** — ein Angriff auf Tarek oder Kassidia wäre zu offensichtlich und würde den Konzil-Aufstieg gefährden
 - **Isolieren und diskreditieren** — versuchen, die beiden voneinander und von der Crew zu trennen; Gerüchte streuen, politische Fallen stellen
-- **Priorität verschieben** — die Shamshir-Konsole wird plötzlich noch dringender, weil mit ihr in der Hand ein Vorsprung geschaffen ist, bevor die Weggefährten sich organisieren
+- **Priorität verschieben** — die Maschine der Crew abzunehmen wird plötzlich noch dringender, weil sie damit einen Vorsprung hätte, bevor die Weggefährten sich organisieren
 - **Fluchtvektor planen** — als letzte Option Sleeping-Butterflies-Finale: sie verschwindet in Richtung Vestalen-Hardliner, falls alle anderen Vektoren versagen
 
 ### Spielerische Konsequenzen für den Tisch
@@ -112,8 +121,8 @@ Weil der Weggefährten-Vektor nicht neutralisierbar ist, wird Sadhi vermutlich:
 
 ## Konfrontationsoptionen
 
-- **Enthüllung durch Beweismittel** (ideal in Akt 4): Die Party findet auf Nova Solyma etwas, das Sadhi mit Genya verknüpft. Wenn Sadhi persönlich als "vermeintliche Rettung" auf [[Altai]] wartet, wird die Enthüllung besonders bitter.
-- **Enthüllung durch persönliche Konfrontation** (ideal in Akt 5): Auf [[Altai]] stellt die Party Sadhi/Genya, die entweder mit Command Console (falls sie sie bekommen hat) oder ohne (falls die Party sie zerstört hat) zurückgekehrt ist.
+- **Enthüllung durch Beweismittel:** ~~auf Nova Solyma~~ (in 1.17 nicht genutzt). Neue Möglichkeit: Caerns Hinterlassenschaften (Kommunikation, Kontakte) verknüpfen Sadhi mit Genya.
+- **Enthüllung durch persönliche Konfrontation** (ideal in Akt 5): Auf [[Altai]] stellt die Crew Sadhi/Genya. Die Konsole ist in Crew-Hand. Sadhi könnte als "vermeintliche Rettung" auftreten und anbieten, die Maschine sicher zu verwahren.
 
 ## Endphasen-Rolle
 
@@ -133,5 +142,5 @@ Weil der Weggefährten-Vektor nicht neutralisierbar ist, wird Sadhi vermutlich:
 - Physisches Erscheinungsbild (nicht im Vault). Für Doppelidentität: die beiden müssen sich äußerlich unterscheiden können (Kleidung, Frisur, Make-up) — aber ein aufmerksamer Beobachter sollte es merken können.
 - Wann hat sie die Genya-Identität geschaffen? Bereits in Kampagne 1 oder erst später?
 - Weiß [[Karim Notash]] wirklich Bescheid, oder ahnt er nur?
-- ~~Wie stark ist ihr Verhältnis zur [[Vestal]]-Fraktion?~~ → Festgelegt: **Zweckehe mit den Hardlinern.** Sadhi ist nicht Vestalin, kooperiert pragmatisch. Vermutlich kennt sie die Hardliner-Anführerin persönlich, aber über eine Mittelsperson ([[Caern]] war einer; es gibt vermutlich weitere).
-- **Menazir-Projekt (2026-10-18 ergänzt):** Sadhi ist operative Jägerin des [[🤖 Menazir|Menazir-Netzwerks]] im Horizont. Offene Fragen: Wie viele hat sie bereits? (Vorschlag: 3-5.) Kennt sie die Umpolungs-Option, oder halten die Hardliner das für sich? Hat sie ein vollständiges Menazir-Verzeichnis, oder sammelt sie Hinweise? Hat sie weitere Spürhunde wie Mimdosh im Horizont?
+- ~~Wie stark ist ihr Verhältnis zur [[Vestal]]-Fraktion?~~ → Festgelegt: **Zweckehe mit den Hardlinern.** Sadhi ist nicht Vestalin, kooperiert pragmatisch. Vermutlich kennt sie die Hardliner-Anführerin persönlich, aber über eine Mittelsperson ([[Caern]] war einer, seit 1.17 tot; es gibt vermutlich weitere).
+- **Menazir-Projekt (2026-10-18 ergänzt):** Sadhi ist operative Jägerin des [[🤖 Menazir|Menazir-Netzwerks]] im Horizont. Offene Fragen: Wie viele hat sie bereits? (Vorschlag: 3-5.) Weiß sie, wofür die Hardliner die [[🤖 Glistering Ones|Glistering Ones]] brauchen, oder halten die Hardliner das für sich? Hat sie ein vollständiges Menazir-Verzeichnis, oder sammelt sie Hinweise? Hat sie weitere Spürhunde wie Mimdosh im Horizont?

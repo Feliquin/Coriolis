@@ -19,6 +19,7 @@ _Stardust Hyaena_
 > - Left the [[Al-Jamal]] in [[Zhau]] in order to follow a lead regarding [[Caern]] and went to [[Sivas]]
 > - Abgeholt von der [[Al-Jamal]] in [[Sivas]] auf dem Weg zum Tempel auf Mejai 7.
 > - Gute Bordschützin, hat die Izdubar zerstört.
+> - Session 1.17: Ist allein nach [[Kua]] aufgebrochen, um einer Spur zu [[Caern]] zu folgen.
 
 ![[Kameera.png|500]]
 

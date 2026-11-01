@@ -20,6 +20,9 @@ During the Second Portal War the Vestals launched a **military campaign to conqu
 
 > [!TIP] Campaign notes
 > - The crew found the dead body of a Vestal on board the [[Fazar]]
+> - Session 1.17: [[Ozeh Kaldar]] gibt sich als Vestale zu erkennen. Sein Volk nennt sich **Ansha'ir** ("die Wartenden"). Vor über 50 Jahren wurden sie als Beobachter in den Dritten Horizont geschickt. Vor 40 Jahren wurde ihr Rückkehrportal gesprengt, seitdem leben die wenigen verbliebenen Ansha'ir versteckt im Dritten Horizont, zerbrochen in Fraktionen:
+>   - **Jashini'ir** ("die Erleuchteten"): Ozehs Fraktion. Der Dritte Horizont hat ihnen gezeigt, dass es ein Leben jenseits der Dunkelheit gibt.
+>   - **Arda'ur** (Heimkehrer, Hardliner): wollen um jeden Preis zurück und versuchen seit Jahren, ein neues Portal zu bauen. Sie halten die Steuerkonsole der [[Shamshir]] für den Schlüssel.
 
 ![[Vestal.png|500]]
   

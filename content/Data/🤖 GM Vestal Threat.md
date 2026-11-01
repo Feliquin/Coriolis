@@ -14,7 +14,7 @@ _GM-only Meta-Bogen der Kampagne_
 > [!WARNING] GM-only
 > Dieses Dokument ist ausschließlich für den GM (und Co-GM). Draft-Flag ist gesetzt — nicht publizieren, nicht mit Spielern teilen. Enthält die zentrale Meta-Bedrohung der Kampagne.
 
-Stand: **2026-09-10**, nach Session 1.12 (Fate of Shamshir IV). In Absprache mit dem offiziellen Fate-of-Shamshir-Abenteuer verzahnt.
+Stand: **2026-11-01**, nach Session 1.17 (Fate of Shamshir IX). In Absprache mit dem offiziellen Fate-of-Shamshir-Abenteuer verzahnt.
 
 ---
 
@@ -33,9 +33,11 @@ Stand: **2026-09-10**, nach Session 1.12 (Fate of Shamshir IV). In Absprache mit
 
 ## Kernkonzept in einem Absatz
 
-Eine kleine Vestal-Beobachtergruppe wurde am Ende des Zweiten Portalkriegs vor 40 Jahren im Dritten Horizont abgeschnitten — abgeschnitten von der Heimat *durch die eigene Fraktion*, weil die Portalstation im Ersten Horizont von einem Vorgängerteam gesprengt wurde (im Detail: Vorgänger der aktuellen Party — Meta für Bene/Basti/Peti, aber ohne Bedeutung für die Charaktere heute). Seitdem versuchen sie still, einen neuen Weg zurück zu bauen. Sie manipulieren die Dunkelheit zwischen den Sternen als Werkzeug (Vestal-Technologie speist sich daraus). Sie sind zerbrochen in interne Fraktionen. Sie sind gefährlich — nicht weil sie erobern wollen, sondern weil ihre Portalarbeit unabsehbare Kollateralschäden verursacht und weil einige unter ihnen aus Rache handeln.
+Eine kleine Vestal-Beobachtergruppe wurde **vor über 50 Jahren** in den Dritten Horizont geschickt und am Ende des Zweiten Portalkriegs **vor 40 Jahren** abgeschnitten — abgeschnitten von der Heimat *durch die eigene Fraktion*, weil die Portalstation im Ersten Horizont von einem Vorgängerteam gesprengt wurde (im Detail: Vorgänger der aktuellen Party — Meta für Bene/Basti/Peti, aber ohne Bedeutung für die Charaktere heute). Seitdem versuchen sie still, einen neuen Weg zurück zu bauen. Sie manipulieren die Dunkelheit zwischen den Sternen als Werkzeug (Vestal-Technologie speist sich daraus). Sie sind zerbrochen in interne Fraktionen. Sie sind gefährlich — nicht weil sie erobern wollen, sondern weil ihre Portalarbeit unabsehbare Kollateralschäden verursacht und weil einige unter ihnen aus Rache handeln.
 
 **Sie heißen sich selbst _Ansha'ir_** (etwa: "die Wartenden"). Im Horizont sind sie unter Deckidentitäten aktiv.
+
+**Fraktionsnamen (Kanon seit 1.17, von Ozeh genannt):** **Jashini'ir**, "die Erleuchteten" (Ozehs Fraktion, in älteren GM-Notizen "Sesshafte/Reformisten"), und **Arda'ur**, die Heimkehrer und Hardliner. Wo in GM-Dateien noch "Reformisten" bzw. "Heimkehrer/Hardliner" steht, sind diese beiden gemeint.
 
 ---
 
@@ -45,13 +47,13 @@ Das offizielle Abenteuer verläuft im Shamshir-Kernteil (Sessions 1.16/1.17) wei
 
 **1. Genya Artabazus = Sadhi Bat-Erden.** Doppelidentität. Siehe [[🤖 Sadhi Bat-Erden]]. Enthüllung in Sleeping Butterflies (Altai-Klimax). Sadhis Kushtriya-Erbschafts-Wahn ist die Triebkraft — sie hält sich (fälschlich) für die legitime Erbin und will die Restauration. **Sadhi ist KEINE Vestalin**, sie kooperiert nur mit den Hardlinern (Zweckehe).
 
-**2. Caern als Finale-Antagonist in Nova Solyma, nicht Genya.** Caern wurde nach dem Firebird-Verlust von Genya adoptiert — er brauchte Schutz vor Kameera, sie brauchte jemanden, der die Party kennt. Caern kommandiert in 1.17 ein Asuai-Shuttle, nicht die Asuai selbst. **Genya bleibt für Sleeping Butterflies/Altai aufgespart.** Die Asuai stürzt in 1.17 ab, aber ob Genya an Bord war, bleibt offen.
+**2. Caern als Finale-Antagonist in Nova Solyma, nicht Genya.** Caern wurde nach dem Firebird-Verlust von Genya adoptiert — er brauchte Schutz vor Kameera, sie brauchte jemanden, der die Party kennt. **→ Gespielt in 1.17:** Caern kam per Asuai-Shuttle, das Shuttle wurde von der Alhari abgeschossen, **Caern wurde von Kaelen getötet**. Die Asuai ist **nicht** abgestürzt. Ob Genya an Bord war, bleibt offen.
 
-**3. Nova Solyma = tote Kushtriya-Kolonie.** Keine lebenden Vestalen vor Ort. Der historische Reaktor-Unfall kann in Sleeping Butterflies als Hardliner-Sabotage von vor Jahrhunderten enthüllt werden, aber in 1.17 bleibt es ein tragischer Unfall. **Nur Lamka-Echsen aus dem Abenteuertext als Encounter, plus Caern + Corsairs.**
+**3. Nova Solyma = tote Kushtriya-Kolonie.** Keine lebenden Vestalen vor Ort. **→ Kanon seit 2026-11-01:** Die Katastrophe war **keine** Vestalen-Sabotage, sondern ein missglückter Sprungversuch der Kushtriya mit der Maschine der Ältesten: Die Shamshir materialisierte im Berg, Reaktorkatastrophe gemischt mit Portalbauer-Energien. Siehe [[🤖 Maschine der Ältesten]].
 
-**4. Shamshirs Command Console** kontrolliert nicht nur den Black Sector, sondern enthält Firstcome-Portalsteuerungslogik. Für die Hardliner ist die Konsole der Jackpot: Damit könnten sie ein Portal öffnen, ohne dass sie Firstcome-Koordinaten aus einer Cryptosphere brauchen. Caern will sie in 1.17 für Genya bergen → in Wahrheit für die Hardliner.
+**4. Shamshirs Command Console** ist in Wahrheit ein **Programmierwerkzeug für Portalbauer-Technologie** (Portale, Monolithen, Schwarzer Sektor), die "Maschine der Ältesten". Für die Hardliner der Jackpot. **→ Gespielt in 1.17: Die Crew hat sie geborgen und besitzt sie jetzt.** Siehe [[🤖 Maschine der Ältesten]].
 
-**5. Vestal-Enthüllung erst in 1.17-Ende via Kassidia und Ozeh.** Nabir übergibt in 1.16 keine Vestal-Legende und keine Erkennungs-Geste. Die ganze Vestal-Wahrheit kommt auf einen Schlag in der Lance-Rückkehr-Szene nach Nova Solyma — Kassidia zeigt die Verbindung, Ozeh enthüllt seine Form.
+**5. Vestal-Enthüllung erst in 1.17-Ende via Kassidia und Ozeh.** Nabir übergibt in 1.16 keine Vestal-Legende und keine Erkennungs-Geste. **→ Gespielt in 1.17:** Ozeh hat sich auf der Lanzenstation (mit Nabir) als Vestale offenbart. Die Spieler waren geschockt, die Crew hat sich noch nicht festgelegt.
 
 **Weitere Verzahnungen — bewusst ohne Vestal-Bezug:**
 
@@ -88,22 +90,23 @@ Für die aktuelle Party: die Vestal-Mumie in der Fazar (Sarkophag geöffnet in S
 
 ### Drei Flügel
 
-**1. Die Heimkehrer (Hardliner)** — Wollen um jeden Preis zurück, bereit den Dritten Horizont für ein Portal zu opfern. Hauptinteresse: Shamshirs Command Console.
+**1. Die Arda'ur (Heimkehrer, Hardliner)** — Wollen um jeden Preis zurück, bereit den Dritten Horizont für ein Portal zu opfern. Hauptinteresse: Shamshirs Command Console.
 
-**2. Die Sesshaften (Reformisten)** — Haben sich arrangiert, sabotieren die Rückkehrpläne heimlich. Potenzielle Verbündete der Party.
+**2. Die Jashini'ir ("die Erleuchteten", GM-intern früher "Sesshafte/Reformisten")** — Haben sich arrangiert, sabotieren die Rückkehrpläne heimlich. Potenzielle Verbündete der Crew. Ozeh zum Namen: *"Wir nennen uns so, weil der Dritte Horizont uns gezeigt hat, dass es ein Leben jenseits der Dunkelheit gibt."*
 
-**3. Die Beobachter (Fatalisten)** — Führen ein Archiv der Horizont-Ereignisse. Neutral bis apathisch.
+**3. Die Beobachter (Fatalisten)** — Führen ein Archiv der Horizont-Ereignisse. Neutral bis apathisch. *(In 1.17 nicht genannt, die Crew kennt nur Jashini'ir und Arda'ur. Eigener Ansha'ir-Name offen.)*
 
 ---
 
 ## Was die Ansha'ir heute brauchen
 
-Ihr Hauptziel hat sich geschärft: **Shamshirs Command Console.**
+Ihr Hauptziel hat sich geschärft: **Shamshirs Command Console**, die [[🤖 Maschine der Ältesten]].
 
-Die Konsole enthält Firstcome-Portalsteuerungslogik (was Genya/Sadhi nicht weiß). Für die Ansha'ir ersetzt sie die Cryptosphere als Portal-Fundament — sie können mit der Konsole plus genug Dunkelheits-Energie ein neues Portal bauen.
+Die Maschine ist ein Programmierwerkzeug für Portalbauer-Technologie (was Genya/Sadhi nicht weiß, sie kennt nur die Schwarzer-Sektor-Funktion). Für die Ansha'ir ersetzt sie die Cryptosphere als Portal-Fundament — mit der Maschine plus genug Dunkelheits-Energie können sie ein Portal umprogrammieren oder neu öffnen.
+
+**Stand nach 1.17: Die Maschine ist in der Hand der Crew.** Die Heimkehrer müssen sie der Crew abnehmen (oder die Crew dazu bringen, sie herauszugeben). Die Crew wird damit zum direkten Ziel.
 
 **Sekundäre Interessen:**
-- Firstcome-Ruinen unter Nova Solyma (in denen die Konsole vermutlich ursprünglich stand)
 - Rückgabe der Fazar-Vestal-Mumie und der Panzerplatten (Ehrensache, Verhandlungsmasse)
 - Kassidias Alhari II als Backup-Portalquelle, falls die Konsole nicht funktioniert
 
@@ -128,7 +131,8 @@ Für die Hardliner strukturell gleichwertig mit der Konsole: zwei parallele Infr
 | **Aschehunde (Odacon)** | Möglicherweise Vestal-Experiment im Aschegürtel, aber weit weniger zentral als früher angedacht |
 | **Dschinn (Zib, Jazkaars Pod)** | Gezielter Angriff — die Ansha'ir wussten von der Al-Jamal-Werftausfahrt (warum? offen) |
 | **Kemulla-Dunkelheitswolke (Mira)** | Sabotage-Vorrichtung in Ibn Tashs Schneider-Klinik (warum? offen) |
-| **Caern** | Sadhi-Zenith-Frontmann, nach Firebird-Verlust vollständig in Artabazus-Netzwerk integriert. In 1.16 auf Lanzenstation gesichtet → an Bord der Asuai → Jagd auf Z-9. |
+| **Caern** † | Sadhi-Zenith-Frontmann und Hardliner-Mittelsmann, nach Firebird-Verlust vollständig in Artabazus-Netzwerk integriert. In 1.16 auf Lanzenstation gesichtet → an Bord der Asuai → Jagd auf Z-9. **In 1.17 von Kaelen getötet.** |
+| **[[🤖 Maschine der Ältesten]]** | Die "Steuerkonsole" der Shamshir, Programmierwerkzeug für Portalbauer-Technologie. **Seit 1.17 in Crew-Hand.** Zentraler Gegenstand der zweiten Kampagnenhälfte. |
 | **[[Mimdosh]]** (Verräter wider Willen) | Von Artabazus über 250.000 Birr Spielschulden erpresst, hätte Ibn ausliefern sollen — hat statt dessen die Crew vermittelt. **In 1.16 enthüllt: Die ganze Al-Jamal-Fahrt war von Artabazus eingefädelt.** Jetzt an Bord der Alhari als "geduldeter Gast". **Zusätzlich: Mimdosh war der Spürhund, der Caern vom [[MenazirAl-Jamal]] berichtete** — vermutlich ohne zu verstehen, was er damit lieferte (siehe [[🤖 Menazir]]). |
 | **[[MenazirAl-Jamal]]** / [[🤖 Menazir|Menazir-Netzwerk]] | Erstsiedler-Statue an Bord der Al-Jamal, Geschenk der Chelebs-Werft. Teil eines degradierten horizont-weiten Netzwerks gegen die Dunkelheit (Crew weiß das nicht). **Neuer Hardliner-Haupt-Faden** — jeder Menazir ist Dunkelheits-Senke und blockiert Vestal-Operationen. Sadhis Agenten jagen das Netzwerk. Siehe [[🤖 Menazir]]. |
 | **[[The Glistering One|Statuette des Glitzernden (Fazar)]]** + Nekropolis-Statue (Odacon) / [[🤖 Glistering Ones|Glistering-Netzwerk]] | Zwei dunkle Statuen im Al-Jamal-Schmuggler-Fach, abgeschirmt. **Gegen-Netzwerk zu den Menazir** — Erstsiedler-Antwort war ursprünglich gegen Glistering gerichtet. Reaktivierte Glistering ziehen Dunkelheit an und speisen Vestal-Technologie. Hardliner **sammeln aktiv** Glistering parallel zur Menazir-Jagd. **Die Al-Jamal trägt beide Pole gleichzeitig** — Menazir dämpft die Glistering passiv im selben Volumen, deshalb bisher ruhig. Siehe [[🤖 Glistering Ones]] für die Dual-Netzwerk-Mechanik und rückwirkende Umdeutungen (Hyänen-Angriff war vermutlich gezielt auf die Glistering). |
@@ -154,7 +158,8 @@ Die zentrale Antagonistin. Doppelidentität. Details in [[🤖 Sadhi Bat-Erden]]
 - Enthüllung als Kern-Story-Beat in Sleeping Butterflies (Altai, 1.18+)
 - Für Bene (Rami) bitterer Meta-Moment: Sadhi war in Kampagne 1 Verbündete der alten Party
 - Sadhi/Genya und die Vestal-Hardliner kooperieren in **Zweckehe**: Die Hardliner wollen das Konzil geschwächt, Sadhi will die Macht. Sie ist für die Hardliner ein Werkzeug im Horizont, kein Fraktionsmitglied.
-- Caern war einer von Sadhis Mittelsmännern zu den Hardlinern. Nach Fate of Shamshir ggf. gefangen oder geflohen.
+- Caern war einer von Sadhis Mittelsmännern zu den Hardlinern. **Seit 1.17 tot** (Kaelen).
+- **Seit 1.17 kennt die Crew Sadhis Namen und ihre Kooperation mit den Heimkehrern** (durch Kassidia), nicht aber die Doppelidentität mit Genya.
 - **Session 1.16 — Großer neuer GM-Faden:** Die Al-Jamal-Fahrt war **von Artabazus eingefädelt**. [[Mimdosh]] war der Hebel (250.000 Birr Spielschulden). Zweck noch nicht enthüllt. **Material für Sleeping Butterflies / zweite Kampagnenhälfte.** Mögliche Erklärungen (noch nicht festgelegt): (a) Sadhi antizipierte die Fazar-Bergung und wollte das Vestal-Material unter Kontrolle; (b) Rami als TV-Fame-Zugang zu bestimmten Kreisen; (c) der Ursprungs-Al-Jamal-Mira-Auftrag war schon Teil davon; (d) etwas noch Unbekanntes. **Nicht in 1.17 öffnen — erst in Sleeping Butterflies.**
 
 **Drei konvergierende Druckvektoren auf Sadhi** (siehe [[🤖 Sadhi Bat-Erden]] Abschnitt "Alte Weggefährten"):
@@ -221,22 +226,28 @@ Nael-Auftritt bleibt sparsam. Warme kleine Wiedersehensszene mit Rami (Meta-Mome
 **Akt 4 — Zhau / Nova Solyma / Shamshir** (Sessions 1.16 + 1.17)
 
 **1.16:** 
-- Ankunft Lance Station: Kaelen trifft [[🤖 Nabir Wickremesin]]. Nabir warnt vor Asuai (bereits unterwegs zu Z-9), vermittelt Pilotin + Schiff im Iski'ir-Tempel. **Keine Vestal-Legende, keine Erkennungs-Geste** — wird für 1.17 aufgespart.
-- Iski'ir-Tempel: Treffen mit [[🤖 Kassidia el-Kassar]] (Pilotin der Alhari II) und [[🤖 Ozeh Kaldar]] (menschlich verkleidet, mysteriöser Teaser).
+- Ankunft Lance Station: Kaelen trifft [[🤖 Nabir Wickremesin]]. Nabir warnt vor Asuai (bereits unterwegs zu Z-9), vermittelt Pilotin + Schiff. **Keine Vestal-Legende, keine Erkennungs-Geste** — wird für 1.17 aufgespart.
+- Shuttle-Flug ins Nichts, Übergabe an die getarnte Alhari: Treffen mit [[🤖 Kassidia el-Kassar]] und [[🤖 Ozeh Kaldar]] (menschlich verkleidet, mysteriöser Teaser). (Das ursprünglich geplante Iski'ir-Tempel-Konzept wurde verworfen.)
 - Portalsprung mit Alhari II nach Z-9. Outpost-Erkundung (atmosphärisch, Zorn-Brief, improvisierte Kapelle). Nova-Solyma-Eingang.
 - Cliffhanger: Asuai erscheint im Orbit, startet Shuttle, Alhari engagiert Hit-and-Run.
 
-**1.17:**
-- Nova Solyma Hauptkorridor unter Zeitdruck. Lamka-Nest-Encounter (Core Rulebook).
-- Shamshir-Wrack mit Command Console. Mehrere Entscheidungs-Optionen für die Konsole (mitnehmen, zerstören, Reaktor sprengen).
-- Konfrontation mit **[[Caern]]** als Genyas Agent + 4-6 Artabazus-Corsairs. Caern-Flucht als präferierter Ausgang (Kameera-Linie!).
-- Rückzug: Asuai stürzt ab, Alhari schwer beschädigt, Kassidia verletzt. Zweites Nomaden-Schiff rettet.
-- Rückkehr Lance Station: **Vestal-Enthüllung durch Kassidia + Ozeh.** Ganze Backstory auf einmal, Sadhi als Hardliner-Verbündete genannt, Fraktions-Setup. Session-Ende.
+**1.17 (so gespielt, 31.10.2026):**
+- Lamka im Canyon, kein Kampf. Torpedoexplosionen im Orbit (Asuai gegen Alhari) vertreiben die Echsen.
+- Haupttunnel mit Erstsiedler-Lastengefährt, Kuppelhalle, Shamshir halb im Fels. Asuai-Shuttle sprengt die Kuppel, Korsaren seilen sich ab.
+- In der Shamshir: Kommandobrücke ohne Konsole, Hinweise auf umgebautes Torpedolager. Dort die **Maschine der Ältesten**.
+- Crew sitzt in der Falle, verhandelt nicht mit Caern. Alhari schießt das Shuttle ab. Kassidias Monolithen-Erinnerung → Maschine mit Energie + Gedankensteuerung zusammengefaltet.
+- Flucht zur Alhari, **Caern von Kaelen getötet**, Notsprung zur Lanzenstation.
+- **Ozeh-Enthüllung:** Ansha'ir, vor über 50 Jahren als Beobachter geschickt, vor 40 Jahren Rückkehrportal gesprengt. Ozeh nennt seine Fraktion **Jashini'ir** und warnt vor den **Arda'ur**, die die Steuerkonsole für den Portal-Schlüssel halten (*"Nicht gestoppt. Nur verlangsamt."*). Caern hat er **nicht** erwähnt.
+- **Kassidia nennt Sadhi Bat-Erden** als ihre einstige Wegbegleiterin, die mit den Heimkehrern kooperiert. **Sadhi = Genya bleibt geheim.** Kassidia weiß es selbst nicht (hält Sadhis Haltung für Hybris). Sadhi erfährt nicht, dass Kassidia sie genannt hat.
+- **Nabir** zu Kaelen: Altai wird demnächst einen Kampf erleben, offen oder verdeckt. Ozeh könne der Crew helfen.
+- Crew weiß von Kassidias Altai-Plan und Kameeras Reise nach Kua. Sie legt sich noch nicht fest.
+- Abweichungen von der Prep: kein Lamka-Kampf, Konsole nicht zerstört, sondern geborgen, Caern tot statt geflohen, Asuai nicht abgestürzt, Alhari/Kassidia unversehrt, kein Jhafa'ril-Einsatz.
 
 **Akt 5 "Sleeping Butterflies" — Zurück auf Altai** (Sessions 1.18+)
+- Ausgangslage siehe [[🤖 Sleeping Butterflies Konzept]]: Maschine in Crew-Hand, Crew auf der Lanzenstation
 - Volle Breitseite: mehrere parallele Konflikte
-  - Konzil-Sturz durch Sadhis Fraktion (falls Konsole in ihrer Hand)
-  - Vestal-Portal-Bau (falls Konsole in ihrer Hand)
+  - Genya und die Heimkehrer jagen die Crew wegen der Maschine
+  - Konzil-Sturz durch Sadhis Fraktion (jetzt ohne Schwarzen Sektor, also auf anderem Weg)
   - Vestal-Angriff auf Kassidia/Alhari II als Backup-Portalquelle
   - Malhotras Anschluss-Frage (Kirchenpolitik)
   - Ordana-Nachbeben (Kartell/VAO)
@@ -254,8 +265,8 @@ Nael-Auftritt bleibt sparsam. Warme kleine Wiedersehensszene mit Rami (Meta-Mome
 | Slot | Rolle | Status |
 |---|---|---|
 | **Sadhi Bat-Erden / Genya Artabazus** | Hauptantagonistin, Doppelidentität | siehe [[🤖 Sadhi Bat-Erden]] |
-| **Hardliner-Anführerin (Vestals)** | Kalte, brillante Vestal — will Command Console um jeden Preis | Alter ca. 200, tarnt sich als Wissenschaftlerin |
-| **[[🤖 Ozeh Kaldar]] (Reformisten-Anführer)** | Sesshafter Vestal, alter Antiquitätensammler | Draft angelegt. Erstkontakt-NPC der Party mit den Ansha'ir, ab Akt 4 |
+| **Arda'ur-Anführerin (Vestals)** | Kalte, brillante Vestal — will Command Console um jeden Preis | Alter ca. 200, tarnt sich als Wissenschaftlerin |
+| **[[🤖 Ozeh Kaldar]] (Jashini'ir-Anführer)** | Sesshafter Vestal, alter Antiquitätensammler | Seit 1.17 offenbart, Spieler-Fassung [[Ozeh Kaldar]] |
 | **Beobachter-Führer (Vestals)** | Hybrid, halb Vestal, halb Zenither | Junge*r Erwachsene*r |
 | **Der korrumpierte Mystiker** | Ehemaliger Schüler Tareks, unwissender Ansha'ir-Helfer | Um die 30-40 |
 | **[[🤖 Nabir Wickremesin]]** | Kaelens Nomaden-Kontakt, Lance Station Zhau | Draft angelegt |
@@ -292,13 +303,16 @@ Nael-Auftritt bleibt sparsam. Warme kleine Wiedersehensszene mit Rami (Meta-Mome
 - ~~Kaelens Nabir-Kontakt: früh (Session 15-17) oder erst bei Zhau-Anreise?~~ Erledigt: Nabir-Treffen auf Lance Station in Session 1.16.
 - Konkurrenz oder Kooperation Nael ↔ Yillad (Okra Darma Icon City)?
 - ~~Wie viel Vestal-Präsenz in Akt 3/Sivas~~ → Festgelegt: Keine. Jayrat als kanonische Dunkelheits-Kreatur, keine Vestal-Verknüpfung in 1.15.
-- **Neu: Caerns Schicksal in 1.17** — geflohen, gefangen, tot? Hängt vom Spielausgang ab. Präferenz GM: geflohen oder gefangen, damit Kameera ihre Rache-Linie in Sleeping Butterflies spielen kann.
-- **Neu: War Genya persönlich auf der Asuai?** Beim Absturz offen gelassen — können die Spieler nicht sofort wissen. Entscheidung des GM, ob Genya auf Altai zurückgekehrt ist (für Sleeping Butterflies-Konfrontation) oder abgestürzt (dann übernimmt Sadhi vollständig die öffentliche Rolle).
+- ~~Caerns Schicksal in 1.17~~ → **Tot** (Kaelen). Kameera verfolgt eine falsche Fährte nach Kua, ohne es zu wissen.
+- **War Genya persönlich auf der Asuai?** Weiterhin offen. Die Asuai ist in 1.17 **nicht** abgestürzt.
+- **Neu:** Wie und wie schnell erfahren die Heimkehrer, dass die Crew die Maschine hat (über Sadhi, über die Korsaren auf Z-9, über eigene Beobachter)?
 
 ---
 
 ## Aktualisierungs-Log
 
+- **2026-11-01** — **Korrektur nach GM-Rückmeldung zu 1.17:** Fraktionsnamen sind Kanon: **Jashini'ir** ("die Erleuchteten", Ozehs Fraktion = bisher "Reformisten/Sesshafte") und **Arda'ur** (Heimkehrer/Hardliner). Zeitlinie: vor **über 50 Jahren** als Beobachter geschickt, vor **40 Jahren** Rückkehrportal gesprengt. **Sadhi Bat-Erden wurde der Crew von Kassidia genannt**, nicht von Ozeh; Ozeh hat Caern nicht erwähnt. Crew weiß von Kassidias Altai-Plan und Kameeras Reise nach Kua.
+- **2026-11-01** — **Session 1.17 ausgewertet:** Maschine der Ältesten in Crew-Hand, Caern tot, Asuai nicht abgestürzt, Ozeh-Enthüllung erfolgt. Verzahnungs-Punkte 2–5 mit dem tatsächlichen Verlauf ergänzt. **Kanon:** Nova-Solyma-Katastrophe = missglückter Sprung der Shamshir mit der Maschine, **keine** Vestalen-Sabotage. Akt 4 auf den gespielten Verlauf umgeschrieben, Akt 5 angepasst. Neue Datei: [[🤖 Maschine der Ältesten]].
 - **2026-09-10** — Ersterstellung durch Co-GM. Konzept entwickelt in Absprache mit GM.
 - **2026-09-10** — Ergänzt um Nael al-Farhat / Ahlams Tempel als natürlichen Gegner. Suri-Jasmina-Nael-Pipeline. Wangwang-Handel als Motiv im [[Ordana]]-Bogen. Neuer Kontakt-Eintrag [[🤖 Nael al-Farhat]].
 - **2026-09-10** — Peti-Kampagne-1-Frage teilweise beantwortet: [[Kassidia el-Kassar]].

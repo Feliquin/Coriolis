@@ -7,4 +7,5 @@
 | [[Data/Firebird.md\|Firebird]]                       |
 | [[Data/Hammer of the Stars.md\|Hammer of the Stars]] |
 | [[Data/Jagdfalke.md\|Jagdfalke]]                     |
+| [[Data/Shamshir.md\|Shamshir]]                       |
 | [[Data/Takoba.md\|Takoba]]                           |

@@ -10,6 +10,9 @@ draft: true
 type: GM Notes
 ---
 # 🤖 Session 1.17 Prep — Akt 4 Finale: Nova Solyma, Shamshir, Caern
+
+> [!NOTE] Gespielt am 31.10.2026
+> Der Abend lief deutlich anders als hier geplant: kein Lamka-Kampf, die Konsole (Maschine der Ältesten) wurde geborgen statt zerstört, Caern ist tot, die Asuai ist nicht abgestürzt, Alhari und Kassidia blieben unversehrt. Tatsächlicher Verlauf: [[4. Fate of Shamshir IX]] und [[🤖 Story Threads]].
 _GM-only Session-Vorbereitung — Abschluss "Fate of Shamshir"_
 
 > [!WARNING] GM-only

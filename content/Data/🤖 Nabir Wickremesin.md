@@ -26,7 +26,7 @@ Alter Nomaden-Historiker, Ende 70/Anfang 80. Lebt zurückgezogen auf **[[Lanzens
 
 **Zwei Kern-Funktionen in Session 1.16:**
 1. **[[Asuai]]-Warnung:** Nabir informiert die Party, dass [[Genya Artabazus]] mit ihrer [[Asuai]] bereits auf dem Weg nach Z-9 ist (gewaltsam ins System eingedrungen, Honor Legion jagt sie). Zeitdruck wird etabliert.
-2. **Vermittlung zu [[🤖 Kassidia el-Kassar]] + [[Alhari II]]:** Nabir bringt die Party zum **Iski'ir-Tempel** auf [[Zhau]], wo Kassidia bereits auf eine Nomaden-Anfrage hin wartet. Kassidia fliegt sie mit der [[Alhari II]] (Portalantrieb!) nach Z-9. Ohne dieses Angebot wäre die Reise zu langsam.
+2. **Vermittlung zu [[🤖 Kassidia el-Kassar]] + [[Alhari II]]:** Nabir fliegt die Crew per Shuttle ins Nichts, wo die getarnte Alhari auf eine Nomaden-Anfrage hin wartet (das ursprünglich geplante Iski'ir-Tempel-Konzept wurde verworfen). Kassidia fliegt sie mit der [[Alhari II]] (Portalantrieb!) nach Z-9. Ohne dieses Angebot wäre die Reise zu langsam.
 
 **Wichtig: Nabir erzählt in 1.16 NICHT die [[Vestal]]-Legende und übergibt KEINE Erkennungs-Geste.** Diese Erzählung wird aufgespart — sie kommt in 1.17 bei der Rückkehr nach Lance, wenn Kassidia Ozehs wahre Identität enthüllt. Nabir hält sein [[Vestal]]-Wissen bewusst zurück, bis klar ist, dass die Party es verlässlich tragen kann.
 
@@ -69,7 +69,9 @@ Perfekte geografische Konvergenz: [[Lanzenstation]] ist die Portalstation, an de
 
 ## Nach Session 1.17 (Enthüllungs-Moment)
 
-Nabir ist bei der [[Vestal]]-Enthüllung durch [[🤖 Kassidia el-Kassar]] und [[🤖 Ozeh Kaldar]] auf der Lance Station anwesend. Er fungiert als Vermittler und steht nach dem Reveal weiterhin als Nomaden-Kanal zur Verfügung — die Party kann über ihn Botschaften an die Reformisten senden.
+**So gespielt:** Nabir empfing die Crew nach ihrer Rückkehr von Z-9 gemeinsam mit [[🤖 Ozeh Kaldar]] in der Nomaden-Enklave der Lanzenstation, wo Ozeh seine [[Vestal]]-Form enthüllte. Nabir steht weiterhin als Nomaden-Kanal zur Verfügung — die Crew kann über ihn Botschaften an die Jashini'ir (Ozehs Fraktion) senden. Nabir zu Kaelen: *"Qasim, du bist jetzt der Türöffner zu einem Spielfeld, das ich nie vorausgesehen hatte. Altai wird demnächst einen Kampf erleben, ob offen oder verdeckt bleibt abzuwarten. Ich hoffe, du behandelst Ozeh im Vertrauen. Er kann euch helfen."*
+
+**Nach 1.17:** Die Crew hat die [[🤖 Maschine der Ältesten]] auf die Lanzenstation gebracht, also auf Nomaden-Hoheitsgebiet. Nabir weiß, was das für die Ehrenwache und das 4H-Portal bedeuten könnte. Er wird abwägen müssen, ob und wann er die Nomaden-Ältesten einweiht.
 
 ## Offene GM-Fragen
 

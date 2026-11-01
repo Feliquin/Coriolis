@@ -1,22 +1,22 @@
 | Entry                                                          | Added                |
 | -------------------------------------------------------------- | -------------------- |
-| [[Data/The Mystics.md\|The Mystics]]                           | 18. Okt. 2026, 22:19 |
-| [[Data/Vestal.md\|Vestal]]                                     | 19. Okt. 2026, 08:01 |
-| [[Data/Santulan.md\|Santulan]]                                 | 18. Okt. 2026, 22:19 |
-| [[Data/Second Horizon.md\|Second Horizon]]                     | 18. Okt. 2026, 22:19 |
-| [[Data/First Horizon.md\|First Horizon]]                       | 18. Okt. 2026, 22:19 |
-| [[Data/Al-Jamal.md\|Al-Jamal]]                                 | 18. Okt. 2026, 22:11 |
-| [[Data/MenazirAl-Jamal.md\|MenazirAl-Jamal]]                   | 19. Okt. 2026, 08:02 |
-| [[Logs/4. Fate of Shamshir VIII.md\|4. Fate of Shamshir VIII]] | 20. Okt. 2026, 07:38 |
-| [[Data/Tarek al-Farhat.md\|Tarek al-Farhat]]                   | 18. Okt. 2026, 10:51 |
-| [[Data/Nabir Wickremesin.md\|Nabir Wickremesin]]               | 18. Okt. 2026, 10:51 |
-| [[Data/Kassidia el-Kassar.md\|Kassidia el-Kassar]]             | 18. Okt. 2026, 10:51 |
-| [[Logs/4. Fate of Shamshir VII.md\|4. Fate of Shamshir VII]]   | 20. Okt. 2026, 07:37 |
-| [[Data/Lanzenstation.md\|Lanzenstation]]                       | 18. Okt. 2026, 11:00 |
-| [[Logs/4. Fate of Shamshir I.md\|4. Fate of Shamshir I]]       | 18. Okt. 2026, 10:37 |
-| [[Data/Asuai.md\|Asuai]]                                       | 18. Okt. 2026, 09:36 |
-| [[Data/Alhari II.md\|Alhari II]]                               | 18. Okt. 2026, 09:36 |
-| [[Data/Takoba.md\|Takoba]]                                     | 18. Okt. 2026, 10:42 |
-| [[Data/Caern.md\|Caern]]                                       | 18. Okt. 2026, 10:42 |
-| [[Data/Mimdosh.md\|Mimdosh]]                                   | 18. Okt. 2026, 10:42 |
-| [[Data/Dr. Aghali ag Amoume.md\|Dr. Aghali ag Amoume]]         | 18. Okt. 2026, 10:37 |
+| [[Data/Sadhi Bat-Erden.md\|Sadhi Bat-Erden]]                   | 1. Nov. 2026, 10:28  |
+| [[Data/Vestal.md\|Vestal]]                                     | 1. Nov. 2026, 10:43  |
+| [[Data/Genya Artabazus.md\|Genya Artabazus]]                   | 1. Nov. 2026, 09:42  |
+| [[Data/Asuai.md\|Asuai]]                                       | 1. Nov. 2026, 09:42  |
+| [[Data/Alhari II.md\|Alhari II]]                               | 1. Nov. 2026, 09:42  |
+| [[Data/Kassidia el-Kassar.md\|Kassidia el-Kassar]]             | 1. Nov. 2026, 10:28  |
+| [[Data/Mimdosh.md\|Mimdosh]]                                   | 1. Nov. 2026, 09:42  |
+| [[Data/Caern.md\|Caern]]                                       | 1. Nov. 2026, 10:28  |
+| [[Data/Nova Solyma.md\|Nova Solyma]]                           | 1. Nov. 2026, 09:42  |
+| [[Data/Shamshir.md\|Shamshir]]                                 | 1. Nov. 2026, 09:42  |
+| [[Data/Ozeh Kaldar.md\|Ozeh Kaldar]]                           | 1. Nov. 2026, 10:42  |
+| [[Data/Maschine der Ältesten.md\|Maschine der Ältesten]]       | 1. Nov. 2026, 10:28  |
+| [[Logs/4. Fate of Shamshir VIII.md\|4. Fate of Shamshir VIII]] | 1. Nov. 2026, 09:42  |
+| [[Logs/4. Fate of Shamshir IX.md\|4. Fate of Shamshir IX]]     | 1. Nov. 2026, 10:28  |
+| [[Logs/4. Fate of Shamshir VI.md\|4. Fate of Shamshir VI]]     | 20. Okt. 2026, 12:56 |
+| [[Logs/4. Fate of Shamshir VII.md\|4. Fate of Shamshir VII]]   | 20. Okt. 2026, 12:56 |
+| [[Logs/4. Fate of Shamshir V.md\|4. Fate of Shamshir V]]       | 20. Okt. 2026, 12:56 |
+| [[Logs/4. Fate of Shamshir IV.md\|4. Fate of Shamshir IV]]     | 20. Okt. 2026, 12:56 |
+| [[Logs/4. Fate of Shamshir III.md\|4. Fate of Shamshir III]]   | 20. Okt. 2026, 12:56 |
+| [[Logs/4. Fate of Shamshir II.md\|4. Fate of Shamshir II]]     | 20. Okt. 2026, 12:56 |

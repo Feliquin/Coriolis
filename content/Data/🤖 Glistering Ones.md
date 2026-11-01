@@ -131,10 +131,13 @@ Mit dem Dual-Netzwerk-Konzept wird die Hardliner-Operation präziser:
 **Hub-Standort:** Vermutlich ein Hardliner-Lager (ggf. in Awadhi, siehe [[🤖 Sleeping Butterflies Konzept]]), wo gesammelte Glistering Ones gebündelt und reaktiviert werden. Das wird der eigentliche strategische Hauptpunkt sein — nicht Shamshirs Konsole.
 
 **Zusammenspiel mit Konsole:**
-- Shamshir Command Console ist das **Steuerwerkzeug** für Portale/Monolithen
+- Shamshir Command Console ([[🤖 Maschine der Ältesten]]) ist das **Steuerwerkzeug** für Portale/Monolithen
 - Glistering-Netzwerk ist die **Energiequelle** dafür
 - Beide zusammen: Umcodierung von Portalen und Monolithen horizont-weit, mit genug Dunkelheits-Treibstoff
 - Beide einzeln: viel beschränkter
+- Hintergrund: Die Kushtriya haben die Maschine mit der Reaktorenergie der Shamshir betrieben und damit Nova Solyma ausgelöscht. Die Heimkehrer würden stattdessen Dunkelheit nutzen.
+
+**Stand nach 1.17:** Die Maschine ist in Crew-Hand (Lanzenstation), Menazir und zwei Glistering liegen auf der Al-Jamal (Altai). **Die Crew hält damit die meisten Puzzleteile, die die Heimkehrer brauchen**, nur an zwei getrennten Orten.
 
 ---
 
@@ -163,11 +166,11 @@ Mit dem Dual-Netzwerk-Konzept wird die Hardliner-Operation präziser:
 
 ## Haken für Sleeping Butterflies
 
-- **Doppel-Jagd:** Nicht nur Menazir-Jagd, sondern parallele Glistering-Jagd. Jedes Mal, wenn die Crew eine findet, Entscheidung: Vernichten? Behalten? An Reformisten geben?
+- **Doppel-Jagd:** Nicht nur Menazir-Jagd, sondern parallele Glistering-Jagd. Jedes Mal, wenn die Crew eine findet, Entscheidung: Vernichten? Behalten? An die Jashini'ir geben?
 - **Al-Jamal-Dilemma:** Sollen sie weiter Menazir + Glistering gleichzeitig an Bord lassen? Sicherster Status quo, aber wenn eine Seite verloren geht, bricht das Gleichgewicht.
 - **Hardliner-Hub finden:** Wo bündeln die Hardliner die gesammelten Glistering? Das ist der eigentliche Finale-Ort (nicht die Shamshir, nicht das 4H-Portal — ihr Lager).
 - **Prophetess als Preis:** Falls im Spiel, ist sie **genauso wichtig** wie die Konsole. Hardliner werden alles tun, um sie zu bekommen.
-- **Ozehs Fraktion:** Reformisten könnten Glistering als heiliges Erbe behandeln wollen — "zerstört sie nicht, bewahrt sie respektvoll". Konfliktpunkt mit Crew-Pragmatismus.
+- **Ozehs Fraktion:** Die Jashini'ir könnten Glistering als heiliges Erbe behandeln wollen — "zerstört sie nicht, bewahrt sie respektvoll". Konfliktpunkt mit Crew-Pragmatismus.
 
 ---
 
